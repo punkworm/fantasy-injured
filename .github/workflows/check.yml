@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/10 * * * *"  # every 10 min (GitHub may run it a few minutes late)
   workflow_dispatch:        # "Run workflow" button for manual runs
+    inputs:
+      test:
+        description: "Send a test alert to Telegram instead of a normal check"
+        type: boolean
+        default: false
 
 permissions:
   contents: write  # to commit state.json back
@@ -23,7 +28,7 @@ jobs:
           python-version: "3.11"
           cache: pip
       - run: pip install -r requirements.txt
-      - run: python bot.py once
+      - run: python bot.py ${{ inputs.test && 'test' || 'once' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
