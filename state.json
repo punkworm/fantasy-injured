@@ -23,9 +23,9 @@
   "5105626": {
     "name": "Tyler Bilodeau",
     "team": "BKN",
-    "status": "Day-To-Day",
-    "short": "Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland.",
-    "relevant": null
+    "status": "Out",
+    "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
+    "relevant": false
   },
   "5101761": {
     "name": "Mikel Brown Jr.",
@@ -66,14 +66,14 @@
     "name": "Patrick Williams",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Williams (groin) is out for Saturday's game versus the Wizards, Joel Lorenzi of The Athletic reports.",
+    "short": "Williams (groin) is listed as questionable for Monday's game against Boston.",
     "relevant": null
   },
   "5242496": {
     "name": "Noa Essengue",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Essengue (head) won't suit up for Saturday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
+    "short": "Essengue (head) is listed as questionable for Monday's game against Boston.",
     "relevant": null
   },
   "4278067": {
@@ -412,33 +412,26 @@
     "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
     "relevant": null
   },
-  "1966": {
-    "name": "LeBron James",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "James (back) has been ruled out for Saturday's game against the Bucks, Adam Aaronson of PhillyVoice.com reports.",
-    "relevant": null
-  },
-  "3059318": {
-    "name": "Joel Embiid",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Embiid produced 28 points (8-20 FG, 0-3 3Pt, 12-14 FT), 11 rebounds, 10 assists, one steal and four turnovers across 36 minutes in Saturday's 127-116 win over the Bucks.",
-    "relevant": null
-  },
-  "4432446": {
-    "name": "Jabari Walker",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Walker (ankle) exited Saturday's 127-116 win over the Bucks in the third quarter and did not return, finishing with six points (2-3 FG, 2-3 FT), three rebounds, one assist and one steal across 12 minutes.",
-    "relevant": null
-  },
   "3904625": {
     "name": "Tacko Fall",
     "team": "PHI",
     "status": "Out",
-    "short": "Fall (quadriceps) is out for Saturday's game against the Bucks.",
-    "relevant": null
+    "short": "Fall (quadriceps) has been ruled out for Sunday's game against Detroit.",
+    "relevant": false
+  },
+  "4432446": {
+    "name": "Jabari Walker",
+    "team": "PHI",
+    "status": "Out",
+    "short": "Walker has been ruled out for Sunday's game against the Pistons due to left knee soreness.",
+    "relevant": false
+  },
+  "3059318": {
+    "name": "Joel Embiid",
+    "team": "PHI",
+    "status": "Out",
+    "short": "Embiid has been ruled out for Sunday's game against Detroit due to right plantar fasciitis management.",
+    "relevant": true
   },
   "4870562": {
     "name": "Dominick Barlow",
@@ -493,7 +486,7 @@
     "name": "Keegan Murray",
     "team": "SAC",
     "status": "Day-To-Day",
-    "short": "Murray is questionable to play Sunday against the Grizzlies due to left ankle capsulitis.",
+    "short": "Murray (ankle) has been downgraded to doubtful for Sunday's game against Memphis.",
     "relevant": null
   },
   "3907387": {
