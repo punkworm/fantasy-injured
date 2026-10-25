@@ -1,0 +1,41 @@
+name: Injury check
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"  # every 10 min (GitHub may run it a few minutes late)
+  workflow_dispatch:        # "Run workflow" button for manual runs
+
+permissions:
+  contents: write  # to commit state.json back
+
+concurrency:
+  group: injury-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python bot.py once
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ALERT_STATUSES: Out
+          MIN_OWNED: "20"
+          MY_PLAYERS: ""  # your Yahoo roster, comma separated
+          NEWS_UPDATES: "true"
+          ALERT_ON_RETURN: "true"
+          SUGGESTIONS: "3"
+      - name: Save state
+        run: |
+          git config user.name "injury-bot"
+          git config user.email "injury-bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "Update injury state" && git push
