@@ -125,26 +125,26 @@
     "short": "Lively (foot) has been ruled out for Friday's game against the Pacers.",
     "relevant": null
   },
-  "4592427": {
-    "name": "Spencer Jones",
+  "4065813": {
+    "name": "Alpha Diallo",
     "team": "DEN",
     "status": "Day-To-Day",
-    "short": "Jones (hamstring) is out for Saturday's game against the Pelicans.",
+    "short": "Diallo (wrist) is doubtful for Monday's game against the Warriors.",
     "relevant": null
   },
   "3138196": {
     "name": "Cameron Johnson",
     "team": "DEN",
     "status": "Day-To-Day",
-    "short": "Head coach David Aldeman said that Johnson is \"day-to-day\" due to his sprained right ankle, Vinny Benedetto of The Denver Gazette reports.",
+    "short": "Johnson (ankle) is doubtful to play Monday against the Warriors.",
     "relevant": null
   },
-  "4065813": {
-    "name": "Alpha Diallo",
+  "4592427": {
+    "name": "Spencer Jones",
     "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "Diallo (wrist) won't play Saturday against the Pelicans.",
-    "relevant": null
+    "status": "Out",
+    "short": "Jones (hamstring) is out for Monday's matchup with the Warriors.",
+    "relevant": false
   },
   "4432181": {
     "name": "Julian Strawther",
@@ -156,9 +156,9 @@
   "4684742": {
     "name": "Ausar Thompson",
     "team": "DET",
-    "status": "Day-To-Day",
-    "short": "Thompson (ankle) did not participate in Sunday morning's shootaround, Coty M. Davis of The Detroit News reports.",
-    "relevant": null
+    "status": "Out",
+    "short": "Thompson (ankle) is out for Sunday's game against the 76ers, Hunter Patterson of The Athletic reports.",
+    "relevant": true
   },
   "4433621": {
     "name": "Jalen Duren",
@@ -222,6 +222,13 @@
     "status": "Out",
     "short": "Adams has been ruled out for Monday's game against the Hawks due to a right soleus strain.",
     "relevant": false
+  },
+  "4017837": {
+    "name": "Ivica Zubac",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Zubac (ankle) will not return to Sunday's game against the Nets.",
+    "relevant": null
   },
   "2530530": {
     "name": "T.J. McConnell",
@@ -335,6 +342,13 @@
     "short": "Alvarado (ankle) is out for Sunday's game against the Magic, James L. Edwards III of The Athletic reports.",
     "relevant": false
   },
+  "4683692": {
+    "name": "Cason Wallace",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Wallace went back to the locker room with an apparent shoulder injury during Sunday's game against the Clippers, Justin Martinez of The Oklahoman",
+    "relevant": null
+  },
   "5106270": {
     "name": "Otega Oweh",
     "team": "OKC",
@@ -387,9 +401,9 @@
   "5124612": {
     "name": "VJ Edgecombe",
     "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Edgecombe has been downgraded to questionable ahead of Sunday's game against the Pistons due to an abdominal contusion.",
-    "relevant": null
+    "status": "Out",
+    "short": "Edgecombe (abdomen) is out for Sunday's game against the Pistons, Adam Aaronson of PhillyVoice.com reports.",
+    "relevant": true
   },
   "3904625": {
     "name": "Tacko Fall",
@@ -430,7 +444,7 @@
     "name": "Oso Ighodaro",
     "team": "PHX",
     "status": "Day-To-Day",
-    "short": "Ighodaro (oblique) has been ruled out for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports.",
+    "short": "Ighodaro (oblique) is doubtful for Monday's matchup with the Thunder, Duane Rankin of The Arizona Republic reports.",
     "relevant": null
   },
   "4701232": {
@@ -464,9 +478,9 @@
   "4594327": {
     "name": "Keegan Murray",
     "team": "SAC",
-    "status": "Day-To-Day",
-    "short": "Murray (ankle) has been downgraded to doubtful for Sunday's game against Memphis.",
-    "relevant": null
+    "status": "Out",
+    "short": "Murray (ankle) has been ruled out for Sunday's game against the Grizzlies.",
+    "relevant": true
   },
   "3907387": {
     "name": "Ben Simmons",
@@ -502,6 +516,13 @@
     "status": "Out",
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
+  },
+  "6450": {
+    "name": "Kawhi Leonard",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Leonard is out for Sunday's game against the Timberwolves due to left knee swelling, Blake Murphy of Sportsnet.ca reports.",
+    "relevant": true
   },
   "4432586": {
     "name": "Nate Bittle",
