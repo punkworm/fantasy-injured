@@ -20,6 +20,13 @@
     "short": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary Washburn of The Boston Globe reports.",
     "relevant": null
   },
+  "5101761": {
+    "name": "Mikel Brown Jr.",
+    "team": "BKN",
+    "status": "Day-To-Day",
+    "short": "Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the Pacers, Brian Lewis of the New York Post reports.",
+    "relevant": null
+  },
   "5105626": {
     "name": "Tyler Bilodeau",
     "team": "BKN",
@@ -27,11 +34,11 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
-  "5101761": {
-    "name": "Mikel Brown Jr.",
-    "team": "BKN",
-    "status": "Out",
-    "short": "Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the Pacers, Brian Lewis of the New York Post reports.",
+  "4396971": {
+    "name": "Naz Reid",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "Reid is listed as probable for Monday's game against Washington, according to the NBA's official injury report.",
     "relevant": null
   },
   "5061575": {
@@ -83,19 +90,19 @@
     "short": "Claxton (hamstring) will be re-evaluated in two weeks, K.C. Johnson of Chicago Sports Network reports.",
     "relevant": null
   },
+  "5041939": {
+    "name": "Cooper Flagg",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Flagg (shoulder) was spotted going through Monday's morning shootaround, Grant Afseth of DallasHoopsJournal.com reports.",
+    "relevant": true
+  },
   "3138160": {
     "name": "Caleb Martin",
     "team": "DAL",
     "status": "Out",
     "short": "Martin (thumb) is listed as doubtful for Monday's game against the Heat.",
     "relevant": false
-  },
-  "5041939": {
-    "name": "Cooper Flagg",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Flagg (shoulder) is questionable to play Monday against the Heat.",
-    "relevant": true
   },
   "4278594": {
     "name": "Naji Marshall",
@@ -153,19 +160,19 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
+  "4684742": {
+    "name": "Ausar Thompson",
+    "team": "DET",
+    "status": "Day-To-Day",
+    "short": "Thompson (ankle) is out for Sunday's game against the 76ers, Hunter Patterson of The Athletic reports.",
+    "relevant": true
+  },
   "4395702": {
     "name": "Isaiah Joe",
     "team": "DET",
     "status": "Day-To-Day",
     "short": "Joe (hip) will not return to Sunday's game against the 76ers, Hunter Patterson of The Athletic reports.",
     "relevant": null
-  },
-  "4684742": {
-    "name": "Ausar Thompson",
-    "team": "DET",
-    "status": "Out",
-    "short": "Thompson (ankle) is out for Sunday's game against the 76ers, Hunter Patterson of The Athletic reports.",
-    "relevant": true
   },
   "4433621": {
     "name": "Jalen Duren",
@@ -219,9 +226,9 @@
   "2990992": {
     "name": "Marcus Smart",
     "team": "HOU",
-    "status": "Day-To-Day",
-    "short": "Smart (forearm) is listed as questionable for Monday's game against the Hawks.",
-    "relevant": null
+    "status": "Out",
+    "short": "Smart (arm) is out for Monday's game against the Hawks.",
+    "relevant": false
   },
   "2991235": {
     "name": "Steven Adams",
@@ -310,14 +317,14 @@
   "5231919": {
     "name": "Karim Lopez",
     "team": "MEM",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Lopez (knee) is out for Sunday's game in Sacramento.",
     "relevant": false
   },
   "4600663": {
     "name": "Zach Edey",
     "team": "MEM",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Edey has been ruled out for Sunday's game against Sacramento due to left ankle injury management.",
     "relevant": null
   },
@@ -338,16 +345,16 @@
   "4277869": {
     "name": "Jose Alvarado",
     "team": "NY",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Alvarado (ankle) is out for Sunday's game against the Magic, James L. Edwards III of The Athletic reports.",
     "relevant": false
   },
   "4593803": {
     "name": "Jalen Williams",
     "team": "OKC",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Williams was stretchered off the floor during Sunday's game against the Clippers due to an apparent left ankle injury, NBA writer Justin Russo reports.",
-    "relevant": null
+    "relevant": true
   },
   "4432823": {
     "name": "Jaylin Williams",
@@ -419,11 +426,25 @@
     "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
     "relevant": null
   },
+  "4432446": {
+    "name": "Jabari Walker",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Walker has been ruled out for Sunday's game against the Pistons due to left knee soreness.",
+    "relevant": false
+  },
   "5124612": {
     "name": "VJ Edgecombe",
     "team": "PHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Edgecombe (abdomen) is out for Sunday's game against the Pistons, Adam Aaronson of PhillyVoice.com reports.",
+    "relevant": true
+  },
+  "3059318": {
+    "name": "Joel Embiid",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Embiid has been ruled out for Sunday's game against Detroit due to right plantar fasciitis management.",
     "relevant": true
   },
   "3904625": {
@@ -432,20 +453,6 @@
     "status": "Out",
     "short": "Fall (quadriceps) has been ruled out for Sunday's game against Detroit.",
     "relevant": false
-  },
-  "4432446": {
-    "name": "Jabari Walker",
-    "team": "PHI",
-    "status": "Out",
-    "short": "Walker has been ruled out for Sunday's game against the Pistons due to left knee soreness.",
-    "relevant": false
-  },
-  "3059318": {
-    "name": "Joel Embiid",
-    "team": "PHI",
-    "status": "Out",
-    "short": "Embiid has been ruled out for Sunday's game against Detroit due to right plantar fasciitis management.",
-    "relevant": true
   },
   "4870562": {
     "name": "Dominick Barlow",
@@ -499,7 +506,7 @@
   "4594327": {
     "name": "Keegan Murray",
     "team": "SAC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Murray (ankle) has been ruled out for Sunday's game against the Grizzlies.",
     "relevant": true
   },
@@ -541,7 +548,7 @@
   "6450": {
     "name": "Kawhi Leonard",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Leonard is out for Sunday's game against the Timberwolves due to left knee swelling, Blake Murphy of Sportsnet.ca reports.",
     "relevant": true
   },
