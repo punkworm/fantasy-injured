@@ -153,6 +153,13 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
+  "4395702": {
+    "name": "Isaiah Joe",
+    "team": "DET",
+    "status": "Day-To-Day",
+    "short": "Joe (hip) will not return to Sunday's game against the 76ers, Hunter Patterson of The Athletic reports.",
+    "relevant": null
+  },
   "4684742": {
     "name": "Ausar Thompson",
     "team": "DET",
@@ -227,7 +234,7 @@
     "name": "Ivica Zubac",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "Zubac (ankle) will not return to Sunday's game against the Nets.",
+    "short": "Head coach Rick Carlisle said that X-rays on Zubac's sprained left ankle came back negative, but he's got some swelling and is unlikely to play Monday in Milwaukee, Scott Agness of FieldhouseFiles.com reports.",
     "relevant": null
   },
   "2530530": {
@@ -303,16 +310,9 @@
   "5231919": {
     "name": "Karim Lopez",
     "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Lopez (knee) is listed as questionable for Sunday's game against the Kings.",
-    "relevant": null
-  },
-  "4903027": {
-    "name": "Cedric Coward",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Coward (wrist) is questionable for Sunday's game in Sacramento.",
-    "relevant": null
+    "status": "Out",
+    "short": "Lopez (knee) is out for Sunday's game in Sacramento.",
+    "relevant": false
   },
   "4600663": {
     "name": "Zach Edey",
@@ -342,11 +342,25 @@
     "short": "Alvarado (ankle) is out for Sunday's game against the Magic, James L. Edwards III of The Athletic reports.",
     "relevant": false
   },
+  "4593803": {
+    "name": "Jalen Williams",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Williams was stretchered off the floor during Sunday's game against the Clippers due to an apparent left ankle injury, NBA writer Justin Russo reports.",
+    "relevant": null
+  },
+  "4432823": {
+    "name": "Jaylin Williams",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Williams won't return to Sunday's game against the Clippers due to right wrist soreness, Nick Crain of SLAM reports.",
+    "relevant": null
+  },
   "4683692": {
     "name": "Cason Wallace",
     "team": "OKC",
     "status": "Day-To-Day",
-    "short": "Wallace went back to the locker room with an apparent shoulder injury during Sunday's game against the Clippers, Justin Martinez of The Oklahoman",
+    "short": "Wallace (shoulder) will not return to Sunday's game against the Clippers, Rylan Stiles of SI.com  reports.",
     "relevant": null
   },
   "5106270": {
@@ -368,6 +382,13 @@
     "team": "OKC",
     "status": "Out",
     "short": "Sorber (knee) is listed as out for Thursday's game against Denver.",
+    "relevant": null
+  },
+  "4432165": {
+    "name": "Jalen Suggs",
+    "team": "ORL",
+    "status": "Day-To-Day",
+    "short": "Suggs (knee) did not return to Sunday's game against the Knicks.",
     "relevant": null
   },
   "4065654": {
