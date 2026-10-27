@@ -34,33 +34,26 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
-  "4396971": {
-    "name": "Naz Reid",
+  "4395651": {
+    "name": "Coby White",
     "team": "CHA",
-    "status": "Day-To-Day",
-    "short": "Reid is listed as probable for Monday's game against Washington, according to the NBA's official injury report.",
-    "relevant": null
+    "status": "Out",
+    "short": "Head coach Charles Lee said Monday that White (calf) remains without a timeline for a return, though Lee added that he'll have a better idea of where things stand following the Hornets' two-game road trip, Rod Boone of The Charlotte Observer reports.",
+    "relevant": true
   },
   "5061575": {
     "name": "Kon Knueppel",
     "team": "CHA",
     "status": "Out",
-    "short": "Knueppel (hamstring) has been ruled out for Monday's game against the Wizards.",
-    "relevant": true
-  },
-  "4395651": {
-    "name": "Coby White",
-    "team": "CHA",
-    "status": "Out",
-    "short": "White (calf) is out for Monday's game against the Wizards.",
+    "short": "Knueppel (hamstring) is without a timetable for a return, Rod Boone of The Charlotte Observer reports.",
     "relevant": true
   },
   "4066218": {
     "name": "Grant Williams",
     "team": "CHA",
     "status": "Out",
-    "short": "Williams (hamstring) has been ruled out for Saturday's game against the Heat.",
-    "relevant": null
+    "short": "Williams (hamstring) will be re-evaluated following Charlotte's upcoming two-game road trip, Rod Boone reports.",
+    "relevant": false
   },
   "4684269": {
     "name": "Kylan Boswell",
@@ -69,25 +62,25 @@
     "short": "Boswell (knee) is out for Wednesday's season opener against the Nets.",
     "relevant": null
   },
-  "4431687": {
-    "name": "Patrick Williams",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Williams (groin) is listed as questionable for Monday's game against Boston.",
-    "relevant": null
-  },
-  "5242496": {
-    "name": "Noa Essengue",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Essengue (head) is listed as questionable for Monday's game against Boston.",
-    "relevant": null
-  },
   "4278067": {
     "name": "Nic Claxton",
     "team": "CHI",
     "status": "Out",
-    "short": "Claxton (hamstring) will be re-evaluated in two weeks, K.C. Johnson of Chicago Sports Network reports.",
+    "short": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
+    "relevant": true
+  },
+  "4431687": {
+    "name": "Patrick Williams",
+    "team": "CHI",
+    "status": "Out",
+    "short": "Williams (groin) has been ruled out for Monday's game against the Celtics.",
+    "relevant": false
+  },
+  "5279129": {
+    "name": "Sergio de Larrea",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "De Larrea went to the locker room during the second quarter of Monday's game against the Heat with an apparent right injury, Grant Afseth of DallasHoopsJournal.com reports.",
     "relevant": null
   },
   "3138160": {
@@ -96,13 +89,6 @@
     "status": "Out",
     "short": "Martin (thumb) is out for Monday's game against the Heat, Mike Curtis of The Dallas Morning News reports.",
     "relevant": false
-  },
-  "5041939": {
-    "name": "Cooper Flagg",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Flagg (shoulder) has been upgraded to probable for Monday against the Heat, Mike Curtis of The Dallas Morning News reports.",
-    "relevant": true
   },
   "4278594": {
     "name": "Naji Marshall",
@@ -181,27 +167,6 @@
     "short": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
     "relevant": true
   },
-  "4997536": {
-    "name": "Gui Santos",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "short": "Santos is questionable for Monday's game against the Nuggets due to left knee tendinitis.",
-    "relevant": null
-  },
-  "4397040": {
-    "name": "Brandon Williams",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "short": "Williams is probable for Monday's game against the Nuggets due to left lower back soreness.",
-    "relevant": null
-  },
-  "4397886": {
-    "name": "Charles Bassey",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "short": "Bassey is probable for Monday's game against the Nuggets due to right patellar tendinopathy.",
-    "relevant": null
-  },
   "3102531": {
     "name": "Kristaps Porzingis",
     "team": "GS",
@@ -223,6 +188,13 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "2991235": {
+    "name": "Steven Adams",
+    "team": "HOU",
+    "status": "Out",
+    "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
+    "relevant": false
+  },
   "2990992": {
     "name": "Marcus Smart",
     "team": "HOU",
@@ -230,19 +202,19 @@
     "short": "Smart (arm) is out for Monday's game against the Hawks.",
     "relevant": false
   },
-  "2991235": {
-    "name": "Steven Adams",
-    "team": "HOU",
+  "4433076": {
+    "name": "Ben Sheppard",
+    "team": "IND",
     "status": "Out",
-    "short": "Adams has been ruled out for Monday's game against the Hawks due to a right soleus strain.",
+    "short": "Sheppard is scheduled for surgery to repair a torn meniscus in his left knee Wednesday, Dustin Dopirak of The Indianapolis Star reports.",
     "relevant": false
   },
   "4395712": {
     "name": "Andrew Nembhard",
     "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Nembhard (neck) is questionable for Monday's game against the Bucks.",
-    "relevant": null
+    "status": "Out",
+    "short": "Nembhard (neck/back) has been ruled out for Monday's game against Milwaukee, Dustin Dopirak of The Indianapolis Star reports.",
+    "relevant": true
   },
   "2530530": {
     "name": "T.J. McConnell",
@@ -251,26 +223,12 @@
     "short": "McConnell (hamstring) is out for Monday's game against the Bucks.",
     "relevant": false
   },
-  "4396909": {
-    "name": "Aaron Nesmith",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Nesmith (hamstring) is probable for Monday's game against the Bucks.",
-    "relevant": null
-  },
   "4017837": {
     "name": "Ivica Zubac",
     "team": "IND",
     "status": "Out",
     "short": "Zubac (ankle) is out for Monday's game against the Bucks.",
     "relevant": true
-  },
-  "4433076": {
-    "name": "Ben Sheppard",
-    "team": "IND",
-    "status": "Out",
-    "short": "Sheppard has been diagnosed with a torn meniscus in his left knee and is without a timetable for a return to game action, Scott Agness of FieldhouseFiles.com reports.",
-    "relevant": null
   },
   "5157066": {
     "name": "Johnny Furphy",
@@ -318,36 +276,15 @@
     "name": "Adou Thiero",
     "team": "LAL",
     "status": "Out",
-    "short": "Thiero (knee) has been ruled out for Sunday's game against Utah, Khobi Price of The California Post reports.",
-    "relevant": null
+    "short": "Thiero (knee) is out for Tuesday's game against Portland.",
+    "relevant": false
   },
   "5113969": {
     "name": "Cameron Carr",
     "team": "LAL",
     "status": "Out",
-    "short": "Carr (oblique) is out for Sunday's game in Utah, Khobi Price of The California Post reports.",
-    "relevant": null
-  },
-  "4432810": {
-    "name": "Isaiah Stewart",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Stewart is listed as questionable for Monday's game against the Jazz due to left ankle injury management.",
-    "relevant": null
-  },
-  "5231919": {
-    "name": "Karim Lopez",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Lopez (knee) is questionable for Monday's game in Utah.",
+    "short": "Carr (oblique) has been ruled out for Tuesday's game against the Trail Blazers.",
     "relevant": false
-  },
-  "4594268": {
-    "name": "Anthony Edwards",
-    "team": "MIN",
-    "status": "Day-To-Day",
-    "short": "Edwards (knee) is questionable for Monday's game against Cleveland.",
-    "relevant": null
   },
   "3934673": {
     "name": "Donte DiVincenzo",
@@ -370,6 +307,20 @@
     "short": "Alvarado (ankle) is out for Tuesday's game against the Pistons.",
     "relevant": false
   },
+  "4593803": {
+    "name": "Jalen Williams",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Williams has been diagnosed with a dislocated left ankle and fractured fibula, which will require surgery, Shams Charania of ESPN reports.",
+    "relevant": true
+  },
+  "4683692": {
+    "name": "Cason Wallace",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Wallace has been diagnosed with a torn labrum in his left shoulder and will require surgery, Shams Charania of ESPN reports.",
+    "relevant": true
+  },
   "5159925": {
     "name": "Nikola Topic",
     "team": "OKC",
@@ -384,25 +335,11 @@
     "short": "Sorber (knee) is out for Monday's game versus the Suns, per Andrew Schlecht of The Athletic.",
     "relevant": false
   },
-  "4683692": {
-    "name": "Cason Wallace",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Wallace (shoulder) is out for Monday's game versus the Suns.",
-    "relevant": true
-  },
   "4433255": {
     "name": "Chet Holmgren",
     "team": "OKC",
     "status": "Out",
     "short": "Holmgren (knee) is out for Monday's game versus the Suns.",
-    "relevant": true
-  },
-  "4593803": {
-    "name": "Jalen Williams",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Williams was stretchered off the floor during Sunday's game against the Clippers due to an apparent left ankle injury, NBA writer Justin Russo reports.",
     "relevant": true
   },
   "5106270": {
@@ -503,19 +440,26 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
-  "4706557": {
-    "name": "Chris Youngblood",
-    "team": "POR",
-    "status": "Day-To-Day",
-    "short": "Youngblood (ankle) is out for Friday's game against the Kings.",
-    "relevant": null
-  },
   "4592435": {
     "name": "Branden Carlson",
     "team": "POR",
     "status": "Day-To-Day",
-    "short": "Carlson (concussion) has been ruled out for Friday's game against Sacramento.",
+    "short": "Carlson (concussion) is listed as questionable for Tuesday's game against the Lakers.",
     "relevant": null
+  },
+  "4683678": {
+    "name": "Scoot Henderson",
+    "team": "POR",
+    "status": "Day-To-Day",
+    "short": "Henderson is questionable for Tuesday's game against the Lakers due to left ankle soreness.",
+    "relevant": null
+  },
+  "4706557": {
+    "name": "Chris Youngblood",
+    "team": "POR",
+    "status": "Out",
+    "short": "Youngblood (ankle) is out for Friday's game against the Kings.",
+    "relevant": false
   },
   "4914336": {
     "name": "Shaedon Sharpe",
@@ -524,11 +468,25 @@
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
     "relevant": null
   },
+  "4433174": {
+    "name": "Dylan Cardwell",
+    "team": "SAC",
+    "status": "Out",
+    "short": "Cardwell (calf) will be re-evaluated in one week, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+    "relevant": false
+  },
+  "4898371": {
+    "name": "Maxime Raynaud",
+    "team": "SAC",
+    "status": "Out",
+    "short": "Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+    "relevant": false
+  },
   "4594327": {
     "name": "Keegan Murray",
     "team": "SAC",
-    "status": "Day-To-Day",
-    "short": "Murray (ankle) has been ruled out for Sunday's game against the Grizzlies.",
+    "status": "Out",
+    "short": "Murray (ankle) will be re-evaluated in 10-to-14 days, NBA reporter Marc Stein reports.",
     "relevant": true
   },
   "3907387": {
@@ -538,26 +496,12 @@
     "short": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
     "relevant": null
   },
-  "4433174": {
-    "name": "Dylan Cardwell",
-    "team": "SAC",
-    "status": "Out",
-    "short": "Cardwell (calf) is expected to miss at least the first five or six games of the regular season, with a longer absence possible, Frankie Cartoscelli of KHTK Sactown Sports 1140 reports.",
-    "relevant": null
-  },
-  "4898371": {
-    "name": "Maxime Raynaud",
-    "team": "SAC",
-    "status": "Out",
-    "short": "Raynaud (knee) is expected to miss at least the first five or six games of the regular season, and potentially longer, Frankie Cartoscelli of KHTK Sactown Sports 1140 reports.",
-    "relevant": null
-  },
   "6440": {
     "name": "Tobias Harris",
     "team": "SA",
     "status": "Out",
-    "short": "Harris (calf) is out for Saturday's game against the Mavericks.",
-    "relevant": null
+    "short": "Harris (calf) has been ruled out for Tuesday's game against the Kings.",
+    "relevant": true
   },
   "5101845": {
     "name": "Jayden Quaintance",
@@ -583,9 +527,9 @@
   "4397077": {
     "name": "Jaxson Hayes",
     "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Hayes is listed as questionable for Monday's game against the Grizzlies due to right shoulder soreness, Shreyas Laddha of The Salt Lake Tribune reports.",
-    "relevant": null
+    "status": "Out",
+    "short": "Hayes (shoulder) is out for Monday's game against the Grizzlies.",
+    "relevant": true
   },
   "4433268": {
     "name": "Trey Alexander",
@@ -601,11 +545,18 @@
     "short": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports.",
     "relevant": null
   },
+  "4432907": {
+    "name": "Justin Champagnie",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "short": "Champagnie has been ruled out for the remainder of Monday's game against Charlotte due to a right foot injury, Josh Robbins of The Athletic reports. He'll finish with two points (1-1 FG) and two rebounds in four minutes.",
+    "relevant": null
+  },
   "5142718": {
     "name": "AJ Dybantsa",
     "team": "WSH",
     "status": "Out",
-    "short": "Dybantsa (ankle) has been ruled out for Monday's game against the Hornets.",
+    "short": "Dybantsa, who has been ruled out for Monday's game against the Hornets, is progressing well from a left ankle sprain and will take part in on-court activities Tuesday, Josh Robbins of The Athletic reports.",
     "relevant": true
   },
   "4997537": {
