@@ -69,6 +69,13 @@
     "short": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
     "relevant": true
   },
+  "4593125": {
+    "name": "Santi Aldama",
+    "team": "DAL",
+    "status": "Out",
+    "short": "The Mavericks assigned Aldama (knee) to the G League's Texas Legends on Tuesday, Marc Stein of The Stein Line reports.",
+    "relevant": false
+  },
   "4278594": {
     "name": "Naji Marshall",
     "team": "DAL",
@@ -95,13 +102,6 @@
     "team": "DAL",
     "status": "Out",
     "short": "Biberovic (heel) has been ruled out for Saturday's game against San Antonio.",
-    "relevant": null
-  },
-  "4593125": {
-    "name": "Santi Aldama",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Aldama (knee) has been ruled out for Saturday's game against the Spurs.",
     "relevant": null
   },
   "4683688": {
@@ -139,19 +139,19 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
+  "4684742": {
+    "name": "Ausar Thompson",
+    "team": "DET",
+    "status": "Day-To-Day",
+    "short": "Thompson (ankle) was a full participant at Tuesday's shootaround, Coty M. Davis of The Detroit News reports.",
+    "relevant": true
+  },
   "4395702": {
     "name": "Isaiah Joe",
     "team": "DET",
     "status": "Day-To-Day",
     "short": "Joe (hip) is questionable for Tuesday's game against the Knicks.",
     "relevant": null
-  },
-  "4684742": {
-    "name": "Ausar Thompson",
-    "team": "DET",
-    "status": "Day-To-Day",
-    "short": "Thompson (ankle) is listed as questionable for Tuesday's game against New York.",
-    "relevant": true
   },
   "4433621": {
     "name": "Jalen Duren",
@@ -293,6 +293,13 @@
     "short": "Alvarado (ankle) is out for Tuesday's game against the Pistons.",
     "relevant": false
   },
+  "4433255": {
+    "name": "Chet Holmgren",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Holmgren (knee) is out for Monday's game versus the Suns.",
+    "relevant": true
+  },
   "2991350": {
     "name": "Alex Caruso",
     "team": "OKC",
@@ -327,13 +334,6 @@
     "status": "Out",
     "short": "Sorber (knee) is out for Monday's game versus the Suns, per Andrew Schlecht of The Athletic.",
     "relevant": false
-  },
-  "4433255": {
-    "name": "Chet Holmgren",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Holmgren (knee) is out for Monday's game versus the Suns.",
-    "relevant": true
   },
   "5106270": {
     "name": "Otega Oweh",
@@ -506,8 +506,8 @@
   "6450": {
     "name": "Kawhi Leonard",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Leonard is out for Sunday's game against the Timberwolves due to left knee swelling, Blake Murphy of Sportsnet.ca reports.",
+    "status": "Out",
+    "short": "Leonard (knee) is expected to miss multiple weeks due to swelling in his left knee, Shams Charania of ESPN reports.",
     "relevant": true
   },
   "4432586": {
