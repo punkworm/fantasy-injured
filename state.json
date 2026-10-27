@@ -13,6 +13,13 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
+  "3078576": {
+    "name": "Derrick White",
+    "team": "BOS",
+    "status": "Day-To-Day",
+    "short": "White (right hip) is probable for Tuesday's game against the Nets.",
+    "relevant": null
+  },
   "4433188": {
     "name": "Devin Carter",
     "team": "BOS",
@@ -160,6 +167,13 @@
     "short": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
     "relevant": true
   },
+  "5175737": {
+    "name": "Yaxel Lendeborg",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "short": "Lendeborg (foot) is questionable for Wednesday's game against Minnesota.",
+    "relevant": null
+  },
   "3102531": {
     "name": "Kristaps Porzingis",
     "team": "GS",
@@ -185,8 +199,15 @@
     "name": "Marcus Smart",
     "team": "HOU",
     "status": "Day-To-Day",
-    "short": "Smart (arm) is out for Monday's game against the Hawks.",
+    "short": "Smart (forearm) is questionable for Wednesday's game versus the Bucks.",
     "relevant": false
+  },
+  "4871144": {
+    "name": "Alperen Sengun",
+    "team": "HOU",
+    "status": "Out",
+    "short": "Sengun (back) has been ruled out for Wednesday's game against the Bucks.",
+    "relevant": true
   },
   "2991235": {
     "name": "Steven Adams",
@@ -230,6 +251,13 @@
     "short": "Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the season, Michael Scotto of USA Today reports.",
     "relevant": null
   },
+  "4066648": {
+    "name": "Rui Hachimura",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Hachimura (quadriceps) has been ruled out for Wednesday's game against the Lakers, Joey Linn of SI.com reports.",
+    "relevant": false
+  },
   "6580": {
     "name": "Bradley Beal",
     "team": "LAC",
@@ -272,11 +300,32 @@
     "short": "Thiero (knee) is out for Tuesday's game against Portland.",
     "relevant": false
   },
+  "4601025": {
+    "name": "Pelle Larsson",
+    "team": "MIA",
+    "status": "Day-To-Day",
+    "short": "Larsson is listed as probable for Wednesday's game at Atlanta due to a right ankle sprain.",
+    "relevant": null
+  },
+  "3899664": {
+    "name": "Simone Fontecchio",
+    "team": "MIA",
+    "status": "Day-To-Day",
+    "short": "Fontecchio is doubtful for Wednesday's game in Atlanta due to an illness, per Tim Reynolds of Associated Press.",
+    "relevant": null
+  },
   "3934673": {
     "name": "Donte DiVincenzo",
     "team": "MIN",
     "status": "Out",
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
+    "relevant": null
+  },
+  "4277956": {
+    "name": "Jordan Poole",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "short": "Poole (illness) is listed as probable for Wednesday's game against Denver.",
     "relevant": null
   },
   "5061589": {
@@ -342,19 +391,19 @@
     "short": "The Thunder plan to waive Oweh (Achilles) on Friday.",
     "relevant": null
   },
+  "4065654": {
+    "name": "Jonathan Isaac",
+    "team": "ORL",
+    "status": "Out",
+    "short": "Isaac (knee) has been ruled out ahead of Wednesday's game against the Raptors.",
+    "relevant": false
+  },
   "4432165": {
     "name": "Jalen Suggs",
     "team": "ORL",
     "status": "Out",
     "short": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
     "relevant": true
-  },
-  "4065654": {
-    "name": "Jonathan Isaac",
-    "team": "ORL",
-    "status": "Out",
-    "short": "Isaac (knee) has been ruled out ahead of Sunday's game against the Knicks.",
-    "relevant": null
   },
   "4432573": {
     "name": "Paolo Banchero",
@@ -377,6 +426,20 @@
     "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
     "relevant": null
   },
+  "3904625": {
+    "name": "Tacko Fall",
+    "team": "PHI",
+    "status": "Out",
+    "short": "Fall (quadriceps) was able to practice on Tuesday, Keith Pompey of The Philadelphia Inquirer reports.",
+    "relevant": false
+  },
+  "5124612": {
+    "name": "VJ Edgecombe",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Edgecombe (abdomen) practiced in full Tuesday, Keith Pompey of The Philadelphia Inquirer reports.",
+    "relevant": true
+  },
   "4432446": {
     "name": "Jabari Walker",
     "team": "PHI",
@@ -384,26 +447,12 @@
     "short": "Walker has been ruled out for Sunday's game against the Pistons due to left knee soreness.",
     "relevant": false
   },
-  "5124612": {
-    "name": "VJ Edgecombe",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Edgecombe (abdomen) is out for Sunday's game against the Pistons, Adam Aaronson of PhillyVoice.com reports.",
-    "relevant": true
-  },
   "3059318": {
     "name": "Joel Embiid",
     "team": "PHI",
     "status": "Day-To-Day",
     "short": "Embiid has been ruled out for Sunday's game against Detroit due to right plantar fasciitis management.",
     "relevant": true
-  },
-  "3904625": {
-    "name": "Tacko Fall",
-    "team": "PHI",
-    "status": "Out",
-    "short": "Fall (quadriceps) has been ruled out for Sunday's game against Detroit.",
-    "relevant": false
   },
   "4870562": {
     "name": "Dominick Barlow",
@@ -439,13 +488,6 @@
     "status": "Out",
     "short": "Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers.",
     "relevant": false
-  },
-  "4592435": {
-    "name": "Branden Carlson",
-    "team": "POR",
-    "status": "Day-To-Day",
-    "short": "Carlson (concussion) is listed as questionable for Tuesday's game against the Lakers.",
-    "relevant": null
   },
   "4683678": {
     "name": "Scoot Henderson",
@@ -503,6 +545,13 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
+  "4432586": {
+    "name": "Nate Bittle",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Bittle (foot) has been ruled out for Wednesday's game against the Magic, Cody Taylor of USA Today reports.",
+    "relevant": false
+  },
   "6450": {
     "name": "Kawhi Leonard",
     "team": "TOR",
@@ -510,12 +559,19 @@
     "short": "Leonard (knee) is expected to miss multiple weeks due to swelling in his left knee, Shams Charania of ESPN reports.",
     "relevant": true
   },
-  "4432586": {
-    "name": "Nate Bittle",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Bittle (foot) is out for Wednesday's season opener against the Bulls.",
+  "4066336": {
+    "name": "Lauri Markkanen",
+    "team": "UTAH",
+    "status": "Day-To-Day",
+    "short": "Markkanen is day-to-day with a right wrist sprain, per NBA reporter Marc Stein.",
     "relevant": null
+  },
+  "4277961": {
+    "name": "Jaren Jackson Jr.",
+    "team": "UTAH",
+    "status": "Out",
+    "short": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
+    "relevant": true
   },
   "4397077": {
     "name": "Jaxson Hayes",
@@ -523,20 +579,6 @@
     "status": "Day-To-Day",
     "short": "Hayes (shoulder) is out for Monday's game against the Grizzlies.",
     "relevant": true
-  },
-  "4066336": {
-    "name": "Lauri Markkanen",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Markkanen (wrist) won't return to Monday's game against Memphis.",
-    "relevant": null
-  },
-  "4277961": {
-    "name": "Jaren Jackson Jr.",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Jackson has been ruled out for the rest of Monday's game against the Grizzlies due to a right knee injury.",
-    "relevant": null
   },
   "4433268": {
     "name": "Trey Alexander",
