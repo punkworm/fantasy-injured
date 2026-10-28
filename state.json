@@ -1,11 +1,4 @@
 {
-  "4397183": {
-    "name": "Aaron Wiggins",
-    "team": "ATL",
-    "status": "Day-To-Day",
-    "short": "Wiggins (knee) is probable for Wednesday against Miami.",
-    "relevant": null
-  },
   "4712863": {
     "name": "Mouhamed Gueye",
     "team": "ATL",
@@ -69,19 +62,19 @@
     "short": "Boswell (knee) is out for Wednesday's season opener against the Nets.",
     "relevant": null
   },
-  "4431687": {
-    "name": "Patrick Williams",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Williams (groin) is questionable for Wednesday's game against the Knicks.",
-    "relevant": false
-  },
   "5105555": {
     "name": "Tobe Awaka",
     "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Awaka (ankle) is questionable for Wednesday's game against the Knicks.",
-    "relevant": null
+    "status": "Out",
+    "short": "Awaka (ankle) is out for Wednesday's game against the Knicks, Joel Lorenzi of The Athletic reports.",
+    "relevant": false
+  },
+  "4431687": {
+    "name": "Patrick Williams",
+    "team": "CHI",
+    "status": "Out",
+    "short": "Williams (adductor) won't play in Wednesday's game against the Knicks, Joel Lorenzi of The Athletic reports.",
+    "relevant": false
   },
   "4278067": {
     "name": "Nic Claxton",
@@ -90,18 +83,25 @@
     "short": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
     "relevant": true
   },
-  "4593125": {
-    "name": "Santi Aldama",
+  "4278594": {
+    "name": "Naji Marshall",
     "team": "DAL",
-    "status": "Out",
-    "short": "The Mavericks recalled Aldama (knee) from the G League's Texas Legends on Tuesday.",
-    "relevant": false
+    "status": "Day-To-Day",
+    "short": "Marshall (illness) is now doubtful for Wednesday against the Thunder.",
+    "relevant": true
   },
   "5148538": {
     "name": "Tarik Biberovic",
     "team": "DAL",
     "status": "Out",
-    "short": "Biberovic is listed as doubtful for Wednesday's game against the Thunder.",
+    "short": "Biberovic (knee) is out for Wednesday's game against the Thunder.",
+    "relevant": false
+  },
+  "4593125": {
+    "name": "Santi Aldama",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Aldama (knee) is out for Wednesday's game against the Thunder.",
     "relevant": false
   },
   "5279129": {
@@ -117,13 +117,6 @@
     "status": "Out",
     "short": "Martin (thumb) is questionable for Wednesday's game against the Thunder.",
     "relevant": false
-  },
-  "4278594": {
-    "name": "Naji Marshall",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Marshall (illness) is questionable for Wednesday's game against the Thunder.",
-    "relevant": true
   },
   "6442": {
     "name": "Kyrie Irving",
@@ -188,13 +181,6 @@
     "short": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
     "relevant": true
   },
-  "5175737": {
-    "name": "Yaxel Lendeborg",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "short": "Lendeborg (foot) went through Wednesday's morning shootaround, per Nick Friedell of The Athletic.",
-    "relevant": null
-  },
   "3102531": {
     "name": "Kristaps Porzingis",
     "team": "GS",
@@ -237,40 +223,33 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
-  "4396993": {
-    "name": "Tyrese Haliburton",
-    "team": "IND",
-    "status": "Out",
-    "short": "Haliburton (hamstring) will miss time, though his timetable has yet to be announced, Shams Charania of ESPN reports.",
-    "relevant": true
-  },
-  "4395712": {
-    "name": "Andrew Nembhard",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Nembhard (neck) is listed as questionable for Wednesday's game against Philadelphia.",
-    "relevant": true
-  },
   "4278355": {
     "name": "Obi Toppin",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "Toppin is probable to play Wednesday against the 76ers due to a left hand sprain.",
-    "relevant": null
-  },
-  "4396909": {
-    "name": "Aaron Nesmith",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Nesmith (hamstring) is probable for Wednesday's game against the 76ers.",
+    "short": "Toppin (hand) is active for Wednesday's game against Philadelphia.",
     "relevant": null
   },
   "2530530": {
     "name": "T.J. McConnell",
     "team": "IND",
     "status": "Out",
-    "short": "McConnell (hamstring) is out for Wednesday's game against the 76ers.",
+    "short": "Pacers head coach Rick Carlisle stated McConnell (hamstring) is \"doing better\" and \"getting closer\" to a return, Alex Golden of SI.com reports.",
     "relevant": false
+  },
+  "4433076": {
+    "name": "Ben Sheppard",
+    "team": "IND",
+    "status": "Out",
+    "short": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
+    "relevant": false
+  },
+  "4396993": {
+    "name": "Tyrese Haliburton",
+    "team": "IND",
+    "status": "Out",
+    "short": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
+    "relevant": true
   },
   "4017837": {
     "name": "Ivica Zubac",
@@ -278,13 +257,6 @@
     "status": "Out",
     "short": "Zubac (ankle) is out for Wednesday's game against the 76ers.",
     "relevant": true
-  },
-  "4433076": {
-    "name": "Ben Sheppard",
-    "team": "IND",
-    "status": "Out",
-    "short": "Sheppard is scheduled for surgery to repair a torn meniscus in his left knee Wednesday, Dustin Dopirak of The Indianapolis Star reports.",
-    "relevant": false
   },
   "5157066": {
     "name": "Johnny Furphy",
@@ -339,15 +311,29 @@
     "name": "Cameron Carr",
     "team": "LAL",
     "status": "Out",
-    "short": "Carr (oblique) was assigned Wednesday to the G League's Coachella Valley Lakers, Thuc Nhi Nguyen of the Los Angeles Times reports",
+    "short": "Carr (oblique) is out for Wednesday's game against the Clippers.",
     "relevant": false
   },
   "5060631": {
     "name": "Adou Thiero",
     "team": "LAL",
     "status": "Out",
-    "short": "Thiero (knee) is out for Tuesday's game against Portland.",
+    "short": "Thiero (knee) is out for Wednesday's game against the Clippers.",
     "relevant": false
+  },
+  "4433137": {
+    "name": "Ziaire Williams",
+    "team": "LAL",
+    "status": "Out",
+    "short": "Williams (foot) is out for Wednesday's game against the Clippers.",
+    "relevant": false
+  },
+  "3945274": {
+    "name": "Luka Doncic",
+    "team": "LAL",
+    "status": "Out",
+    "short": "Doncic (back) is out for Wednesday's game against the Clippers.",
+    "relevant": true
   },
   "3899664": {
     "name": "Simone Fontecchio",
@@ -380,8 +366,8 @@
   "4277869": {
     "name": "Jose Alvarado",
     "team": "NY",
-    "status": "Day-To-Day",
-    "short": "Alvarado (ankle) is out for Tuesday's game against the Pistons.",
+    "status": "Out",
+    "short": "Alvarado (ankle) is out for Wednesday's game against the Bulls.",
     "relevant": false
   },
   "2991350": {
@@ -438,13 +424,6 @@
     "team": "OKC",
     "status": "Out",
     "short": "The Thunder plan to waive Oweh (Achilles) on Friday.",
-    "relevant": null
-  },
-  "4712849": {
-    "name": "Anthony Black",
-    "team": "ORL",
-    "status": "Day-To-Day",
-    "short": "Black (personal) was not present at Wednesday's morning shootaround, Jason Beede of the Orlando Sentinel reports.",
     "relevant": null
   },
   "4065654": {
@@ -570,7 +549,7 @@
     "name": "Tobias Harris",
     "team": "SA",
     "status": "Out",
-    "short": "Harris (calf) has been ruled out for Tuesday's game against the Kings.",
+    "short": "Harris (calf) is out for Wednesday's game against Utah, Paul Garcia of ProjectSpurs.com reports.",
     "relevant": true
   },
   "5101845": {
@@ -629,11 +608,18 @@
     "short": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports.",
     "relevant": null
   },
+  "5238230": {
+    "name": "Tre Johnson",
+    "team": "WSH",
+    "status": "Out",
+    "short": "Johnson has been ruled out for Wednesday's game against the Cavaliers due to right Achilles soreness.",
+    "relevant": false
+  },
   "4432907": {
     "name": "Justin Champagnie",
     "team": "WSH",
     "status": "Out",
-    "short": "Champagnie (foot) is out for Wednesday's game versus Cleveland.",
+    "short": "Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic.",
     "relevant": false
   },
   "4997537": {
