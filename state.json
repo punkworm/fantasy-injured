@@ -1,4 +1,11 @@
 {
+  "4397183": {
+    "name": "Aaron Wiggins",
+    "team": "ATL",
+    "status": "Day-To-Day",
+    "short": "Wiggins is questionable for Wednesday's game against the Heat due to a left knee contusion.",
+    "relevant": null
+  },
   "4712863": {
     "name": "Mouhamed Gueye",
     "team": "ATL",
@@ -11,13 +18,6 @@
     "team": "ATL",
     "status": "Out",
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
-    "relevant": null
-  },
-  "3078576": {
-    "name": "Derrick White",
-    "team": "BOS",
-    "status": "Day-To-Day",
-    "short": "White (right hip) is probable for Tuesday's game against the Nets.",
     "relevant": null
   },
   "4433188": {
@@ -66,8 +66,15 @@
     "name": "Patrick Williams",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Williams (groin) has been ruled out for Monday's game against the Celtics.",
+    "short": "Williams (groin) is questionable for Wednesday's game against the Knicks.",
     "relevant": false
+  },
+  "5105555": {
+    "name": "Tobe Awaka",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Awaka (ankle) is questionable for Wednesday's game against the Knicks.",
+    "relevant": null
   },
   "4278067": {
     "name": "Nic Claxton",
@@ -76,39 +83,46 @@
     "short": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
     "relevant": true
   },
+  "5148538": {
+    "name": "Tarik Biberovic",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Biberovic is listed as doubtful for Wednesday's game against the Thunder.",
+    "relevant": false
+  },
   "4593125": {
     "name": "Santi Aldama",
     "team": "DAL",
     "status": "Out",
-    "short": "The Mavericks assigned Aldama (knee) to the G League's Texas Legends on Tuesday, Marc Stein of The Stein Line reports.",
+    "short": "Aldama (knee) is doubtful for Wednesday's game against the Thunder.",
+    "relevant": false
+  },
+  "5279129": {
+    "name": "Sergio de Larrea",
+    "team": "DAL",
+    "status": "Out",
+    "short": "De Larrea (knee) has been ruled out for Wednesday's game against the Thunder.",
+    "relevant": false
+  },
+  "3138160": {
+    "name": "Caleb Martin",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Martin (thumb) is questionable for Wednesday's game against the Thunder.",
     "relevant": false
   },
   "4278594": {
     "name": "Naji Marshall",
     "team": "DAL",
     "status": "Day-To-Day",
-    "short": "Marshall (illness) has been ruled out for Monday's game against the Heat.",
+    "short": "Marshall (illness) is questionable for Wednesday's game against the Thunder.",
     "relevant": true
   },
-  "5279129": {
-    "name": "Sergio de Larrea",
+  "6442": {
+    "name": "Kyrie Irving",
     "team": "DAL",
     "status": "Day-To-Day",
-    "short": "De Larrea (knee) won't return to Monday's game against the Heat. He'll finish with zero points (0-1 FG) and one rebound across six minutes.",
-    "relevant": null
-  },
-  "3138160": {
-    "name": "Caleb Martin",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Martin (thumb) is out for Monday's game against the Heat, Mike Curtis of The Dallas Morning News reports.",
-    "relevant": false
-  },
-  "5148538": {
-    "name": "Tarik Biberovic",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Biberovic (heel) has been ruled out for Saturday's game against San Antonio.",
+    "short": "Irving (knee) is questionable for Wednesday's game against the Thunder.",
     "relevant": null
   },
   "4683688": {
@@ -118,25 +132,25 @@
     "short": "Lively (foot) has been ruled out for Friday's game against the Pacers.",
     "relevant": null
   },
+  "4592427": {
+    "name": "Spencer Jones",
+    "team": "DEN",
+    "status": "Out",
+    "short": "Jones (hamstring) has been ruled out for Wednesday's game against New Orleans.",
+    "relevant": false
+  },
   "3138196": {
     "name": "Cameron Johnson",
     "team": "DEN",
     "status": "Day-To-Day",
-    "short": "Johnson (ankle) has been ruled out for Monday's game against Golden State.",
+    "short": "Johnson (ankle) is doubtful to face the Pelicans on Wednesday.",
     "relevant": null
   },
   "4065813": {
     "name": "Alpha Diallo",
     "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "Diallo (wrist) is out for Monday's game against the Warriors.",
-    "relevant": false
-  },
-  "4592427": {
-    "name": "Spencer Jones",
-    "team": "DEN",
     "status": "Out",
-    "short": "Jones (hamstring) is progressing in his recovery and could be back with the team within the next three games, Vinny Benedetto of The Denver Gazette reports.",
+    "short": "Diallo is out for Wednesday's game against the Pelicans due to personal reasons.",
     "relevant": false
   },
   "4432181": {
@@ -146,19 +160,12 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
-  "4684742": {
-    "name": "Ausar Thompson",
-    "team": "DET",
-    "status": "Day-To-Day",
-    "short": "Thompson (ankle) was a full participant at Tuesday's shootaround, Coty M. Davis of The Detroit News reports.",
-    "relevant": true
-  },
   "4395702": {
     "name": "Isaiah Joe",
     "team": "DET",
-    "status": "Day-To-Day",
-    "short": "Joe (hip) is questionable for Tuesday's game against the Knicks.",
-    "relevant": null
+    "status": "Out",
+    "short": "Joe (hip) has been ruled out for Tuesday's game against the Knicks.",
+    "relevant": false
   },
   "4433621": {
     "name": "Jalen Duren",
@@ -216,18 +223,46 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
-  "4017837": {
-    "name": "Ivica Zubac",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "The Pacers don't have a timetable for Zubac's return after he suffered a left ankle injury Sunday against Brooklyn, but he was able to walk without a boot Monday, Dustin Dopirak of The Indianapolis Star reports.",
-    "relevant": true
-  },
   "4395712": {
     "name": "Andrew Nembhard",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "Nembhard (neck/back) has been ruled out for Monday's game against Milwaukee, Dustin Dopirak of The Indianapolis Star reports.",
+    "short": "Nembhard (neck) is listed as questionable for Wednesday's game against Philadelphia.",
+    "relevant": true
+  },
+  "4396993": {
+    "name": "Tyrese Haliburton",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Haliburton is listed as questionable for Wednesday's game against the 76ers due to left hamstring tightness.",
+    "relevant": null
+  },
+  "4278355": {
+    "name": "Obi Toppin",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Toppin is probable to play Wednesday against the 76ers due to a left hand sprain.",
+    "relevant": null
+  },
+  "4396909": {
+    "name": "Aaron Nesmith",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Nesmith (hamstring) is probable for Wednesday's game against the 76ers.",
+    "relevant": null
+  },
+  "2530530": {
+    "name": "T.J. McConnell",
+    "team": "IND",
+    "status": "Out",
+    "short": "McConnell (hamstring) is out for Wednesday's game against the 76ers.",
+    "relevant": false
+  },
+  "4017837": {
+    "name": "Ivica Zubac",
+    "team": "IND",
+    "status": "Out",
+    "short": "Zubac (ankle) is out for Wednesday's game against the 76ers.",
     "relevant": true
   },
   "4433076": {
@@ -235,13 +270,6 @@
     "team": "IND",
     "status": "Out",
     "short": "Sheppard is scheduled for surgery to repair a torn meniscus in his left knee Wednesday, Dustin Dopirak of The Indianapolis Star reports.",
-    "relevant": false
-  },
-  "2530530": {
-    "name": "T.J. McConnell",
-    "team": "IND",
-    "status": "Out",
-    "short": "McConnell (hamstring) is out for Monday's game against the Bucks.",
     "relevant": false
   },
   "5157066": {
@@ -293,6 +321,13 @@
     "short": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
     "relevant": null
   },
+  "5113969": {
+    "name": "Cameron Carr",
+    "team": "LAL",
+    "status": "Out",
+    "short": "The Lakers recalled Carr (oblique) from the G League's Coachella Valley Lakers on Tuesday, Mark Medina of TheSportingTribune.com reports.",
+    "relevant": false
+  },
   "5060631": {
     "name": "Adou Thiero",
     "team": "LAL",
@@ -313,6 +348,13 @@
     "status": "Day-To-Day",
     "short": "Fontecchio is doubtful for Wednesday's game in Atlanta due to an illness, per Tim Reynolds of Associated Press.",
     "relevant": null
+  },
+  "4594268": {
+    "name": "Anthony Edwards",
+    "team": "MIN",
+    "status": "Out",
+    "short": "Edwards will undergo arthroscopic right knee surgery and is expected to miss up to two months, Shams Charania of ESPN reports.",
+    "relevant": true
   },
   "3934673": {
     "name": "Donte DiVincenzo",
@@ -342,19 +384,40 @@
     "short": "Alvarado (ankle) is out for Tuesday's game against the Pistons.",
     "relevant": false
   },
+  "5061603": {
+    "name": "Thomas Sorber",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Sorber (knee) has been ruled out for Wednesday's game against the Mavericks.",
+    "relevant": false
+  },
   "4433255": {
     "name": "Chet Holmgren",
     "team": "OKC",
-    "status": "Day-To-Day",
-    "short": "Holmgren (knee) is out for Monday's game versus the Suns.",
+    "status": "Out",
+    "short": "Holmgren (knee) has been ruled out for Wednesday's game against the Mavericks.",
     "relevant": true
+  },
+  "5159925": {
+    "name": "Nikola Topic",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Topic (back) will remain on the inactive list for Wednesday's game in Dallas.",
+    "relevant": false
+  },
+  "4900671": {
+    "name": "Ajay Mitchell",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Mitchell (ankle) is questionable for Wednesday's game against Dallas.",
+    "relevant": null
   },
   "2991350": {
     "name": "Alex Caruso",
     "team": "OKC",
-    "status": "Day-To-Day",
-    "short": "Caruso won't return to Monday's game against the Suns due to a right ankle sprain, Marc J. Spears of ESPN.com reports. He'll finish with nine points (3-5 FG, 3-5 3Pt), three assists and two rebounds in nine minutes.",
-    "relevant": null
+    "status": "Out",
+    "short": "Caruso (ankle) won't play Wednesday in Dallas.",
+    "relevant": true
   },
   "4593803": {
     "name": "Jalen Williams",
@@ -369,20 +432,6 @@
     "status": "Out",
     "short": "Wallace has been diagnosed with a torn labrum in his left shoulder and will require surgery, Shams Charania of ESPN reports.",
     "relevant": true
-  },
-  "5159925": {
-    "name": "Nikola Topic",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Topic (back) won't play in Monday's game against the Suns, Andrew Schlecht of The Athletic reports.",
-    "relevant": false
-  },
-  "5061603": {
-    "name": "Thomas Sorber",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Sorber (knee) is out for Monday's game versus the Suns, per Andrew Schlecht of The Athletic.",
-    "relevant": false
   },
   "5106270": {
     "name": "Otega Oweh",
@@ -430,29 +479,15 @@
     "name": "Tacko Fall",
     "team": "PHI",
     "status": "Out",
-    "short": "Fall (quadriceps) was able to practice on Tuesday, Keith Pompey of The Philadelphia Inquirer reports.",
+    "short": "Fall (quadriceps) is out for Wednesday's game in Indiana.",
     "relevant": false
-  },
-  "5124612": {
-    "name": "VJ Edgecombe",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Edgecombe (abdomen) practiced in full Tuesday, Keith Pompey of The Philadelphia Inquirer reports.",
-    "relevant": true
   },
   "4432446": {
     "name": "Jabari Walker",
     "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Walker has been ruled out for Sunday's game against the Pistons due to left knee soreness.",
+    "status": "Out",
+    "short": "Walker (knee) has been ruled out for Wednesday's game against the Pacers.",
     "relevant": false
-  },
-  "3059318": {
-    "name": "Joel Embiid",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Embiid has been ruled out for Sunday's game against Detroit due to right plantar fasciitis management.",
-    "relevant": true
   },
   "4870562": {
     "name": "Dominick Barlow",
@@ -559,11 +594,18 @@
     "short": "Leonard (knee) is expected to miss multiple weeks due to swelling in his left knee, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "4397077": {
+    "name": "Jaxson Hayes",
+    "team": "UTAH",
+    "status": "Day-To-Day",
+    "short": "Hayes (shoulder) is listed as questionable for Wednesday's game against the Spurs.",
+    "relevant": true
+  },
   "4066336": {
     "name": "Lauri Markkanen",
     "team": "UTAH",
     "status": "Day-To-Day",
-    "short": "Markkanen is day-to-day with a right wrist sprain, per NBA reporter Marc Stein.",
+    "short": "Markkanen (wrist) is questionable for Wednesday's game against the Spurs.",
     "relevant": null
   },
   "4277961": {
@@ -571,13 +613,6 @@
     "team": "UTAH",
     "status": "Out",
     "short": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
-    "relevant": true
-  },
-  "4397077": {
-    "name": "Jaxson Hayes",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Hayes (shoulder) is out for Monday's game against the Grizzlies.",
     "relevant": true
   },
   "4433268": {
@@ -597,15 +632,15 @@
   "4432907": {
     "name": "Justin Champagnie",
     "team": "WSH",
-    "status": "Day-To-Day",
-    "short": "Champagnie has been ruled out for the remainder of Monday's game against Charlotte due to a right foot injury, Josh Robbins of The Athletic reports. He'll finish with two points (1-1 FG) and two rebounds in four minutes.",
-    "relevant": null
+    "status": "Out",
+    "short": "Champagnie (foot) is out for Wednesday's game versus Cleveland.",
+    "relevant": false
   },
   "5142718": {
     "name": "AJ Dybantsa",
     "team": "WSH",
     "status": "Out",
-    "short": "Dybantsa, who has been ruled out for Monday's game against the Hornets, is progressing well from a left ankle sprain and will take part in on-court activities Tuesday, Josh Robbins of The Athletic reports.",
+    "short": "Dybantsa (ankle) is questionable for Wednesday's game versus Cleveland.",
     "relevant": true
   },
   "4997537": {
