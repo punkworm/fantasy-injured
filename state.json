@@ -27,6 +27,13 @@
     "short": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary Washburn of The Boston Globe reports.",
     "relevant": null
   },
+  "5175643": {
+    "name": "Egor Demin",
+    "team": "BKN",
+    "status": "Day-To-Day",
+    "short": "Demin (leg) stated he isn't sure if he will be able to play in Friday's game against Detroit, Erik Slater of ClutchPoints.com reports.",
+    "relevant": null
+  },
   "5105626": {
     "name": "Tyler Bilodeau",
     "team": "BKN",
@@ -83,18 +90,18 @@
     "short": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
     "relevant": true
   },
+  "4593125": {
+    "name": "Santi Aldama",
+    "team": "DAL",
+    "status": "Out",
+    "short": "The Mavericks recalled Aldama (knee) from the G League's Texas Legends on Tuesday.",
+    "relevant": false
+  },
   "5148538": {
     "name": "Tarik Biberovic",
     "team": "DAL",
     "status": "Out",
     "short": "Biberovic is listed as doubtful for Wednesday's game against the Thunder.",
-    "relevant": false
-  },
-  "4593125": {
-    "name": "Santi Aldama",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Aldama (knee) is doubtful for Wednesday's game against the Thunder.",
     "relevant": false
   },
   "5279129": {
@@ -163,7 +170,7 @@
   "4395702": {
     "name": "Isaiah Joe",
     "team": "DET",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Joe (hip) has been ruled out for Tuesday's game against the Knicks.",
     "relevant": false
   },
@@ -380,7 +387,7 @@
   "4277869": {
     "name": "Jose Alvarado",
     "team": "NY",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Alvarado (ankle) is out for Tuesday's game against the Pistons.",
     "relevant": false
   },
@@ -507,7 +514,7 @@
     "name": "Oso Ighodaro",
     "team": "PHX",
     "status": "Day-To-Day",
-    "short": "Ighodaro (oblique) is out for Monday's matchup with the Thunder.",
+    "short": "Ighodaro (oblique) is feeling better and considered day-to-day ahead of Friday's game against the Nuggets, John Gambadoro of Arizona Sports 98.7 FM reports.",
     "relevant": false
   },
   "4701232": {
@@ -523,13 +530,6 @@
     "status": "Out",
     "short": "Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers.",
     "relevant": false
-  },
-  "4683678": {
-    "name": "Scoot Henderson",
-    "team": "POR",
-    "status": "Day-To-Day",
-    "short": "Henderson is questionable for Tuesday's game against the Lakers due to left ankle soreness.",
-    "relevant": null
   },
   "4914336": {
     "name": "Shaedon Sharpe",
