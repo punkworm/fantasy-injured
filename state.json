@@ -86,8 +86,8 @@
   "4278594": {
     "name": "Naji Marshall",
     "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Marshall (illness) is now doubtful for Wednesday against the Thunder.",
+    "status": "Out",
+    "short": "Marshall (illness) won't play in Wednesday's game against Oklahoma City.",
     "relevant": true
   },
   "5148538": {
@@ -111,20 +111,6 @@
     "short": "De Larrea (knee) has been ruled out for Wednesday's game against the Thunder.",
     "relevant": false
   },
-  "3138160": {
-    "name": "Caleb Martin",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Martin (thumb) is questionable for Wednesday's game against the Thunder.",
-    "relevant": false
-  },
-  "6442": {
-    "name": "Kyrie Irving",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Irving (knee) is questionable for Wednesday's game against the Thunder.",
-    "relevant": null
-  },
   "4683688": {
     "name": "Dereck Lively II",
     "team": "DAL",
@@ -132,19 +118,19 @@
     "short": "Lively (foot) has been ruled out for Friday's game against the Pacers.",
     "relevant": null
   },
+  "3138196": {
+    "name": "Cameron Johnson",
+    "team": "DEN",
+    "status": "Out",
+    "short": "Johnson (ankle) is listed as out for Wednesday's game against the Pelicans.",
+    "relevant": false
+  },
   "4592427": {
     "name": "Spencer Jones",
     "team": "DEN",
     "status": "Out",
     "short": "Jones (hamstring) has been ruled out for Wednesday's game against New Orleans.",
     "relevant": false
-  },
-  "3138196": {
-    "name": "Cameron Johnson",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "Johnson (ankle) is doubtful to face the Pelicans on Wednesday.",
-    "relevant": null
   },
   "4065813": {
     "name": "Alpha Diallo",
@@ -167,19 +153,19 @@
     "short": "Joe (hip) is out for Wednesday's game against the Hornets.",
     "relevant": false
   },
-  "4684742": {
-    "name": "Ausar Thompson",
-    "team": "DET",
-    "status": "Day-To-Day",
-    "short": "Thompson (ankle) is probable for Wednesday against the Hornets.",
-    "relevant": null
-  },
   "4433621": {
     "name": "Jalen Duren",
     "team": "DET",
     "status": "Out",
     "short": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
     "relevant": true
+  },
+  "4997536": {
+    "name": "Gui Santos",
+    "team": "GS",
+    "status": "Out",
+    "short": "Santos has been ruled out for Wednesday's game against the Timberwolves due to left knee tendinitis.",
+    "relevant": false
   },
   "3102531": {
     "name": "Kristaps Porzingis",
@@ -223,13 +209,6 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
-  "4278355": {
-    "name": "Obi Toppin",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Toppin (hand) is active for Wednesday's game against Philadelphia.",
-    "relevant": null
-  },
   "2530530": {
     "name": "T.J. McConnell",
     "team": "IND",
@@ -265,6 +244,27 @@
     "short": "Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the season, Michael Scotto of USA Today reports.",
     "relevant": null
   },
+  "5108024": {
+    "name": "Yanic Konan Niederhauser",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Niederhauser (foot) remains out for Wednesday's game against the Lakers. He also won't travel with the team for the upcoming two-game road trip in Minnesota and Golden State, Ohm Youngmisuk of ESPN.com reports.",
+    "relevant": false
+  },
+  "4065778": {
+    "name": "Max Strus",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
+    "relevant": false
+  },
+  "3913176": {
+    "name": "Brandon Ingram",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
+    "relevant": true
+  },
   "4066648": {
     "name": "Rui Hachimura",
     "team": "LAC",
@@ -277,27 +277,6 @@
     "team": "LAC",
     "status": "Out",
     "short": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",
-    "relevant": null
-  },
-  "4065778": {
-    "name": "Max Strus",
-    "team": "LAC",
-    "status": "Out",
-    "short": "Strus has been diagnosed with a partially torn plantar fascia in his right foot and he will be re-evaluated in four weeks, Ohm Youngmisuk of ESPN.com reports.",
-    "relevant": null
-  },
-  "5108024": {
-    "name": "Yanic Konan Niederhauser",
-    "team": "LAC",
-    "status": "Out",
-    "short": "Niederhauser (foot) won't be ready for the start of the season, Law Murray of The Athletic reports.",
-    "relevant": null
-  },
-  "3913176": {
-    "name": "Brandon Ingram",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Ingram won't be ready for the start of the season due to a partially torn Achilles, per Joey Linn of SI.com.",
     "relevant": null
   },
   "4396818": {
@@ -356,6 +335,13 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
+  "4277956": {
+    "name": "Jordan Poole",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "short": "Poole (ankle) won't return to Wednesday's game against the Nuggets. He finished with two points (1-3 FG, 0-1 3Pt), one rebound and one steal over seven minutes.",
+    "relevant": null
+  },
   "5061589": {
     "name": "Yves Missi",
     "team": "NO",
@@ -369,6 +355,13 @@
     "status": "Out",
     "short": "Alvarado (ankle) is out for Wednesday's game against the Bulls.",
     "relevant": false
+  },
+  "4593803": {
+    "name": "Jalen Williams",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",
+    "relevant": true
   },
   "2991350": {
     "name": "Alex Caruso",
@@ -397,20 +390,6 @@
     "status": "Out",
     "short": "Topic (back) will remain on the inactive list for Wednesday's game in Dallas.",
     "relevant": false
-  },
-  "4900671": {
-    "name": "Ajay Mitchell",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "short": "Mitchell (ankle) is questionable for Wednesday's game against Dallas.",
-    "relevant": null
-  },
-  "4593803": {
-    "name": "Jalen Williams",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Williams has been diagnosed with a dislocated left ankle and fractured fibula, which will require surgery, Shams Charania of ESPN reports.",
-    "relevant": true
   },
   "4683692": {
     "name": "Cason Wallace",
@@ -573,19 +552,12 @@
     "short": "Leonard (knee) is expected to miss multiple weeks due to swelling in his left knee, Shams Charania of ESPN reports.",
     "relevant": true
   },
-  "4397077": {
-    "name": "Jaxson Hayes",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Hayes (shoulder) is listed as questionable for Wednesday's game against the Spurs.",
-    "relevant": true
-  },
   "4066336": {
     "name": "Lauri Markkanen",
     "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Markkanen (wrist) is questionable for Wednesday's game against the Spurs.",
-    "relevant": null
+    "status": "Out",
+    "short": "Markkanen (wrist) is out for Wednesday's tilt against the Spurs.",
+    "relevant": true
   },
   "4277961": {
     "name": "Jaren Jackson Jr.",
