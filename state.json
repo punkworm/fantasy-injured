@@ -23,9 +23,9 @@
   "5175643": {
     "name": "Egor Demin",
     "team": "BKN",
-    "status": "Day-To-Day",
-    "short": "Demin (leg) stated he isn't sure if he will be able to play in Friday's game against Detroit, Erik Slater of ClutchPoints.com reports.",
-    "relevant": null
+    "status": "Out",
+    "short": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",
+    "relevant": true
   },
   "5105626": {
     "name": "Tyler Bilodeau",
@@ -34,18 +34,18 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
+  "5061575": {
+    "name": "Kon Knueppel",
+    "team": "CHA",
+    "status": "Out",
+    "short": "Knueppel (hamstring) will practice with the G League's Greensboro Swarm on Thursday, the Hornets announced.",
+    "relevant": true
+  },
   "4395651": {
     "name": "Coby White",
     "team": "CHA",
     "status": "Out",
     "short": "Head coach Charles Lee said Monday that White (calf) remains without a timeline for a return, though Lee added that he'll have a better idea of where things stand following the Hornets' two-game road trip, Rod Boone of The Charlotte Observer reports.",
-    "relevant": true
-  },
-  "5061575": {
-    "name": "Kon Knueppel",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Knueppel (hamstring) is without a timetable for a return, Rod Boone of The Charlotte Observer reports.",
     "relevant": true
   },
   "4066218": {
@@ -62,18 +62,25 @@
     "short": "Boswell (knee) is out for Wednesday's season opener against the Nets.",
     "relevant": null
   },
-  "5105555": {
-    "name": "Tobe Awaka",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Awaka (ankle) is out for Wednesday's game against the Knicks, Joel Lorenzi of The Athletic reports.",
-    "relevant": false
-  },
   "4431687": {
     "name": "Patrick Williams",
     "team": "CHI",
     "status": "Out",
-    "short": "Williams (adductor) won't play in Wednesday's game against the Knicks, Joel Lorenzi of The Athletic reports.",
+    "short": "Williams (adductor) is questionable for Friday's game in Boston.",
+    "relevant": false
+  },
+  "4397189": {
+    "name": "Jalen Smith",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Smith is questionable for Friday's game against Boston with a left finger sprain.",
+    "relevant": null
+  },
+  "5105555": {
+    "name": "Tobe Awaka",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Awaka (ankle) is questionable for Friday's game in Boston.",
     "relevant": false
   },
   "4278067": {
@@ -82,6 +89,20 @@
     "status": "Out",
     "short": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
     "relevant": true
+  },
+  "5041951": {
+    "name": "Meleek Thomas",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Thomas (foot) is questionable for Thursday's game in Atlanta.",
+    "relevant": null
+  },
+  "4683747": {
+    "name": "Jaylon Tyson",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Tyson (neck) is questionable for Thursday's game against the Hawks.",
+    "relevant": null
   },
   "5279129": {
     "name": "Sergio de Larrea",
@@ -244,18 +265,18 @@
     "short": "Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the season, Michael Scotto of USA Today reports.",
     "relevant": null
   },
+  "5108024": {
+    "name": "Yanic Konan Niederhauser",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm Youngmisuk of ESPN.com reports.",
+    "relevant": false
+  },
   "4066648": {
     "name": "Rui Hachimura",
     "team": "LAC",
     "status": "Day-To-Day",
     "short": "Hachimura (quadriceps) has been ruled out for Wednesday's game against the Lakers, Joey Linn of SI.com reports.",
-    "relevant": false
-  },
-  "5108024": {
-    "name": "Yanic Konan Niederhauser",
-    "team": "LAC",
-    "status": "Out",
-    "short": "Niederhauser (foot) remains out for Wednesday's game against the Lakers. He also won't travel with the team for the upcoming two-game road trip in Minnesota and Golden State, Ohm Youngmisuk of ESPN.com reports.",
     "relevant": false
   },
   "4065778": {
@@ -325,7 +346,7 @@
     "name": "Anthony Edwards",
     "team": "MIN",
     "status": "Out",
-    "short": "Edwards will undergo arthroscopic right knee surgery and is expected to miss up to two months, Shams Charania of ESPN reports.",
+    "short": "Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",
     "relevant": true
   },
   "3934673": {
@@ -339,7 +360,7 @@
     "name": "Jordan Poole",
     "team": "NO",
     "status": "Day-To-Day",
-    "short": "Poole (ankle) won't return to Wednesday's game against the Nuggets. He finished with two points (1-3 FG, 0-1 3Pt), one rebound and one steal over seven minutes.",
+    "short": "Poole (ankle) is now doubtful for Thursday against the Kings.",
     "relevant": null
   },
   "5061589": {
@@ -402,7 +423,7 @@
     "name": "Jonathan Isaac",
     "team": "ORL",
     "status": "Out",
-    "short": "Isaac (knee) has been ruled out ahead of Wednesday's game against the Raptors.",
+    "short": "Isaac (knee) is out for Friday's game in Toronto.",
     "relevant": false
   },
   "4432165": {
@@ -475,6 +496,13 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "4066211": {
+    "name": "Robert Williams III",
+    "team": "POR",
+    "status": "Day-To-Day",
+    "short": "Williams (knee) is doubtful for Thursday's game against Memphis due to left knee injury management, according to the Trail Blazers.",
+    "relevant": null
+  },
   "4706557": {
     "name": "Chris Youngblood",
     "team": "POR",
@@ -531,19 +559,19 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
+  "6450": {
+    "name": "Kawhi Leonard",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports.",
+    "relevant": true
+  },
   "4432586": {
     "name": "Nate Bittle",
     "team": "TOR",
     "status": "Out",
     "short": "Bittle (foot) has been ruled out for Wednesday's game against the Magic, Cody Taylor of USA Today reports.",
     "relevant": false
-  },
-  "6450": {
-    "name": "Kawhi Leonard",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Leonard (knee) is expected to miss multiple weeks due to swelling in his left knee, Shams Charania of ESPN reports.",
-    "relevant": true
   },
   "4066336": {
     "name": "Lauri Markkanen",
