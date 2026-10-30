@@ -76,6 +76,13 @@
     "short": "Boswell (knee) is out for Wednesday's season opener against the Nets.",
     "relevant": null
   },
+  "4848625": {
+    "name": "Dailyn Swain",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Swain is listed as questionable for Friday's game at Boston due to lower-back soreness.",
+    "relevant": null
+  },
   "4397189": {
     "name": "Jalen Smith",
     "team": "CHI",
@@ -97,12 +104,26 @@
     "short": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
     "relevant": true
   },
+  "4683747": {
+    "name": "Jaylon Tyson",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Tyson (ankle) has been ruled out for Saturday's game against the Bucks.",
+    "relevant": false
+  },
   "5041951": {
     "name": "Meleek Thomas",
     "team": "CLE",
     "status": "Day-To-Day",
-    "short": "Thomas (foot) has been ruled out for Thursday's game against the Hawks, Serena Winters of FanDuel Sports Network Ohio reports.",
+    "short": "Thomas (foot) is questionable for Saturday's game against the Bucks.",
     "relevant": false
+  },
+  "4278594": {
+    "name": "Naji Marshall",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Marshall (illness) is probable for Friday's game against the Rockets.",
+    "relevant": true
   },
   "5148538": {
     "name": "Tarik Biberovic",
@@ -125,13 +146,6 @@
     "short": "De Larrea (knee) is out for Friday's game against the Rockets.",
     "relevant": false
   },
-  "4278594": {
-    "name": "Naji Marshall",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Marshall is questionable for Friday's game against the Rockets with an illness.",
-    "relevant": true
-  },
   "4683688": {
     "name": "Dereck Lively II",
     "team": "DAL",
@@ -143,14 +157,14 @@
     "name": "Alpha Diallo",
     "team": "DEN",
     "status": "Out",
-    "short": "Diallo (personal) is listed as questionable for Friday's game against the Suns.",
+    "short": "Diallo (personal) is doubtful for Friday's game against the Suns.",
     "relevant": false
   },
   "3138196": {
     "name": "Cameron Johnson",
     "team": "DEN",
     "status": "Out",
-    "short": "Johnson (ankle) is questionable for Friday's game against Phoenix.",
+    "short": "Johnson (ankle) is expected to play in Friday's game against the Suns, per John Gambadoro of Arizona Sports 98.7 FM.",
     "relevant": false
   },
   "4592427": {
@@ -170,8 +184,8 @@
   "4395702": {
     "name": "Isaiah Joe",
     "team": "DET",
-    "status": "Day-To-Day",
-    "short": "Joe (hip) is listed as questionable for Friday's game against Brooklyn.",
+    "status": "Out",
+    "short": "Joe (hip) has been ruled out for Friday's game against the Nets.",
     "relevant": false
   },
   "4433621": {
@@ -185,7 +199,7 @@
     "name": "Gui Santos",
     "team": "GS",
     "status": "Day-To-Day",
-    "short": "Santos (knee) is listed as doubtful for Friday's game against the Warriors.",
+    "short": "Santos (knee) is questionable for Friday's game against the Lakers.",
     "relevant": false
   },
   "3102531": {
@@ -213,7 +227,7 @@
     "name": "Reed Sheppard",
     "team": "HOU",
     "status": "Out",
-    "short": "Sheppard (back) is out for Friday's game against the Mavericks.",
+    "short": "Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",
     "relevant": true
   },
   "2990992": {
@@ -237,6 +251,27 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
+  "4278355": {
+    "name": "Obi Toppin",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Toppin (back) is questionable for Friday's game against the Heat.",
+    "relevant": null
+  },
+  "2530530": {
+    "name": "T.J. McConnell",
+    "team": "IND",
+    "status": "Out",
+    "short": "McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per Alex Golden of SI.com.",
+    "relevant": false
+  },
+  "5157066": {
+    "name": "Johnny Furphy",
+    "team": "IND",
+    "status": "Out",
+    "short": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
+    "relevant": false
+  },
   "4395712": {
     "name": "Andrew Nembhard",
     "team": "IND",
@@ -258,13 +293,6 @@
     "short": "Zubac (ankle) is out for Friday's game against the Heat.",
     "relevant": true
   },
-  "2530530": {
-    "name": "T.J. McConnell",
-    "team": "IND",
-    "status": "Out",
-    "short": "Pacers head coach Rick Carlisle stated McConnell (hamstring) is \"doing better\" and \"getting closer\" to a return, Alex Golden of SI.com reports.",
-    "relevant": false
-  },
   "4433076": {
     "name": "Ben Sheppard",
     "team": "IND",
@@ -279,18 +307,11 @@
     "short": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
     "relevant": true
   },
-  "5157066": {
-    "name": "Johnny Furphy",
-    "team": "IND",
-    "status": "Out",
-    "short": "Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the season, Michael Scotto of USA Today reports.",
-    "relevant": null
-  },
   "4066648": {
     "name": "Rui Hachimura",
     "team": "LAC",
     "status": "Day-To-Day",
-    "short": "Hachimura (quadriceps) is questionable for Friday's game against Minnesota, Tomer Azarly of ClutchPoints.com reports.",
+    "short": "Hachimura (quadriceps) is probable for Friday's game against Minnesota, per Ohm Youngmisuk of ESPN.com.",
     "relevant": false
   },
   "5108024": {
@@ -328,18 +349,18 @@
     "short": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
     "relevant": null
   },
+  "4433137": {
+    "name": "Ziaire Williams",
+    "team": "LAL",
+    "status": "Out",
+    "short": "Williams has been ruled out for Friday's game against the Warriors due to left foot injury management, Mark Medina of TheSportingTribune.com reports.",
+    "relevant": false
+  },
   "5060631": {
     "name": "Adou Thiero",
     "team": "LAL",
     "status": "Out",
     "short": "Thiero (knee) has been ruled out for Friday's game against the Warriors.",
-    "relevant": false
-  },
-  "4433137": {
-    "name": "Ziaire Williams",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "short": "Williams (foot) is questionable for Friday's game against Golden State.",
     "relevant": false
   },
   "4593016": {
@@ -353,7 +374,7 @@
     "name": "Simone Fontecchio",
     "team": "MIA",
     "status": "Day-To-Day",
-    "short": "Fontecchio (illness) is listed as questionable for Friday's game against Indiana.",
+    "short": "Fontecchio (illness) is probable for Friday's against the Pacers.",
     "relevant": false
   },
   "4594268": {
@@ -373,22 +394,22 @@
   "4277956": {
     "name": "Jordan Poole",
     "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Poole (ankle) has been ruled out for Thursday's game against the Kings.",
+    "status": "Out",
+    "short": "Poole (ankle) has been ruled out for Saturday's game against the Hawks.",
     "relevant": false
-  },
-  "3907497": {
-    "name": "Dejounte Murray",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Murray (personal) is out for Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports.",
-    "relevant": true
   },
   "5061589": {
     "name": "Yves Missi",
     "team": "NO",
     "status": "Out",
     "short": "Missi has been diagnosed with a left knee bone bruise and he will miss an extended period of time, Brett Siegel of ClutchPoints.com reports.",
+    "relevant": null
+  },
+  "3136195": {
+    "name": "Karl-Anthony Towns",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "short": "Towns (wrist) is listed as probable for Friday's game against Philadelphia.",
     "relevant": null
   },
   "4277869": {
@@ -475,19 +496,19 @@
     "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
     "relevant": null
   },
+  "3917376": {
+    "name": "Jaylen Brown",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Brown (knee) is doubtful for Friday's game against the Knicks.",
+    "relevant": null
+  },
   "4432446": {
     "name": "Jabari Walker",
     "team": "PHI",
     "status": "Out",
     "short": "Walker (knee) has been ruled out for Friday's game versus New York.",
     "relevant": false
-  },
-  "3917376": {
-    "name": "Jaylen Brown",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Brown (knee) is questionable for Friday's game against the Knicks.",
-    "relevant": null
   },
   "3904625": {
     "name": "Tacko Fall",
@@ -524,18 +545,18 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "4279888": {
+    "name": "Ja Morant",
+    "team": "POR",
+    "status": "Out",
+    "short": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday.",
+    "relevant": true
+  },
   "4066211": {
     "name": "Robert Williams III",
     "team": "POR",
     "status": "Day-To-Day",
     "short": "Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of the Trail Blazers' official site reports.",
-    "relevant": null
-  },
-  "4279888": {
-    "name": "Ja Morant",
-    "team": "POR",
-    "status": "Day-To-Day",
-    "short": "Morant won't return to Thursday's game against the Grizzlies due to a left hamstring injury. He'll end with 14 points (6-14 FG, 2-5 3Pt), two rebounds and three assists in 23 minutes.",
     "relevant": null
   },
   "4706557": {
