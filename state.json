@@ -34,6 +34,13 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
+  "3032979": {
+    "name": "Dennis Schroder",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "Schroder (foot) is questionable for Friday's game against the Wizards.",
+    "relevant": null
+  },
   "5061575": {
     "name": "Kon Knueppel",
     "team": "CHA",
@@ -93,44 +100,37 @@
   "5041951": {
     "name": "Meleek Thomas",
     "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Thomas (foot) is questionable for Thursday's game in Atlanta.",
-    "relevant": null
-  },
-  "4683747": {
-    "name": "Jaylon Tyson",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Tyson (neck) is questionable for Thursday's game against the Hawks.",
-    "relevant": null
-  },
-  "5279129": {
-    "name": "Sergio de Larrea",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "De Larrea (knee) has been ruled out for Wednesday's game against the Thunder.",
+    "status": "Out",
+    "short": "Thomas (foot) has been ruled out for Thursday's game against the Hawks, Serena Winters of FanDuel Sports Network Ohio reports.",
     "relevant": false
-  },
-  "4278594": {
-    "name": "Naji Marshall",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Marshall (illness) won't play in Wednesday's game against Oklahoma City.",
-    "relevant": true
   },
   "5148538": {
     "name": "Tarik Biberovic",
     "team": "DAL",
     "status": "Out",
-    "short": "Biberovic (knee) is out for Wednesday's game against the Thunder.",
+    "short": "Biberovic (heel) is listed as doubtful for Friday's game versus the Rockets.",
     "relevant": false
   },
   "4593125": {
     "name": "Santi Aldama",
     "team": "DAL",
     "status": "Out",
-    "short": "Aldama (knee) is out for Wednesday's game against the Thunder.",
+    "short": "Aldama (knee) is listed as doubtful for Friday's game against Houston.",
     "relevant": false
+  },
+  "5279129": {
+    "name": "Sergio de Larrea",
+    "team": "DAL",
+    "status": "Out",
+    "short": "De Larrea (knee) is out for Friday's game against the Rockets.",
+    "relevant": false
+  },
+  "4278594": {
+    "name": "Naji Marshall",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Marshall is questionable for Friday's game against the Rockets with an illness.",
+    "relevant": true
   },
   "4683688": {
     "name": "Dereck Lively II",
@@ -139,11 +139,18 @@
     "short": "Lively (foot) has been ruled out for Friday's game against the Pacers.",
     "relevant": null
   },
+  "4065813": {
+    "name": "Alpha Diallo",
+    "team": "DEN",
+    "status": "Out",
+    "short": "Diallo (personal) is listed as questionable for Friday's game against the Suns.",
+    "relevant": false
+  },
   "3138196": {
     "name": "Cameron Johnson",
     "team": "DEN",
     "status": "Out",
-    "short": "Johnson (ankle) is listed as out for Wednesday's game against the Pelicans.",
+    "short": "Johnson (ankle) is questionable for Friday's game against Phoenix.",
     "relevant": false
   },
   "4592427": {
@@ -151,13 +158,6 @@
     "team": "DEN",
     "status": "Out",
     "short": "Jones (hamstring) has been ruled out for Wednesday's game against New Orleans.",
-    "relevant": false
-  },
-  "4065813": {
-    "name": "Alpha Diallo",
-    "team": "DEN",
-    "status": "Out",
-    "short": "Diallo is out for Wednesday's game against the Pelicans due to personal reasons.",
     "relevant": false
   },
   "4432181": {
@@ -171,7 +171,7 @@
     "name": "Isaiah Joe",
     "team": "DET",
     "status": "Day-To-Day",
-    "short": "Joe (hip) is out for Wednesday's game against the Hornets.",
+    "short": "Joe (hip) is listed as questionable for Friday's game against Brooklyn.",
     "relevant": false
   },
   "4433621": {
@@ -209,19 +209,26 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
-  "4871144": {
-    "name": "Alperen Sengun",
+  "4711272": {
+    "name": "Reed Sheppard",
     "team": "HOU",
-    "status": "Day-To-Day",
-    "short": "Sengun (back) has been ruled out for Wednesday's game against the Bucks.",
+    "status": "Out",
+    "short": "Sheppard (back) is out for Friday's game against the Mavericks.",
     "relevant": true
   },
   "2990992": {
     "name": "Marcus Smart",
     "team": "HOU",
     "status": "Out",
-    "short": "Smart (forearm) is out for Wednesday's game against the Bucks.",
+    "short": "Smart (forearm) is questionable for Friday's game against the Mavericks.",
     "relevant": false
+  },
+  "4871144": {
+    "name": "Alperen Sengun",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "short": "Sengun (back) is questionable for Friday's game against the Mavericks.",
+    "relevant": true
   },
   "2991235": {
     "name": "Steven Adams",
@@ -230,11 +237,25 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
+  "4395712": {
+    "name": "Andrew Nembhard",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Nembhard (neck) is listed as probable for Friday's game against Miami.",
+    "relevant": null
+  },
+  "4396909": {
+    "name": "Aaron Nesmith",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Nesmith (hamstring) is probable for Friday's game against the Heat.",
+    "relevant": null
+  },
   "4017837": {
     "name": "Ivica Zubac",
     "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Zubac (ankle) is out for Wednesday's game against the 76ers.",
+    "status": "Out",
+    "short": "Zubac (ankle) is out for Friday's game against the Heat.",
     "relevant": true
   },
   "2530530": {
@@ -265,18 +286,18 @@
     "short": "Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the season, Michael Scotto of USA Today reports.",
     "relevant": null
   },
+  "4066648": {
+    "name": "Rui Hachimura",
+    "team": "LAC",
+    "status": "Day-To-Day",
+    "short": "Hachimura (quadriceps) is questionable for Friday's game against Minnesota, Tomer Azarly of ClutchPoints.com reports.",
+    "relevant": false
+  },
   "5108024": {
     "name": "Yanic Konan Niederhauser",
     "team": "LAC",
     "status": "Out",
     "short": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm Youngmisuk of ESPN.com reports.",
-    "relevant": false
-  },
-  "4066648": {
-    "name": "Rui Hachimura",
-    "team": "LAC",
-    "status": "Day-To-Day",
-    "short": "Hachimura (quadriceps) has been ruled out for Wednesday's game against the Lakers, Joey Linn of SI.com reports.",
     "relevant": false
   },
   "4065778": {
@@ -339,7 +360,7 @@
     "name": "Simone Fontecchio",
     "team": "MIA",
     "status": "Day-To-Day",
-    "short": "Fontecchio (illness) is out for Wednesday's game against the Hawks.",
+    "short": "Fontecchio (illness) is listed as questionable for Friday's game against Indiana.",
     "relevant": false
   },
   "4594268": {
@@ -356,12 +377,19 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
+  "3907497": {
+    "name": "Dejounte Murray",
+    "team": "NO",
+    "status": "Out",
+    "short": "Murray (personal) is out for Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports.",
+    "relevant": true
+  },
   "4277956": {
     "name": "Jordan Poole",
     "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Poole (ankle) is now doubtful for Thursday against the Kings.",
-    "relevant": null
+    "status": "Out",
+    "short": "Poole (ankle) has been ruled out for Thursday's game against the Kings.",
+    "relevant": false
   },
   "5061589": {
     "name": "Yves Missi",
@@ -374,7 +402,7 @@
     "name": "Jose Alvarado",
     "team": "NY",
     "status": "Out",
-    "short": "Alvarado (ankle) is out for Wednesday's game against the Bulls.",
+    "short": "Alvarado (ankle) has been ruled out for Friday's game against Philadelphia.",
     "relevant": false
   },
   "4433255": {
@@ -457,9 +485,16 @@
   "4432446": {
     "name": "Jabari Walker",
     "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Walker (knee) has been ruled out for Wednesday's game against the Pacers.",
+    "status": "Out",
+    "short": "Walker (knee) has been ruled out for Friday's game versus New York.",
     "relevant": false
+  },
+  "3917376": {
+    "name": "Jaylen Brown",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Brown (knee) is questionable for Friday's game against the Knicks.",
+    "relevant": null
   },
   "3904625": {
     "name": "Tacko Fall",
@@ -605,7 +640,7 @@
     "name": "Tre Johnson",
     "team": "WSH",
     "status": "Day-To-Day",
-    "short": "Johnson has been ruled out for Wednesday's game against the Cavaliers due to right Achilles soreness.",
+    "short": "Johnson (Achilles) is listed as questionable for Friday's game against Charlotte.",
     "relevant": false
   },
   "4432907": {
