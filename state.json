@@ -100,7 +100,7 @@
   "5041951": {
     "name": "Meleek Thomas",
     "team": "CLE",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Thomas (foot) has been ruled out for Thursday's game against the Hawks, Serena Winters of FanDuel Sports Network Ohio reports.",
     "relevant": false
   },
@@ -185,7 +185,7 @@
     "name": "Gui Santos",
     "team": "GS",
     "status": "Day-To-Day",
-    "short": "Santos has been ruled out for Wednesday's game against the Timberwolves due to left knee tendinitis.",
+    "short": "Santos (knee) is listed as doubtful for Friday's game against the Warriors.",
     "relevant": false
   },
   "3102531": {
@@ -328,33 +328,33 @@
     "short": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
     "relevant": null
   },
-  "4433137": {
-    "name": "Ziaire Williams",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "short": "Williams (foot) is out for Wednesday's game against the Clippers.",
-    "relevant": false
-  },
-  "3945274": {
-    "name": "Luka Doncic",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "short": "Doncic (back) is out for Wednesday's game against the Clippers.",
-    "relevant": true
-  },
   "5113969": {
     "name": "Cameron Carr",
     "team": "LAL",
     "status": "Out",
-    "short": "Carr (oblique) is out for Wednesday's game against the Clippers.",
+    "short": "Carr (oblique) has been ruled out for Friday's game against Golden State.",
     "relevant": false
   },
   "5060631": {
     "name": "Adou Thiero",
     "team": "LAL",
     "status": "Out",
-    "short": "Thiero (knee) is out for Wednesday's game against the Clippers.",
+    "short": "Thiero (knee) has been ruled out for Friday's game against the Warriors.",
     "relevant": false
+  },
+  "4433137": {
+    "name": "Ziaire Williams",
+    "team": "LAL",
+    "status": "Day-To-Day",
+    "short": "Williams (foot) is questionable for Friday's game against Golden State.",
+    "relevant": false
+  },
+  "4593016": {
+    "name": "Quinten Post",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "short": "Post (ankle) didn't return to Thursday's game against Portland. He recorded 10 points (3-5 FG, 2-3 3Pt, 2-2 FT) and four rebounds in seven minutes before exiting.",
+    "relevant": null
   },
   "3899664": {
     "name": "Simone Fontecchio",
@@ -377,19 +377,19 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
-  "3907497": {
-    "name": "Dejounte Murray",
-    "team": "NO",
-    "status": "Out",
-    "short": "Murray (personal) is out for Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports.",
-    "relevant": true
-  },
   "4277956": {
     "name": "Jordan Poole",
     "team": "NO",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Poole (ankle) has been ruled out for Thursday's game against the Kings.",
     "relevant": false
+  },
+  "3907497": {
+    "name": "Dejounte Murray",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "short": "Murray (personal) is out for Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports.",
+    "relevant": true
   },
   "5061589": {
     "name": "Yves Missi",
@@ -521,7 +521,7 @@
     "name": "Oso Ighodaro",
     "team": "PHX",
     "status": "Day-To-Day",
-    "short": "Ighodaro (oblique) is feeling better and considered day-to-day ahead of Friday's game against the Nuggets, John Gambadoro of Arizona Sports 98.7 FM reports.",
+    "short": "Ighodaro (oblique) is listed as questionable for Friday's game against Denver.",
     "relevant": false
   },
   "4701232": {
@@ -535,7 +535,14 @@
     "name": "Robert Williams III",
     "team": "POR",
     "status": "Day-To-Day",
-    "short": "Williams (knee) is doubtful for Thursday's game against Memphis due to left knee injury management, according to the Trail Blazers.",
+    "short": "Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of the Trail Blazers' official site reports.",
+    "relevant": null
+  },
+  "4279888": {
+    "name": "Ja Morant",
+    "team": "POR",
+    "status": "Day-To-Day",
+    "short": "Morant won't return to Thursday's game against the Grizzlies due to a left hamstring injury. He'll end with 14 points (6-14 FG, 2-5 3Pt), two rebounds and three assists in 23 minutes.",
     "relevant": null
   },
   "4706557": {
