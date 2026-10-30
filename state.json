@@ -20,6 +20,13 @@
     "short": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary Washburn of The Boston Globe reports.",
     "relevant": null
   },
+  "4712896": {
+    "name": "Noah Clowney",
+    "team": "BKN",
+    "status": "Day-To-Day",
+    "short": "Clowney (illness) was downgraded to questionable for Friday's game versus Detroit, Erik Slater of ClutchPoints.com reports.",
+    "relevant": null
+  },
   "5175643": {
     "name": "Egor Demin",
     "team": "BKN",
@@ -38,14 +45,14 @@
     "name": "Dennis Schroder",
     "team": "CHA",
     "status": "Day-To-Day",
-    "short": "Schroder (foot) is questionable for Friday's game against the Wizards.",
+    "short": "Schroder (foot) is probable for Friday against the Wizards.",
     "relevant": null
   },
   "5061575": {
     "name": "Kon Knueppel",
     "team": "CHA",
     "status": "Out",
-    "short": "Knueppel (hamstring) will practice with the G League's Greensboro Swarm on Thursday, the Hornets announced.",
+    "short": "Knueppel (hamstring) was recalled from the G League's Greensboro Swarm on Friday. He remains out for Friday's contest against the Wizards.",
     "relevant": true
   },
   "4395651": {
@@ -68,13 +75,6 @@
     "status": "Out",
     "short": "Boswell (knee) is out for Wednesday's season opener against the Nets.",
     "relevant": null
-  },
-  "4431687": {
-    "name": "Patrick Williams",
-    "team": "CHI",
-    "status": "Out",
-    "short": "Williams (adductor) is questionable for Friday's game in Boston.",
-    "relevant": false
   },
   "4397189": {
     "name": "Jalen Smith",
@@ -327,13 +327,6 @@
     "status": "Out",
     "short": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
     "relevant": null
-  },
-  "5113969": {
-    "name": "Cameron Carr",
-    "team": "LAL",
-    "status": "Out",
-    "short": "Carr (oblique) has been ruled out for Friday's game against Golden State.",
-    "relevant": false
   },
   "5060631": {
     "name": "Adou Thiero",
