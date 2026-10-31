@@ -13,6 +13,13 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
+  "4351852": {
+    "name": "Mitchell Robinson",
+    "team": "BOS",
+    "status": "Day-To-Day",
+    "short": "Robinson (rest) is questionable for Sunday's game in Orlando, Jay King of The Athletic reports.",
+    "relevant": null
+  },
   "4433188": {
     "name": "Devin Carter",
     "team": "BOS",
@@ -76,18 +83,18 @@
     "short": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
     "relevant": true
   },
+  "5041951": {
+    "name": "Meleek Thomas",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Thomas (foot) has been upgraded to probable ahead of Saturday's meeting in Milwaukee.",
+    "relevant": false
+  },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
     "status": "Out",
     "short": "Tyson (ankle) has been ruled out for Saturday's game against the Bucks.",
-    "relevant": false
-  },
-  "5041951": {
-    "name": "Meleek Thomas",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Thomas (foot) is questionable for Saturday's game against the Bucks.",
     "relevant": false
   },
   "5279129": {
@@ -151,6 +158,27 @@
     "team": "DET",
     "status": "Out",
     "short": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
+    "relevant": true
+  },
+  "4997536": {
+    "name": "Gui Santos",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "short": "Santos (knee) is probable for Sunday's game against the Clippers.",
+    "relevant": null
+  },
+  "6589": {
+    "name": "Draymond Green",
+    "team": "GS",
+    "status": "Out",
+    "short": "Green (back) is out for Sunday's game against the Clippers.",
+    "relevant": true
+  },
+  "3975": {
+    "name": "Stephen Curry",
+    "team": "GS",
+    "status": "Out",
+    "short": "Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com reports.",
     "relevant": true
   },
   "3102531": {
@@ -305,6 +333,13 @@
     "team": "MEM",
     "status": "Day-To-Day",
     "short": "Post (ankle) is doubtful for Friday's game against the Kings.",
+    "relevant": null
+  },
+  "3032976": {
+    "name": "Rudy Gobert",
+    "team": "MIN",
+    "status": "Day-To-Day",
+    "short": "Gobert (back) is listed as questionable for Saturday's game at San Antonio.",
     "relevant": null
   },
   "4594268": {
@@ -475,20 +510,6 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
-  "4066211": {
-    "name": "Robert Williams III",
-    "team": "POR",
-    "status": "Day-To-Day",
-    "short": "Williams (knee) is questionable for Saturday's game against the Jazz.",
-    "relevant": null
-  },
-  "4706557": {
-    "name": "Chris Youngblood",
-    "team": "POR",
-    "status": "Out",
-    "short": "Youngblood (ankle) is questionable for Saturday's game against Utah.",
-    "relevant": false
-  },
   "4279888": {
     "name": "Ja Morant",
     "team": "POR",
@@ -531,6 +552,13 @@
     "short": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
     "relevant": null
   },
+  "4845367": {
+    "name": "Stephon Castle",
+    "team": "SA",
+    "status": "Day-To-Day",
+    "short": "Castle (migraine) is questionable for Saturday's game against the Timberwolves, Paul Garcia of ProjectSpurs.com reports.",
+    "relevant": null
+  },
   "6440": {
     "name": "Tobias Harris",
     "team": "SA",
@@ -558,13 +586,6 @@
     "status": "Out",
     "short": "Bittle (foot) has been ruled out for Wednesday's game against the Magic, Cody Taylor of USA Today reports.",
     "relevant": false
-  },
-  "4066336": {
-    "name": "Lauri Markkanen",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Markkanen (wrist) is listed as questionable for Saturday's game against Portland.",
-    "relevant": true
   },
   "4277961": {
     "name": "Jaren Jackson Jr.",
