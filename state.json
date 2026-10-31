@@ -177,15 +177,15 @@
   "4711272": {
     "name": "Reed Sheppard",
     "team": "HOU",
-    "status": "Day-To-Day",
-    "short": "Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",
+    "status": "Out",
+    "short": "Sheppard (back) is out for Saturday's game against the Thunder.",
     "relevant": true
   },
-  "4871144": {
-    "name": "Alperen Sengun",
+  "2991230": {
+    "name": "Fred VanVleet",
     "team": "HOU",
-    "status": "Day-To-Day",
-    "short": "Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",
+    "status": "Out",
+    "short": "VanVleet (knee) won't play Saturday against the Thunder.",
     "relevant": true
   },
   "2991235": {
@@ -419,26 +419,40 @@
     "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
     "relevant": null
   },
-  "3917376": {
-    "name": "Jaylen Brown",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Brown (knee) is out for Friday's game against the Knicks.",
-    "relevant": true
-  },
   "4432446": {
     "name": "Jabari Walker",
     "team": "PHI",
     "status": "Out",
-    "short": "Walker (knee) has been ruled out for Friday's game versus New York.",
+    "short": "Walker (knee) is questionable for Saturday's game in Charlotte.",
     "relevant": false
+  },
+  "1966": {
+    "name": "LeBron James",
+    "team": "PHI",
+    "status": "Out",
+    "short": "James (back) has been ruled out for Saturday's meeting in Charlotte.",
+    "relevant": true
   },
   "3904625": {
     "name": "Tacko Fall",
     "team": "PHI",
     "status": "Out",
-    "short": "Fall (quadriceps) is out for Wednesday's game in Indiana.",
+    "short": "Fall (quad) is questionable to face the Hornets on Saturday.",
     "relevant": false
+  },
+  "3059318": {
+    "name": "Joel Embiid",
+    "team": "PHI",
+    "status": "Out",
+    "short": "Embiid (foot) is out for Saturday's game in Charlotte.",
+    "relevant": true
+  },
+  "3917376": {
+    "name": "Jaylen Brown",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Brown (knee) is questionable for Saturday's game in Charlotte.",
+    "relevant": true
   },
   "4870562": {
     "name": "Dominick Barlow",
