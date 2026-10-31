@@ -65,7 +65,7 @@
   "4848625": {
     "name": "Dailyn Swain",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Swain (back) has been ruled out for Friday's game against Boston.",
     "relevant": false
   },
@@ -125,13 +125,6 @@
     "short": "Diallo (personal/wrist) has been ruled out for Friday's game against Phoenix, Vic Lombardi of Altitude Sports reports.",
     "relevant": false
   },
-  "3138196": {
-    "name": "Cameron Johnson",
-    "team": "DEN",
-    "status": "Out",
-    "short": "Johnson (ankle) is expected to play in Friday's game against the Suns, per John Gambadoro of Arizona Sports 98.7 FM.",
-    "relevant": false
-  },
   "4592427": {
     "name": "Spencer Jones",
     "team": "DEN",
@@ -181,18 +174,18 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
-  "4871144": {
-    "name": "Alperen Sengun",
-    "team": "HOU",
-    "status": "Out",
-    "short": "Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",
-    "relevant": true
-  },
   "4711272": {
     "name": "Reed Sheppard",
     "team": "HOU",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",
+    "relevant": true
+  },
+  "4871144": {
+    "name": "Alperen Sengun",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "short": "Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",
     "relevant": true
   },
   "2991235": {
@@ -205,7 +198,7 @@
   "4278355": {
     "name": "Obi Toppin",
     "team": "IND",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Toppin (back) has been ruled out for Friday's game against Miami.",
     "relevant": false
   },
@@ -282,7 +275,7 @@
   "4433137": {
     "name": "Ziaire Williams",
     "team": "LAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Williams has been ruled out for Friday's game against the Warriors due to left foot injury management, Mark Medina of TheSportingTribune.com reports.",
     "relevant": false
   },
@@ -349,11 +342,18 @@
     "short": "Alvarado (ankle) has been ruled out for Friday's game against Philadelphia.",
     "relevant": false
   },
+  "4683692": {
+    "name": "Cason Wallace",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",
+    "relevant": true
+  },
   "4433255": {
     "name": "Chet Holmgren",
     "team": "OKC",
     "status": "Out",
-    "short": "Holmgren (knee) remains out for Saturday's road game against Houston, Justin Martinez of The Oklahoman reports.",
+    "short": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",
     "relevant": true
   },
   "4593803": {
@@ -383,13 +383,6 @@
     "status": "Out",
     "short": "Topic (back) will remain on the inactive list for Wednesday's game in Dallas.",
     "relevant": false
-  },
-  "4683692": {
-    "name": "Cason Wallace",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Wallace has been diagnosed with a torn labrum in his left shoulder and will require surgery, Shams Charania of ESPN reports.",
-    "relevant": true
   },
   "4065654": {
     "name": "Jonathan Isaac",
@@ -429,7 +422,7 @@
   "3917376": {
     "name": "Jaylen Brown",
     "team": "PHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Brown (knee) is out for Friday's game against the Knicks.",
     "relevant": true
   },
@@ -460,13 +453,6 @@
     "status": "Out",
     "short": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
     "relevant": null
-  },
-  "4601023": {
-    "name": "Oso Ighodaro",
-    "team": "PHX",
-    "status": "Day-To-Day",
-    "short": "Ighodaro (oblique) is listed as questionable for Friday's game against Denver.",
-    "relevant": false
   },
   "4701232": {
     "name": "Mark Williams",
