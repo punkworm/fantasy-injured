@@ -94,7 +94,7 @@
     "name": "Nic Claxton",
     "team": "CHI",
     "status": "Out",
-    "short": "Claxton (hamstring) was a full participant in Sunday's practice, K.C. Johnson of Chicago Sports Network.",
+    "short": "Claxton (hamstring) is listed as doubtful for Monday's game against Philadelphia.",
     "relevant": true
   },
   "4848625": {
@@ -314,18 +314,18 @@
     "short": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
     "relevant": null
   },
+  "4433137": {
+    "name": "Ziaire Williams",
+    "team": "LAL",
+    "status": "Out",
+    "short": "Williams (foot) is out for Sunday's game against the Raptors.",
+    "relevant": false
+  },
   "5060631": {
     "name": "Adou Thiero",
     "team": "LAL",
     "status": "Out",
     "short": "Thiero (knee) has been ruled out for Sunday's game against the Raptors.",
-    "relevant": false
-  },
-  "4433137": {
-    "name": "Ziaire Williams",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "short": "Williams (foot) is questionable for Sunday's game against the Raptors, Law Murray of The Athletic reports.",
     "relevant": false
   },
   "4593016": {
