@@ -27,6 +27,13 @@
     "short": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary Washburn of The Boston Globe reports.",
     "relevant": null
   },
+  "5101761": {
+    "name": "Mikel Brown Jr.",
+    "team": "BKN",
+    "status": "Out",
+    "short": "Brown (rest) is out for Sunday's game in Indiana.",
+    "relevant": false
+  },
   "5175643": {
     "name": "Egor Demin",
     "team": "BKN",
@@ -82,13 +89,6 @@
     "status": "Out",
     "short": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",
     "relevant": true
-  },
-  "5041951": {
-    "name": "Meleek Thomas",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Thomas (foot) has been upgraded to probable ahead of Saturday's meeting in Milwaukee.",
-    "relevant": false
   },
   "4683747": {
     "name": "Jaylon Tyson",
@@ -223,11 +223,25 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
+  "4017837": {
+    "name": "Ivica Zubac",
+    "team": "IND",
+    "status": "Out",
+    "short": "Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets.",
+    "relevant": true
+  },
+  "4396909": {
+    "name": "Aaron Nesmith",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Nesmith (hamstring) is listed as probable for Sunday's game against Brooklyn.",
+    "relevant": null
+  },
   "4278355": {
     "name": "Obi Toppin",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "Toppin (back) has been ruled out for Friday's game against Miami.",
+    "short": "Toppin (back) is questionable for Sunday's game against the Nets.",
     "relevant": false
   },
   "2530530": {
@@ -243,13 +257,6 @@
     "status": "Out",
     "short": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
     "relevant": false
-  },
-  "4017837": {
-    "name": "Ivica Zubac",
-    "team": "IND",
-    "status": "Out",
-    "short": "Zubac (ankle) is out for Friday's game against the Heat.",
-    "relevant": true
   },
   "4433076": {
     "name": "Ben Sheppard",
@@ -314,33 +321,33 @@
     "short": "Thiero (knee) has been ruled out for Friday's game against the Warriors.",
     "relevant": false
   },
-  "4431785": {
-    "name": "Scotty Pippen Jr.",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Pippen (back) is listed as questionable for Saturday's game against the Kings.",
-    "relevant": null
-  },
   "4065733": {
     "name": "Ty Jerome",
     "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Jerome (back) is listed as questionable for Saturday's game against the Kings.",
-    "relevant": null
+    "status": "Out",
+    "short": "Jerome (back) won't play in Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian.",
+    "relevant": true
+  },
+  "4431785": {
+    "name": "Scotty Pippen Jr.",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Pippen (back) has been ruled out for Saturday's game against the Kings, Chris Herrington of The Daily Memphian reports.",
+    "relevant": false
   },
   "4593016": {
     "name": "Quinten Post",
     "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Post (ankle) is doubtful for Friday's game against the Kings.",
-    "relevant": null
+    "status": "Out",
+    "short": "Post (ankle) has been ruled out for Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian reports.",
+    "relevant": false
   },
   "3032976": {
     "name": "Rudy Gobert",
     "team": "MIN",
-    "status": "Day-To-Day",
-    "short": "Gobert (back) is listed as questionable for Saturday's game at San Antonio.",
-    "relevant": null
+    "status": "Out",
+    "short": "Gobert (back) is out for Saturday's game against the Spurs, Dane Moore of 'The Dane Moore NBA Podcast' reports.",
+    "relevant": true
   },
   "4594268": {
     "name": "Anthony Edwards",
@@ -355,6 +362,13 @@
     "status": "Out",
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
+  },
+  "3907497": {
+    "name": "Dejounte Murray",
+    "team": "NO",
+    "status": "Out",
+    "short": "Murray (personal) won't play in Saturday's game against the Hawks, Jim Eichenhofer of the Pelicans' official site reports.",
+    "relevant": true
   },
   "5061589": {
     "name": "Yves Missi",
@@ -454,13 +468,6 @@
     "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
     "relevant": null
   },
-  "4432446": {
-    "name": "Jabari Walker",
-    "team": "PHI",
-    "status": "Out",
-    "short": "Walker (knee) is questionable for Saturday's game in Charlotte.",
-    "relevant": false
-  },
   "1966": {
     "name": "LeBron James",
     "team": "PHI",
@@ -468,25 +475,11 @@
     "short": "James (back) has been ruled out for Saturday's meeting in Charlotte.",
     "relevant": true
   },
-  "3904625": {
-    "name": "Tacko Fall",
-    "team": "PHI",
-    "status": "Out",
-    "short": "Fall (quad) is questionable to face the Hornets on Saturday.",
-    "relevant": false
-  },
   "3059318": {
     "name": "Joel Embiid",
     "team": "PHI",
     "status": "Out",
     "short": "Embiid (foot) is out for Saturday's game in Charlotte.",
-    "relevant": true
-  },
-  "3917376": {
-    "name": "Jaylen Brown",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Brown (knee) is questionable for Saturday's game in Charlotte.",
     "relevant": true
   },
   "4870562": {
@@ -550,13 +543,6 @@
     "team": "SAC",
     "status": "Out",
     "short": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
-    "relevant": null
-  },
-  "4845367": {
-    "name": "Stephon Castle",
-    "team": "SA",
-    "status": "Day-To-Day",
-    "short": "Castle (migraine) is questionable for Saturday's game against the Timberwolves, Paul Garcia of ProjectSpurs.com reports.",
     "relevant": null
   },
   "6440": {
