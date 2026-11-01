@@ -118,6 +118,13 @@
     "short": "Tyson (ankle) has been ruled out for Monday's game against Oklahoma City.",
     "relevant": false
   },
+  "5148538": {
+    "name": "Tarik Biberovic",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Biberovic (heel) is listed as out for Monday's game against Sacramento.",
+    "relevant": false
+  },
   "4683688": {
     "name": "Dereck Lively II",
     "team": "DAL",
@@ -144,13 +151,6 @@
     "team": "DAL",
     "status": "Out",
     "short": "Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",
-    "relevant": false
-  },
-  "5148538": {
-    "name": "Tarik Biberovic",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Biberovic (heel) is out for Friday's game against the Rockets.",
     "relevant": false
   },
   "4065813": {
@@ -342,18 +342,18 @@
     "short": "Thiero (knee) has been ruled out for Sunday's game against the Raptors.",
     "relevant": false
   },
-  "4593016": {
-    "name": "Quinten Post",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Post (ankle) has been ruled out for Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian reports.",
-    "relevant": false
-  },
   "4431785": {
     "name": "Scotty Pippen Jr.",
     "team": "MEM",
     "status": "Day-To-Day",
-    "short": "Pippen (back) has been ruled out for Saturday's game against the Kings, Chris Herrington of The Daily Memphian reports.",
+    "short": "Pippen (back) is listed as doubtful for Monday's game against the Pelicans.",
+    "relevant": false
+  },
+  "4593016": {
+    "name": "Quinten Post",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "short": "Post (ankle) is questionable to suit up for Monday's game against New Orleans.",
     "relevant": false
   },
   "4594268": {
