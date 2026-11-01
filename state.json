@@ -118,19 +118,26 @@
     "short": "Tyson (ankle) has been ruled out for Monday's game against Oklahoma City.",
     "relevant": false
   },
-  "4593125": {
-    "name": "Santi Aldama",
+  "4683688": {
+    "name": "Dereck Lively II",
     "team": "DAL",
     "status": "Out",
-    "short": "Aldama (knee) is listed as doubtful for Monday's game against the Kings.",
+    "short": "Lively (foot) is listed as out for Monday's game against the Kings.",
     "relevant": false
   },
   "6442": {
     "name": "Kyrie Irving",
     "team": "DAL",
     "status": "Day-To-Day",
-    "short": "Irving closed Friday's 116-111 win over Houston with 35 points (12-19 FG, 5-8 3Pt, 6-6 FT), four rebounds and nine assists across 35 minutes.",
+    "short": "Irving (knee) is questionable to play Monday against the Kings.",
     "relevant": null
+  },
+  "4593125": {
+    "name": "Santi Aldama",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Aldama (knee) is listed as doubtful for Monday's game against the Kings.",
+    "relevant": false
   },
   "5279129": {
     "name": "Sergio de Larrea",
@@ -145,13 +152,6 @@
     "status": "Out",
     "short": "Biberovic (heel) is out for Friday's game against the Rockets.",
     "relevant": false
-  },
-  "4683688": {
-    "name": "Dereck Lively II",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Lively (foot) has been ruled out for Friday's game against the Pacers.",
-    "relevant": null
   },
   "4065813": {
     "name": "Alpha Diallo",
@@ -355,20 +355,6 @@
     "status": "Day-To-Day",
     "short": "Pippen (back) has been ruled out for Saturday's game against the Kings, Chris Herrington of The Daily Memphian reports.",
     "relevant": false
-  },
-  "4065733": {
-    "name": "Ty Jerome",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Jerome (back) won't play in Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian.",
-    "relevant": true
-  },
-  "3032976": {
-    "name": "Rudy Gobert",
-    "team": "MIN",
-    "status": "Day-To-Day",
-    "short": "Gobert (back) is out for Saturday's game against the Spurs, Dane Moore of 'The Dane Moore NBA Podcast' reports.",
-    "relevant": true
   },
   "4594268": {
     "name": "Anthony Edwards",
