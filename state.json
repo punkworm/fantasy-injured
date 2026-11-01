@@ -1,17 +1,17 @@
 {
-  "3146557": {
-    "name": "Jock Landale",
-    "team": "ATL",
-    "status": "Day-To-Day",
-    "short": "Landale (hip) won't return to Saturday's game against the Pelicans.",
-    "relevant": null
-  },
   "4701230": {
     "name": "Jalen Johnson",
     "team": "ATL",
     "status": "Day-To-Day",
-    "short": "Johnson (ankle) did not return to Saturday's 121-99 loss to the Pelicans. He finished with 13 points (5-11 FG, 1-3 3Pt, 2-2 FT), seven rebounds, four assists and one block over 28 minutes.",
+    "short": "Johnson (ankle) is questionable to play Monday against the Pacers.",
     "relevant": null
+  },
+  "3146557": {
+    "name": "Jock Landale",
+    "team": "ATL",
+    "status": "Out",
+    "short": "Landale (hip) has been ruled out for Monday's game against Indiana.",
+    "relevant": false
   },
   "4712863": {
     "name": "Mouhamed Gueye",
@@ -62,19 +62,19 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
-  "4066218": {
-    "name": "Grant Williams",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Williams (hamstring) is listed as out for Monday's game against the Pistons.",
-    "relevant": false
-  },
   "5061575": {
     "name": "Kon Knueppel",
     "team": "CHA",
     "status": "Out",
     "short": "Knueppel (hamstring) is listed as out for Monday's game versus the Pistons.",
     "relevant": true
+  },
+  "4066218": {
+    "name": "Grant Williams",
+    "team": "CHA",
+    "status": "Out",
+    "short": "Williams (hamstring) will be re-evaluated following Charlotte's upcoming two-game road trip, Rod Boone reports.",
+    "relevant": false
   },
   "4397189": {
     "name": "Jalen Smith",
@@ -171,7 +171,7 @@
     "name": "Isaiah Joe",
     "team": "DET",
     "status": "Out",
-    "short": "Joe (hip) has been ruled out for Friday's game against the Nets.",
+    "short": "Joe (hip) is questionable for Friday's game against the Hornets.",
     "relevant": false
   },
   "4433621": {
@@ -402,7 +402,7 @@
     "name": "Jose Alvarado",
     "team": "NY",
     "status": "Out",
-    "short": "Alvarado (ankle) has been ruled out for Friday's game against Philadelphia.",
+    "short": "Alvarado (ankle) is questionable for Monday's game against the Nets.",
     "relevant": false
   },
   "4683692": {
@@ -486,14 +486,7 @@
     "name": "Joel Embiid",
     "team": "PHI",
     "status": "Day-To-Day",
-    "short": "Embiid (foot) is out for Saturday's game in Charlotte.",
-    "relevant": true
-  },
-  "1966": {
-    "name": "LeBron James",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "James (back) has been ruled out for Saturday's meeting in Charlotte.",
+    "short": "Embiid (foot) is questionable to suit up for Monday's game against the Bulls.",
     "relevant": true
   },
   "4870562": {
