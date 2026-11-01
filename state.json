@@ -286,6 +286,20 @@
     "short": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "5108024": {
+    "name": "Yanic Konan Niederhauser",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm Youngmisuk of ESPN.com reports.",
+    "relevant": false
+  },
+  "3913176": {
+    "name": "Brandon Ingram",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
+    "relevant": true
+  },
   "4065778": {
     "name": "Max Strus",
     "team": "LAC",
@@ -363,11 +377,18 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
+  "4397688": {
+    "name": "Trey Murphy III",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "short": "Murphy (knee) is listed as probable for Monday's game against the Grizzlies.",
+    "relevant": null
+  },
   "4277956": {
     "name": "Jordan Poole",
     "team": "NO",
     "status": "Out",
-    "short": "Poole (ankle) has been ruled out for Saturday's game against the Hawks.",
+    "short": "Poole (ankle) has been ruled out for Monday's game against the Grizzlies.",
     "relevant": false
   },
   "3907497": {
