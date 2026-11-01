@@ -237,6 +237,13 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
+  "4278355": {
+    "name": "Obi Toppin",
+    "team": "IND",
+    "status": "Out",
+    "short": "Toppin (back) is out for Sunday's game against the Nets, Alex Golden of SI.com reports.",
+    "relevant": false
+  },
   "2530530": {
     "name": "T.J. McConnell",
     "team": "IND",
@@ -250,20 +257,6 @@
     "status": "Out",
     "short": "Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets.",
     "relevant": true
-  },
-  "4396909": {
-    "name": "Aaron Nesmith",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Nesmith (hamstring) is listed as probable for Sunday's game against Brooklyn.",
-    "relevant": null
-  },
-  "4278355": {
-    "name": "Obi Toppin",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Toppin (back) is questionable for Sunday's game against the Nets.",
-    "relevant": false
   },
   "5157066": {
     "name": "Johnny Furphy",
