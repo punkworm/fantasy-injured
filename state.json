@@ -62,33 +62,19 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
-  "5061575": {
-    "name": "Kon Knueppel",
-    "team": "CHA",
-    "status": "Out",
-    "short": "The Hornets exercised Knueppel's (hamstring) third-year team option on Sunday.",
-    "relevant": true
-  },
-  "4395651": {
-    "name": "Coby White",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Head coach Charles Lee said Monday that White (calf) remains without a timeline for a return, though Lee added that he'll have a better idea of where things stand following the Hornets' two-game road trip, Rod Boone of The Charlotte Observer reports.",
-    "relevant": true
-  },
   "4066218": {
     "name": "Grant Williams",
     "team": "CHA",
     "status": "Out",
-    "short": "Williams (hamstring) will be re-evaluated following Charlotte's upcoming two-game road trip, Rod Boone reports.",
+    "short": "Williams (hamstring) is listed as out for Monday's game against the Pistons.",
     "relevant": false
   },
-  "4684269": {
-    "name": "Kylan Boswell",
+  "5061575": {
+    "name": "Kon Knueppel",
     "team": "CHA",
     "status": "Out",
-    "short": "Boswell (knee) is out for Wednesday's season opener against the Nets.",
-    "relevant": null
+    "short": "Knueppel (hamstring) is listed as out for Monday's game versus the Pistons.",
+    "relevant": true
   },
   "4397189": {
     "name": "Jalen Smith",
