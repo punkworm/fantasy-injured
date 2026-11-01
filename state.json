@@ -118,18 +118,25 @@
     "short": "Tyson (ankle) has been ruled out for Monday's game against Oklahoma City.",
     "relevant": false
   },
+  "4593125": {
+    "name": "Santi Aldama",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Aldama (knee) is listed as doubtful for Monday's game against the Kings.",
+    "relevant": false
+  },
+  "6442": {
+    "name": "Kyrie Irving",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Irving closed Friday's 116-111 win over Houston with 35 points (12-19 FG, 5-8 3Pt, 6-6 FT), four rebounds and nine assists across 35 minutes.",
+    "relevant": null
+  },
   "5279129": {
     "name": "Sergio de Larrea",
     "team": "DAL",
     "status": "Out",
     "short": "Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",
-    "relevant": false
-  },
-  "4593125": {
-    "name": "Santi Aldama",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Aldama (knee) is listed as out for Friday's game against the Rockets.",
     "relevant": false
   },
   "5148538": {
