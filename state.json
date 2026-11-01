@@ -517,19 +517,19 @@
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
     "relevant": null
   },
-  "3064440": {
-    "name": "Zach LaVine",
-    "team": "SAC",
-    "status": "Day-To-Day",
-    "short": "LaVine chipped in 11 points (4-9 FG, 0-3 3Pt, 3-3 FT) and one assist over 21 minutes during Saturday's 136-105 loss to Memphis.",
-    "relevant": null
-  },
   "4433174": {
     "name": "Dylan Cardwell",
     "team": "SAC",
     "status": "Out",
-    "short": "Cardwell (calf) will be re-evaluated in one week, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+    "short": "Cardwell (calf) is questionable to suit up for Monday's game against the Mavericks.",
     "relevant": false
+  },
+  "3064440": {
+    "name": "Zach LaVine",
+    "team": "SAC",
+    "status": "Day-To-Day",
+    "short": "LaVine (elbow) is questionable to play in Monday's game against Dallas.",
+    "relevant": null
   },
   "4898371": {
     "name": "Maxime Raynaud",
