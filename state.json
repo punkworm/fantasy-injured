@@ -118,10 +118,17 @@
     "short": "Swain (back) has been ruled out for Friday's game against Boston.",
     "relevant": false
   },
+  "4576087": {
+    "name": "Peyton Watson",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Watson recorded 22 points (9-17 FG, 1-4 3Pt, 3-3 FT), six rebounds, two assists and one block in 28 minutes during Wednesday's 121-111 victory over the Wizards.",
+    "relevant": null
+  },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Tyson (ankle) has been ruled out for Saturday's game against the Bucks.",
     "relevant": false
   },
@@ -619,7 +626,7 @@
     "name": "Alex Sarr",
     "team": "WSH",
     "status": "Day-To-Day",
-    "short": "The Wizards exercised the fourth-year team option on Sarr on Tuesday, Brett Siegel of ClutchPoints.com reports.",
+    "short": "Sarr (knee) is questionable to play in Monday's game against the Magic.",
     "relevant": null
   },
   "2581184": {
