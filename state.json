@@ -216,11 +216,18 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "3102529": {
+    "name": "Clint Capela",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "short": "Capela (ankle) is questionable to play in Monday's game against the Celtics.",
+    "relevant": null
+  },
   "4711272": {
     "name": "Reed Sheppard",
     "team": "HOU",
     "status": "Day-To-Day",
-    "short": "Sheppard (back) is out for Saturday's game against the Thunder.",
+    "short": "Sheppard (back) is questionable for Monday's game against the Celtics.",
     "relevant": true
   },
   "2991235": {
@@ -376,13 +383,6 @@
     "status": "Out",
     "short": "Poole (ankle) has been ruled out for Monday's game against the Grizzlies.",
     "relevant": false
-  },
-  "3907497": {
-    "name": "Dejounte Murray",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Murray (personal) won't play in Saturday's game against the Hawks, Jim Eichenhofer of the Pelicans' official site reports.",
-    "relevant": true
   },
   "5061589": {
     "name": "Yves Missi",
