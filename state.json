@@ -122,14 +122,14 @@
     "name": "Peyton Watson",
     "team": "CLE",
     "status": "Day-To-Day",
-    "short": "Watson recorded 22 points (9-17 FG, 1-4 3Pt, 3-3 FT), six rebounds, two assists and one block in 28 minutes during Wednesday's 121-111 victory over the Wizards.",
+    "short": "Watson (hamstring) is questionable to play in Monday's game against Oklahoma City.",
     "relevant": null
   },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
     "status": "Out",
-    "short": "Tyson (ankle) has been ruled out for Saturday's game against the Bucks.",
+    "short": "Tyson (ankle) has been ruled out for Monday's game against Oklahoma City.",
     "relevant": false
   },
   "5279129": {
@@ -622,6 +622,13 @@
     "short": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports.",
     "relevant": null
   },
+  "4997537": {
+    "name": "Tristan Vukcevic",
+    "team": "WSH",
+    "status": "Out",
+    "short": "Vukcevic (hip) is listed as out for Monday's game against Orlando.",
+    "relevant": false
+  },
   "5160992": {
     "name": "Alex Sarr",
     "team": "WSH",
@@ -642,13 +649,6 @@
     "status": "Out",
     "short": "Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic.",
     "relevant": false
-  },
-  "4997537": {
-    "name": "Tristan Vukcevic",
-    "team": "WSH",
-    "status": "Out",
-    "short": "The Wizards announced Thursday that Vukcevic (hip) will be re-evaluated in four weeks.",
-    "relevant": null
   },
   "4606840": {
     "name": "Jamir Watkins",
