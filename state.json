@@ -408,9 +408,9 @@
   "3907497": {
     "name": "Dejounte Murray",
     "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Murray (personal) is now questionable for Monday against Memphis.",
-    "relevant": null
+    "status": "Out",
+    "short": "Murray (personal) is out for Monday's game against the Grizzlies.",
+    "relevant": true
   },
   "4277956": {
     "name": "Jordan Poole",
