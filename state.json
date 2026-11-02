@@ -86,9 +86,9 @@
   "4576087": {
     "name": "Peyton Watson",
     "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Watson (hamstring) is questionable to play in Monday's game against Oklahoma City.",
-    "relevant": null
+    "status": "Out",
+    "short": "Watson (hamstring) is out for Monday's game against the Thunder, Chris Fedor of The Cleveland Plain Dealer reports.",
+    "relevant": true
   },
   "4683747": {
     "name": "Jaylon Tyson",
