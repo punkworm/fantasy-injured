@@ -286,6 +286,13 @@
     "short": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "4065778": {
+    "name": "Max Strus",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Strus (foot) practiced and participated in 5-on-5 with the San Diego Clippers on Saturday, Los Angeles Clippers sideline reporter/host Ohm Youngmisuk reports.",
+    "relevant": false
+  },
   "5108024": {
     "name": "Yanic Konan Niederhauser",
     "team": "LAC",
@@ -299,13 +306,6 @@
     "status": "Out",
     "short": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",
     "relevant": true
-  },
-  "4065778": {
-    "name": "Max Strus",
-    "team": "LAC",
-    "status": "Out",
-    "short": "Los Angeles assigned Strus (foot) to the G League's San Diego Clippers on Friday.",
-    "relevant": false
   },
   "6580": {
     "name": "Bradley Beal",
