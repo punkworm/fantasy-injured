@@ -153,18 +153,18 @@
     "short": "Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",
     "relevant": false
   },
-  "4065813": {
-    "name": "Alpha Diallo",
-    "team": "DEN",
-    "status": "Out",
-    "short": "Diallo (personal/wrist) has been ruled out for Friday's game against Phoenix, Vic Lombardi of Altitude Sports reports.",
-    "relevant": false
-  },
   "4592427": {
     "name": "Spencer Jones",
     "team": "DEN",
     "status": "Out",
-    "short": "Jones (hamstring) has been ruled out for Wednesday's game against New Orleans.",
+    "short": "Jones (hamstring) is listed as out for Monday's game against the Trail Blazers.",
+    "relevant": false
+  },
+  "4065813": {
+    "name": "Alpha Diallo",
+    "team": "DEN",
+    "status": "Out",
+    "short": "Diallo (wrist) is listed as questionable for Monday's game versus Portland.",
     "relevant": false
   },
   "4432181": {
