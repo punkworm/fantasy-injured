@@ -3,6 +3,7 @@
 Usage:
   python bot.py chatid          find your Telegram chat id (message the bot first)
   python bot.py test [name]     send a sample alert for a player on the injury report
+  python bot.py digest          print today's pre-game digest without sending it
   python bot.py once            run a single check (for cron / GitHub Actions)
   python bot.py                 run forever, polling every POLL_MINUTES
 """
@@ -25,6 +26,7 @@ load_dotenv(Path(__file__).with_name(".env"))
 sys.stdout.reconfigure(encoding="utf-8")  # Windows consoles default to a non-UTF-8 codepage
 
 STATE_FILE = Path(__file__).with_name("state.json")
+DIGEST_FILE = Path(__file__).with_name("digest.json")
 
 
 def env_list(name, default=""):
@@ -46,6 +48,8 @@ US_TZ = ZoneInfo("America/New_York")
 DEPTH_PENALTY = 6
 AVAILABLE_BONUS = 5
 AVAILABLE_BELOW = 50  # % owned
+DIGEST_LEAD_HOURS = float(os.environ.get("DIGEST_LEAD_HOURS", "6"))  # 0 turns the digest off
+DIGEST_PICKS = 2  # fill-ins shown per Out player
 
 
 # ── Telegram ─────────────────────────────────────────────────────────────────
@@ -243,6 +247,87 @@ def check():
         raise RuntimeError(f"Alerts failed, will retry next run: {', '.join(failed)}")
 
 
+# ── Daily digest ─────────────────────────────────────────────────────────────
+def digest_blocks(games):
+    """One text block per game that has fantasy-relevant Out or Day-To-Day players."""
+    e = esc
+    current = espn.injuries()
+    blocks = []
+    for g in games:
+        ids = {g["home"]["id"], g["away"]["id"]}
+        hurt = []
+        for p in current.values():
+            if p["team_id"] in ids and p["status"] in ("Out", "Day-To-Day"):
+                owned = espn.player_overview(p["id"])["owned"]
+                if is_mine(p) or (owned or 0) >= MIN_OWNED:
+                    hurt.append((p, owned or 0))
+        if not hurt:
+            continue
+        hurt.sort(key=lambda h: (h[0]["status"] != "Out", -h[1]))
+        lines = [f"<b>{e(g['away']['abbr'])} @ {e(g['home']['abbr'])}</b> · {g['date'].astimezone(LOCAL_TZ):%H:%M}"]
+        for p, owned in hurt:
+            icon = "🚑" if p["status"] == "Out" else "🤕"
+            lines.append(f"{icon} <b>{e(p['name'])}</b> ({e(p['team'])}) {e(p['status'])} · {owned:.0f}% owned")
+            if p["status"] == "Out":
+                addable = [s for s in fill_ins(p) if (s.get("owned") or 0) < AVAILABLE_BELOW]
+                picks = [digest_pick(s, current) for s in addable[:DIGEST_PICKS]]
+                if picks:
+                    lines.append("    ➡️ " + " · ".join(picks))
+        blocks.append("\n".join(lines))
+    return blocks
+
+
+def digest_pick(s, current):
+    """'Obi Toppin ⚠️ Day-To-Day (L5 23.0 min, 12%)': a fill-in who may not play himself gets flagged."""
+    listed = current.get(s["id"], {}).get("status")
+    details = [f"L{s['recent']['games']} {s['recent']['min']:.1f} min"] if s.get("recent") else []
+    if s.get("owned") is not None:
+        details.append(f"{s['owned']:.0f}%")
+    return esc(s["name"] + (f" ⚠️ {listed}" if listed else "") + (f" ({', '.join(details)})" if details else ""))
+
+
+def digest_messages(games):
+    """Header plus game blocks, split between games so no Telegram message passes its 4096 limit."""
+    blocks = digest_blocks(games) or ["No fantasy-relevant injuries in these games."]
+    messages = [f"📋 <b>Tonight's injuries</b> ({len(games)} games, Istanbul time)"]
+    for block in blocks:
+        if len(messages[-1]) + len(block) + 2 > 4000:
+            messages.append(block)
+        else:
+            messages[-1] += "\n\n" + block
+    return messages
+
+
+def digest_games():
+    """Today's games that haven't started yet, on the US date the NBA schedules them by."""
+    day = datetime.now(US_TZ).strftime("%Y%m%d")
+    return day, [g for g in espn.games_on(day) if g["state"] == "pre"]
+
+
+def send_digest_if_due():
+    """Once per US date, DIGEST_LEAD_HOURS before the first game still to start."""
+    if DIGEST_LEAD_HOURS <= 0:
+        return
+    day, games = digest_games()
+    last = json.loads(DIGEST_FILE.read_text())["last_sent"] if DIGEST_FILE.exists() else ""
+    if day == last or not games:
+        return
+    if datetime.now(timezone.utc) < games[0]["date"] - timedelta(hours=DIGEST_LEAD_HOURS):
+        return
+    log(f"Sending digest for {day} ({len(games)} games).")
+    for message in digest_messages(games):
+        send(message)
+    DIGEST_FILE.write_text(json.dumps({"last_sent": day}) + "\n")
+
+
+def tick():
+    """One full round. A failed check still gets its digest, and the error still surfaces afterwards."""
+    try:
+        check()
+    finally:
+        send_digest_if_due()
+
+
 def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else "run"
 
@@ -257,7 +342,13 @@ def main():
         return
 
     if cmd == "once":
-        check()
+        tick()
+        return
+
+    if cmd == "digest":
+        _, games = digest_games()
+        for message in digest_messages(games) if games else ["No games left to start today."]:
+            print(message + "\n")
         return
 
     if cmd == "test":
@@ -280,7 +371,7 @@ def main():
         f"(players >= {MIN_OWNED:g}% owned).")
     while True:
         try:
-            check()
+            tick()
         except Exception:
             log("Check failed:\n" + traceback.format_exc())
         time.sleep(POLL_MINUTES * 60)

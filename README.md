@@ -11,6 +11,8 @@ is newly listed **Out**, it messages you with:
   on waivers)
 
 It also sends news updates while he's out (`NEWS_UPDATES`) and a message when he's back (`ALERT_ON_RETURN`).
+Once a day, `DIGEST_LEAD_HOURS` before the first game, it sends a digest of relevant Out and Day-To-Day players in
+that day's games with the top fill-ins (preview it with `python bot.py digest`).
 On GitHub Actions, a failed alert is retried on the next run and the chat gets a message when a run fails.
 
 ## Setup

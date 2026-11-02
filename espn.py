@@ -82,6 +82,17 @@ def player_overview(athlete_id):
     return info
 
 
+def games_on(day):
+    """Games on a US date ('YYYYMMDD') in tip-off order: [{'date', 'state', 'home': {...}, 'away': {...}}...]."""
+    games = []
+    for event in _get(f"{SITE}/scoreboard?dates={day}")["events"]:
+        comp = event["competitions"][0]
+        teams = {t["homeAway"]: {"id": str(t["team"]["id"]), "abbr": t["team"]["abbreviation"]}
+                 for t in comp["competitors"]}
+        games.append({"date": datetime.fromisoformat(event["date"]), "state": comp["status"]["type"]["state"], **teams})
+    return sorted(games, key=lambda g: g["date"])
+
+
 def upcoming_games(team_id):
     """The team's unplayed games in date order: [{'date', 'opponent', 'home'}...]. [] if unavailable."""
     try:
