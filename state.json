@@ -1,16 +1,16 @@
 {
+  "4701230": {
+    "name": "Jalen Johnson",
+    "team": "ATL",
+    "status": "Out",
+    "short": "Johnson (ankle) has been ruled out for Monday's game versus Indiana.",
+    "relevant": true
+  },
   "5149077": {
     "name": "Kingston Flemings",
     "team": "ATL",
     "status": "Suspension",
     "short": "Flemings (suspension) won't play in Monday's game against Indiana, Andrew Schlecht of The Athletic reports.",
-    "relevant": null
-  },
-  "4701230": {
-    "name": "Jalen Johnson",
-    "team": "ATL",
-    "status": "Day-To-Day",
-    "short": "Johnson (ankle) is questionable to play Monday against the Pacers.",
     "relevant": null
   },
   "3146557": {
@@ -76,18 +76,11 @@
     "short": "Knueppel (hamstring) is listed as out for Monday's game versus the Pistons.",
     "relevant": true
   },
-  "4397189": {
-    "name": "Jalen Smith",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Smith (finger) is listed as probable for Monday's game against Philadelphia.",
-    "relevant": null
-  },
   "4278067": {
     "name": "Nic Claxton",
     "team": "CHI",
     "status": "Out",
-    "short": "Claxton (hamstring) is listed as doubtful for Monday's game against Philadelphia.",
+    "short": "Claxton (hamstring) is out for Monday's game against the 76ers.",
     "relevant": true
   },
   "4576087": {
@@ -419,13 +412,6 @@
     "short": "Missi (knee) won't play in Saturday's game against Atlanta.",
     "relevant": false
   },
-  "4277869": {
-    "name": "Jose Alvarado",
-    "team": "NY",
-    "status": "Out",
-    "short": "Alvarado (ankle) is questionable for Monday's game against the Nets.",
-    "relevant": false
-  },
   "5061603": {
     "name": "Thomas Sorber",
     "team": "OKC",
@@ -556,7 +542,7 @@
     "name": "Dylan Cardwell",
     "team": "SAC",
     "status": "Out",
-    "short": "Cardwell (calf) has been downgraded to questionable for Monday's game against Dallas.",
+    "short": "Cardwell (calf) has been downgraded to doubtful for Monday's game against Dallas.",
     "relevant": false
   },
   "3064440": {
