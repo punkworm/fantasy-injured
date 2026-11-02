@@ -100,9 +100,16 @@
   "6442": {
     "name": "Kyrie Irving",
     "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Irving (knee) is now doubtful for Monday against the Kings.",
-    "relevant": null
+    "status": "Out",
+    "short": "Irving (knee) has been ruled out for Monday's game against the Kings.",
+    "relevant": true
+  },
+  "4593125": {
+    "name": "Santi Aldama",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Aldama (knee) has been ruled out for Monday's matchup with Sacramento.",
+    "relevant": false
   },
   "5148538": {
     "name": "Tarik Biberovic",
@@ -116,13 +123,6 @@
     "team": "DAL",
     "status": "Out",
     "short": "Lively (foot) is listed as out for Monday's game against the Kings.",
-    "relevant": false
-  },
-  "4593125": {
-    "name": "Santi Aldama",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Aldama (knee) is listed as doubtful for Monday's game against the Kings.",
     "relevant": false
   },
   "5279129": {
@@ -230,6 +230,20 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
+  "2580365": {
+    "name": "Larry Nance Jr.",
+    "team": "IND",
+    "status": "Out",
+    "short": "Nance (illness) has been ruled out for Monday's game against the Hawks.",
+    "relevant": false
+  },
+  "4278355": {
+    "name": "Obi Toppin",
+    "team": "IND",
+    "status": "Out",
+    "short": "Toppin (back) will dress for Monday's game against  Hawks but will only play in an emergency, Tony East of Forbes.com reports.",
+    "relevant": false
+  },
   "2530530": {
     "name": "T.J. McConnell",
     "team": "IND",
@@ -243,20 +257,6 @@
     "status": "Out",
     "short": "Zubac (ankle) has been ruled out for Monday's game against the Hawks.",
     "relevant": true
-  },
-  "2580365": {
-    "name": "Larry Nance Jr.",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Nance (illness) is doubtful for Monday against the Hawks.",
-    "relevant": null
-  },
-  "4278355": {
-    "name": "Obi Toppin",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Toppin (back) is questionable for Monday's game against Atlanta.",
-    "relevant": false
   },
   "4396909": {
     "name": "Aaron Nesmith",
@@ -496,19 +496,19 @@
     "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
     "relevant": null
   },
+  "4870562": {
+    "name": "Dominick Barlow",
+    "team": "PHI",
+    "status": "Out",
+    "short": "Barlow (back) has been on the court \"a little bit\" and will be re-evaluated Tuesday, Austin Krell of OnPattison.com reports.",
+    "relevant": false
+  },
   "3059318": {
     "name": "Joel Embiid",
     "team": "PHI",
     "status": "Day-To-Day",
     "short": "Embiid (foot) is questionable to suit up for Monday's game against the Bulls.",
     "relevant": true
-  },
-  "4870562": {
-    "name": "Dominick Barlow",
-    "team": "PHI",
-    "status": "Out",
-    "short": "Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports.",
-    "relevant": null
   },
   "4871141": {
     "name": "Ariel Hukporti",
