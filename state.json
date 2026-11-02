@@ -198,21 +198,21 @@
   "4997536": {
     "name": "Gui Santos",
     "team": "GS",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a knee injury and will not play against the Suns on Monday, Danny Emerman of SFStandard.com reports.",
     "relevant": false
   },
   "6589": {
     "name": "Draymond Green",
     "team": "GS",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Green (back) is out for Sunday's game against the Clippers.",
     "relevant": true
   },
   "3975": {
     "name": "Stephen Curry",
     "team": "GS",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com reports.",
     "relevant": true
   },
