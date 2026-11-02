@@ -111,6 +111,13 @@
     "short": "Tyson (ankle) has been ruled out for Monday's game against Oklahoma City.",
     "relevant": false
   },
+  "6442": {
+    "name": "Kyrie Irving",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Irving (knee) is now doubtful for Monday against the Kings.",
+    "relevant": null
+  },
   "5148538": {
     "name": "Tarik Biberovic",
     "team": "DAL",
@@ -124,13 +131,6 @@
     "status": "Out",
     "short": "Lively (foot) is listed as out for Monday's game against the Kings.",
     "relevant": false
-  },
-  "6442": {
-    "name": "Kyrie Irving",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Irving (knee) is questionable to play Monday against the Kings.",
-    "relevant": null
   },
   "4593125": {
     "name": "Santi Aldama",
@@ -405,11 +405,11 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
-  "4397688": {
-    "name": "Trey Murphy III",
+  "3907497": {
+    "name": "Dejounte Murray",
     "team": "NO",
     "status": "Day-To-Day",
-    "short": "Murphy (knee) is listed as probable for Monday's game against the Grizzlies.",
+    "short": "Murray (personal) is now questionable for Monday against Memphis.",
     "relevant": null
   },
   "4277956": {
