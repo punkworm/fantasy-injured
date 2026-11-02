@@ -38,7 +38,7 @@
     "name": "Paul George",
     "team": "BOS",
     "status": "Out",
-    "short": "George posted 17 points (6-14 FG, 3-10 3Pt, 2-2 FT), six rebounds, eight assists, two steals and two blocks across 33 minutes in Sunday's 108-97 win over the Magic.",
+    "short": "George will be rested Monday against Houston.",
     "relevant": true
   },
   "4351852": {
@@ -233,9 +233,9 @@
   "3102529": {
     "name": "Clint Capela",
     "team": "HOU",
-    "status": "Day-To-Day",
-    "short": "Capela (ankle) is questionable to play in Monday's game against the Celtics.",
-    "relevant": null
+    "status": "Out",
+    "short": "Capela (ankle) has been ruled out for Monday's game against the Celtics.",
+    "relevant": false
   },
   "4711272": {
     "name": "Reed Sheppard",
@@ -396,6 +396,20 @@
     "team": "MIA",
     "status": "Day-To-Day",
     "short": "Hardaway (personal) is listed as questionable for Monday's game against the Lakers.",
+    "relevant": null
+  },
+  "4432847": {
+    "name": "Terrence Shannon Jr.",
+    "team": "MIN",
+    "status": "Day-To-Day",
+    "short": "Shannon has a left hip contusion and is questionable to face the Bucks on Monday.",
+    "relevant": null
+  },
+  "4432816": {
+    "name": "LaMelo Ball",
+    "team": "MIN",
+    "status": "Day-To-Day",
+    "short": "Ball is questionable for Monday's game against Milwaukee due to a right wrist contusion.",
     "relevant": null
   },
   "4594268": {
@@ -570,7 +584,7 @@
     "name": "Dylan Cardwell",
     "team": "SAC",
     "status": "Out",
-    "short": "Cardwell (calf) is questionable to suit up for Monday's game against the Mavericks.",
+    "short": "Cardwell is probable for Monday's game against Dallas due to a left calf strain.",
     "relevant": false
   },
   "3064440": {
