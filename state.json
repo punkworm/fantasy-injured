@@ -293,6 +293,20 @@
     "short": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "5108024": {
+    "name": "Yanic Konan Niederhauser",
+    "team": "LAC",
+    "status": "Out",
+    "short": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday.",
+    "relevant": false
+  },
+  "3913176": {
+    "name": "Brandon Ingram",
+    "team": "LAC",
+    "status": "Out",
+    "short": "The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday.",
+    "relevant": true
+  },
   "4065778": {
     "name": "Max Strus",
     "team": "LAC",
@@ -306,20 +320,6 @@
     "status": "Day-To-Day",
     "short": "Jones (right knee) has been ruled out for the rest of Sunday's game against the Clippers, Ohm Youngmisuk of ESPN.com reports.",
     "relevant": null
-  },
-  "5108024": {
-    "name": "Yanic Konan Niederhauser",
-    "team": "LAC",
-    "status": "Out",
-    "short": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm Youngmisuk of ESPN.com reports.",
-    "relevant": false
-  },
-  "3913176": {
-    "name": "Brandon Ingram",
-    "team": "LAC",
-    "status": "Out",
-    "short": "Los Angeles assigned Ingram (Achilles) to the G League's San Diego Clippers on Saturday.",
-    "relevant": true
   },
   "6580": {
     "name": "Bradley Beal",
