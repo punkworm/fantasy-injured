@@ -244,19 +244,40 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
+  "2530530": {
+    "name": "T.J. McConnell",
+    "team": "IND",
+    "status": "Out",
+    "short": "McConnell (hamstring) is out for Monday's game against the Hawks and remains week-to-week.",
+    "relevant": false
+  },
+  "4017837": {
+    "name": "Ivica Zubac",
+    "team": "IND",
+    "status": "Out",
+    "short": "Zubac (ankle) has been ruled out for Monday's game against the Hawks.",
+    "relevant": true
+  },
+  "2580365": {
+    "name": "Larry Nance Jr.",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Nance (illness) is doubtful for Monday against the Hawks.",
+    "relevant": null
+  },
+  "4278355": {
+    "name": "Obi Toppin",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Toppin (back) is questionable for Monday's game against Atlanta.",
+    "relevant": false
+  },
   "4396909": {
     "name": "Aaron Nesmith",
     "team": "IND",
     "status": "Out",
     "short": "Nesmith (rest) is sitting out Monday against Atlanta.",
     "relevant": false
-  },
-  "2580365": {
-    "name": "Larry Nance Jr.",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Nance produced six points (2-4 FG, 2-2 3Pt), two rebounds, one assist, one block and four steals in 18 minutes off the bench during Friday's 145-125 loss to Miami.",
-    "relevant": null
   },
   "4395712": {
     "name": "Andrew Nembhard",
@@ -270,27 +291,6 @@
     "team": "IND",
     "status": "Out",
     "short": "Siakam will be rested against the Hawks on Monday.",
-    "relevant": true
-  },
-  "4278355": {
-    "name": "Obi Toppin",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Toppin (back) is out for Sunday's game against the Nets, Alex Golden of SI.com reports.",
-    "relevant": false
-  },
-  "2530530": {
-    "name": "T.J. McConnell",
-    "team": "IND",
-    "status": "Out",
-    "short": "Indiana recalled McConnell (hamstring) from the G League's Noblesville Boom on Saturday.",
-    "relevant": false
-  },
-  "4017837": {
-    "name": "Ivica Zubac",
-    "team": "IND",
-    "status": "Out",
-    "short": "Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets.",
     "relevant": true
   },
   "5157066": {
