@@ -181,26 +181,26 @@
     "short": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
     "relevant": true
   },
+  "4397040": {
+    "name": "Brandon Williams",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "short": "Williams (quadriceps) is listed as questionable for Monday's game against the Suns.",
+    "relevant": null
+  },
+  "3213": {
+    "name": "Al Horford",
+    "team": "GS",
+    "status": "Out",
+    "short": "Horford will be rested Monday against the Suns.",
+    "relevant": false
+  },
   "4997536": {
     "name": "Gui Santos",
     "team": "GS",
     "status": "Out",
     "short": "Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a knee injury and will not play against the Suns on Monday, Danny Emerman of SFStandard.com reports.",
     "relevant": false
-  },
-  "6589": {
-    "name": "Draymond Green",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "short": "Green (back) is out for Sunday's game against the Clippers.",
-    "relevant": true
-  },
-  "3975": {
-    "name": "Stephen Curry",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "short": "Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com reports.",
-    "relevant": true
   },
   "3102531": {
     "name": "Kristaps Porzingis",
@@ -314,6 +314,20 @@
     "short": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "4066648": {
+    "name": "Rui Hachimura",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Hachimura amassed a team-high 24 points (10-16 FG, 4-7 3Pt) and seven rebounds over 30 minutes during Sunday's 124-112 loss to the Warriors.",
+    "relevant": false
+  },
+  "3936099": {
+    "name": "Derrick Jones Jr.",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Jones (knee) has been ruled out for Monday's game against the Raptors.",
+    "relevant": false
+  },
   "5108024": {
     "name": "Yanic Konan Niederhauser",
     "team": "LAC",
@@ -328,20 +342,6 @@
     "short": "The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday.",
     "relevant": true
   },
-  "4065778": {
-    "name": "Max Strus",
-    "team": "LAC",
-    "status": "Out",
-    "short": "The Clippers recalled Strus (foot) from the G League's San Diego Clippers on Sunday.",
-    "relevant": false
-  },
-  "3936099": {
-    "name": "Derrick Jones Jr.",
-    "team": "LAC",
-    "status": "Day-To-Day",
-    "short": "Jones (right knee) has been ruled out for the rest of Sunday's game against the Clippers, Ohm Youngmisuk of ESPN.com reports.",
-    "relevant": null
-  },
   "6580": {
     "name": "Bradley Beal",
     "team": "LAC",
@@ -355,13 +355,6 @@
     "status": "Out",
     "short": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
     "relevant": null
-  },
-  "4433137": {
-    "name": "Ziaire Williams",
-    "team": "LAL",
-    "status": "Out",
-    "short": "Williams (foot) is out for Sunday's game against the Raptors.",
-    "relevant": false
   },
   "5060631": {
     "name": "Adou Thiero",
