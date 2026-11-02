@@ -650,20 +650,6 @@
     "short": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports.",
     "relevant": null
   },
-  "4432187": {
-    "name": "Reece Beekman",
-    "team": "WSH",
-    "status": "Out",
-    "short": "Beekman had his Exhibit 10 contract converted to a two-way deal by the Wizards on Saturday, Keith Smith of Spotrac.com reports.",
-    "relevant": false
-  },
-  "2581184": {
-    "name": "Anthony Gill",
-    "team": "WSH",
-    "status": "Out",
-    "short": "Gill (back) is questionable to suit up in Monday's contest against Orlando.",
-    "relevant": false
-  },
   "5160992": {
     "name": "Alex Sarr",
     "team": "WSH",
@@ -676,6 +662,13 @@
     "team": "WSH",
     "status": "Out",
     "short": "Vukcevic (hip) is listed as out for Monday's game against Orlando.",
+    "relevant": false
+  },
+  "2581184": {
+    "name": "Anthony Gill",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "short": "Gill (back) is questionable to suit up in Monday's contest against Orlando.",
     "relevant": false
   },
   "4432907": {
