@@ -398,6 +398,13 @@
     "short": "Alvarado (ankle) is questionable for Monday's game against the Nets.",
     "relevant": false
   },
+  "5061603": {
+    "name": "Thomas Sorber",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Oklahoma City exercised the third-year team option on Sorber (knee) on Sunday, Clemente Almanza of USA Today reports.",
+    "relevant": false
+  },
   "4683692": {
     "name": "Cason Wallace",
     "team": "OKC",
@@ -425,13 +432,6 @@
     "status": "Out",
     "short": "Caruso (ankle) is expected to miss time due to an ankle sprain, Clemente Almanza of USA Today reports.",
     "relevant": true
-  },
-  "5061603": {
-    "name": "Thomas Sorber",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Sorber (knee) has been ruled out for Wednesday's game against the Mavericks.",
-    "relevant": false
   },
   "5159925": {
     "name": "Nikola Topic",
