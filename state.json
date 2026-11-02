@@ -244,6 +244,34 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
+  "4396909": {
+    "name": "Aaron Nesmith",
+    "team": "IND",
+    "status": "Out",
+    "short": "Nesmith (rest) is sitting out Monday against Atlanta.",
+    "relevant": false
+  },
+  "2580365": {
+    "name": "Larry Nance Jr.",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Nance produced six points (2-4 FG, 2-2 3Pt), two rebounds, one assist, one block and four steals in 18 minutes off the bench during Friday's 145-125 loss to Miami.",
+    "relevant": null
+  },
+  "4395712": {
+    "name": "Andrew Nembhard",
+    "team": "IND",
+    "status": "Out",
+    "short": "Nembhard (cervical strain) is out for Monday's game against Atlanta.",
+    "relevant": true
+  },
+  "3149673": {
+    "name": "Pascal Siakam",
+    "team": "IND",
+    "status": "Out",
+    "short": "Siakam will be rested against the Hawks on Monday.",
+    "relevant": true
+  },
   "4278355": {
     "name": "Obi Toppin",
     "team": "IND",
@@ -622,6 +650,20 @@
     "short": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports.",
     "relevant": null
   },
+  "4432187": {
+    "name": "Reece Beekman",
+    "team": "WSH",
+    "status": "Out",
+    "short": "Beekman had his Exhibit 10 contract converted to a two-way deal by the Wizards on Saturday, Keith Smith of Spotrac.com reports.",
+    "relevant": false
+  },
+  "2581184": {
+    "name": "Anthony Gill",
+    "team": "WSH",
+    "status": "Out",
+    "short": "Gill (back) is questionable to suit up in Monday's contest against Orlando.",
+    "relevant": false
+  },
   "5160992": {
     "name": "Alex Sarr",
     "team": "WSH",
@@ -635,13 +677,6 @@
     "status": "Out",
     "short": "Vukcevic (hip) is listed as out for Monday's game against Orlando.",
     "relevant": false
-  },
-  "2581184": {
-    "name": "Anthony Gill",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "short": "Gill (back) is questionable to suit up in Monday's contest against Orlando.",
-    "relevant": null
   },
   "4432907": {
     "name": "Justin Champagnie",
