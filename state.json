@@ -83,13 +83,6 @@
     "short": "Smith (finger) is listed as probable for Monday's game against Philadelphia.",
     "relevant": null
   },
-  "5105555": {
-    "name": "Tobe Awaka",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Awaka (ankle) is probable for Monday's game against Philadelphia.",
-    "relevant": null
-  },
   "4278067": {
     "name": "Nic Claxton",
     "team": "CHI",
@@ -408,8 +401,8 @@
   "3907497": {
     "name": "Dejounte Murray",
     "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Murray (personal) is now questionable for Monday against Memphis.",
+    "status": "Out",
+    "short": "Murray (personal) is out for Monday's game against the Grizzlies.",
     "relevant": true
   },
   "4277956": {
