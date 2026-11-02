@@ -5,10 +5,13 @@ ESPN's public NBA injury report. When a fantasy-relevant player (≥ `MIN_OWNED`
 is newly listed **Out**, it messages you with:
 
 - the injury, expected return date and ESPN's news write-up (which often names who benefits)
-- **who steps up**: the healthy players right behind him on his team's ESPN depth chart, with minutes/PTS/REB/AST
-  and ESPN % owned (🟢 under 50% means probably on waivers)
+- his team's next game (Istanbul time) and how many games it has left this fantasy week
+- **who steps up**: the healthy players behind him on his team's ESPN depth chart, ranked by minutes over the last
+  5 games, depth chart spot and availability, with minutes/PTS/REB/AST and ESPN % owned (🟢 under 50% means probably
+  on waivers)
 
 It also sends news updates while he's out (`NEWS_UPDATES`) and a message when he's back (`ALERT_ON_RETURN`).
+On GitHub Actions, a failed alert is retried on the next run and the chat gets a message when a run fails.
 
 ## Setup
 

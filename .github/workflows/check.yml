@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write  # to commit state.json back
+  actions: read    # to see whether the previous run also failed
 
 concurrency:
   group: injury-check
@@ -39,8 +40,25 @@ jobs:
           ALERT_ON_RETURN: "true"
           SUGGESTIONS: "3"
       - name: Save state
+        if: ${{ !cancelled() }}  # a failed alert still saves the alerts that did go out
         run: |
           git config user.name "injury-bot"
           git config user.email "injury-bot@users.noreply.github.com"
           git add state.json
           git diff --cached --quiet || git commit -m "Update injury state" && git push
+      - name: Tell Telegram the check failed
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          # Only the first failure of a streak, so an ESPN outage doesn't message every 5 minutes.
+          last=$(gh run list --workflow check.yml --status completed --limit 1 --json conclusion --jq '.[0].conclusion' || true)
+          if [ "$last" != "failure" ]; then
+            curl -sS --fail -o /dev/null "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+              --data-urlencode "chat_id=$TELEGRAM_CHAT_ID" \
+              --data-urlencode "text=🛑 Injury check failed, alerts may be delayed until it recovers: $RUN_URL"
+          fi

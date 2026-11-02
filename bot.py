@@ -12,8 +12,9 @@ import os
 import sys
 import time
 import traceback
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 from dotenv import load_dotenv
@@ -37,6 +38,14 @@ ALERT_ON_RETURN = os.environ.get("ALERT_ON_RETURN", "true").lower() == "true"
 POLL_MINUTES = float(os.environ.get("POLL_MINUTES", "10"))
 SUGGESTIONS = int(os.environ.get("SUGGESTIONS", "3"))
 MY_PLAYERS = {n.lower() for n in env_list("MY_PLAYERS")}
+
+LOCAL_TZ = ZoneInfo("Europe/Istanbul")
+US_TZ = ZoneInfo("America/New_York")
+# Fill-in ranking, in minutes per game: one spot further down the depth chart costs 6,
+# and a player who is probably on waivers gains 5, since a rostered one can't be picked up.
+DEPTH_PENALTY = 6
+AVAILABLE_BONUS = 5
+AVAILABLE_BELOW = 50  # % owned
 
 
 # ── Telegram ─────────────────────────────────────────────────────────────────
@@ -66,15 +75,43 @@ def fill_ins(injured):
             c = best.setdefault(p["id"], {"id": p["id"], "name": p["name"], "depth": depth, "positions": []})
             c["depth"] = min(c["depth"], depth)
             c["positions"].append(pos.upper())
-    ranked = sorted(best.values(), key=lambda c: (c["depth"], -len(c["positions"])))[:SUGGESTIONS]
-    for c in ranked:
+    for c in best.values():
         c.update(espn.player_overview(c["id"]))
-    return ranked
+        c["recent"] = espn.recent_minutes(c["id"])
+    return sorted(best.values(), key=lambda c: (-pickup_score(c), c["depth"], -len(c["positions"])))[:SUGGESTIONS]
+
+
+def pickup_score(c):
+    """Recent minutes, minus a penalty per depth spot, plus a bonus if he's probably on waivers."""
+    minutes = c["recent"]["min"] if c.get("recent") else c.get("min") or 0
+    available = c.get("owned") is not None and c["owned"] < AVAILABLE_BELOW
+    return minutes - DEPTH_PENALTY * c["depth"] + (AVAILABLE_BONUS if available else 0)
+
+
+def game_line(team_id):
+    """'Tue 3 Nov 03:30 vs ATL (in 5h) · 2 left this week', or '' if the schedule is unavailable."""
+    games = espn.upcoming_games(team_id)
+    if not games:
+        return ""
+    now = datetime.now(timezone.utc)
+    next_game = games[0]
+    hours = (next_game["date"] - now).total_seconds() / 3600
+    when = "in under 1h" if hours < 1 else f"in {hours:.0f}h" if hours < 48 else f"in {hours / 24:.0f}d"
+    local = next_game["date"].astimezone(LOCAL_TZ)
+    # Fantasy weeks run Monday to Sunday on US dates, so a 03:30 Monday TR game still counts for Sunday.
+    today = now.astimezone(US_TZ).date()
+    sunday = today + timedelta(days=6 - today.weekday())
+    left = sum(g["date"].astimezone(US_TZ).date() <= sunday for g in games)
+    return (f"{local:%a} {local.day} {local:%b %H:%M} {'vs' if next_game['home'] else '@'} {next_game['opponent']} "
+            f"({when}) · {left} left this week")
 
 
 def fmt_stats(p):
-    parts = [f"{p[k]:.1f} {label}" for k, label in
-             [("min", "min"), ("pts", "pts"), ("reb", "reb"), ("ast", "ast")] if p.get(k) is not None]
+    parts = []
+    if p.get("recent"):
+        parts.append(f"L{p['recent']['games']} {p['recent']['min']:.1f} min")
+    parts += [f"{p[k]:.1f} {label}" for k, label in
+              [("min", "min"), ("pts", "pts"), ("reb", "reb"), ("ast", "ast")] if p.get(k) is not None]
     if parts and p.get("gp") is not None:
         parts[-1] += f" ({p['gp']:.0f} GP)"
     return " · ".join(parts)
@@ -94,12 +131,14 @@ def is_mine(p):
     return p["name"].lower() in MY_PLAYERS
 
 
-def injury_message(p, suggestions):
+def injury_message(p, suggestions, next_game=""):
     e = esc
     lines = [f"🚑 <b>{e(p['name'])}</b> ({e(p['team'])} · {e(p['position'])}) is <b>{e(p['status'])}</b>"]
     injury = p["injury"] + (f" · back ~{p['return_date']}" if p["return_date"] else "")
     if injury:
         lines.append(f"🩹 {e(injury)}")
+    if next_game:
+        lines.append(f"🕒 Next game: {e(next_game)}")
     if is_mine(p):
         lines.append("⚠️ <b>Your player</b>: move him to IL.")
     if p["short"]:
@@ -120,6 +159,10 @@ def injury_message(p, suggestions):
     else:
         lines.append("No depth chart fill-ins found for him.")
     return "\n".join(lines)
+
+
+def full_alert(p):
+    return injury_message(p, fill_ins(p), game_line(p["team_id"]))
 
 
 def update_message(p):
@@ -151,6 +194,7 @@ def check():
     first_run = not STATE_FILE.exists()
     prev = {} if first_run else json.loads(STATE_FILE.read_text())
     state = {}
+    failed = []
 
     for aid, p in current.items():
         old = prev.get(aid, {})
@@ -159,27 +203,44 @@ def check():
         state[aid] = entry
         if first_run or p["status"] not in ALERT_STATUSES:
             continue
-        if old.get("status") not in ALERT_STATUSES:
-            if relevant(entry, aid, p["name"]):
-                log(f"OUT: {p['name']} ({p['team']})")
-                send(injury_message(p, fill_ins(p)))
-        elif NEWS_UPDATES and p["short"] and p["short"] != old.get("short") and relevant(entry, aid, p["name"]):
-            log(f"UPDATE: {p['name']}")
-            send(update_message(p))
+        try:
+            if old.get("status") not in ALERT_STATUSES:
+                if relevant(entry, aid, p["name"]):
+                    log(f"OUT: {p['name']} ({p['team']})")
+                    send(full_alert(p))
+            elif NEWS_UPDATES and p["short"] and p["short"] != old.get("short") and relevant(entry, aid, p["name"]):
+                log(f"UPDATE: {p['name']}")
+                send(update_message(p))
+        except Exception:
+            # Keep the previous state so the next run sees the same change and retries this alert.
+            log(f"Alert failed for {p['name']}:\n" + traceback.format_exc())
+            failed.append(p["name"])
+            if old:
+                state[aid] = old
+            else:
+                del state[aid]
 
     if ALERT_ON_RETURN and not first_run:
         for aid, old in prev.items():
             new_status = current[aid]["status"] if aid in current else ""
-            if old["status"] in ALERT_STATUSES and new_status not in ALERT_STATUSES \
-                    and relevant(old, aid, old["name"]):
-                log(f"BACK: {old['name']}")
-                send(return_message(old["name"], old["team"], new_status))
+            if old["status"] not in ALERT_STATUSES or new_status in ALERT_STATUSES:
+                continue
+            try:
+                if relevant(old, aid, old["name"]):
+                    log(f"BACK: {old['name']}")
+                    send(return_message(old["name"], old["team"], new_status))
+            except Exception:
+                log(f"Return alert failed for {old['name']}:\n" + traceback.format_exc())
+                failed.append(old["name"])
+                state[aid] = old
 
     if first_run:
         log(f"First run: recorded {len(current)} players on the injury report. Alerts start from the next change.")
     else:
         log(f"Checked {len(current)} injury report entries.")
     STATE_FILE.write_text(json.dumps(state, indent=2))
+    if failed:
+        raise RuntimeError(f"Alerts failed, will retry next run: {', '.join(failed)}")
 
 
 def main():
@@ -211,7 +272,7 @@ def main():
             print(f"No player matching '{query}' on the injury report.")
             return
         p = matches[0]
-        send("🧪 TEST ALERT\n\n" + injury_message(p, fill_ins(p)))
+        send("🧪 TEST ALERT\n\n" + full_alert(p))
         print(f"Sent test alert for {p['name']}.")
         return
 

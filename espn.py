@@ -1,5 +1,6 @@
 """ESPN's public (no key needed) NBA injury, depth chart and player endpoints."""
 import re
+from datetime import datetime
 
 import requests
 
@@ -79,3 +80,36 @@ def player_overview(athlete_id):
             except (KeyError, ValueError):
                 pass
     return info
+
+
+def upcoming_games(team_id):
+    """The team's unplayed games in date order: [{'date', 'opponent', 'home'}...]. [] if unavailable."""
+    try:
+        games = []
+        for event in _get(f"{SITE}/teams/{team_id}/schedule")["events"]:
+            comp = event["competitions"][0]
+            if comp["status"]["type"]["state"] != "pre":
+                continue
+            us = next(t for t in comp["competitors"] if str(t["team"]["id"]) == str(team_id))
+            them = next(t for t in comp["competitors"] if t is not us)
+            games.append({"date": datetime.fromisoformat(event["date"]),
+                          "opponent": them["team"]["abbreviation"],
+                          "home": us["homeAway"] == "home"})
+        return sorted(games, key=lambda g: g["date"])
+    except (requests.RequestException, KeyError, IndexError, StopIteration, ValueError):
+        return []
+
+
+def recent_minutes(athlete_id, games=5):
+    """Average minutes over his last regular season games: {'min', 'games'}. None if unavailable."""
+    try:
+        log = _get(f"{ATHLETE}/{athlete_id}/gamelog")
+        col = log["names"].index("minutes")
+        played = [e for season in log["seasonTypes"] if "Regular Season" in season.get("displayName", "")
+                  for cat in season.get("categories", []) if cat.get("type") == "event"
+                  for e in cat.get("events", [])]
+        played.sort(key=lambda e: log["events"][e["eventId"]]["gameDate"], reverse=True)
+        minutes = [float(e["stats"][col]) for e in played[:games]]
+    except (requests.RequestException, KeyError, IndexError, ValueError):
+        return None
+    return {"min": sum(minutes) / len(minutes), "games": len(minutes)} if minutes else None
