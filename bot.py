@@ -21,6 +21,7 @@ import requests
 from dotenv import load_dotenv
 
 import espn
+import league
 
 load_dotenv(Path(__file__).with_name(".env"))
 sys.stdout.reconfigure(encoding="utf-8")  # Windows consoles default to a non-UTF-8 codepage
@@ -40,12 +41,16 @@ ALERT_ON_RETURN = os.environ.get("ALERT_ON_RETURN", "true").lower() == "true"
 POLL_MINUTES = float(os.environ.get("POLL_MINUTES", "10"))
 SUGGESTIONS = int(os.environ.get("SUGGESTIONS", "3"))
 MY_PLAYERS = {n.lower() for n in env_list("MY_PLAYERS")}
+MY_TEAMS = {n.lower() for n in env_list("MY_TEAMS")}  # your fantasy teams, as named in the Yahoo league
+YAHOO_LEAGUE_ID = os.environ.get("YAHOO_LEAGUE_ID", "")
+ROSTER_HOURS = float(os.environ.get("ROSTER_HOURS", "3"))
 
 LOCAL_TZ = ZoneInfo("Europe/Istanbul")
 US_TZ = ZoneInfo("America/New_York")
 # Fill-in ranking, in minutes per game: one spot further down the depth chart costs 6,
 # and a player who is probably on waivers gains 5, since a rostered one can't be picked up.
 DEPTH_PENALTY = 6
+MAX_PENALIZED_DEPTH = 3  # far down the chart, recent minutes say more than the exact spot
 AVAILABLE_BONUS = 5
 AVAILABLE_BELOW = 50  # % owned
 DIGEST_LEAD_HOURS = float(os.environ.get("DIGEST_LEAD_HOURS", "6"))  # 0 turns the digest off
@@ -82,14 +87,23 @@ def fill_ins(injured):
     for c in best.values():
         c.update(espn.player_overview(c["id"]))
         c["recent"] = espn.recent_minutes(c["id"])
-    return sorted(best.values(), key=lambda c: (-pickup_score(c), c["depth"], -len(c["positions"])))[:SUGGESTIONS]
+        c["league_team"] = league.owner(c["name"])
+    return sorted(best.values(), key=lambda c: (bool(c["league_team"]), -pickup_score(c), c["depth"],
+                                                -len(c["positions"])))[:SUGGESTIONS]
+
+
+def addable(c):
+    """Not rostered in the league. Without league data, ESPN % owned is the best guess."""
+    if c.get("league_team") is not None:
+        return c["league_team"] == ""
+    return c.get("owned") is not None and c["owned"] < AVAILABLE_BELOW
 
 
 def pickup_score(c):
-    """Recent minutes, minus a penalty per depth spot, plus a bonus if he's probably on waivers."""
+    """Recent minutes, minus a penalty per depth spot, plus a bonus if he can probably be added."""
     minutes = c["recent"]["min"] if c.get("recent") else c.get("min") or 0
-    available = c.get("owned") is not None and c["owned"] < AVAILABLE_BELOW
-    return minutes - DEPTH_PENALTY * c["depth"] + (AVAILABLE_BONUS if available else 0)
+    penalty = DEPTH_PENALTY * min(c["depth"], MAX_PENALIZED_DEPTH)
+    return minutes - penalty + (AVAILABLE_BONUS if addable(c) else 0)
 
 
 def game_line(team_id):
@@ -121,18 +135,24 @@ def fmt_stats(p):
     return " · ".join(parts)
 
 
-def fmt_owned(owned):
-    if owned is None:
-        return ""
-    return f"{owned:.0f}% owned" + (" 🟢 likely available" if owned < 50 else "")
+def fmt_availability(s):
+    parts = [f"{s['owned']:.0f}% owned"] if s.get("owned") is not None else []
+    team = s.get("league_team")
+    if team:
+        parts.append(f"🔒 {team}")
+    elif team == "":
+        parts.append("🟢 not rostered in your league")
+    elif addable(s):
+        parts.append("🟢 likely available")
+    return " · ".join(parts)
 
 
 def esc(s):
     return html.escape(s, quote=False)  # Telegram HTML only needs <, > and & escaped
 
 
-def is_mine(p):
-    return p["name"].lower() in MY_PLAYERS
+def is_mine(name):
+    return name.lower() in MY_PLAYERS or (league.owner(name) or "").lower() in MY_TEAMS
 
 
 def injury_message(p, suggestions, next_game=""):
@@ -143,8 +163,8 @@ def injury_message(p, suggestions, next_game=""):
         lines.append(f"🩹 {e(injury)}")
     if next_game:
         lines.append(f"🕒 Next game: {e(next_game)}")
-    if is_mine(p):
-        lines.append("⚠️ <b>Your player</b>: move him to IL.")
+    if is_mine(p["name"]):
+        lines.append(f"⚠️ <b>{e(league.owner(p['name']) or 'Your player')}</b>: move him to IL.")
     if p["short"]:
         lines.append(f"\n📰 {e(p['short'])}")
     if p["long"]:
@@ -156,10 +176,13 @@ def injury_message(p, suggestions, next_game=""):
         for i, s in enumerate(suggestions, 1):
             spot = "next" if s["depth"] == 0 else f"{s['depth'] + 1} spots behind"
             lines.append(f"{i}. <b>{e(s['name'])}</b>: {spot} at {', '.join(s['positions'])}")
-            details = " · ".join(filter(None, [fmt_stats(s), fmt_owned(s["owned"])]))
+            details = " · ".join(filter(None, [fmt_stats(s), fmt_availability(s)]))
             if details:
                 lines.append(f"    {e(details)}")
-        lines.append("\nCheck they're free agents in your Yahoo league before adding.")
+        if league.known():
+            lines.append(f"\nLeague rosters read {league.age().total_seconds() / 3600:.0f}h ago.")
+        else:
+            lines.append("\nCheck they're free agents in your Yahoo league before adding.")
     else:
         lines.append("No depth chart fill-ins found for him.")
     return "\n".join(lines)
@@ -186,10 +209,11 @@ def log(msg):
 
 
 def relevant(entry, aid, name):
-    """Fantasy-relevant = on your roster or >= MIN_OWNED% owned on ESPN. Cached in state."""
+    """Fantasy-relevant = on your roster or >= MIN_OWNED% owned on ESPN. Ownership is cached in state."""
+    if is_mine(name):
+        return True
     if entry.get("relevant") is None:
-        owned = espn.player_overview(aid)["owned"]
-        entry["relevant"] = name.lower() in MY_PLAYERS or (owned or 0) >= MIN_OWNED
+        entry["relevant"] = (espn.player_overview(aid)["owned"] or 0) >= MIN_OWNED
     return entry["relevant"]
 
 
@@ -259,7 +283,7 @@ def digest_blocks(games):
         for p in current.values():
             if p["team_id"] in ids and p["status"] in ("Out", "Day-To-Day"):
                 owned = espn.player_overview(p["id"])["owned"]
-                if is_mine(p) or (owned or 0) >= MIN_OWNED:
+                if is_mine(p["name"]) or (owned or 0) >= MIN_OWNED:
                     hurt.append((p, owned or 0))
         if not hurt:
             continue
@@ -269,8 +293,7 @@ def digest_blocks(games):
             icon = "🚑" if p["status"] == "Out" else "🤕"
             lines.append(f"{icon} <b>{e(p['name'])}</b> ({e(p['team'])}) {e(p['status'])} · {owned:.0f}% owned")
             if p["status"] == "Out":
-                addable = [s for s in fill_ins(p) if (s.get("owned") or 0) < AVAILABLE_BELOW]
-                picks = [digest_pick(s, current) for s in addable[:DIGEST_PICKS]]
+                picks = [digest_pick(s, current) for s in fill_ins(p) if addable(s)][:DIGEST_PICKS]
                 if picks:
                     lines.append("    ➡️ " + " · ".join(picks))
         blocks.append("\n".join(lines))
@@ -322,6 +345,10 @@ def send_digest_if_due():
 
 def tick():
     """One full round. A failed check still gets its digest, and the error still surfaces afterwards."""
+    try:
+        league.refresh_if_stale(YAHOO_LEAGUE_ID, ROSTER_HOURS)
+    except Exception:  # alerts matter more, and they fall back to ESPN % owned once rosters go stale
+        log("Roster refresh failed:\n" + traceback.format_exc())
     try:
         check()
     finally:

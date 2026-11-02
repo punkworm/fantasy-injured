@@ -35,7 +35,10 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           ALERT_STATUSES: Out
           MIN_OWNED: "20"
-          MY_PLAYERS: ""  # your Yahoo roster, comma separated
+          MY_PLAYERS: ""  # extra players to always treat as yours, comma separated
+          MY_TEAMS: ""  # your fantasy teams as named in the league, comma separated
+          YAHOO_LEAGUE_ID: "102934"  # rosters are read from the league's public pages
+          ROSTER_HOURS: "3"  # how often to re-read them
           NEWS_UPDATES: "true"
           ALERT_ON_RETURN: "true"
           SUGGESTIONS: "3"
@@ -45,7 +48,7 @@ jobs:
         run: |
           git config user.name "injury-bot"
           git config user.email "injury-bot@users.noreply.github.com"
-          git add state.json digest.json
+          git add state.json digest.json rosters.json
           git diff --cached --quiet || git commit -m "Update injury state" && git push
       - name: Tell Telegram the check failed
         if: failure()
