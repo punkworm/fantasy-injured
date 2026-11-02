@@ -619,8 +619,15 @@
     "name": "Jakob Poeltl",
     "team": "TOR",
     "status": "Day-To-Day",
-    "short": "Poeltl (shoulder) won't play in Sunday's game against the Lakers, Vivek Jacob of the Raptors' official site reports.",
+    "short": "Poeltl (shoulder) is listed as questionable for Monday's game against the Clippers.",
     "relevant": true
+  },
+  "4432586": {
+    "name": "Nate Bittle",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Bittle (foot) is out for Monday's game against the Clippers and remains without a timetable to return.",
+    "relevant": false
   },
   "6450": {
     "name": "Kawhi Leonard",
@@ -628,13 +635,6 @@
     "status": "Out",
     "short": "Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports.",
     "relevant": true
-  },
-  "4432586": {
-    "name": "Nate Bittle",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Bittle (foot) has been ruled out for Wednesday's game against the Magic, Cody Taylor of USA Today reports.",
-    "relevant": false
   },
   "4277961": {
     "name": "Jaren Jackson Jr.",
