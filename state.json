@@ -76,19 +76,19 @@
     "short": "Knueppel (hamstring) is listed as out for Monday's game versus the Pistons.",
     "relevant": true
   },
+  "4278067": {
+    "name": "Nic Claxton",
+    "team": "CHI",
+    "status": "Out",
+    "short": "Claxton (hamstring) is questionable for Wednesday against the Knicks.",
+    "relevant": true
+  },
   "4397189": {
     "name": "Jalen Smith",
     "team": "CHI",
     "status": "Day-To-Day",
     "short": "Smith is probable for Wednesday's game against the Knicks with a left finger sprain.",
     "relevant": null
-  },
-  "4278067": {
-    "name": "Nic Claxton",
-    "team": "CHI",
-    "status": "Out",
-    "short": "Claxton (hamstring) is out for Monday's game against the 76ers.",
-    "relevant": true
   },
   "4576087": {
     "name": "Peyton Watson",
@@ -164,7 +164,7 @@
     "name": "Isaiah Joe",
     "team": "DET",
     "status": "Out",
-    "short": "Joe (hip) is out for Monday against the Hornets.",
+    "short": "Joe (hip) has been ruled out for Wednesday's game against Philadelphia.",
     "relevant": false
   },
   "4433621": {
