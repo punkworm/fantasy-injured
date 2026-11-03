@@ -3,14 +3,14 @@
     "name": "Jock Landale",
     "team": "ATL",
     "status": "Out",
-    "short": "Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chouinard of the Hawks' official site reports.",
+    "short": "Landale (hip) has been ruled out for Monday's game against Indiana.",
     "relevant": false
   },
   "4701230": {
     "name": "Jalen Johnson",
     "team": "ATL",
     "status": "Day-To-Day",
-    "short": "Johnson (ankle) is listed as questionable for Wednesday's game in Washington, Kevin Chouinard of the Hawks' official site reports.",
+    "short": "Johnson (ankle) has been ruled out for Monday's game versus Indiana.",
     "relevant": true
   },
   "4712863": {
@@ -62,19 +62,26 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
+  "5061575": {
+    "name": "Kon Knueppel",
+    "team": "CHA",
+    "status": "Out",
+    "short": "Knueppel (hamstring) is listed as probable for Wednesday's game against the Nets.",
+    "relevant": true
+  },
+  "4395651": {
+    "name": "Coby White",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "White (calf) is probable for Wednesday's game in Brooklyn.",
+    "relevant": null
+  },
   "4066218": {
     "name": "Grant Williams",
     "team": "CHA",
     "status": "Out",
     "short": "Williams (hamstring) is listed as out for Monday's game against the Pistons.",
     "relevant": false
-  },
-  "5061575": {
-    "name": "Kon Knueppel",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Knueppel (hamstring) is listed as out for Monday's game versus the Pistons.",
-    "relevant": true
   },
   "4278067": {
     "name": "Nic Claxton",
