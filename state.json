@@ -146,6 +146,13 @@
     "short": "Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",
     "relevant": false
   },
+  "3138196": {
+    "name": "Cameron Johnson",
+    "team": "DEN",
+    "status": "Day-To-Day",
+    "short": "Johnson accumulated 12 points (5-13 FG, 2-8 3Pt, 0-2 FT), nine rebounds, three assists and one steal over 34 minutes during Friday's 127-120 victory over the Suns.",
+    "relevant": null
+  },
   "4592427": {
     "name": "Spencer Jones",
     "team": "DEN",
@@ -230,18 +237,25 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
-  "4278355": {
-    "name": "Obi Toppin",
+  "4017837": {
+    "name": "Ivica Zubac",
     "team": "IND",
     "status": "Out",
-    "short": "Toppin (back) is questionable for Wednesday's game against the Grizzlies.",
-    "relevant": false
+    "short": "Zubac (ankle) is listed as questionable for Wednesday's game against the Grizzlies.",
+    "relevant": true
   },
   "3133603": {
     "name": "Kelly Oubre Jr.",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "Oubre (knee) has been ruled out for Monday's game against the Hawks.",
+    "short": "Oubre (knee) is questionable for Wednesday's game against the Grizzlies.",
+    "relevant": false
+  },
+  "4278355": {
+    "name": "Obi Toppin",
+    "team": "IND",
+    "status": "Out",
+    "short": "Toppin (back) is questionable for Wednesday's game against the Grizzlies.",
     "relevant": false
   },
   "2530530": {
@@ -250,13 +264,6 @@
     "status": "Out",
     "short": "McConnell (hamstring) is out for Monday's game against the Hawks and remains week-to-week.",
     "relevant": false
-  },
-  "4017837": {
-    "name": "Ivica Zubac",
-    "team": "IND",
-    "status": "Out",
-    "short": "Zubac (ankle) has been ruled out for Monday's game against the Hawks.",
-    "relevant": true
   },
   "5157066": {
     "name": "Johnny Furphy",
