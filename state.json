@@ -391,19 +391,19 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
-  "4397688": {
-    "name": "Trey Murphy III",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Murphy (knee) will play Monday against the Grizzlies.",
-    "relevant": null
-  },
   "4277956": {
     "name": "Jordan Poole",
     "team": "NO",
     "status": "Out",
-    "short": "Poole (ankle) has been ruled out for Monday's game against the Grizzlies.",
+    "short": "Poole (ankle) is listed as probable for Wednesday's game against Utah.",
     "relevant": false
+  },
+  "4397688": {
+    "name": "Trey Murphy III",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "short": "Murphy (knee) is probable for Wednesday's game versus the Jazz.",
+    "relevant": null
   },
   "5061589": {
     "name": "Yves Missi",
@@ -608,6 +608,20 @@
     "short": "Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports.",
     "relevant": true
   },
+  "3102530": {
+    "name": "Jusuf Nurkic",
+    "team": "UTAH",
+    "status": "Out",
+    "short": "Nurkic (foot) is out for Wednesday's game against the Pelicans.",
+    "relevant": false
+  },
+  "4277919": {
+    "name": "Mo Bamba",
+    "team": "UTAH",
+    "status": "Day-To-Day",
+    "short": "Bamba is questionable for Wednesday's game in New Orleans due to a sprained right ankle.",
+    "relevant": null
+  },
   "4277961": {
     "name": "Jaren Jackson Jr.",
     "team": "UTAH",
@@ -620,13 +634,6 @@
     "team": "UTAH",
     "status": "Out",
     "short": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
-    "relevant": null
-  },
-  "3102530": {
-    "name": "Jusuf Nurkic",
-    "team": "UTAH",
-    "status": "Out",
-    "short": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports.",
     "relevant": null
   },
   "2581184": {
