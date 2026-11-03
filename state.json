@@ -356,18 +356,18 @@
     "short": "Head coach JJ Redick said Monday that Thiero (knee) has participated in live action, and the hope is that he'll be available by the end of the week, Khobi Price of The California Post reports.",
     "relevant": false
   },
-  "4431785": {
-    "name": "Scotty Pippen Jr.",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Pippen (back) has been ruled out for Monday's game against the Pelicans.",
-    "relevant": false
-  },
   "4593016": {
     "name": "Quinten Post",
     "team": "MEM",
     "status": "Day-To-Day",
-    "short": "Post (ankle) has been downgraded to out for Monday's game against the Pelicans.",
+    "short": "Post (ankle) is listed as questionable for Wednesday's game against Indiana.",
+    "relevant": false
+  },
+  "4431785": {
+    "name": "Scotty Pippen Jr.",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Pippen (back) won't play Wednesday against the Pacers.",
     "relevant": false
   },
   "4432847": {
@@ -591,7 +591,7 @@
     "name": "Jakob Poeltl",
     "team": "TOR",
     "status": "Day-To-Day",
-    "short": "Poeltl (shoulder) has been ruled out for Monday's game against the Clippers, Zulfi Sheikh reports.",
+    "short": "Poeltl is questionable for Wednesday's game against the Nuggets due to left shoulder bursitis, Blake Murphy of Sportsnet.ca reports.",
     "relevant": true
   },
   "4432586": {
