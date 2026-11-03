@@ -86,14 +86,14 @@
   "4576087": {
     "name": "Peyton Watson",
     "team": "CLE",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Watson (hamstring) is out for Monday's game against the Thunder, Chris Fedor of The Cleveland Plain Dealer reports.",
     "relevant": true
   },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Tyson (ankle) has been ruled out for Monday's game against Oklahoma City.",
     "relevant": false
   },
@@ -615,26 +615,26 @@
     "short": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports.",
     "relevant": null
   },
+  "5160992": {
+    "name": "Alex Sarr",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "short": "Sarr (knee) is out for Monday's game against Orlando.",
+    "relevant": true
+  },
+  "2581184": {
+    "name": "Anthony Gill",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "short": "Gill (back) is out for Monday's game against the Magic.",
+    "relevant": false
+  },
   "4432187": {
     "name": "Reece Beekman",
     "team": "WSH",
     "status": "Out",
     "short": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks.",
     "relevant": false
-  },
-  "2581184": {
-    "name": "Anthony Gill",
-    "team": "WSH",
-    "status": "Out",
-    "short": "Gill (back) is out for Monday's game against the Magic.",
-    "relevant": false
-  },
-  "5160992": {
-    "name": "Alex Sarr",
-    "team": "WSH",
-    "status": "Out",
-    "short": "Sarr (knee) is out for Monday's game against Orlando.",
-    "relevant": true
   },
   "4997537": {
     "name": "Tristan Vukcevic",
