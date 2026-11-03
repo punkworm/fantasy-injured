@@ -3,14 +3,14 @@
     "name": "Jock Landale",
     "team": "ATL",
     "status": "Out",
-    "short": "Landale (hip) has been ruled out for Monday's game against Indiana.",
+    "short": "Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chouinard of the Hawks' official site reports.",
     "relevant": false
   },
   "4701230": {
     "name": "Jalen Johnson",
     "team": "ATL",
     "status": "Day-To-Day",
-    "short": "Johnson (ankle) has been ruled out for Monday's game versus Indiana.",
+    "short": "Johnson (ankle) is listed as questionable for Wednesday's game in Washington, Kevin Chouinard of the Hawks' official site reports.",
     "relevant": true
   },
   "4712863": {
@@ -90,19 +90,19 @@
     "short": "Smith is probable for Wednesday's game against the Knicks with a left finger sprain.",
     "relevant": null
   },
-  "4576087": {
-    "name": "Peyton Watson",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Watson (hamstring) is out for Monday's game against the Thunder, Chris Fedor of The Cleveland Plain Dealer reports.",
-    "relevant": true
-  },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Tyson (ankle) has been ruled out for Monday's game against Oklahoma City.",
+    "status": "Out",
+    "short": "Tyson is out for Wednesday's game against the Thunder due to a right ankle sprain.",
     "relevant": false
+  },
+  "4576087": {
+    "name": "Peyton Watson",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Watson (hamstring) is out for Wednesday's game in Oklahoma City.",
+    "relevant": true
   },
   "6442": {
     "name": "Kyrie Irving",
