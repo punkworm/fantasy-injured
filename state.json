@@ -163,9 +163,9 @@
   "4397040": {
     "name": "Brandon Williams",
     "team": "GS",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Williams (quadriceps) is listed as questionable for Monday's game against the Suns.",
-    "relevant": null
+    "relevant": false
   },
   "3213": {
     "name": "Al Horford",
