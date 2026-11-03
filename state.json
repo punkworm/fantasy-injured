@@ -163,22 +163,22 @@
   "4397040": {
     "name": "Brandon Williams",
     "team": "GS",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Williams (quadriceps) has been ruled out for Monday's game against the Suns.",
-    "relevant": false
-  },
-  "3213": {
-    "name": "Al Horford",
-    "team": "GS",
-    "status": "Out",
-    "short": "Horford will be rested Monday against the Suns.",
     "relevant": false
   },
   "4997536": {
     "name": "Gui Santos",
     "team": "GS",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a knee injury and will not play against the Suns on Monday, Danny Emerman of SFStandard.com reports.",
+    "relevant": false
+  },
+  "3213": {
+    "name": "Al Horford",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "short": "Horford will be rested Monday against the Suns.",
     "relevant": false
   },
   "3102531": {
@@ -293,18 +293,18 @@
     "short": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
     "relevant": true
   },
-  "4066648": {
-    "name": "Rui Hachimura",
-    "team": "LAC",
-    "status": "Out",
-    "short": "Hachimura (quadriceps) has been ruled out for Monday's game against the Raptors.",
-    "relevant": false
-  },
   "3936099": {
     "name": "Derrick Jones Jr.",
     "team": "LAC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Jones (knee) has been ruled out for Monday's game against the Raptors.",
+    "relevant": false
+  },
+  "4066648": {
+    "name": "Rui Hachimura",
+    "team": "LAC",
+    "status": "Day-To-Day",
+    "short": "Hachimura (quadriceps) has been ruled out for Monday's game against the Raptors.",
     "relevant": false
   },
   "5108024": {
@@ -569,7 +569,7 @@
   "3134908": {
     "name": "Jakob Poeltl",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Poeltl (shoulder) has been ruled out for Monday's game against the Clippers, Zulfi Sheikh reports.",
     "relevant": true
   },
