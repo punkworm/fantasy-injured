@@ -1,24 +1,17 @@
 {
-  "4701230": {
-    "name": "Jalen Johnson",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Johnson (ankle) has been ruled out for Monday's game versus Indiana.",
-    "relevant": true
-  },
-  "5149077": {
-    "name": "Kingston Flemings",
-    "team": "ATL",
-    "status": "Suspension",
-    "short": "Flemings (suspension) won't play in Monday's game against Indiana, Andrew Schlecht of The Athletic reports.",
-    "relevant": null
-  },
   "3146557": {
     "name": "Jock Landale",
     "team": "ATL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Landale (hip) has been ruled out for Monday's game against Indiana.",
     "relevant": false
+  },
+  "4701230": {
+    "name": "Jalen Johnson",
+    "team": "ATL",
+    "status": "Day-To-Day",
+    "short": "Johnson (ankle) has been ruled out for Monday's game versus Indiana.",
+    "relevant": true
   },
   "4712863": {
     "name": "Mouhamed Gueye",
