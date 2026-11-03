@@ -104,6 +104,13 @@
     "short": "Tyson (ankle) has been ruled out for Monday's game against Oklahoma City.",
     "relevant": false
   },
+  "4432582": {
+    "name": "Max Christie",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Christie (shin) is available for Saturday's game against the Spurs.",
+    "relevant": null
+  },
   "6442": {
     "name": "Kyrie Irving",
     "team": "DAL",
@@ -566,18 +573,11 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
-  "4433134": {
-    "name": "Scottie Barnes",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Barnes (hip) is listed as questionable for Monday's game against the Clippers.",
-    "relevant": null
-  },
   "3134908": {
     "name": "Jakob Poeltl",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Poeltl (shoulder) is listed as questionable for Monday's game against the Clippers.",
+    "status": "Out",
+    "short": "Poeltl (shoulder) has been ruled out for Monday's game against the Clippers, Zulfi Sheikh reports.",
     "relevant": true
   },
   "4432586": {
