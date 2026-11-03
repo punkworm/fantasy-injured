@@ -223,6 +223,13 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
+  "3133603": {
+    "name": "Kelly Oubre Jr.",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Oubre will come off the bench in Monday's game against the Hawks, Tony East of Forbes.com reports.",
+    "relevant": null
+  },
   "2580365": {
     "name": "Larry Nance Jr.",
     "team": "IND",
@@ -346,7 +353,7 @@
     "name": "Scotty Pippen Jr.",
     "team": "MEM",
     "status": "Out",
-    "short": "Pippen (back) is listed as doubtful for Monday's game against the Pelicans.",
+    "short": "Pippen (back) has been ruled out for Monday's game against the Pelicans.",
     "relevant": false
   },
   "4593016": {
@@ -361,13 +368,6 @@
     "team": "MIN",
     "status": "Out",
     "short": "Shannon (hip) has been ruled out for Monday's game against the Bucks, Jon Krawczynski of The Athletic reports.",
-    "relevant": null
-  },
-  "4432816": {
-    "name": "LaMelo Ball",
-    "team": "MIN",
-    "status": "Day-To-Day",
-    "short": "Ball is questionable for Monday's game against Milwaukee due to a right wrist contusion.",
     "relevant": null
   },
   "4594268": {
