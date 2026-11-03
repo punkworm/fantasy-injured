@@ -216,17 +216,38 @@
     "short": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
+  "3149673": {
+    "name": "Pascal Siakam",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Siakam will be rested against the Hawks on Monday.",
+    "relevant": true
+  },
+  "4396909": {
+    "name": "Aaron Nesmith",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Nesmith (rest) is sitting out Monday against Atlanta.",
+    "relevant": false
+  },
+  "4395712": {
+    "name": "Andrew Nembhard",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Nembhard (cervical strain) is out for Monday's game against Atlanta.",
+    "relevant": true
+  },
   "3133603": {
     "name": "Kelly Oubre Jr.",
     "team": "IND",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Oubre (knee) has been ruled out for Monday's game against the Hawks.",
     "relevant": false
   },
   "2580365": {
     "name": "Larry Nance Jr.",
     "team": "IND",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Nance (illness) has been ruled out for Monday's game against the Hawks.",
     "relevant": false
   },
@@ -249,27 +270,6 @@
     "team": "IND",
     "status": "Out",
     "short": "Zubac (ankle) has been ruled out for Monday's game against the Hawks.",
-    "relevant": true
-  },
-  "4396909": {
-    "name": "Aaron Nesmith",
-    "team": "IND",
-    "status": "Out",
-    "short": "Nesmith (rest) is sitting out Monday against Atlanta.",
-    "relevant": false
-  },
-  "4395712": {
-    "name": "Andrew Nembhard",
-    "team": "IND",
-    "status": "Out",
-    "short": "Nembhard (cervical strain) is out for Monday's game against Atlanta.",
-    "relevant": true
-  },
-  "3149673": {
-    "name": "Pascal Siakam",
-    "team": "IND",
-    "status": "Out",
-    "short": "Siakam will be rested against the Hawks on Monday.",
     "relevant": true
   },
   "5157066": {
