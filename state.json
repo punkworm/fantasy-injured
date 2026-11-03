@@ -114,15 +114,15 @@
   "4432582": {
     "name": "Max Christie",
     "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Christie has been ruled out for the rest of Monday's game against the Kings due to a right hip injury, Mike Curtis of The Dallas Morning News reports. He'll end the night with no points (0-5 FG, 0-5 3Pt), two rebounds and one steal in eight minutes.",
-    "relevant": null
+    "status": "Out",
+    "short": "Christie (hip) is out for Wednesday's game against the Spurs.",
+    "relevant": false
   },
   "4593125": {
     "name": "Santi Aldama",
     "team": "DAL",
     "status": "Out",
-    "short": "Aldama (knee) has been ruled out for Monday's matchup with Sacramento.",
+    "short": "Aldama (knee) is questionable for Wednesday's game against the Spurs.",
     "relevant": false
   },
   "5148538": {
@@ -220,7 +220,7 @@
     "name": "Clint Capela",
     "team": "HOU",
     "status": "Day-To-Day",
-    "short": "Capela (ankle) has been ruled out for Monday's game against the Celtics.",
+    "short": "Capela (ankle) is listed as questionable for Wednesday's game against the Timberwolves.",
     "relevant": false
   },
   "2991235": {
