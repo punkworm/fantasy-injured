@@ -90,19 +90,19 @@
     "short": "Tyson (ankle) has been ruled out for Monday's game against Oklahoma City.",
     "relevant": false
   },
+  "6442": {
+    "name": "Kyrie Irving",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Irving (knee) has been ruled out for Monday's game against the Kings.",
+    "relevant": true
+  },
   "4432582": {
     "name": "Max Christie",
     "team": "DAL",
     "status": "Day-To-Day",
     "short": "Christie has been ruled out for the rest of Monday's game against the Kings due to a right hip injury, Mike Curtis of The Dallas Morning News reports. He'll end the night with no points (0-5 FG, 0-5 3Pt), two rebounds and one steal in eight minutes.",
     "relevant": null
-  },
-  "6442": {
-    "name": "Kyrie Irving",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Irving (knee) has been ruled out for Monday's game against the Kings.",
-    "relevant": true
   },
   "4593125": {
     "name": "Santi Aldama",
