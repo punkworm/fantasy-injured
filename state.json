@@ -412,6 +412,13 @@
     "short": "Missi (knee) won't play in Saturday's game against Atlanta.",
     "relevant": false
   },
+  "3062679": {
+    "name": "Josh Hart",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "short": "Hart is questionable for Wednesday's game against the Bulls due to right ankle soreness.",
+    "relevant": null
+  },
   "5061603": {
     "name": "Thomas Sorber",
     "team": "OKC",
@@ -622,19 +629,19 @@
     "short": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports.",
     "relevant": null
   },
-  "5160992": {
-    "name": "Alex Sarr",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "short": "Sarr (knee) is out for Monday's game against Orlando.",
-    "relevant": true
-  },
   "2581184": {
     "name": "Anthony Gill",
     "team": "WSH",
     "status": "Day-To-Day",
-    "short": "Gill (back) is out for Monday's game against the Magic.",
+    "short": "Gill (back) is questionable for Wednesday against the Hawks.",
     "relevant": false
+  },
+  "5160992": {
+    "name": "Alex Sarr",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "short": "Sarr (knee) is listed as questionable for Wednesday's game against Atlanta.",
+    "relevant": true
   },
   "4432187": {
     "name": "Reece Beekman",
