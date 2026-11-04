@@ -3,7 +3,7 @@
     "name": "Jalen Johnson",
     "team": "ATL",
     "status": "Out",
-    "short": "Johnson (ankle) is listed as questionable for Wednesday's game in Washington, Kevin Chouinard of the Hawks' official site reports.",
+    "short": "Johnson (ankle) is listed as out for Wednesday's game in Washington.",
     "relevant": true
   },
   "3146557": {
@@ -373,9 +373,9 @@
   "4397688": {
     "name": "Trey Murphy III",
     "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Murphy (knees) is now questionable for Wednesday against the Jazz.",
-    "relevant": null
+    "status": "Out",
+    "short": "Murphy (knees) is listed as out for Wednesday's game against Utah.",
+    "relevant": true
   },
   "4277956": {
     "name": "Jordan Poole",
@@ -398,6 +398,13 @@
     "short": "Hart is out for Wednesday's game against the Bulls due to right ankle soreness.",
     "relevant": true
   },
+  "4432823": {
+    "name": "Jaylin Williams",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Williams (back) is listed as questionable for Wednesday's game against the Cavaliers.",
+    "relevant": false
+  },
   "5159925": {
     "name": "Nikola Topic",
     "team": "OKC",
@@ -411,13 +418,6 @@
     "status": "Out",
     "short": "Sorber (knee) is out for Wednesday's game against the Cavaliers.",
     "relevant": false
-  },
-  "4432823": {
-    "name": "Jaylin Williams",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "short": "Williams (back) is listed as questionable for Wednesday's game against the Cavaliers.",
-    "relevant": null
   },
   "4683692": {
     "name": "Cason Wallace",
@@ -613,13 +613,6 @@
     "team": "UTAH",
     "status": "Out",
     "short": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
-    "relevant": null
-  },
-  "5104155": {
-    "name": "Bilal Coulibaly",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "short": "Coulibaly (illness) is questionable for Wednesday against the Hawks.",
     "relevant": null
   },
   "4432187": {
