@@ -359,9 +359,9 @@
   "4432847": {
     "name": "Terrence Shannon Jr.",
     "team": "MIN",
-    "status": "Day-To-Day",
-    "short": "Shannon (hip) is listed as questionable for Wednesday's game in Houston.",
-    "relevant": null
+    "status": "Out",
+    "short": "Shannon (hip) is out for Wednesday against the Rockets.",
+    "relevant": false
   },
   "4594268": {
     "name": "Anthony Edwards",
