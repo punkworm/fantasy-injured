@@ -27,18 +27,18 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
+  "4065648": {
+    "name": "Jayson Tatum",
+    "team": "BOS",
+    "status": "Out",
+    "short": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports.",
+    "relevant": null
+  },
   "4066354": {
     "name": "Payton Pritchard",
     "team": "BOS",
     "status": "Day-To-Day",
     "short": "Pritchard is listed as questionable for Wednesday's game against Milwaukee due to a right shoulder contusion, Taylor Snow of the Celtics' official site reports.",
-    "relevant": null
-  },
-  "4065648": {
-    "name": "Jayson Tatum",
-    "team": "BOS",
-    "status": "Day-To-Day",
-    "short": "Tatum (rest) is questionable for Wednesday against the Bucks, Taylor Snow of the Celtics' official site reports.",
     "relevant": null
   },
   "4433188": {
@@ -354,6 +354,13 @@
     "team": "MIA",
     "status": "Day-To-Day",
     "short": "Antetokounmpo is probable to play Wednesday against the Clippers due to a sprained right wrist.",
+    "relevant": null
+  },
+  "4697268": {
+    "name": "Kam Jones",
+    "team": "MIL",
+    "status": "Day-To-Day",
+    "short": "Jones (ankle) is questionable for Wednesday against the Celtics.",
     "relevant": null
   },
   "4432847": {
