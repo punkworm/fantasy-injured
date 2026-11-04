@@ -111,18 +111,18 @@
     "short": "Watson (hamstring) is out for Wednesday's game in Oklahoma City.",
     "relevant": true
   },
+  "4593125": {
+    "name": "Santi Aldama",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Aldama (knee) was spotted at Wednesday's morning shootaround, Brad Townsend of The Dallas Morning News reports.",
+    "relevant": false
+  },
   "4432582": {
     "name": "Max Christie",
     "team": "DAL",
     "status": "Out",
     "short": "Christie (hip) is out for Wednesday's game against the Spurs.",
-    "relevant": false
-  },
-  "4593125": {
-    "name": "Santi Aldama",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Aldama (knee) is questionable for Wednesday's game against the Spurs.",
     "relevant": false
   },
   "5148538": {
