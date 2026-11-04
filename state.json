@@ -580,6 +580,13 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
+  "6450": {
+    "name": "Kawhi Leonard",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
+    "relevant": true
+  },
   "3134908": {
     "name": "Jakob Poeltl",
     "team": "TOR",
@@ -593,13 +600,6 @@
     "status": "Out",
     "short": "Bittle (foot) is out for Monday's game against the Clippers and remains without a timetable to return.",
     "relevant": false
-  },
-  "6450": {
-    "name": "Kawhi Leonard",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports.",
-    "relevant": true
   },
   "3102530": {
     "name": "Jusuf Nurkic",
