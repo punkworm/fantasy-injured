@@ -293,20 +293,6 @@
     "short": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
     "relevant": true
   },
-  "3936099": {
-    "name": "Derrick Jones Jr.",
-    "team": "LAC",
-    "status": "Day-To-Day",
-    "short": "Jones (knee) has been ruled out for Monday's game against the Raptors.",
-    "relevant": false
-  },
-  "4066648": {
-    "name": "Rui Hachimura",
-    "team": "LAC",
-    "status": "Day-To-Day",
-    "short": "Hachimura (quadriceps) has been ruled out for Monday's game against the Raptors.",
-    "relevant": false
-  },
   "5108024": {
     "name": "Yanic Konan Niederhauser",
     "team": "LAC",
@@ -542,15 +528,8 @@
     "name": "Precious Achiuwa",
     "team": "SAC",
     "status": "Day-To-Day",
-    "short": "Achiuwa notched six points (2-3 FG, 2-3 FT), 10 rebounds, three assists, two blocks and two steals across 27 minutes during Monday's 115-100 victory over the Mavericks.",
+    "short": "Achiuwa (ankle) is listed as probable for Wednesday's game against the Lakers.",
     "relevant": null
-  },
-  "4433174": {
-    "name": "Dylan Cardwell",
-    "team": "SAC",
-    "status": "Out",
-    "short": "Cardwell (calf) has been ruled out for Monday's game against the Mavericks.",
-    "relevant": false
   },
   "4898371": {
     "name": "Maxime Raynaud",
