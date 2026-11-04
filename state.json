@@ -62,12 +62,12 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
-  "5061575": {
-    "name": "Kon Knueppel",
+  "4066218": {
+    "name": "Grant Williams",
     "team": "CHA",
     "status": "Out",
-    "short": "Knueppel (hamstring) is listed as probable for Wednesday's game against the Nets.",
-    "relevant": true
+    "short": "Charlotte assigned Williams (hamstring) to the G League's Greensboro Swarm on Wednesday.",
+    "relevant": false
   },
   "4395651": {
     "name": "Coby White",
@@ -75,13 +75,6 @@
     "status": "Day-To-Day",
     "short": "White (calf) is probable for Wednesday's game in Brooklyn.",
     "relevant": null
-  },
-  "4066218": {
-    "name": "Grant Williams",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Williams (hamstring) is listed as out for Monday's game against the Pistons.",
-    "relevant": false
   },
   "4278067": {
     "name": "Nic Claxton",
