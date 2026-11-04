@@ -401,9 +401,9 @@
   "3062679": {
     "name": "Josh Hart",
     "team": "NY",
-    "status": "Day-To-Day",
-    "short": "Hart is questionable for Wednesday's game against the Bulls due to right ankle soreness.",
-    "relevant": null
+    "status": "Out",
+    "short": "Hart is out for Wednesday's game against the Bulls due to right ankle soreness.",
+    "relevant": true
   },
   "5159925": {
     "name": "Nikola Topic",
