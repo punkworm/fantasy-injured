@@ -27,18 +27,18 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
+  "4433188": {
+    "name": "Devin Carter",
+    "team": "BOS",
+    "status": "Out",
+    "short": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday.",
+    "relevant": false
+  },
   "4065648": {
     "name": "Jayson Tatum",
     "team": "BOS",
     "status": "Out",
     "short": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports.",
-    "relevant": null
-  },
-  "4433188": {
-    "name": "Devin Carter",
-    "team": "BOS",
-    "status": "Out",
-    "short": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary Washburn of The Boston Globe reports.",
     "relevant": null
   },
   "5175643": {
@@ -305,13 +305,6 @@
     "team": "LAL",
     "status": "Out",
     "short": "The Lakers assigned Thiero (knee) to the G League's Coachella Valley Lakers on Wednesday, per Khobi Price of The California Post.",
-    "relevant": false
-  },
-  "4593016": {
-    "name": "Quinten Post",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Post (ankle) is listed as questionable for Wednesday's game against Indiana.",
     "relevant": false
   },
   "4431785": {
