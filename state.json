@@ -324,9 +324,9 @@
   "4697268": {
     "name": "Kam Jones",
     "team": "MIL",
-    "status": "Day-To-Day",
-    "short": "Jones (ankle) is questionable for Wednesday against the Celtics.",
-    "relevant": null
+    "status": "Out",
+    "short": "Jones (ankle) won't play Wednesday in Boston.",
+    "relevant": false
   },
   "4432847": {
     "name": "Terrence Shannon Jr.",
