@@ -55,6 +55,13 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
+  "5061575": {
+    "name": "Kon Knueppel",
+    "team": "CHA",
+    "status": "Out",
+    "short": "Knueppel (hamstring) exited to the locker room in the first quarter of Wednesday's game against the Nets, Brian Lewis of the New York Post reports.",
+    "relevant": true
+  },
   "4066218": {
     "name": "Grant Williams",
     "team": "CHA",
@@ -433,19 +440,19 @@
     "short": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
     "relevant": null
   },
+  "4278402": {
+    "name": "Jordan Goodwin",
+    "team": "PHX",
+    "status": "Out",
+    "short": "Goodwin (calf) won't play in Wednesday's game against Portland.",
+    "relevant": false
+  },
   "5105977": {
     "name": "Rasheer Fleming",
     "team": "PHX",
     "status": "Out",
     "short": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle.",
     "relevant": false
-  },
-  "4278402": {
-    "name": "Jordan Goodwin",
-    "team": "PHX",
-    "status": "Day-To-Day",
-    "short": "Goodwin (calf) is questionable for Wednesday's game against Portland, Duane Rankin of The Arizona Republic reports.",
-    "relevant": null
   },
   "4701232": {
     "name": "Mark Williams",
