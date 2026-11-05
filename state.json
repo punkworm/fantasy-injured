@@ -125,6 +125,13 @@
     "short": "Smith (hand) won't return to Wednesday's game against the Knicks.",
     "relevant": null
   },
+  "5023693": {
+    "name": "Tyrese Proctor",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Proctor (ankle) is questionable to play in Friday's game against the 76ers.",
+    "relevant": null
+  },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
@@ -144,13 +151,6 @@
     "team": "CLE",
     "status": "Day-To-Day",
     "short": "Allen (knee) is questionable for Friday's game against Philadelphia.",
-    "relevant": null
-  },
-  "5023693": {
-    "name": "Tyrese Proctor",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Proctor exited Wednesday's 124-116 loss to the Thunder in the fourth quarter and did not return due to an apparent ankle injury, finishing with 11 points (4-7 FG, 2-3 3Pt, 1-1 FT), one rebound and one steal across 22 minutes.",
     "relevant": null
   },
   "5279129": {
