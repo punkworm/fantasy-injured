@@ -76,11 +76,25 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
+  "3032979": {
+    "name": "Dennis Schroder",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "Schroder recorded five points (2-4 FG, 0-2 3Pt, 1-2 FT), two rebounds, one assist and two steals in 23 minutes during Monday's 124-91 loss to Detroit.",
+    "relevant": null
+  },
+  "4433249": {
+    "name": "Moussa Diabate",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "Diabate (quadriceps) is questionable for Friday's game against the Celtics.",
+    "relevant": null
+  },
   "5061575": {
     "name": "Kon Knueppel",
     "team": "CHA",
-    "status": "Day-To-Day",
-    "short": "Knueppel exited Wednesday's game against the Nets after experiencing soreness in his left leg and he will not return, Brett Siegel of ClutchPoints.com reports.",
+    "status": "Out",
+    "short": "Knueppel (hamstring) is out for Friday's game against the Celtics.",
     "relevant": true
   },
   "4066218": {
