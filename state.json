@@ -370,19 +370,19 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
+  "5061589": {
+    "name": "Yves Missi",
+    "team": "NO",
+    "status": "Out",
+    "short": "Missi (knee) is out for Friday's game against Minnesota.",
+    "relevant": false
+  },
   "4397688": {
     "name": "Trey Murphy III",
     "team": "NO",
     "status": "Day-To-Day",
     "short": "Murphy (knee) is probable for Friday's game against Minnesota.",
     "relevant": true
-  },
-  "5061589": {
-    "name": "Yves Missi",
-    "team": "NO",
-    "status": "Out",
-    "short": "Missi (knee) won't play in Saturday's game against Atlanta.",
-    "relevant": false
   },
   "3062679": {
     "name": "Josh Hart",
