@@ -62,18 +62,11 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
-  "4395651": {
-    "name": "Coby White",
-    "team": "CHA",
-    "status": "Day-To-Day",
-    "short": "White (undisclosed) exited Wednesday's game against the Nets, Owen O'Connor of SI.com reports.",
-    "relevant": null
-  },
   "5061575": {
     "name": "Kon Knueppel",
     "team": "CHA",
     "status": "Out",
-    "short": "Knueppel (hamstring) exited to the locker room in the first quarter of Wednesday's game against the Nets, Brian Lewis of the New York Post reports.",
+    "short": "Knueppel exited Wednesday's game against the Nets after experiencing soreness in his left leg and he will not return, Brett Siegel of ClutchPoints.com reports.",
     "relevant": true
   },
   "4066218": {
@@ -101,7 +94,7 @@
     "name": "Jarrett Allen",
     "team": "CLE",
     "status": "Day-To-Day",
-    "short": "Allen exited to the locker room in the first quarter of Wednesday's game against the Thunder due to an apparent right knee injury, Chris Fedor of The Cleveland Plain Dealer reports.",
+    "short": "Allen (knee) is doubtful to return to Wednesday's game against the Thunder, Brett Siegel of ClutchPoints.com reports.",
     "relevant": null
   },
   "4683747": {
@@ -152,6 +145,13 @@
     "status": "Out",
     "short": "Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",
     "relevant": false
+  },
+  "3978": {
+    "name": "DeMar DeRozan",
+    "team": "DEN",
+    "status": "Out",
+    "short": "DeRozan posted nine points (3-7 FG, 3-3 FT) and a rebound across 20 minutes in Monday's 118-110 loss to the Trail Blazers.",
+    "relevant": true
   },
   "4592427": {
     "name": "Spencer Jones",
