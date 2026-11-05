@@ -1,24 +1,24 @@
 {
+  "3146557": {
+    "name": "Jock Landale",
+    "team": "ATL",
+    "status": "Day-To-Day",
+    "short": "Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chouinard of the Hawks' official site reports.",
+    "relevant": false
+  },
+  "4701230": {
+    "name": "Jalen Johnson",
+    "team": "ATL",
+    "status": "Day-To-Day",
+    "short": "Johnson (ankle) is listed as out for Wednesday's game in Washington.",
+    "relevant": true
+  },
   "4873201": {
     "name": "Asa Newell",
     "team": "ATL",
     "status": "Day-To-Day",
     "short": "Newell won't return to Wednesday's game against the Wizards due to a left great toe hyperextension, Brad Rowland of the Locked On Podcast Network reports. He'll finish with two points (1-1 FG), three rebounds and three assists across 10 minutes.",
     "relevant": null
-  },
-  "4701230": {
-    "name": "Jalen Johnson",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Johnson (ankle) is listed as out for Wednesday's game in Washington.",
-    "relevant": true
-  },
-  "3146557": {
-    "name": "Jock Landale",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chouinard of the Hawks' official site reports.",
-    "relevant": false
   },
   "4712863": {
     "name": "Mouhamed Gueye",
@@ -34,13 +34,6 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
-  "4065648": {
-    "name": "Jayson Tatum",
-    "team": "BOS",
-    "status": "Day-To-Day",
-    "short": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports.",
-    "relevant": null
-  },
   "4066354": {
     "name": "Payton Pritchard",
     "team": "BOS",
@@ -54,6 +47,13 @@
     "status": "Out",
     "short": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday.",
     "relevant": false
+  },
+  "4065648": {
+    "name": "Jayson Tatum",
+    "team": "BOS",
+    "status": "Out",
+    "short": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports.",
+    "relevant": null
   },
   "4712896": {
     "name": "Noah Clowney",
@@ -118,6 +118,13 @@
     "short": "Claxton (hamstring) is listed as out for Wednesday's game against New York.",
     "relevant": true
   },
+  "4576087": {
+    "name": "Peyton Watson",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Watson (hamstring) is out for Wednesday's game in Oklahoma City.",
+    "relevant": true
+  },
   "4066328": {
     "name": "Jarrett Allen",
     "team": "CLE",
@@ -138,13 +145,6 @@
     "status": "Out",
     "short": "According to Cavaliers head coach Kenny Atkinson, Tyson (ankle) has been \"on the court lately progressing well,\" Chris Fedor of The Cleveland Plain Dealer reports.",
     "relevant": false
-  },
-  "4576087": {
-    "name": "Peyton Watson",
-    "team": "CLE",
-    "status": "Out",
-    "short": "Watson (hamstring) is out for Wednesday's game in Oklahoma City.",
-    "relevant": true
   },
   "4593125": {
     "name": "Santi Aldama",
@@ -184,7 +184,7 @@
   "3978": {
     "name": "DeMar DeRozan",
     "team": "DEN",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "DeRozan has been ruled out for Wednesday's game against the Raptors due to lower-back spasms.",
     "relevant": true
   },
@@ -345,14 +345,14 @@
   "4697268": {
     "name": "Kam Jones",
     "team": "MIL",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Jones (ankle) won't play Wednesday in Boston.",
     "relevant": false
   },
   "4432847": {
     "name": "Terrence Shannon Jr.",
     "team": "MIN",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Shannon (hip) is out for Wednesday against the Rockets.",
     "relevant": false
   },
@@ -373,7 +373,7 @@
   "4397688": {
     "name": "Trey Murphy III",
     "team": "NO",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Murphy (knees) is listed as out for Wednesday's game against Utah.",
     "relevant": true
   },
@@ -387,14 +387,14 @@
   "3062679": {
     "name": "Josh Hart",
     "team": "NY",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Hart is out for Wednesday's game against the Bulls due to right ankle soreness.",
     "relevant": true
   },
   "4432823": {
     "name": "Jaylin Williams",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Williams (back) is listed as out for Wednesday's game versus Cleveland, Clemente Almanza of USA Today reports.",
     "relevant": false
   },
@@ -534,7 +534,7 @@
   "4279318": {
     "name": "Daeqwon Plowden",
     "team": "SAC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Plowden (illness) is out for Wednesday's game against the Lakers.",
     "relevant": false
   },
