@@ -62,6 +62,13 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
+  "4395651": {
+    "name": "Coby White",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "White (calf) is available for Wednesday's game in Brooklyn.",
+    "relevant": null
+  },
   "5061575": {
     "name": "Kon Knueppel",
     "team": "CHA",
@@ -89,6 +96,13 @@
     "status": "Out",
     "short": "Claxton (hamstring) is listed as out for Wednesday's game against New York.",
     "relevant": true
+  },
+  "4066328": {
+    "name": "Jarrett Allen",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Allen accumulated 14 points (5-10 FG, 4-6 FT), six rebounds, one assist, one block and one steal across 28 minutes during Monday's 117-112 loss to the Thunder.",
+    "relevant": null
   },
   "4683747": {
     "name": "Jaylon Tyson",
