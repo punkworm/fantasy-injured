@@ -3,7 +3,7 @@
     "name": "Asa Newell",
     "team": "ATL",
     "status": "Out",
-    "short": "Newell won't return to Wednesday's game against the Wizards due to a left great toe hyperextension, Brad Rowland of the Locked On Podcast Network reports. He'll finish with two points (1-1 FG), three rebounds and three assists across 10 minutes.",
+    "short": "Newell (toe) is out for Friday's game against Washington.",
     "relevant": false
   },
   "3146557": {
@@ -153,18 +153,25 @@
     "short": "Proctor exited Wednesday's 124-116 loss to the Thunder in the fourth quarter and did not return due to an apparent ankle injury, finishing with 11 points (4-7 FG, 2-3 3Pt, 1-1 FT), one rebound and one steal across 22 minutes.",
     "relevant": null
   },
-  "4432582": {
-    "name": "Max Christie",
+  "5279129": {
+    "name": "Sergio de Larrea",
     "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Christie (hip) is out for Wednesday's game against the Spurs.",
+    "status": "Out",
+    "short": "De Larrea (knee) is out for Friday's game against Utah.",
     "relevant": false
   },
   "4593125": {
     "name": "Santi Aldama",
     "team": "DAL",
     "status": "Out",
-    "short": "Aldama (knee) is out for Wednesday's game against the Spurs, Grant Afseth of DallasHoopsJournal.com reports.",
+    "short": "Aldama (knee) is probable to suit up for Friday's game against the Jazz.",
+    "relevant": false
+  },
+  "4432582": {
+    "name": "Max Christie",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Christie (hip) is probable for Friday's game against the Jazz.",
     "relevant": false
   },
   "5148538": {
@@ -179,13 +186,6 @@
     "team": "DAL",
     "status": "Out",
     "short": "Lively (foot) is listed as out for Monday's game against the Kings.",
-    "relevant": false
-  },
-  "5279129": {
-    "name": "Sergio de Larrea",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",
     "relevant": false
   },
   "3978": {
