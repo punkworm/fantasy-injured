@@ -219,15 +219,8 @@
   "3133603": {
     "name": "Kelly Oubre Jr.",
     "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Oubre (knee) is questionable for Wednesday's game against the Grizzlies.",
-    "relevant": false
-  },
-  "4278355": {
-    "name": "Obi Toppin",
-    "team": "IND",
     "status": "Out",
-    "short": "Toppin (back) is questionable for Wednesday's game against the Grizzlies.",
+    "short": "Oubre (calf) has been ruled out for Wednesday's game against the Grizzlies.",
     "relevant": false
   },
   "2530530": {
@@ -348,13 +341,6 @@
     "status": "Out",
     "short": "Murphy (knees) is listed as out for Wednesday's game against Utah.",
     "relevant": true
-  },
-  "4277956": {
-    "name": "Jordan Poole",
-    "team": "NO",
-    "status": "Out",
-    "short": "Poole (ankle) is listed as probable for Wednesday's game against Utah.",
-    "relevant": false
   },
   "5061589": {
     "name": "Yves Missi",
