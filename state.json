@@ -97,6 +97,13 @@
     "short": "The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday.",
     "relevant": false
   },
+  "4278067": {
+    "name": "Nic Claxton",
+    "team": "CHI",
+    "status": "Out",
+    "short": "The Bulls assigned Claxton (hamstring) to the G League's Windy City Bulls on Thursday.",
+    "relevant": true
+  },
   "4066650": {
     "name": "Zach Collins",
     "team": "CHI",
@@ -110,13 +117,6 @@
     "status": "Day-To-Day",
     "short": "Smith (hand) won't return to Wednesday's game against the Knicks.",
     "relevant": null
-  },
-  "4278067": {
-    "name": "Nic Claxton",
-    "team": "CHI",
-    "status": "Out",
-    "short": "Claxton (hamstring) is listed as out for Wednesday's game against New York.",
-    "relevant": true
   },
   "4576087": {
     "name": "Peyton Watson",
