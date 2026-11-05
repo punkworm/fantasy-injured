@@ -345,9 +345,9 @@
   "4432810": {
     "name": "Isaiah Stewart",
     "team": "MEM",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Stewart (knee) exited Wednesday's 107-103 loss to the Pacers and did not return, finishing with six points (3-4 FG) and one rebound in 10 minutes.",
-    "relevant": null
+    "relevant": false
   },
   "4431785": {
     "name": "Scotty Pippen Jr.",
@@ -367,7 +367,7 @@
     "name": "Terrence Shannon Jr.",
     "team": "MIN",
     "status": "Day-To-Day",
-    "short": "Shannon (hip) is out for Wednesday against the Rockets.",
+    "short": "Shannon (hip) is questionable for Friday's game against New Orleans.",
     "relevant": false
   },
   "4594268": {
