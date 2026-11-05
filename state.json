@@ -34,6 +34,13 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
+  "4065648": {
+    "name": "Jayson Tatum",
+    "team": "BOS",
+    "status": "Day-To-Day",
+    "short": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports.",
+    "relevant": null
+  },
   "4066354": {
     "name": "Payton Pritchard",
     "team": "BOS",
@@ -47,13 +54,6 @@
     "status": "Out",
     "short": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday.",
     "relevant": false
-  },
-  "4065648": {
-    "name": "Jayson Tatum",
-    "team": "BOS",
-    "status": "Out",
-    "short": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports.",
-    "relevant": null
   },
   "4712896": {
     "name": "Noah Clowney",
@@ -146,18 +146,18 @@
     "short": "According to Cavaliers head coach Kenny Atkinson, Tyson (ankle) has been \"on the court lately progressing well,\" Chris Fedor of The Cleveland Plain Dealer reports.",
     "relevant": false
   },
+  "4432582": {
+    "name": "Max Christie",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Christie (hip) is out for Wednesday's game against the Spurs.",
+    "relevant": false
+  },
   "4593125": {
     "name": "Santi Aldama",
     "team": "DAL",
     "status": "Out",
     "short": "Aldama (knee) is out for Wednesday's game against the Spurs, Grant Afseth of DallasHoopsJournal.com reports.",
-    "relevant": false
-  },
-  "4432582": {
-    "name": "Max Christie",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Christie (hip) is out for Wednesday's game against the Spurs.",
     "relevant": false
   },
   "5148538": {
@@ -244,18 +244,18 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "3102529": {
+    "name": "Clint Capela",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "short": "Capela (ankle) is out for Wednesday's game against the Timberwolves.",
+    "relevant": false
+  },
   "2991235": {
     "name": "Steven Adams",
     "team": "HOU",
     "status": "Out",
     "short": "Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a \"weekly basis,\" Varun Shankar of the Houston Chronicle reports.",
-    "relevant": false
-  },
-  "3102529": {
-    "name": "Clint Capela",
-    "team": "HOU",
-    "status": "Out",
-    "short": "Capela (ankle) is out for Wednesday's game against the Timberwolves.",
     "relevant": false
   },
   "3133603": {
@@ -345,7 +345,7 @@
   "4697268": {
     "name": "Kam Jones",
     "team": "MIL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Jones (ankle) won't play Wednesday in Boston.",
     "relevant": false
   },
@@ -492,14 +492,14 @@
   "4278402": {
     "name": "Jordan Goodwin",
     "team": "PHX",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Goodwin (calf) won't play in Wednesday's game against Portland.",
     "relevant": false
   },
   "5105977": {
     "name": "Rasheer Fleming",
     "team": "PHX",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle.",
     "relevant": false
   },
@@ -534,7 +534,7 @@
   "4279318": {
     "name": "Daeqwon Plowden",
     "team": "SAC",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Plowden (illness) is out for Wednesday's game against the Lakers.",
     "relevant": false
   },
