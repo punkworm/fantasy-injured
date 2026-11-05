@@ -34,6 +34,13 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
+  "4065648": {
+    "name": "Jayson Tatum",
+    "team": "BOS",
+    "status": "Day-To-Day",
+    "short": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports.",
+    "relevant": null
+  },
   "4066354": {
     "name": "Payton Pritchard",
     "team": "BOS",
@@ -47,13 +54,6 @@
     "status": "Out",
     "short": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday.",
     "relevant": false
-  },
-  "4065648": {
-    "name": "Jayson Tatum",
-    "team": "BOS",
-    "status": "Out",
-    "short": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports.",
-    "relevant": null
   },
   "4712896": {
     "name": "Noah Clowney",
@@ -345,7 +345,7 @@
   "4697268": {
     "name": "Kam Jones",
     "team": "MIL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Jones (ankle) won't play Wednesday in Boston.",
     "relevant": false
   },
