@@ -552,26 +552,19 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
-  "3134908": {
-    "name": "Jakob Poeltl",
+  "4433134": {
+    "name": "Scottie Barnes",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Poeltl (shoulder) is listed as probable for Friday's game against Milwaukee.",
-    "relevant": null
+    "status": "Out",
+    "short": "Barnes (adductor) is listed as out for Friday's game against Milwaukee, Michael Grange of Sportsnet.ca reports.",
+    "relevant": true
   },
   "4395724": {
     "name": "Immanuel Quickley",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Quickley (hamstring) is questionable for Friday against the Bucks.",
-    "relevant": null
-  },
-  "4433134": {
-    "name": "Scottie Barnes",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Barnes (adductor) was not present at the morning shootaround, Michael Grange of Sportsnet.careports.",
-    "relevant": null
+    "status": "Out",
+    "short": "Quickley (hamstring) won't play Friday in Milwaukee, Michael Grange of Sportsnet.ca reports.",
+    "relevant": true
   },
   "2993874": {
     "name": "Kyle Anderson",
