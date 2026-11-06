@@ -227,14 +227,14 @@
     "name": "Draymond Green",
     "team": "GS",
     "status": "Day-To-Day",
-    "short": "Green amassed two points (1-3 FG, 0-2 3Pt), five rebounds, 11 assists, one block and one steal in 27 minutes during Thursday's 120-100 victory over the Heat.",
+    "short": "Green (elbow) is listed as questionable ahead of Saturday's game against Orlando.",
     "relevant": null
   },
   "3134903": {
     "name": "Gary Payton II",
     "team": "GS",
     "status": "Day-To-Day",
-    "short": "Payton accumulated five points (2-4 FG, 1-3 3Pt), two rebounds, two assists and one steal over 15 minutes during Sunday's 124-112 victory over the Clippers.",
+    "short": "Payton is questionable to play Saturday against the Magic due to right calf tightness.",
     "relevant": null
   },
   "3102531": {
@@ -646,9 +646,9 @@
   "6583": {
     "name": "Anthony Davis",
     "team": "WSH",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Davis is questionable for Friday's game against the Hawks due to a right ankle sprain, Josh Robbins of The Athletic reports.",
-    "relevant": null
+    "relevant": true
   },
   "4432187": {
     "name": "Reece Beekman",
