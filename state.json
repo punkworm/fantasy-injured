@@ -1,4 +1,11 @@
 {
+  "4701230": {
+    "name": "Jalen Johnson",
+    "team": "ATL",
+    "status": "Out",
+    "short": "Johnson (ankle) is out for Friday's game against the Wizards.",
+    "relevant": true
+  },
   "4585618": {
     "name": "Keshon Gilbert",
     "team": "ATL",
@@ -19,13 +26,6 @@
     "status": "Out",
     "short": "Landale (hip) has been ruled out for Friday's game against the Wizards.",
     "relevant": false
-  },
-  "4701230": {
-    "name": "Jalen Johnson",
-    "team": "ATL",
-    "status": "Day-To-Day",
-    "short": "Johnson is questionable to suit up for Friday's game against Washington.",
-    "relevant": true
   },
   "4712863": {
     "name": "Mouhamed Gueye",
