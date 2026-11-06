@@ -146,25 +146,11 @@
     "short": "Allen (knee) is questionable for Friday's game against Philadelphia.",
     "relevant": null
   },
-  "6442": {
-    "name": "Kyrie Irving",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Irving (illness) is probable for Friday's game against Utah.",
-    "relevant": null
-  },
   "5279129": {
     "name": "Sergio de Larrea",
     "team": "DAL",
     "status": "Out",
     "short": "De Larrea (knee) is out for Friday's game against Utah.",
-    "relevant": false
-  },
-  "4593125": {
-    "name": "Santi Aldama",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Aldama (knee) is probable to suit up for Friday's game against the Jazz.",
     "relevant": false
   },
   "4432582": {
@@ -279,18 +265,18 @@
     "short": "Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a \"weekly basis,\" Varun Shankar of the Houston Chronicle reports.",
     "relevant": false
   },
-  "3133603": {
-    "name": "Kelly Oubre Jr.",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Oubre (calf) has been ruled out for Wednesday's game against the Grizzlies.",
-    "relevant": false
-  },
   "2530530": {
     "name": "T.J. McConnell",
     "team": "IND",
     "status": "Out",
-    "short": "McConnell (hamstring) is out for Monday's game against the Hawks and remains week-to-week.",
+    "short": "McConnell (hamstring) is questionable for Saturday's game against Denver.",
+    "relevant": false
+  },
+  "3133603": {
+    "name": "Kelly Oubre Jr.",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Oubre (calf) is questionable for Saturday's game against Denver.",
     "relevant": false
   },
   "5157066": {
@@ -478,9 +464,9 @@
   "5105637": {
     "name": "Adem Bona",
     "team": "PHI",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Bona (back) is doubtful to play in Friday's game against the Cavaliers, Ky Carlin of USA Today reports.",
-    "relevant": null
+    "relevant": false
   },
   "4870562": {
     "name": "Dominick Barlow",
