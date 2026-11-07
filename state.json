@@ -76,6 +76,13 @@
     "short": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
+  "4433249": {
+    "name": "Moussa Diabate",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report.",
+    "relevant": true
+  },
   "4433287": {
     "name": "Brandon Miller",
     "team": "CHA",
@@ -89,13 +96,6 @@
     "status": "Out",
     "short": "Schroder (thigh) is out for Friday's game versus Boston.",
     "relevant": false
-  },
-  "4433249": {
-    "name": "Moussa Diabate",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report.",
-    "relevant": true
   },
   "5061575": {
     "name": "Kon Knueppel",
@@ -562,14 +562,14 @@
   "4433134": {
     "name": "Scottie Barnes",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Barnes (adductor) is listed as out for Friday's game against Milwaukee, Michael Grange of Sportsnet.ca reports.",
     "relevant": true
   },
   "4395724": {
     "name": "Immanuel Quickley",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Quickley (hamstring) won't play Friday in Milwaukee, Michael Grange of Sportsnet.ca reports.",
     "relevant": true
   },
