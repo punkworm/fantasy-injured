@@ -1,24 +1,24 @@
 {
-  "4701230": {
-    "name": "Jalen Johnson",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Johnson (ankle) is out for Friday's game against the Wizards.",
-    "relevant": true
-  },
   "4585618": {
     "name": "Keshon Gilbert",
     "team": "ATL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Gilbert is out for Friday's game against the Wizards due to left knee inflammation.",
     "relevant": false
   },
   "4873201": {
     "name": "Asa Newell",
     "team": "ATL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Newell (toe) is out for Friday's game against Washington.",
     "relevant": false
+  },
+  "4701230": {
+    "name": "Jalen Johnson",
+    "team": "ATL",
+    "status": "Out",
+    "short": "Johnson (ankle) is out for Friday's game against the Wizards.",
+    "relevant": true
   },
   "3146557": {
     "name": "Jock Landale",
@@ -338,7 +338,7 @@
   "5279133": {
     "name": "Joan Beringer",
     "team": "MIN",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Beringer was ruled out for the second half of Friday's game against the Pelicans due to a nasal fracture, Dane Moore of 'The Dane Moore NBA Podcast' reports.",
     "relevant": false
   },
