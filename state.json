@@ -328,13 +328,6 @@
     "short": "Pippen (back) has been ruled out for Friday's game against Oklahoma City.",
     "relevant": false
   },
-  "4697268": {
-    "name": "Kam Jones",
-    "team": "MIL",
-    "status": "Day-To-Day",
-    "short": "Jones (ankle/two-way player) is out for Friday's game against Toronto.",
-    "relevant": false
-  },
   "5279133": {
     "name": "Joan Beringer",
     "team": "MIN",
@@ -380,7 +373,7 @@
   "4432823": {
     "name": "Jaylin Williams",
     "team": "OKC",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Williams (back) has been ruled out for Friday's game against the Grizzlies.",
     "relevant": false
   },
