@@ -454,18 +454,18 @@
     "short": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
     "relevant": null
   },
-  "4278402": {
-    "name": "Jordan Goodwin",
-    "team": "PHX",
-    "status": "Day-To-Day",
-    "short": "Goodwin (calf) is out for Thursday's game against Orlando.",
-    "relevant": false
-  },
   "5105977": {
     "name": "Rasheer Fleming",
     "team": "PHX",
     "status": "Day-To-Day",
-    "short": "Fleming is out for Thursday's game against the Magic due to a sprained left ankle.",
+    "short": "Fleming (ankle) is questionable for Saturday's game against the Rockets.",
+    "relevant": false
+  },
+  "4278402": {
+    "name": "Jordan Goodwin",
+    "team": "PHX",
+    "status": "Day-To-Day",
+    "short": "Goodwin (calf) is doubtful for Saturday's game against the Rockets.",
     "relevant": false
   },
   "4701232": {
