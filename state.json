@@ -101,7 +101,14 @@
     "name": "Tobe Awaka",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Awaka (ankle) is active for Monday's game against the 76ers.",
+    "short": "Awaka (knee) is questionable for Sundays' game against the 76ers.",
+    "relevant": null
+  },
+  "4397189": {
+    "name": "Jalen Smith",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Smith (finger) is probable for Sunday's game against Philadelphia.",
     "relevant": null
   },
   "4278067": {
@@ -117,13 +124,6 @@
     "status": "Out",
     "short": "Collins (illness) is out for Sunday's game against Philadelphia.",
     "relevant": false
-  },
-  "4397189": {
-    "name": "Jalen Smith",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Smith (hand) won't return to Wednesday's game against the Knicks.",
-    "relevant": null
   },
   "4683747": {
     "name": "Jaylon Tyson",
