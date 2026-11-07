@@ -118,26 +118,19 @@
     "short": "Smith (hand) won't return to Wednesday's game against the Knicks.",
     "relevant": null
   },
+  "4066328": {
+    "name": "Jarrett Allen",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Allen (knee) is out for Friday's game against the 76ers.",
+    "relevant": true
+  },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
     "status": "Out",
     "short": "Tyson (ankle) is out for Friday's game against the 76ers.",
     "relevant": false
-  },
-  "4576087": {
-    "name": "Peyton Watson",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Watson (hamstring) is questionable for Friday's game against the 76ers.",
-    "relevant": true
-  },
-  "4066328": {
-    "name": "Jarrett Allen",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Allen (knee) is questionable for Friday's game against Philadelphia.",
-    "relevant": null
   },
   "5279129": {
     "name": "Sergio de Larrea",
