@@ -97,19 +97,26 @@
     "short": "The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday.",
     "relevant": false
   },
-  "4066650": {
-    "name": "Zach Collins",
+  "5105555": {
+    "name": "Tobe Awaka",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Collins didn't practice Friday due to an illness, per K.C. Johnson of Chicago Sports Network.",
+    "short": "Awaka (ankle) is active for Monday's game against the 76ers.",
     "relevant": null
   },
   "4278067": {
     "name": "Nic Claxton",
     "team": "CHI",
     "status": "Out",
-    "short": "Head coach Tiago Splittler said Friday that Claxton (hamstring) is expected to make his season debut Sunday against the 76ers, per Joel Lorenzi of The Athletic.",
+    "short": "Claxton (hamstring) has been downgraded to questionable for Sunday's game against the 76ers.",
     "relevant": true
+  },
+  "4066650": {
+    "name": "Zach Collins",
+    "team": "CHI",
+    "status": "Out",
+    "short": "Collins (illness) is out for Sunday's game against Philadelphia.",
+    "relevant": false
   },
   "4397189": {
     "name": "Jalen Smith",
