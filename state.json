@@ -380,7 +380,7 @@
   "4432823": {
     "name": "Jaylin Williams",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Williams (back) has been ruled out for Friday's game against the Grizzlies.",
     "relevant": false
   },
@@ -520,7 +520,7 @@
   "4065732": {
     "name": "De'Andre Hunter",
     "team": "SAC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Hunter (illness) is listed as out for Friday's game against San Antonio.",
     "relevant": false
   },
@@ -611,7 +611,7 @@
   "6583": {
     "name": "Anthony Davis",
     "team": "WSH",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Davis (ankle) is listed as out for Friday's game against the Hawks.",
     "relevant": true
   },
