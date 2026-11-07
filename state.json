@@ -499,9 +499,9 @@
   "4065732": {
     "name": "De'Andre Hunter",
     "team": "SAC",
-    "status": "Day-To-Day",
-    "short": "Hunter is questionable for Friday against the Spurs due to an illness.",
-    "relevant": null
+    "status": "Out",
+    "short": "Hunter (illness) is listed as out for Friday's game against San Antonio.",
+    "relevant": false
   },
   "4898371": {
     "name": "Maxime Raynaud",
