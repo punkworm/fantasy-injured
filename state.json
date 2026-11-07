@@ -1,4 +1,18 @@
 {
+  "4585618": {
+    "name": "Keshon Gilbert",
+    "team": "ATL",
+    "status": "Out",
+    "short": "Gilbert (knee) is out for Saturday's game against Brooklyn.",
+    "relevant": false
+  },
+  "4873201": {
+    "name": "Asa Newell",
+    "team": "ATL",
+    "status": "Out",
+    "short": "Newell (toe)  is out for Saturday's game against the Nets.",
+    "relevant": false
+  },
   "3146557": {
     "name": "Jock Landale",
     "team": "ATL",
@@ -12,20 +26,6 @@
     "status": "Out",
     "short": "Johnson (ankle) is probable for Saturday's game against Brooklyn.",
     "relevant": true
-  },
-  "4873201": {
-    "name": "Asa Newell",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Newell (toe) is out for Friday's game against Washington.",
-    "relevant": false
-  },
-  "4585618": {
-    "name": "Keshon Gilbert",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Gilbert is out for Friday's game against the Wizards due to left knee inflammation.",
-    "relevant": false
   },
   "4712863": {
     "name": "Mouhamed Gueye",
