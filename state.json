@@ -118,26 +118,26 @@
     "short": "Collins (illness) is out for Sunday's game against Philadelphia.",
     "relevant": false
   },
-  "4683747": {
-    "name": "Jaylon Tyson",
-    "team": "CLE",
-    "status": "Out",
-    "short": "Tyson (ankle) is out for Saturday's game against the Knicks.",
-    "relevant": false
-  },
   "4066757": {
     "name": "Sam Merrill",
     "team": "CLE",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Merrill (elbow) is out for Saturday's game against the Knicks.",
     "relevant": false
   },
   "4066328": {
     "name": "Jarrett Allen",
     "team": "CLE",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Allen (knee) is out for Saturday's game against the Knicks",
     "relevant": true
+  },
+  "4683747": {
+    "name": "Jaylon Tyson",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Tyson (ankle) is out for Saturday's game against the Knicks.",
+    "relevant": false
   },
   "5279129": {
     "name": "Sergio de Larrea",
@@ -167,19 +167,19 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
+  "4433621": {
+    "name": "Jalen Duren",
+    "team": "DET",
+    "status": "Out",
+    "short": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
+    "relevant": true
+  },
   "4395702": {
     "name": "Isaiah Joe",
     "team": "DET",
     "status": "Out",
     "short": "Joe (hip) has been ruled out for Sunday's game against the Lakers.",
     "relevant": false
-  },
-  "4433621": {
-    "name": "Jalen Duren",
-    "team": "DET",
-    "status": "Out",
-    "short": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
-    "relevant": true
   },
   "3102531": {
     "name": "Kristaps Porzingis",
@@ -331,7 +331,7 @@
   "3062679": {
     "name": "Josh Hart",
     "team": "NY",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Hart is out for Saturday's game against the Cavaliers due to right ankle soreness.",
     "relevant": true
   },
@@ -566,19 +566,19 @@
     "short": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
     "relevant": true
   },
+  "6583": {
+    "name": "Anthony Davis",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "short": "Davis (ankle) won't play Saturday against the Thunder.",
+    "relevant": true
+  },
   "4278129": {
     "name": "Deandre Ayton",
     "team": "WSH",
     "status": "Day-To-Day",
     "short": "Ayton won't return to Saturday's game against the Thunder due to a lower leg injury.",
     "relevant": false
-  },
-  "6583": {
-    "name": "Anthony Davis",
-    "team": "WSH",
-    "status": "Out",
-    "short": "Davis (ankle) won't play Saturday against the Thunder.",
-    "relevant": true
   },
   "4432187": {
     "name": "Reece Beekman",
