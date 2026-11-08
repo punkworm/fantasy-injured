@@ -1,11 +1,4 @@
 {
-  "4431680": {
-    "name": "Onyeka Okongwu",
-    "team": "ATL",
-    "status": "Day-To-Day",
-    "short": "Okongwu went back to the locker room after getting elbowed in the face during Saturday's game against the Nets, Lauren L. Williams of The Atlanta Journal-Constitution reports.",
-    "relevant": null
-  },
   "4585618": {
     "name": "Keshon Gilbert",
     "team": "ATL",
@@ -249,6 +242,13 @@
     "team": "IND",
     "status": "Out",
     "short": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
+    "relevant": false
+  },
+  "4432170": {
+    "name": "Isaiah Jackson",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Jackson (groin) won't suit up for Sunday's game against the Pelicans, Law Murray of The Athletic reports.",
     "relevant": false
   },
   "3913176": {
