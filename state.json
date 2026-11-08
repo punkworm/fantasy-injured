@@ -489,12 +489,12 @@
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
     "relevant": null
   },
-  "4065732": {
-    "name": "De'Andre Hunter",
+  "4594327": {
+    "name": "Keegan Murray",
     "team": "SAC",
-    "status": "Day-To-Day",
-    "short": "Hunter (illness) is listed as out for Friday's game against San Antonio.",
-    "relevant": false
+    "status": "Out",
+    "short": "Murray (ankle) is questionable for Sunday's game against the Heat.",
+    "relevant": true
   },
   "4898371": {
     "name": "Maxime Raynaud",
@@ -502,13 +502,6 @@
     "status": "Out",
     "short": "Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
     "relevant": false
-  },
-  "4594327": {
-    "name": "Keegan Murray",
-    "team": "SAC",
-    "status": "Out",
-    "short": "Murray (ankle) will be re-evaluated in 10-to-14 days, NBA reporter Marc Stein reports.",
-    "relevant": true
   },
   "3907387": {
     "name": "Ben Simmons",
