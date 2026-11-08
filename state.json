@@ -461,6 +461,13 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "4279888": {
+    "name": "Ja Morant",
+    "team": "POR",
+    "status": "Out",
+    "short": "Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant \"may not be out for as long as we thought,\" Trail Blazers Insider Sean Highkin reports.",
+    "relevant": true
+  },
   "4066211": {
     "name": "Robert Williams III",
     "team": "POR",
@@ -474,13 +481,6 @@
     "status": "Out",
     "short": "Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports.",
     "relevant": false
-  },
-  "4279888": {
-    "name": "Ja Morant",
-    "team": "POR",
-    "status": "Out",
-    "short": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday.",
-    "relevant": true
   },
   "4914336": {
     "name": "Shaedon Sharpe",
