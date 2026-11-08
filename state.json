@@ -153,18 +153,18 @@
     "short": "Lively (foot) is listed as out for Monday's game against the Kings.",
     "relevant": false
   },
+  "3138196": {
+    "name": "Cameron Johnson",
+    "team": "DEN",
+    "status": "Day-To-Day",
+    "short": "Johnson (lower body) is questionable for Monday's game against Houston.",
+    "relevant": null
+  },
   "3978": {
     "name": "DeMar DeRozan",
     "team": "DEN",
     "status": "Day-To-Day",
     "short": "DeRozan is questionable for Monday's game against the Rockets due to lower back spasms.",
-    "relevant": null
-  },
-  "3138196": {
-    "name": "Cameron Johnson",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "Johnson ended Saturday's 114-102 victory over the Pacers with 18 points (8-12 FG, 2-5 3Pt), four rebounds, one assist and one steal in 29 minutes.",
     "relevant": null
   },
   "4431767": {
@@ -508,6 +508,13 @@
     "team": "POR",
     "status": "Out",
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
+    "relevant": null
+  },
+  "3155942": {
+    "name": "Domantas Sabonis",
+    "team": "SAC",
+    "status": "Day-To-Day",
+    "short": "Sabonis has been downgraded to questionable for Sunday's game against Miami due to left knee soreness.",
     "relevant": null
   },
   "4898371": {
