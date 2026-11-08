@@ -241,7 +241,7 @@
     "name": "Clint Capela",
     "team": "HOU",
     "status": "Out",
-    "short": "Capela (ankle) is out for Saturday's game against the Suns.",
+    "short": "Capela (ankle) is listed as out for Monday's game against Denver.",
     "relevant": false
   },
   "2991235": {
@@ -314,18 +314,18 @@
     "short": "Doncic has been ruled out for Sunday's game at Detroit due to lower-back tightness, Trevor Lane of LakersNation.com reports.",
     "relevant": true
   },
+  "4432810": {
+    "name": "Isaiah Stewart",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Stewart (knee) has been ruled out for Monday's game against Toronto.",
+    "relevant": false
+  },
   "5105462": {
     "name": "Richie Saunders",
     "team": "MEM",
     "status": "Out",
     "short": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
-    "relevant": false
-  },
-  "4432810": {
-    "name": "Isaiah Stewart",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Stewart (knee) has been ruled out for Friday's game against the Thunder.",
     "relevant": false
   },
   "4431785": {
@@ -572,13 +572,6 @@
     "status": "Out",
     "short": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
     "relevant": true
-  },
-  "4433627": {
-    "name": "Keyonte George",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "George (illness) has been downgraded to questionable for Sunday's game against Minnesota.",
-    "relevant": null
   },
   "4066336": {
     "name": "Lauri Markkanen",
