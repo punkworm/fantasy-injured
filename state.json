@@ -111,6 +111,13 @@
     "short": "Collins (illness) is out for Sunday's game against Philadelphia.",
     "relevant": false
   },
+  "4066757": {
+    "name": "Sam Merrill",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Merrill (elbow) is listed as out for Monday's game against the Hornets.",
+    "relevant": false
+  },
   "4066328": {
     "name": "Jarrett Allen",
     "team": "CLE",
@@ -123,13 +130,6 @@
     "team": "CLE",
     "status": "Out",
     "short": "Tyson (ankle) is out for Monday's game against the Hornets.",
-    "relevant": false
-  },
-  "4066757": {
-    "name": "Sam Merrill",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Merrill (elbow) is out for Saturday's game against the Knicks.",
     "relevant": false
   },
   "5279129": {
@@ -153,25 +153,39 @@
     "short": "Lively (foot) is listed as out for Monday's game against the Kings.",
     "relevant": false
   },
-  "3936299": {
-    "name": "Jamal Murray",
+  "3978": {
+    "name": "DeMar DeRozan",
     "team": "DEN",
     "status": "Day-To-Day",
-    "short": "Murray totaled 16 points (6-13 FG, 2-6 3Pt, 2-2 FT), eight assists and six rebounds across 34 minutes during Saturday's 114-102 victory over the Pacers.",
+    "short": "DeRozan is questionable for Monday's game against the Rockets due to lower back spasms.",
+    "relevant": null
+  },
+  "3138196": {
+    "name": "Cameron Johnson",
+    "team": "DEN",
+    "status": "Day-To-Day",
+    "short": "Johnson ended Saturday's 114-102 victory over the Pacers with 18 points (8-12 FG, 2-5 3Pt), four rebounds, one assist and one steal in 29 minutes.",
     "relevant": null
   },
   "4431767": {
     "name": "Christian Braun",
     "team": "DEN",
     "status": "Day-To-Day",
-    "short": "Braun finished with six points (2-8 FG, 0-4 3Pt, 2-2 FT), four rebounds, one assist and one steal across 29 minutes during Saturday's 114-102 victory over the Pacers.",
+    "short": "Braun (calf/illness) is listed as questionable for Monday's game against Houston.",
+    "relevant": null
+  },
+  "3936299": {
+    "name": "Jamal Murray",
+    "team": "DEN",
+    "status": "Day-To-Day",
+    "short": "Murray is questionable for Monday's game against the Rockets due to a left shin contusion.",
     "relevant": null
   },
   "3064290": {
     "name": "Aaron Gordon",
     "team": "DEN",
     "status": "Day-To-Day",
-    "short": "Gordon supplied 17 points (7-9 FG, 1-2 3Pt, 2-2 FT), one rebound, one block and two steals across 25 minutes during Wednesday's 128-109 victory over Toronto.",
+    "short": "Gordon (lower body injury management) is listed as questionable for Monday's game against the Rockets.",
     "relevant": null
   },
   "3112335": {
