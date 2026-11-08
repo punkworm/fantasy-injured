@@ -244,19 +244,19 @@
     "short": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
     "relevant": false
   },
+  "3913176": {
+    "name": "Brandon Ingram",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Ingram (Achilles) won't play in Sunday's game against New Orleans, Law Murray of The Athletic reports.",
+    "relevant": true
+  },
   "4432170": {
     "name": "Isaiah Jackson",
     "team": "LAC",
     "status": "Out",
     "short": "Jackson (groin) won't suit up for Sunday's game against the Pelicans, Law Murray of The Athletic reports.",
     "relevant": false
-  },
-  "3913176": {
-    "name": "Brandon Ingram",
-    "team": "LAC",
-    "status": "Out",
-    "short": "Ingram (Achilles) has progressed to full contact basketball activities, per NBA writer Justin Russo.",
-    "relevant": true
   },
   "5108024": {
     "name": "Yanic Konan Niederhauser",
@@ -447,18 +447,11 @@
     "short": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
     "relevant": null
   },
-  "5105977": {
-    "name": "Rasheer Fleming",
-    "team": "PHX",
-    "status": "Day-To-Day",
-    "short": "Fleming (ankle) is questionable for Saturday's game against the Rockets.",
-    "relevant": false
-  },
   "4278402": {
     "name": "Jordan Goodwin",
     "team": "PHX",
-    "status": "Day-To-Day",
-    "short": "Goodwin (calf) is doubtful for Saturday's game against the Rockets.",
+    "status": "Out",
+    "short": "Goodwin (calf) is out for Saturday's game against the Rockets.",
     "relevant": false
   },
   "4701232": {
