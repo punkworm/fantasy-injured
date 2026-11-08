@@ -1,16 +1,16 @@
 {
-  "4585618": {
-    "name": "Keshon Gilbert",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Gilbert (knee) is out for Saturday's game against Brooklyn.",
-    "relevant": false
-  },
   "4873201": {
     "name": "Asa Newell",
     "team": "ATL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Newell (toe)  is out for Saturday's game against the Nets.",
+    "relevant": false
+  },
+  "4585618": {
+    "name": "Keshon Gilbert",
+    "team": "ATL",
+    "status": "Day-To-Day",
+    "short": "Gilbert (knee) is out for Saturday's game against Brooklyn.",
     "relevant": false
   },
   "3146557": {
