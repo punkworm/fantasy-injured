@@ -314,6 +314,13 @@
     "short": "Doncic has been ruled out for Sunday's game at Detroit due to lower-back tightness, Trevor Lane of LakersNation.com reports.",
     "relevant": true
   },
+  "4431785": {
+    "name": "Scotty Pippen Jr.",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Pippen (back) won't play in Monday's game versus the Raptors.",
+    "relevant": false
+  },
   "4432810": {
     "name": "Isaiah Stewart",
     "team": "MEM",
@@ -326,13 +333,6 @@
     "team": "MEM",
     "status": "Out",
     "short": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
-    "relevant": false
-  },
-  "4431785": {
-    "name": "Scotty Pippen Jr.",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Pippen (back) has been ruled out for Friday's game against Oklahoma City.",
     "relevant": false
   },
   "4277843": {
@@ -572,13 +572,6 @@
     "status": "Out",
     "short": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
     "relevant": true
-  },
-  "4066336": {
-    "name": "Lauri Markkanen",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Markkanen is questionable for Sunday's game against the Timberwolves due to a right wrist sprain.",
-    "relevant": null
   },
   "3102530": {
     "name": "Jusuf Nurkic",
