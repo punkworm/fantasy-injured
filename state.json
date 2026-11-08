@@ -62,11 +62,18 @@
     "short": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",
     "relevant": true
   },
+  "3032979": {
+    "name": "Dennis Schroder",
+    "team": "CHA",
+    "status": "Out",
+    "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
+    "relevant": false
+  },
   "4433287": {
     "name": "Brandon Miller",
     "team": "CHA",
     "status": "Out",
-    "short": "Head coach Charles Lee said Miller (groin) will be re-evaluated over the weekend, and they expect to have more information by Monday, Steve Reed of The Associated Press reports.",
+    "short": "Miller (groin) is listed as out for Monday's game against Cleveland.",
     "relevant": true
   },
   "4433249": {
@@ -75,13 +82,6 @@
     "status": "Day-To-Day",
     "short": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report.",
     "relevant": true
-  },
-  "3032979": {
-    "name": "Dennis Schroder",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Schroder (thigh) is out for Friday's game versus Boston.",
-    "relevant": false
   },
   "5061575": {
     "name": "Kon Knueppel",
