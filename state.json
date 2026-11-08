@@ -2,22 +2,22 @@
   "4873201": {
     "name": "Asa Newell",
     "team": "ATL",
-    "status": "Day-To-Day",
-    "short": "Newell (toe)  is out for Saturday's game against the Nets.",
+    "status": "Out",
+    "short": "Newell (toe) has been ruled out for Monday's game against the Lakers.",
     "relevant": false
   },
   "4585618": {
     "name": "Keshon Gilbert",
     "team": "ATL",
-    "status": "Day-To-Day",
-    "short": "Gilbert (knee) is out for Saturday's game against Brooklyn.",
+    "status": "Out",
+    "short": "Gilbert (knee) has been ruled out for Monday's game against the Lakers.",
     "relevant": false
   },
   "3146557": {
     "name": "Jock Landale",
     "team": "ATL",
     "status": "Out",
-    "short": "Landale (hip) has been ruled out for Saturday's game against the Nets.",
+    "short": "Landale (hip) is listed as questionable for Monday's game against the Lakers.",
     "relevant": false
   },
   "4712863": {
@@ -111,6 +111,13 @@
     "short": "Collins (illness) is out for Sunday's game against Philadelphia.",
     "relevant": false
   },
+  "4066328": {
+    "name": "Jarrett Allen",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Allen (knee) is questionable for Monday's game against Charlotte.",
+    "relevant": true
+  },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
@@ -124,13 +131,6 @@
     "status": "Day-To-Day",
     "short": "Merrill (elbow) is out for Saturday's game against the Knicks.",
     "relevant": false
-  },
-  "4066328": {
-    "name": "Jarrett Allen",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Allen (knee) is out for Saturday's game against the Knicks",
-    "relevant": true
   },
   "5279129": {
     "name": "Sergio de Larrea",
@@ -552,6 +552,13 @@
     "short": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
     "relevant": true
   },
+  "4997537": {
+    "name": "Tristan Vukcevic",
+    "team": "WSH",
+    "status": "Out",
+    "short": "Vukcevic (hip) has been ruled out for Monday's game against Detroit.",
+    "relevant": false
+  },
   "6583": {
     "name": "Anthony Davis",
     "team": "WSH",
@@ -564,13 +571,6 @@
     "team": "WSH",
     "status": "Out",
     "short": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks.",
-    "relevant": false
-  },
-  "4997537": {
-    "name": "Tristan Vukcevic",
-    "team": "WSH",
-    "status": "Out",
-    "short": "Vukcevic (hip) is listed as out for Monday's game against Orlando.",
     "relevant": false
   },
   "4432907": {
