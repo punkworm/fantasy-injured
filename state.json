@@ -100,9 +100,9 @@
   "2595516": {
     "name": "Norman Powell",
     "team": "CHI",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Powell (shoulder) is listed as questionable for Sunday's game against the 76ers.",
-    "relevant": null
+    "relevant": true
   },
   "5105555": {
     "name": "Tobe Awaka",
@@ -117,13 +117,6 @@
     "status": "Day-To-Day",
     "short": "Smith (finger) is probable for Sunday's game against Philadelphia.",
     "relevant": null
-  },
-  "4278067": {
-    "name": "Nic Claxton",
-    "team": "CHI",
-    "status": "Out",
-    "short": "Claxton (hamstring) has been downgraded to questionable for Sunday's game against the 76ers.",
-    "relevant": true
   },
   "4066650": {
     "name": "Zach Collins",
