@@ -307,13 +307,6 @@
     "short": "Pippen (back) has been ruled out for Friday's game against Oklahoma City.",
     "relevant": false
   },
-  "5279133": {
-    "name": "Joan Beringer",
-    "team": "MIN",
-    "status": "Day-To-Day",
-    "short": "Beringer (nose) is questionable for Sunday's game against the Jazz.",
-    "relevant": false
-  },
   "4594268": {
     "name": "Anthony Edwards",
     "team": "MIN",
@@ -524,18 +517,18 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
-  "4433134": {
-    "name": "Scottie Barnes",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Barnes (adductor) is listed as out for Friday's game against Milwaukee, Michael Grange of Sportsnet.ca reports.",
-    "relevant": true
-  },
   "4395724": {
     "name": "Immanuel Quickley",
     "team": "TOR",
     "status": "Day-To-Day",
-    "short": "Quickley (hamstring) won't play Friday in Milwaukee, Michael Grange of Sportsnet.ca reports.",
+    "short": "Quickley (hamstring) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports.",
+    "relevant": true
+  },
+  "4433134": {
+    "name": "Scottie Barnes",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "short": "Barnes (adductor) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports.",
     "relevant": true
   },
   "6450": {
