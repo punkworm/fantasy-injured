@@ -111,6 +111,13 @@
     "short": "Collins (illness) is out for Sunday's game against Philadelphia.",
     "relevant": false
   },
+  "4683747": {
+    "name": "Jaylon Tyson",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Tyson (ankle) is out for Monday's game against the Hornets.",
+    "relevant": false
+  },
   "4066757": {
     "name": "Sam Merrill",
     "team": "CLE",
@@ -124,13 +131,6 @@
     "status": "Day-To-Day",
     "short": "Allen (knee) is out for Saturday's game against the Knicks",
     "relevant": true
-  },
-  "4683747": {
-    "name": "Jaylon Tyson",
-    "team": "CLE",
-    "status": "Out",
-    "short": "Tyson (ankle) is out for Saturday's game against the Knicks.",
-    "relevant": false
   },
   "5279129": {
     "name": "Sergio de Larrea",
