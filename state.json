@@ -129,7 +129,7 @@
     "name": "Morez Johnson Jr.",
     "team": "DAL",
     "status": "Day-To-Day",
-    "short": "Johnson notched 13 points (5-8 FG, 1-2 3Pt, 2-2 FT), 17 rebounds, two assists, a steal and a block across 24 minutes in Friday's 112-100 win over the Jazz.",
+    "short": "Johnson (leg) is questionable for Monday's game against Indiana.",
     "relevant": null
   },
   "5279129": {
@@ -202,19 +202,19 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
+  "4395702": {
+    "name": "Isaiah Joe",
+    "team": "DET",
+    "status": "Out",
+    "short": "Joe (hip) is out for Monday against the Wizards.",
+    "relevant": false
+  },
   "4433621": {
     "name": "Jalen Duren",
     "team": "DET",
     "status": "Out",
     "short": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
     "relevant": true
-  },
-  "4395702": {
-    "name": "Isaiah Joe",
-    "team": "DET",
-    "status": "Out",
-    "short": "Joe (hip) has been ruled out for Sunday's game against the Lakers.",
-    "relevant": false
   },
   "4897262": {
     "name": "Will Richard",
@@ -649,6 +649,13 @@
     "status": "Out",
     "short": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
     "relevant": true
+  },
+  "5104155": {
+    "name": "Bilal Coulibaly",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "short": "Coulibaly (hand) is listed as questionable for Monday's game against Detroit.",
+    "relevant": null
   },
   "4997537": {
     "name": "Tristan Vukcevic",
