@@ -370,6 +370,13 @@
     "short": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
     "relevant": false
   },
+  "3032977": {
+    "name": "Giannis Antetokounmpo",
+    "team": "MIA",
+    "status": "Day-To-Day",
+    "short": "Antetokounmpo posted 29 points (14-23 FG, 0-1 3Pt, 1-7 FT), 14 rebounds, three assists, two blocks and two steals over 34 minutes during Sunday's 114-108 victory over the Kings.",
+    "relevant": null
+  },
   "4395725": {
     "name": "Tyler Herro",
     "team": "MIL",
@@ -615,19 +622,26 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
-  "4433134": {
-    "name": "Scottie Barnes",
+  "4395724": {
+    "name": "Immanuel Quickley",
     "team": "TOR",
     "status": "Out",
-    "short": "Barnes (adductor) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports.",
+    "short": "Quickley (hamstring) has been ruled out for Monday's game against Memphis, Esfandiar Baraheni of The Athletic reports.",
     "relevant": true
   },
   "5093267": {
     "name": "Collin Murray-Boyles",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Murray-Boyles (illness) is questionable for Monday's game versus Memphis, per Josh Lewenberg of TSN.ca.",
-    "relevant": null
+    "status": "Out",
+    "short": "Murray-Boyles (illness) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",
+    "relevant": false
+  },
+  "4433134": {
+    "name": "Scottie Barnes",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Barnes (groin) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",
+    "relevant": true
   },
   "4432586": {
     "name": "Nate Bittle",
@@ -635,13 +649,6 @@
     "status": "Out",
     "short": "Bittle (foot) is listed as out for Monday's game against Memphis.",
     "relevant": false
-  },
-  "4395724": {
-    "name": "Immanuel Quickley",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Quickley (hamstring) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports.",
-    "relevant": true
   },
   "6450": {
     "name": "Kawhi Leonard",
