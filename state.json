@@ -93,14 +93,14 @@
   "2595516": {
     "name": "Norman Powell",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports.",
     "relevant": true
   },
   "4066650": {
     "name": "Zach Collins",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Collins (illness) is out for Sunday's game against Philadelphia.",
     "relevant": false
   },
@@ -471,7 +471,7 @@
   "5105637": {
     "name": "Adem Bona",
     "team": "PHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Bona (back) is out for Sunday's game in Chicago.",
     "relevant": false
   },
