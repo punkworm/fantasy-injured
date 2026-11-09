@@ -566,19 +566,19 @@
     "short": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
     "relevant": null
   },
+  "4395630": {
+    "name": "Devin Vassell",
+    "team": "SA",
+    "status": "Out",
+    "short": "Vassell (groin) is out for Monday's game against the Suns, Tom Orsborn of the San Antonio Express-News reports.",
+    "relevant": null
+  },
   "6440": {
     "name": "Tobias Harris",
     "team": "SA",
     "status": "Out",
     "short": "Harris (calf) is listed as out for Monday's game against Phoenix.",
     "relevant": true
-  },
-  "4395630": {
-    "name": "Devin Vassell",
-    "team": "SA",
-    "status": "Day-To-Day",
-    "short": "Vassell is questionable for Monday's game against the Suns due to left adductor tightness.",
-    "relevant": null
   },
   "5101845": {
     "name": "Jayden Quaintance",
