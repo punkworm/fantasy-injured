@@ -121,9 +121,9 @@
   "4873153": {
     "name": "Morez Johnson Jr.",
     "team": "DAL",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Johnson (leg) is questionable for Monday's game against Indiana.",
-    "relevant": null
+    "relevant": false
   },
   "5279129": {
     "name": "Sergio de Larrea",
@@ -369,13 +369,6 @@
     "status": "Out",
     "short": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
     "relevant": false
-  },
-  "3032977": {
-    "name": "Giannis Antetokounmpo",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "short": "Antetokounmpo posted 29 points (14-23 FG, 0-1 3Pt, 1-7 FT), 14 rebounds, three assists, two blocks and two steals over 34 minutes during Sunday's 114-108 victory over the Kings.",
-    "relevant": null
   },
   "4395725": {
     "name": "Tyler Herro",
@@ -689,7 +682,7 @@
     "name": "Bilal Coulibaly",
     "team": "WSH",
     "status": "Out",
-    "short": "Coulibaly (hand) is listed as questionable for Monday's game against Detroit.",
+    "short": "Coulibaly (hand) is out for Monday's game against the Pistons.",
     "relevant": false
   },
   "4997537": {
