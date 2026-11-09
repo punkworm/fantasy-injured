@@ -209,6 +209,13 @@
     "short": "Joe (hip) has been ruled out for Sunday's game against the Lakers.",
     "relevant": false
   },
+  "4997536": {
+    "name": "Gui Santos",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "short": "Santos (knee) is active for Saturday's game against the Magic.",
+    "relevant": null
+  },
   "3102531": {
     "name": "Kristaps Porzingis",
     "team": "GS",
@@ -311,7 +318,7 @@
     "name": "Quentin Grimes",
     "team": "LAL",
     "status": "Day-To-Day",
-    "short": "Grimes will start in Sunday's game against the Pistons.",
+    "short": "Grimes went back to the locker room during Sunday's game against the Pistons, Dave McMenamin of ESPN.com reports.",
     "relevant": null
   },
   "3945274": {
