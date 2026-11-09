@@ -13,13 +13,6 @@
     "short": "Gilbert (knee) has been ruled out for Monday's game against the Lakers.",
     "relevant": false
   },
-  "3146557": {
-    "name": "Jock Landale",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Landale (hip) is listed as questionable for Monday's game against the Lakers.",
-    "relevant": false
-  },
   "4712863": {
     "name": "Mouhamed Gueye",
     "team": "ATL",
@@ -513,8 +506,8 @@
   "5105637": {
     "name": "Adem Bona",
     "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Bona (back) is out for Sunday's game in Chicago.",
+    "status": "Out",
+    "short": "Bona (back) is out for Tuesday's game against the Celtics.",
     "relevant": false
   },
   "4870562": {
