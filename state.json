@@ -286,19 +286,19 @@
     "short": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
     "relevant": false
   },
+  "4432170": {
+    "name": "Isaiah Jackson",
+    "team": "LAC",
+    "status": "Day-To-Day",
+    "short": "Jackson (groin) won't suit up for Sunday's game against the Pelicans, Law Murray of The Athletic reports.",
+    "relevant": false
+  },
   "3913176": {
     "name": "Brandon Ingram",
     "team": "LAC",
     "status": "Out",
     "short": "Ingram (Achilles) won't play in Sunday's game against New Orleans, Law Murray of The Athletic reports.",
     "relevant": true
-  },
-  "4432170": {
-    "name": "Isaiah Jackson",
-    "team": "LAC",
-    "status": "Out",
-    "short": "Jackson (groin) won't suit up for Sunday's game against the Pelicans, Law Murray of The Athletic reports.",
-    "relevant": false
   },
   "5108024": {
     "name": "Yanic Konan Niederhauser",
@@ -534,7 +534,7 @@
   "3155942": {
     "name": "Domantas Sabonis",
     "team": "SAC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Sabonis (knee) is out for Sunday's game against the Heat.",
     "relevant": true
   },
