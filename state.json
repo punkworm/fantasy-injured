@@ -520,9 +520,9 @@
   "3155942": {
     "name": "Domantas Sabonis",
     "team": "SAC",
-    "status": "Day-To-Day",
-    "short": "Sabonis has been downgraded to questionable for Sunday's game against Miami due to left knee soreness.",
-    "relevant": null
+    "status": "Out",
+    "short": "Sabonis (knee) is out for Sunday's game against the Heat.",
+    "relevant": true
   },
   "4898371": {
     "name": "Maxime Raynaud",
