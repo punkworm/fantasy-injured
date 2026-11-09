@@ -104,13 +104,6 @@
     "short": "Merrill (elbow) is listed as out for Monday's game against the Hornets.",
     "relevant": false
   },
-  "4066328": {
-    "name": "Jarrett Allen",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Allen (knee) is questionable for Monday's game against Charlotte.",
-    "relevant": true
-  },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
@@ -370,6 +363,13 @@
     "short": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
     "relevant": false
   },
+  "3032977": {
+    "name": "Giannis Antetokounmpo",
+    "team": "MIA",
+    "status": "Day-To-Day",
+    "short": "Antetokounmpo is probable for Tuesday's game against the Jazz due to a right wrist sprain.",
+    "relevant": null
+  },
   "4395725": {
     "name": "Tyler Herro",
     "team": "MIL",
@@ -468,26 +468,19 @@
     "short": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",
     "relevant": true
   },
-  "4066320": {
-    "name": "Desmond Bane",
+  "4432165": {
+    "name": "Jalen Suggs",
     "team": "ORL",
-    "status": "Day-To-Day",
-    "short": "Bane (illness) has been ruled out for Saturday's game against the Warriors.",
+    "status": "Out",
+    "short": "Suggs (knee) has been ruled out for Tuesday's game against the Kings.",
     "relevant": true
   },
   "4065654": {
     "name": "Jonathan Isaac",
     "team": "ORL",
     "status": "Out",
-    "short": "Orlando recalled Isaac (knee) from the G League's Osceola Magic on Wednesday.",
+    "short": "Isaac (knee) is out for Tuesday's game against Sacramento.",
     "relevant": false
-  },
-  "4432165": {
-    "name": "Jalen Suggs",
-    "team": "ORL",
-    "status": "Out",
-    "short": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
-    "relevant": true
   },
   "4432573": {
     "name": "Paolo Banchero",
