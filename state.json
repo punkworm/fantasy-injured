@@ -51,8 +51,8 @@
   "4433249": {
     "name": "Moussa Diabate",
     "team": "CHA",
-    "status": "Day-To-Day",
-    "short": "Diabate (quadriceps) is doubtful for Monday's game against the Cavaliers.",
+    "status": "Out",
+    "short": "Diabate (quadriceps) has been downgraded to out for Monday's game against Cleveland.",
     "relevant": true
   },
   "4066218": {
@@ -369,6 +369,13 @@
     "status": "Out",
     "short": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
     "relevant": false
+  },
+  "4395725": {
+    "name": "Tyler Herro",
+    "team": "MIL",
+    "status": "Day-To-Day",
+    "short": "Herro (contusion) is listed as questionable for Tuesday's game against the Knicks.",
+    "relevant": null
   },
   "4277843": {
     "name": "Gary Trent Jr.",
