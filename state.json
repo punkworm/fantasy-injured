@@ -681,9 +681,9 @@
   "5104155": {
     "name": "Bilal Coulibaly",
     "team": "WSH",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Coulibaly (hand) is listed as questionable for Monday's game against Detroit.",
-    "relevant": null
+    "relevant": false
   },
   "4997537": {
     "name": "Tristan Vukcevic",
@@ -691,13 +691,6 @@
     "status": "Out",
     "short": "Vukcevic (hip) has been ruled out for Monday's game against Detroit.",
     "relevant": false
-  },
-  "6583": {
-    "name": "Anthony Davis",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "short": "Davis (ankle) is listed as questionable for Monday's game in Detroit.",
-    "relevant": true
   },
   "4432187": {
     "name": "Reece Beekman",
