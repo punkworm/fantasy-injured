@@ -157,42 +157,42 @@
     "name": "Cameron Johnson",
     "team": "DEN",
     "status": "Day-To-Day",
-    "short": "Johnson (lower body) is questionable for Monday's game against Houston.",
-    "relevant": null
-  },
-  "3978": {
-    "name": "DeMar DeRozan",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "DeRozan is questionable for Monday's game against the Rockets due to lower back spasms.",
+    "short": "Johnson (ankle) is probable for Monday against Houston.",
     "relevant": null
   },
   "4431767": {
     "name": "Christian Braun",
     "team": "DEN",
     "status": "Day-To-Day",
-    "short": "Braun (calf/illness) is listed as questionable for Monday's game against Houston.",
-    "relevant": null
-  },
-  "3936299": {
-    "name": "Jamal Murray",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "Murray is questionable for Monday's game against the Rockets due to a left shin contusion.",
+    "short": "Braun (left calf contusion/illness) is probable for Monday's matchup against the Rockets.",
     "relevant": null
   },
   "3064290": {
     "name": "Aaron Gordon",
     "team": "DEN",
     "status": "Day-To-Day",
-    "short": "Gordon (lower body injury management) is listed as questionable for Monday's game against the Rockets.",
+    "short": "Gordon (left calf injury management) is probable for Monday's game against Houston.",
     "relevant": null
   },
   "3112335": {
     "name": "Nikola Jokic",
     "team": "DEN",
     "status": "Day-To-Day",
-    "short": "Jokic (elbow) is listed as questionable for Monday's game in Houston.",
+    "short": "Jokic (right elbow sprain) is probable for Monday's game against the Rockets.",
+    "relevant": null
+  },
+  "3978": {
+    "name": "DeMar DeRozan",
+    "team": "DEN",
+    "status": "Day-To-Day",
+    "short": "DeRozan (back) is probable for Monday against Houston.",
+    "relevant": null
+  },
+  "3936299": {
+    "name": "Jamal Murray",
+    "team": "DEN",
+    "status": "Day-To-Day",
+    "short": "Murray (leg) is probable for Monday against Houston.",
     "relevant": null
   },
   "4432181": {
