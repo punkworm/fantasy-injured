@@ -472,7 +472,7 @@
     "name": "Jordan Goodwin",
     "team": "PHX",
     "status": "Out",
-    "short": "Goodwin (calf) is questionable for Monday's game against the Spurs.",
+    "short": "Goodwin (calf) is out for Saturday's game against the Rockets.",
     "relevant": false
   },
   "4701232": {
@@ -529,6 +529,13 @@
     "team": "SAC",
     "status": "Out",
     "short": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
+    "relevant": null
+  },
+  "4395630": {
+    "name": "Devin Vassell",
+    "team": "SA",
+    "status": "Day-To-Day",
+    "short": "Vassell is questionable for Monday's game against the Suns due to left adductor tightness.",
     "relevant": null
   },
   "6440": {
