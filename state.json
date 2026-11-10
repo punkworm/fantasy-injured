@@ -27,6 +27,13 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
+  "5175643": {
+    "name": "Egor Demin",
+    "team": "BKN",
+    "status": "Out",
+    "short": "Demin (leg) is probable for Wednesday's game against the Pelicans, Erik Slater of ClutchPoints.com reports.",
+    "relevant": true
+  },
   "5279130": {
     "name": "Nolan Traore",
     "team": "BKN",
@@ -34,26 +41,12 @@
     "short": "Traore registered 14 points (6-15 FG, 2-6 3Pt), a rebound and two assists across 21 minutes in Sunday's 130-93 loss to the Mavericks.",
     "relevant": null
   },
-  "5101761": {
-    "name": "Mikel Brown Jr.",
-    "team": "BKN",
-    "status": "Day-To-Day",
-    "short": "Brown, who finished with 18 points (5-13 FG, 3-8 3Pt, 5-7 FT), one rebound, three assists and one steal over 25 minutes in Saturday's 124-121 loss to Atlanta, won't play in Sunday's game against Dallas, Erik Slater of ClutchPoints.com reports.",
-    "relevant": false
-  },
   "4702670": {
     "name": "Grant Nelson",
     "team": "BKN",
     "status": "Day-To-Day",
     "short": "Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com reports.",
     "relevant": null
-  },
-  "5175643": {
-    "name": "Egor Demin",
-    "team": "BKN",
-    "status": "Out",
-    "short": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",
-    "relevant": true
   },
   "4433287": {
     "name": "Brandon Miller",
@@ -394,7 +387,7 @@
   "3062679": {
     "name": "Josh Hart",
     "team": "NY",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Hart is doubtful for Tuesday's game against the Bucks due to an illness.",
     "relevant": true
   },
