@@ -538,32 +538,39 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
-  "6450": {
-    "name": "Kawhi Leonard",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Leonard (knee) is continuing the reconditioning process, and another update will be provided in one week, Blake Murphy of Sportsnet.ca reports.",
-    "relevant": true
-  },
-  "4395724": {
-    "name": "Immanuel Quickley",
+  "4431684": {
+    "name": "Trayce Jackson-Davis",
     "team": "TOR",
     "status": "Day-To-Day",
-    "short": "Quickley (hamstring) has been ruled out for Monday's game against Memphis, Esfandiar Baraheni of The Athletic reports.",
-    "relevant": true
+    "short": "Jackson-Davis is questionable for Wednesday's game against Boston with an illness.",
+    "relevant": null
   },
   "5093267": {
     "name": "Collin Murray-Boyles",
     "team": "TOR",
     "status": "Day-To-Day",
-    "short": "Murray-Boyles (illness) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",
+    "short": "Murray-Boyles (illness) is questionable for Wednesday's game against the Celtics.",
     "relevant": false
+  },
+  "4395724": {
+    "name": "Immanuel Quickley",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "short": "Quickley (hamstring) is questionable for Wednesday's game against Boston.",
+    "relevant": true
   },
   "4433134": {
     "name": "Scottie Barnes",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Barnes (groin) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",
+    "status": "Out",
+    "short": "Barnes (groin) is out for Wednesday's game against Boston.",
+    "relevant": true
+  },
+  "6450": {
+    "name": "Kawhi Leonard",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Leonard (knee) is continuing the reconditioning process, and another update will be provided in one week, Blake Murphy of Sportsnet.ca reports.",
     "relevant": true
   },
   "4432586": {
