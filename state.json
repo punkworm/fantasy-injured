@@ -286,19 +286,19 @@
     "short": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
     "relevant": null
   },
-  "4066457": {
-    "name": "Austin Reaves",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "short": "Reaves (illness) has been ruled out for Monday's game against Atlanta, Benjamin Royer of The Orange County Register reports.",
-    "relevant": true
-  },
   "4397014": {
     "name": "Quentin Grimes",
     "team": "LAL",
     "status": "Day-To-Day",
-    "short": "Grimes (finger) is out for Monday's game against Atlanta, per Dave McMenamin of ESPN.com.",
+    "short": "Grimes (finger) is listed as questionable for Wednesday's game in Milwaukee.",
     "relevant": true
+  },
+  "4593016": {
+    "name": "Quinten Post",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Post (head) didn't return to Monday's 118-102 win over the Raptors. He ended the night with one rebound in two minutes.",
+    "relevant": false
   },
   "4432810": {
     "name": "Isaiah Stewart",
@@ -306,13 +306,6 @@
     "status": "Day-To-Day",
     "short": "Stewart (knee) has been ruled out for Monday's game against Toronto.",
     "relevant": false
-  },
-  "4593016": {
-    "name": "Quinten Post",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Post (head) didn't return to Monday's 118-102 win over the Raptors. He ended the night with one rebound in two minutes.",
-    "relevant": null
   },
   "4431785": {
     "name": "Scotty Pippen Jr.",
@@ -388,7 +381,7 @@
     "name": "Josh Hart",
     "team": "NY",
     "status": "Out",
-    "short": "Hart is doubtful for Tuesday's game against the Bucks due to an illness.",
+    "short": "Hart (illness) won't play Tuesday against the Bucks, Kristian Winfield of the New York Daily News reports.",
     "relevant": true
   },
   "4432823": {
