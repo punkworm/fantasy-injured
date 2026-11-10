@@ -275,22 +275,29 @@
   "4066457": {
     "name": "Austin Reaves",
     "team": "LAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Reaves (illness) has been ruled out for Monday's game against Atlanta, Benjamin Royer of The Orange County Register reports.",
     "relevant": true
   },
   "4397014": {
     "name": "Quentin Grimes",
     "team": "LAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Grimes (finger) is out for Monday's game against Atlanta, per Dave McMenamin of ESPN.com.",
     "relevant": true
+  },
+  "4432810": {
+    "name": "Isaiah Stewart",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "short": "Stewart (knee) has been ruled out for Monday's game against Toronto.",
+    "relevant": false
   },
   "4593016": {
     "name": "Quinten Post",
     "team": "MEM",
     "status": "Day-To-Day",
-    "short": "Post is doubtful to return to Monday's game against Toronto due to a head injury.",
+    "short": "Post (head) didn't return to Monday's 118-102 win over the Raptors. He ended the night with one rebound in two minutes.",
     "relevant": null
   },
   "4431785": {
@@ -298,13 +305,6 @@
     "team": "MEM",
     "status": "Out",
     "short": "Pippen (back) won't play in Monday's game versus the Raptors.",
-    "relevant": false
-  },
-  "4432810": {
-    "name": "Isaiah Stewart",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Stewart (knee) has been ruled out for Monday's game against Toronto.",
     "relevant": false
   },
   "5105462": {
@@ -562,21 +562,21 @@
   "4395724": {
     "name": "Immanuel Quickley",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Quickley (hamstring) has been ruled out for Monday's game against Memphis, Esfandiar Baraheni of The Athletic reports.",
     "relevant": true
   },
   "5093267": {
     "name": "Collin Murray-Boyles",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Murray-Boyles (illness) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",
     "relevant": false
   },
   "4433134": {
     "name": "Scottie Barnes",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Barnes (groin) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",
     "relevant": true
   },
