@@ -293,25 +293,25 @@
     "short": "Grimes (finger) is listed as questionable for Wednesday's game in Milwaukee.",
     "relevant": true
   },
-  "4593016": {
-    "name": "Quinten Post",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Post (head) didn't return to Monday's 118-102 win over the Raptors. He ended the night with one rebound in two minutes.",
-    "relevant": false
-  },
   "4432810": {
     "name": "Isaiah Stewart",
     "team": "MEM",
     "status": "Day-To-Day",
-    "short": "Stewart (knee) has been ruled out for Monday's game against Toronto.",
+    "short": "Stewart (knee) is listed as questionable for Wednesday's game versus the Nuggets.",
     "relevant": false
   },
   "4431785": {
     "name": "Scotty Pippen Jr.",
     "team": "MEM",
     "status": "Out",
-    "short": "Pippen (back) won't play in Monday's game versus the Raptors.",
+    "short": "Pippen (back) remains out for Wednesday's game against Denver, Michael Wallace of the Grizzlies' official site reports.",
+    "relevant": false
+  },
+  "4593016": {
+    "name": "Quinten Post",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Post (concussion) has been ruled out for Wednesday's game against the Nuggets.",
     "relevant": false
   },
   "5105462": {
@@ -328,19 +328,12 @@
     "short": "Antetokounmpo is probable for Tuesday's game against the Jazz due to a right wrist sprain.",
     "relevant": null
   },
-  "5105623": {
-    "name": "Kel'el Ware",
-    "team": "MIL",
-    "status": "Day-To-Day",
-    "short": "Ware is questionable for Tuesday's game against the Knicks due to a left ankle sprain.",
-    "relevant": null
-  },
   "4395725": {
     "name": "Tyler Herro",
     "team": "MIL",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Herro (contusion) is listed as questionable for Tuesday's game against the Knicks.",
-    "relevant": null
+    "relevant": true
   },
   "4594268": {
     "name": "Anthony Edwards",
