@@ -573,6 +573,13 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
+  "6450": {
+    "name": "Kawhi Leonard",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Leonard (knee) is continuing the reconditioning process, and another update will be provided in one week, Blake Murphy of Sportsnet.ca reports.",
+    "relevant": true
+  },
   "4395724": {
     "name": "Immanuel Quickley",
     "team": "TOR",
@@ -600,13 +607,6 @@
     "status": "Out",
     "short": "Bittle (foot) is listed as out for Monday's game against Memphis.",
     "relevant": false
-  },
-  "6450": {
-    "name": "Kawhi Leonard",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",
-    "relevant": true
   },
   "4433627": {
     "name": "Keyonte George",
