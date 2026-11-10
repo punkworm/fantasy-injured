@@ -160,6 +160,13 @@
     "short": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
     "relevant": true
   },
+  "4397040": {
+    "name": "Brandon Williams",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "short": "Williams (quadriceps) isn't listed on the injury report for Thursday's game against the Heat.",
+    "relevant": null
+  },
   "3134903": {
     "name": "Gary Payton II",
     "team": "GS",
@@ -534,7 +541,7 @@
   "4395630": {
     "name": "Devin Vassell",
     "team": "SA",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Vassell (groin) is out for Monday's game against the Suns, Tom Orsborn of the San Antonio Express-News reports.",
     "relevant": null
   },
