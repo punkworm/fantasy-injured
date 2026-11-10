@@ -244,25 +244,25 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
-  "4432827": {
-    "name": "Oscar Tshiebwe",
-    "team": "HOU",
-    "status": "Out",
-    "short": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness.",
-    "relevant": false
-  },
   "3102529": {
     "name": "Clint Capela",
     "team": "HOU",
     "status": "Out",
-    "short": "Capela (ankle) is listed as out for Monday's game against Denver.",
+    "short": "Head coach Ime Udoka stated Monday that Capela (ankle) could be cleared to return either Nov. 15 in Washington or Nov. 16 in Miami, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
   "2991235": {
     "name": "Steven Adams",
     "team": "HOU",
     "status": "Out",
-    "short": "Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a \"weekly basis,\" Varun Shankar of the Houston Chronicle reports.",
+    "short": "Head coach Ime Udoka said Monday that Adams could return as soon as Sunday's game at Washington, Lachard Binkley of SI.com reports.",
+    "relevant": false
+  },
+  "4432827": {
+    "name": "Oscar Tshiebwe",
+    "team": "HOU",
+    "status": "Out",
+    "short": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness.",
     "relevant": false
   },
   "4396993": {
