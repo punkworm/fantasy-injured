@@ -521,7 +521,7 @@
     "name": "Jordan Goodwin",
     "team": "PHX",
     "status": "Out",
-    "short": "Goodwin (calf) is questionable for Monday's game against the Spurs.",
+    "short": "Goodwin (calf) has been ruled out for Monday's game against the Spurs, Kellan Olson of ArizonaSports.com reports.",
     "relevant": false
   },
   "4701232": {
@@ -557,6 +557,13 @@
     "team": "POR",
     "status": "Out",
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
+    "relevant": null
+  },
+  "4594327": {
+    "name": "Keegan Murray",
+    "team": "SAC",
+    "status": "Day-To-Day",
+    "short": "Murray contributed 10 points (3-10 FG, 0-3 3Pt, 4-4 FT), one rebound, two assists, one block and two steals in 23 minutes off the bench during Sunday's 114-108 loss to the Heat.",
     "relevant": null
   },
   "3155942": {
