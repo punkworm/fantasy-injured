@@ -139,48 +139,6 @@
     "short": "Lively (foot) is listed as out for Monday's game against the Kings.",
     "relevant": false
   },
-  "3138196": {
-    "name": "Cameron Johnson",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "Johnson (ankle) is probable for Monday against Houston.",
-    "relevant": null
-  },
-  "4431767": {
-    "name": "Christian Braun",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "Braun (left calf contusion/illness) is probable for Monday's matchup against the Rockets.",
-    "relevant": null
-  },
-  "3064290": {
-    "name": "Aaron Gordon",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "Gordon (left calf injury management) is probable for Monday's game against Houston.",
-    "relevant": null
-  },
-  "3112335": {
-    "name": "Nikola Jokic",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "Jokic (right elbow sprain) is probable for Monday's game against the Rockets.",
-    "relevant": null
-  },
-  "3978": {
-    "name": "DeMar DeRozan",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "DeRozan (back) is probable for Monday against Houston.",
-    "relevant": null
-  },
-  "3936299": {
-    "name": "Jamal Murray",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "short": "Murray (leg) is probable for Monday against Houston.",
-    "relevant": null
-  },
   "4432181": {
     "name": "Julian Strawther",
     "team": "DEN",
@@ -531,13 +489,6 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
-  "4066211": {
-    "name": "Robert Williams III",
-    "team": "POR",
-    "status": "Day-To-Day",
-    "short": "Williams (rest) won't play in Saturday's game against the Spurs.",
-    "relevant": false
-  },
   "4279888": {
     "name": "Ja Morant",
     "team": "POR",
@@ -559,26 +510,26 @@
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
     "relevant": null
   },
+  "4898371": {
+    "name": "Maxime Raynaud",
+    "team": "SAC",
+    "status": "Out",
+    "short": "Raynaud (knee) has been ruled out for Tuesday's game against Orlando.",
+    "relevant": false
+  },
   "4594327": {
     "name": "Keegan Murray",
     "team": "SAC",
     "status": "Day-To-Day",
-    "short": "Murray contributed 10 points (3-10 FG, 0-3 3Pt, 4-4 FT), one rebound, two assists, one block and two steals in 23 minutes off the bench during Sunday's 114-108 loss to the Heat.",
+    "short": "Murray is questionable for Tuesday's game against the Magic due to right wrist soreness.",
     "relevant": null
   },
   "3155942": {
     "name": "Domantas Sabonis",
     "team": "SAC",
     "status": "Day-To-Day",
-    "short": "Sabonis (knee) is out for Sunday's game against the Heat.",
+    "short": "Sabonis (knee) is questionable to play Tuesday's game against the Magic.",
     "relevant": true
-  },
-  "4898371": {
-    "name": "Maxime Raynaud",
-    "team": "SAC",
-    "status": "Out",
-    "short": "Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
-    "relevant": false
   },
   "3907387": {
     "name": "Ben Simmons",
