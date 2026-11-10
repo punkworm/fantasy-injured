@@ -87,14 +87,21 @@
     "name": "Norman Powell",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports.",
+    "short": "Powell (shoulder) is listed as questionable for Wednesday's game versus the Spurs.",
     "relevant": true
+  },
+  "5105555": {
+    "name": "Tobe Awaka",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Awaka (back) is questionable for Wednesday's game against the Spurs.",
+    "relevant": null
   },
   "4066650": {
     "name": "Zach Collins",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Collins (illness) is out for Sunday's game against Philadelphia.",
+    "short": "Collins (illness) is questionable for Wednesday's game against the Spurs.",
     "relevant": false
   },
   "4066757": {
