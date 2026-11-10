@@ -160,26 +160,19 @@
     "short": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
     "relevant": true
   },
+  "3134903": {
+    "name": "Gary Payton II",
+    "team": "GS",
+    "status": "Out",
+    "short": "Payton (knee) has been ruled out for Monday's game against the Pelicans.",
+    "relevant": false
+  },
   "4897262": {
     "name": "Will Richard",
     "team": "GS",
     "status": "Out",
     "short": "Richard is deciding between getting surgery or playing with a splint, Luca Evans of the San Francisco Chronicle reports.",
     "relevant": false
-  },
-  "3134903": {
-    "name": "Gary Payton II",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "short": "Payton (left knee soreness) is listed as questionable for Monday's game against New Orleans.",
-    "relevant": null
-  },
-  "4997536": {
-    "name": "Gui Santos",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "short": "Santos (knee) is listed as probable for Monday's game against New Orleans.",
-    "relevant": null
   },
   "3102531": {
     "name": "Kristaps Porzingis",
