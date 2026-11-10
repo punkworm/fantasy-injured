@@ -286,6 +286,13 @@
     "short": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
     "relevant": false
   },
+  "5108024": {
+    "name": "Yanic Konan Niederhauser",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports.",
+    "relevant": false
+  },
   "3913176": {
     "name": "Brandon Ingram",
     "team": "LAC",
@@ -299,13 +306,6 @@
     "status": "Day-To-Day",
     "short": "Christie is questionable for Tuesday's game against the Suns due to a right ankle sprain, Ohm Youngmisuk of ESPN.com reports.",
     "relevant": null
-  },
-  "5108024": {
-    "name": "Yanic Konan Niederhauser",
-    "team": "LAC",
-    "status": "Out",
-    "short": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday.",
-    "relevant": false
   },
   "6580": {
     "name": "Bradley Beal",
@@ -640,14 +640,14 @@
     "name": "Keyonte George",
     "team": "UTAH",
     "status": "Out",
-    "short": "George will not return to Sunday's game against the Timberwolves due to a right ankle injury.",
+    "short": "George (ankle) has been ruled out for Tuesday's game against the Heat.",
     "relevant": true
   },
   "4066336": {
     "name": "Lauri Markkanen",
     "team": "UTAH",
     "status": "Day-To-Day",
-    "short": "Markkanen (wrist) is out for Sunday's game against the Timberwolves, Shreyas Laddha of The Salt Lake Tribune reports.",
+    "short": "Markkanen (wrist) is questionable for Tuesday's game against Miami.",
     "relevant": null
   },
   "3102530": {
