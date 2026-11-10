@@ -27,6 +27,13 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
+  "5279130": {
+    "name": "Nolan Traore",
+    "team": "BKN",
+    "status": "Day-To-Day",
+    "short": "Traore registered 14 points (6-15 FG, 2-6 3Pt), a rebound and two assists across 21 minutes in Sunday's 130-93 loss to the Mavericks.",
+    "relevant": null
+  },
   "5101761": {
     "name": "Mikel Brown Jr.",
     "team": "BKN",
@@ -387,7 +394,7 @@
   "3062679": {
     "name": "Josh Hart",
     "team": "NY",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Hart is doubtful for Tuesday's game against the Bucks due to an illness.",
     "relevant": true
   },
@@ -535,14 +542,14 @@
     "name": "Devin Vassell",
     "team": "SA",
     "status": "Day-To-Day",
-    "short": "Vassell (groin) is out for Monday's game against the Suns, Tom Orsborn of the San Antonio Express-News reports.",
+    "short": "Vassell (groin) is listed as questionable for Wednesday's game versus the Bulls, NBA reporter Matthew Tynan reports.",
     "relevant": null
   },
   "6440": {
     "name": "Tobias Harris",
     "team": "SA",
     "status": "Out",
-    "short": "Harris (calf) is listed as out for Monday's game against Phoenix.",
+    "short": "Harris (calf) is out for Wednesday's game against Chicago, Jared Weiss of The Athletic reports.",
     "relevant": true
   },
   "5101845": {
