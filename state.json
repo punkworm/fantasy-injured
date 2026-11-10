@@ -48,10 +48,17 @@
     "short": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",
     "relevant": true
   },
+  "4433287": {
+    "name": "Brandon Miller",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "Miller (groin) is listed as out for Monday's game against Cleveland.",
+    "relevant": true
+  },
   "4433249": {
     "name": "Moussa Diabate",
     "team": "CHA",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Diabate (quadriceps) has been downgraded to out for Monday's game against Cleveland.",
     "relevant": true
   },
@@ -76,13 +83,6 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
-  "4433287": {
-    "name": "Brandon Miller",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Miller (groin) is listed as out for Monday's game against Cleveland.",
-    "relevant": true
-  },
   "2595516": {
     "name": "Norman Powell",
     "team": "CHI",
@@ -100,7 +100,7 @@
   "4066757": {
     "name": "Sam Merrill",
     "team": "CLE",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Merrill (elbow) is listed as out for Monday's game against the Hornets.",
     "relevant": false
   },
@@ -275,14 +275,14 @@
   "4066457": {
     "name": "Austin Reaves",
     "team": "LAL",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Reaves (illness) has been ruled out for Monday's game against Atlanta, Benjamin Royer of The Orange County Register reports.",
     "relevant": true
   },
   "4397014": {
     "name": "Quentin Grimes",
     "team": "LAL",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Grimes (finger) is out for Monday's game against Atlanta, per Dave McMenamin of ESPN.com.",
     "relevant": true
   },
@@ -625,7 +625,7 @@
   "5104155": {
     "name": "Bilal Coulibaly",
     "team": "WSH",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Coulibaly (hand) is out for Monday's game against the Pistons.",
     "relevant": false
   },
