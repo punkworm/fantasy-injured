@@ -608,19 +608,19 @@
     "short": "Bittle (foot) is listed as out for Monday's game against Memphis.",
     "relevant": false
   },
+  "4066336": {
+    "name": "Lauri Markkanen",
+    "team": "UTAH",
+    "status": "Out",
+    "short": "Markkanen (wrist) is questionable for Tuesday's game against Miami.",
+    "relevant": null
+  },
   "4433627": {
     "name": "Keyonte George",
     "team": "UTAH",
     "status": "Out",
     "short": "George (ankle) has been ruled out for Tuesday's game against the Heat.",
     "relevant": true
-  },
-  "4066336": {
-    "name": "Lauri Markkanen",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Markkanen (wrist) is questionable for Tuesday's game against Miami.",
-    "relevant": null
   },
   "3102530": {
     "name": "Jusuf Nurkic",
