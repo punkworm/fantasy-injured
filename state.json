@@ -444,14 +444,14 @@
     "name": "Jamal Cain",
     "team": "ORL",
     "status": "Day-To-Day",
-    "short": "Cain will start Tuesday's game against the Kings.",
+    "short": "Cain is questionable for Wednesday's game against the Jazz due to a left shoulder contusion.",
     "relevant": null
   },
   "4702382": {
     "name": "Tristan da Silva",
     "team": "ORL",
     "status": "Day-To-Day",
-    "short": "Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of the Orlando Sentinel reports.",
+    "short": "Da Silva (calf) is listed as questionable for Wednesday's game at Utah.",
     "relevant": null
   },
   "4432165": {
@@ -517,19 +517,19 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
-  "4578893": {
-    "name": "Vit Krejci",
-    "team": "POR",
-    "status": "Out",
-    "short": "Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com reports.",
-    "relevant": false
-  },
   "4279888": {
     "name": "Ja Morant",
     "team": "POR",
     "status": "Out",
     "short": "Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant \"may not be out for as long as we thought,\" Trail Blazers Insider Sean Highkin reports.",
     "relevant": true
+  },
+  "4578893": {
+    "name": "Vit Krejci",
+    "team": "POR",
+    "status": "Out",
+    "short": "Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports.",
+    "relevant": false
   },
   "4914336": {
     "name": "Shaedon Sharpe",
