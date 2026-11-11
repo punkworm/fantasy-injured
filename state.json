@@ -391,20 +391,6 @@
     "short": "Missi (knee) is out for Friday's game against Minnesota.",
     "relevant": false
   },
-  "3136195": {
-    "name": "Karl-Anthony Towns",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "short": "Towns (calf) is listed as questionable for Wednesday's game against Cleveland.",
-    "relevant": null
-  },
-  "3062679": {
-    "name": "Josh Hart",
-    "team": "NY",
-    "status": "Out",
-    "short": "Hart (illness) is probable for Wednesday's game against the Cavaliers.",
-    "relevant": true
-  },
   "4432823": {
     "name": "Jaylin Williams",
     "team": "OKC",
@@ -614,20 +600,6 @@
     "status": "Out",
     "short": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
     "relevant": false
-  },
-  "5093267": {
-    "name": "Collin Murray-Boyles",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Murray-Boyles (illness) is questionable for Wednesday's game against the Celtics.",
-    "relevant": false
-  },
-  "4395724": {
-    "name": "Immanuel Quickley",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Quickley (hamstring) is questionable for Wednesday's game against Boston.",
-    "relevant": true
   },
   "4433134": {
     "name": "Scottie Barnes",
