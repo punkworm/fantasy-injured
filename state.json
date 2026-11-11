@@ -594,6 +594,13 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
+  "6450": {
+    "name": "Kawhi Leonard",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports.",
+    "relevant": true
+  },
   "4431684": {
     "name": "Trayce Jackson-Davis",
     "team": "TOR",
@@ -606,13 +613,6 @@
     "team": "TOR",
     "status": "Out",
     "short": "Barnes (groin) is out for Wednesday's game against Boston.",
-    "relevant": true
-  },
-  "6450": {
-    "name": "Kawhi Leonard",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Leonard (knee) is continuing the reconditioning process, and another update will be provided in one week, Blake Murphy of Sportsnet.ca reports.",
     "relevant": true
   },
   "4432586": {
