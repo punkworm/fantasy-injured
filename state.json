@@ -608,19 +608,19 @@
     "short": "Bittle (foot) is listed as out for Monday's game against Memphis.",
     "relevant": false
   },
+  "4066336": {
+    "name": "Lauri Markkanen",
+    "team": "UTAH",
+    "status": "Out",
+    "short": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports.",
+    "relevant": null
+  },
   "4433627": {
     "name": "Keyonte George",
     "team": "UTAH",
     "status": "Day-To-Day",
     "short": "George (ankle) has been ruled out for Tuesday's game against the Heat.",
     "relevant": true
-  },
-  "4066336": {
-    "name": "Lauri Markkanen",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain.",
-    "relevant": null
   },
   "3102530": {
     "name": "Jusuf Nurkic",
