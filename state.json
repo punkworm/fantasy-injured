@@ -377,11 +377,18 @@
     "short": "Missi (knee) is out for Friday's game against Minnesota.",
     "relevant": false
   },
+  "3136195": {
+    "name": "Karl-Anthony Towns",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "short": "Towns (calf) is listed as questionable for Wednesday's game against Cleveland.",
+    "relevant": null
+  },
   "3062679": {
     "name": "Josh Hart",
     "team": "NY",
     "status": "Out",
-    "short": "Hart (illness) won't play Tuesday against the Bucks, Kristian Winfield of the New York Daily News reports.",
+    "short": "Hart (illness) is probable for Wednesday's game against the Cavaliers.",
     "relevant": true
   },
   "4432823": {
