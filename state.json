@@ -83,6 +83,13 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
+  "5105555": {
+    "name": "Tobe Awaka",
+    "team": "CHI",
+    "status": "Out",
+    "short": "Awaka (back) has been ruled out for Wednesday's game against the Spurs.",
+    "relevant": false
+  },
   "5095151": {
     "name": "Caleb Wilson",
     "team": "CHI",
@@ -96,13 +103,6 @@
     "status": "Day-To-Day",
     "short": "Powell (shoulder) is listed as questionable for Wednesday's game versus the Spurs.",
     "relevant": true
-  },
-  "5105555": {
-    "name": "Tobe Awaka",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Awaka (back) is questionable for Wednesday's game against the Spurs.",
-    "relevant": null
   },
   "4066650": {
     "name": "Zach Collins",
