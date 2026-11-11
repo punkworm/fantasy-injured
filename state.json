@@ -353,8 +353,15 @@
     "name": "Bennedict Mathurin",
     "team": "NO",
     "status": "Out",
-    "short": "Mathurin notched 11 points (3-7 FG, 0-3 3Pt, 5-6 FT), three rebounds, two assists and one steal across 18 minutes during Wednesday's 123-120 loss to Indiana.",
+    "short": "Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb sprain.",
     "relevant": false
+  },
+  "4397688": {
+    "name": "Trey Murphy III",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "short": "Murphy (knee) is doubtful for Wednesday's game against the Nets.",
+    "relevant": true
   },
   "4431675": {
     "name": "Trendon Watford",
@@ -362,13 +369,6 @@
     "status": "Out",
     "short": "Watford (ankle) is out for Wednesday's game against the Nets.",
     "relevant": false
-  },
-  "4397688": {
-    "name": "Trey Murphy III",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Murphy (knee) is probable for Wednesday's game against the Nets.",
-    "relevant": true
   },
   "5061589": {
     "name": "Yves Missi",
