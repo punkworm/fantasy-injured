@@ -30,9 +30,9 @@
   "5101761": {
     "name": "Mikel Brown Jr.",
     "team": "BKN",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Brown (rest) is not listed on the injury report ahead of Wednesday's meeting in New Orleans.",
-    "relevant": null
+    "relevant": false
   },
   "5279130": {
     "name": "Nolan Traore",
@@ -348,6 +348,13 @@
     "status": "Out",
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
+  },
+  "4683634": {
+    "name": "Bennedict Mathurin",
+    "team": "NO",
+    "status": "Out",
+    "short": "Mathurin notched 11 points (3-7 FG, 0-3 3Pt, 5-6 FT), three rebounds, two assists and one steal across 18 minutes during Wednesday's 123-120 loss to Indiana.",
+    "relevant": false
   },
   "4431675": {
     "name": "Trendon Watford",
