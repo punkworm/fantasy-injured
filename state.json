@@ -34,19 +34,19 @@
     "short": "George (illness) has been ruled out for Wednesday's game against Toronto, Taylor Snow of the Celtics' official site reports.",
     "relevant": true
   },
+  "5279130": {
+    "name": "Nolan Traore",
+    "team": "BKN",
+    "status": "Out",
+    "short": "Traore (calf) is listed as questionable for Wednesday's game against New Orleans.",
+    "relevant": false
+  },
   "5101761": {
     "name": "Mikel Brown Jr.",
     "team": "BKN",
     "status": "Out",
     "short": "Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Sharif Phillips-Keaton of USA Today reports.",
     "relevant": false
-  },
-  "5279130": {
-    "name": "Nolan Traore",
-    "team": "BKN",
-    "status": "Day-To-Day",
-    "short": "Traore (calf) is listed as questionable for Wednesday's game against New Orleans.",
-    "relevant": null
   },
   "4433287": {
     "name": "Brandon Miller",
@@ -494,6 +494,13 @@
     "team": "ORL",
     "status": "Out",
     "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
+    "relevant": null
+  },
+  "3059318": {
+    "name": "Joel Embiid",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Embiid contributed 16 points (2-9 FG, 1-3 3Pt, 11-13 FT), six rebounds and one assist across 31 minutes during Tuesday's 123-101 loss to the Celtics.",
     "relevant": null
   },
   "5105637": {
