@@ -555,9 +555,9 @@
   "4431684": {
     "name": "Trayce Jackson-Davis",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Jackson-Davis is questionable for Wednesday's game against Boston with an illness.",
-    "relevant": null
+    "status": "Out",
+    "short": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
+    "relevant": false
   },
   "5093267": {
     "name": "Collin Murray-Boyles",
