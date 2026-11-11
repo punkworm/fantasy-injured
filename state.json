@@ -500,8 +500,22 @@
     "name": "Adem Bona",
     "team": "PHI",
     "status": "Out",
-    "short": "Bona (back) is out for Tuesday's game against the Celtics.",
+    "short": "Bona (back) is out for Thursday's game against the Raptors, Kyle Neubeck of AllPHLY.com reports.",
     "relevant": false
+  },
+  "3059318": {
+    "name": "Joel Embiid",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Embiid (foot) is listed as questionable for Thursday's game against Toronto, Adam Aaronson of PhillyVoice.com reports.",
+    "relevant": null
+  },
+  "1966": {
+    "name": "LeBron James",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "James (back) is questionable for Thursday's game against the Raptors, Kyle Neubeck of AllPHLY.com reports.",
+    "relevant": null
   },
   "4870562": {
     "name": "Dominick Barlow",
