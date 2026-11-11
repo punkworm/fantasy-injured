@@ -83,6 +83,20 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
+  "4848625": {
+    "name": "Dailyn Swain",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Swain (back) has been downgraded to questionable for Wednesday's game against the Spurs.",
+    "relevant": null
+  },
+  "2595516": {
+    "name": "Norman Powell",
+    "team": "CHI",
+    "status": "Out",
+    "short": "Powell (shoulder) won't play in Wednesday's game against the Spurs,Joel Lorenzi of The Athletic reports.",
+    "relevant": true
+  },
   "5105555": {
     "name": "Tobe Awaka",
     "team": "CHI",
@@ -96,13 +110,6 @@
     "status": "Day-To-Day",
     "short": "Wilson has been downgraded to questionable for Wednesday's game against the Spurs due to right hip soreness.",
     "relevant": null
-  },
-  "2595516": {
-    "name": "Norman Powell",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Powell (shoulder) is listed as questionable for Wednesday's game versus the Spurs.",
-    "relevant": true
   },
   "4066650": {
     "name": "Zach Collins",
