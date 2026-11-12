@@ -83,6 +83,13 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
+  "5095151": {
+    "name": "Caleb Wilson",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Wilson exited to the locker room in the third quarter of Wednesday's game against San Antonio due to an apparent hand injury, K.C. Johnson of Chicago Sports Network reports.",
+    "relevant": null
+  },
   "4848625": {
     "name": "Dailyn Swain",
     "team": "CHI",
@@ -277,6 +284,13 @@
     "team": "LAC",
     "status": "Out",
     "short": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
+    "relevant": null
+  },
+  "4066457": {
+    "name": "Austin Reaves",
+    "team": "LAL",
+    "status": "Day-To-Day",
+    "short": "Reaves exited Wednesday's game against the Bucks with an undisclosed injury, Khobi Price of The California Post reports.",
     "relevant": null
   },
   "4397014": {
