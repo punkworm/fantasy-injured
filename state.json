@@ -83,33 +83,33 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
-  "5095151": {
-    "name": "Caleb Wilson",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Wilson won't return to Wednesday's game against the Spurs due to a right hand injury. He'll finish with 15 points (5-7 FG, 2-2 3Pt, 3-3 FT), five rebounds and one steal in 15 minutes.",
-    "relevant": null
-  },
   "4848625": {
     "name": "Dailyn Swain",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Swain (back) is out for Wednesday's game against the Spurs.",
     "relevant": false
   },
   "2595516": {
     "name": "Norman Powell",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Powell (shoulder) won't play in Wednesday's game against the Spurs,Joel Lorenzi of The Athletic reports.",
     "relevant": true
   },
   "5105555": {
     "name": "Tobe Awaka",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Awaka (back) has been ruled out for Wednesday's game against the Spurs.",
     "relevant": false
+  },
+  "5095151": {
+    "name": "Caleb Wilson",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Wilson won't return to Wednesday's game against the Spurs due to a right hand injury. He'll finish with 15 points (5-7 FG, 2-2 3Pt, 3-3 FT), five rebounds and one steal in 15 minutes.",
+    "relevant": null
   },
   "4066757": {
     "name": "Sam Merrill",
@@ -174,19 +174,19 @@
     "short": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
     "relevant": true
   },
+  "3134903": {
+    "name": "Gary Payton II",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "short": "Payton (knee) is out for Wednesday's game against Houston.",
+    "relevant": false
+  },
   "3975": {
     "name": "Stephen Curry",
     "team": "GS",
     "status": "Day-To-Day",
     "short": "Steve Kerr told reporters Wednesday that Curry said he tweaked something in his abdominal area and \"had never done it before.\" Kerr added that the concern level is high, but they will await the MRI results, Kelly Iko of Yahoo Sports reports.",
     "relevant": null
-  },
-  "3134903": {
-    "name": "Gary Payton II",
-    "team": "GS",
-    "status": "Out",
-    "short": "Payton (knee) is out for Wednesday's game against Houston.",
-    "relevant": false
   },
   "4397040": {
     "name": "Brandon Williams",
@@ -293,6 +293,13 @@
     "short": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
     "relevant": null
   },
+  "4397014": {
+    "name": "Quentin Grimes",
+    "team": "LAL",
+    "status": "Day-To-Day",
+    "short": "Grimes (finger) has been ruled out for Wednesday's game against the Bucks.",
+    "relevant": true
+  },
   "4277811": {
     "name": "Collin Sexton",
     "team": "LAL",
@@ -314,25 +321,18 @@
     "short": "Doncic finished Wednesday's 123-112 win over the Bucks with 32 points (10-25 FG, 5-12 3Pt, 7-10 FT), five rebounds, five assists and three steals across 32 minutes. He exited to the locker room late in the fourth quarter due to an apparent right ankle injury and did not return, Thuc Nhi Nguyen of the Los Angeles Times reports.",
     "relevant": null
   },
-  "4397014": {
-    "name": "Quentin Grimes",
-    "team": "LAL",
-    "status": "Out",
-    "short": "Grimes (finger) has been ruled out for Wednesday's game against the Bucks.",
-    "relevant": true
+  "4593016": {
+    "name": "Quinten Post",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "short": "Post (concussion) has been ruled out for Wednesday's game against the Nuggets.",
+    "relevant": false
   },
   "4431785": {
     "name": "Scotty Pippen Jr.",
     "team": "MEM",
     "status": "Out",
     "short": "Pippen (back) remains out for Wednesday's game against Denver, Michael Wallace of the Grizzlies' official site reports.",
-    "relevant": false
-  },
-  "4593016": {
-    "name": "Quinten Post",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Post (concussion) has been ruled out for Wednesday's game against the Nuggets.",
     "relevant": false
   },
   "5105462": {
@@ -342,19 +342,19 @@
     "short": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
     "relevant": false
   },
-  "3133628": {
-    "name": "Myles Turner",
-    "team": "MIL",
-    "status": "Day-To-Day",
-    "short": "Turner has been ruled out for Wednesday's game against the Lakers due to rest.",
-    "relevant": true
-  },
   "4591725": {
     "name": "Ryan Rollins",
     "team": "MIL",
     "status": "Day-To-Day",
     "short": "Rollins (head) exited to the locker room in the fourth quarter of Wednesday's 123-112 loss to the Lakers and did not return, finishing with eight points (3-10 FG, 2-6 3Pt), seven rebounds, four assists and one steal across 24 minutes.",
     "relevant": null
+  },
+  "3133628": {
+    "name": "Myles Turner",
+    "team": "MIL",
+    "status": "Out",
+    "short": "Turner has been ruled out for Wednesday's game against the Lakers due to rest.",
+    "relevant": true
   },
   "4594268": {
     "name": "Anthony Edwards",
@@ -370,26 +370,26 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
-  "4397688": {
-    "name": "Trey Murphy III",
-    "team": "NO",
-    "status": "Out",
-    "short": "Murphy (knee) is listed as out for Wednesday's game against the Nets.",
-    "relevant": true
-  },
   "4683634": {
     "name": "Bennedict Mathurin",
     "team": "NO",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb sprain.",
     "relevant": false
   },
   "4431675": {
     "name": "Trendon Watford",
     "team": "NO",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Watford (ankle) is out for Wednesday's game against the Nets.",
     "relevant": false
+  },
+  "4397688": {
+    "name": "Trey Murphy III",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "short": "Murphy (knee) is listed as out for Wednesday's game against the Nets.",
+    "relevant": true
   },
   "5061589": {
     "name": "Yves Missi",
@@ -583,7 +583,7 @@
   "4395630": {
     "name": "Devin Vassell",
     "team": "SA",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Vassell (adductor) won't play in Wednesday's game against the Bulls, Jeff Garcia of KENS 5 San Antonio reports.",
     "relevant": null
   },
