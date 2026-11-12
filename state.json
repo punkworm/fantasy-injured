@@ -1,24 +1,24 @@
 {
+  "4585618": {
+    "name": "Keshon Gilbert",
+    "team": "ATL",
+    "status": "Out",
+    "short": "Gilbert (knee) has been ruled out for Friday's game against the Bulls.",
+    "relevant": false
+  },
+  "4873201": {
+    "name": "Asa Newell",
+    "team": "ATL",
+    "status": "Out",
+    "short": "Newell (toe) has been ruled out for Friday's game against Chicago.",
+    "relevant": false
+  },
   "5149077": {
     "name": "Kingston Flemings",
     "team": "ATL",
     "status": "Day-To-Day",
     "short": "Flemings (back) is questionable for Friday's game against the Bulls.",
     "relevant": null
-  },
-  "4873201": {
-    "name": "Asa Newell",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Newell (toe) has been ruled out for Monday's game against the Lakers.",
-    "relevant": false
-  },
-  "4585618": {
-    "name": "Keshon Gilbert",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Gilbert (knee) has been ruled out for Monday's game against the Lakers.",
-    "relevant": false
   },
   "4712863": {
     "name": "Mouhamed Gueye",
@@ -241,7 +241,7 @@
     "name": "T.J. McConnell",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "McConnell (hamstring) is available for Wednesday's game versus Washington.",
+    "short": "McConnell is probable for Friday's game against the Knicks due to a right hamstring strain.",
     "relevant": null
   },
   "4396909": {
@@ -338,9 +338,16 @@
   "4593016": {
     "name": "Quinten Post",
     "team": "MEM",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Post (concussion) has been ruled out for Wednesday's game against the Nuggets.",
     "relevant": false
+  },
+  "4600663": {
+    "name": "Zach Edey",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Edey recorded eight points (2-3 FG, 4-4 FT), nine rebounds, one assist and one block over 23 minutes during Monday's 118-102 victory over the Raptors.",
+    "relevant": true
   },
   "4431785": {
     "name": "Scotty Pippen Jr.",
