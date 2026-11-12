@@ -178,7 +178,7 @@
     "name": "Stephen Curry",
     "team": "GS",
     "status": "Day-To-Day",
-    "short": "Curry (hip/oblique) exited Wednesday's game against the Rockets, Anthony Slater of ESPN.com reports.",
+    "short": "Curry won't return to Wednesday's game against the Rockets due to right abdominal soreness, Anthony Slater of ESPN.com reports. He'll finish with three points (1-3 FG, 1-2 3Pt) across six minutes.",
     "relevant": null
   },
   "3134903": {
@@ -293,18 +293,18 @@
     "short": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
     "relevant": null
   },
+  "4066457": {
+    "name": "Austin Reaves",
+    "team": "LAL",
+    "status": "Out",
+    "short": "Reaves will not return to Wednesday's game against the Bucks due to a left heel injury, Benjamin Royer of The Orange County Register reports.",
+    "relevant": true
+  },
   "4277811": {
     "name": "Collin Sexton",
     "team": "LAL",
     "status": "Day-To-Day",
     "short": "Sexton went back to the locker room during Wednesday's game against the Bucks after bumping heads with Ryan Rollins, Thuc Nhi Nguyen of the Los Angeles Times reports.",
-    "relevant": null
-  },
-  "4066457": {
-    "name": "Austin Reaves",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "short": "Reaves exited Wednesday's game against the Bucks with an undisclosed injury, Khobi Price of The California Post reports.",
     "relevant": null
   },
   "4397014": {
