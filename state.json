@@ -48,26 +48,26 @@
     "short": "Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Sharif Phillips-Keaton of USA Today reports.",
     "relevant": false
   },
+  "4066218": {
+    "name": "Grant Williams",
+    "team": "CHA",
+    "status": "Out",
+    "short": "Williams (hamstring) is listed as probable for Thursday's game against the Suns.",
+    "relevant": false
+  },
+  "4433249": {
+    "name": "Moussa Diabate",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "Diabate (quadriceps) is listed as probable for Thursday's game against the Suns.",
+    "relevant": true
+  },
   "4433287": {
     "name": "Brandon Miller",
     "team": "CHA",
     "status": "Out",
     "short": "Miller (groin) is listed as out for Thursday's game against Phoenix.",
     "relevant": true
-  },
-  "4433249": {
-    "name": "Moussa Diabate",
-    "team": "CHA",
-    "status": "Day-To-Day",
-    "short": "Diabate (quadriceps) has been downgraded to out for Monday's game against Cleveland.",
-    "relevant": true
-  },
-  "4066218": {
-    "name": "Grant Williams",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Williams (hamstring) is out for Monday's game against the Cavaliers.",
-    "relevant": false
   },
   "5061575": {
     "name": "Kon Knueppel",
