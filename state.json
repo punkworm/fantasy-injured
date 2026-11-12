@@ -605,21 +605,21 @@
     "name": "Trayce Jackson-Davis",
     "team": "TOR",
     "status": "Out",
-    "short": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
+    "short": "Jackson-Davis is out for Thursday's game against the 76ers due to an illness.",
     "relevant": false
+  },
+  "4433134": {
+    "name": "Scottie Barnes",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Barnes (groin) is out for Thursday's game against Philadelphia.",
+    "relevant": true
   },
   "6450": {
     "name": "Kawhi Leonard",
     "team": "TOR",
     "status": "Out",
     "short": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports.",
-    "relevant": true
-  },
-  "4433134": {
-    "name": "Scottie Barnes",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Barnes (groin) is out for Wednesday's game against Boston.",
     "relevant": true
   },
   "4432586": {
