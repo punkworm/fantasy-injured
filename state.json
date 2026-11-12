@@ -69,33 +69,33 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
-  "5095151": {
-    "name": "Caleb Wilson",
+  "5105555": {
+    "name": "Tobe Awaka",
     "team": "CHI",
     "status": "Out",
-    "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
-    "relevant": true
+    "short": "Awaka (back) has been ruled out for Friday's game against the Hawks.",
+    "relevant": false
   },
   "4848625": {
     "name": "Dailyn Swain",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Swain (back) is out for Wednesday's game against the Spurs.",
+    "short": "Swain (back) is listed as questionable for Friday's game against Atlanta.",
     "relevant": false
   },
   "2595516": {
     "name": "Norman Powell",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Powell (shoulder) won't play in Wednesday's game against the Spurs,Joel Lorenzi of The Athletic reports.",
+    "short": "Powell (shoulder) is questionable for Friday's game against the Hawks.",
     "relevant": true
   },
-  "5105555": {
-    "name": "Tobe Awaka",
+  "5095151": {
+    "name": "Caleb Wilson",
     "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Awaka (back) has been ruled out for Wednesday's game against the Spurs.",
-    "relevant": false
+    "status": "Out",
+    "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
+    "relevant": true
   },
   "4066757": {
     "name": "Sam Merrill",
