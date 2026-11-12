@@ -370,32 +370,32 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
-  "4683634": {
-    "name": "Bennedict Mathurin",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb sprain.",
-    "relevant": false
-  },
   "4431675": {
     "name": "Trendon Watford",
     "team": "NO",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Watford (ankle) is out for Wednesday's game against the Nets.",
+    "relevant": false
+  },
+  "5061589": {
+    "name": "Yves Missi",
+    "team": "NO",
+    "status": "Out",
+    "short": "Missi (knee) is listed as doubtful for Friday's game against the Grizzlies.",
     "relevant": false
   },
   "4397688": {
     "name": "Trey Murphy III",
     "team": "NO",
     "status": "Day-To-Day",
-    "short": "Murphy (knee) is listed as out for Wednesday's game against the Nets.",
+    "short": "Murphy (knee) is listed as doubtful for Friday's game against the Grizzlies.",
     "relevant": true
   },
-  "5061589": {
-    "name": "Yves Missi",
+  "4683634": {
+    "name": "Bennedict Mathurin",
     "team": "NO",
-    "status": "Out",
-    "short": "Missi (knee) is out for Friday's game against Minnesota.",
+    "status": "Day-To-Day",
+    "short": "Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb sprain.",
     "relevant": false
   },
   "4900671": {
