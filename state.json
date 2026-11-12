@@ -37,14 +37,14 @@
   "5279130": {
     "name": "Nolan Traore",
     "team": "BKN",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Traore (calf) has been ruled out for Wednesday's game against the Pelicans, Ian Begley of SportsNet New York reports.",
     "relevant": false
   },
   "5101761": {
     "name": "Mikel Brown Jr.",
     "team": "BKN",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Sharif Phillips-Keaton of USA Today reports.",
     "relevant": false
   },
@@ -342,19 +342,19 @@
     "short": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
     "relevant": false
   },
+  "3133628": {
+    "name": "Myles Turner",
+    "team": "MIL",
+    "status": "Day-To-Day",
+    "short": "Turner has been ruled out for Wednesday's game against the Lakers due to rest.",
+    "relevant": true
+  },
   "4591725": {
     "name": "Ryan Rollins",
     "team": "MIL",
     "status": "Day-To-Day",
     "short": "Rollins (head) exited to the locker room in the fourth quarter of Wednesday's 123-112 loss to the Lakers and did not return, finishing with eight points (3-10 FG, 2-6 3Pt), seven rebounds, four assists and one steal across 24 minutes.",
     "relevant": null
-  },
-  "3133628": {
-    "name": "Myles Turner",
-    "team": "MIL",
-    "status": "Out",
-    "short": "Turner has been ruled out for Wednesday's game against the Lakers due to rest.",
-    "relevant": true
   },
   "4594268": {
     "name": "Anthony Edwards",
@@ -443,14 +443,14 @@
   "4702382": {
     "name": "Tristan da Silva",
     "team": "ORL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Da Silva (calf) is listed as out for Wednesday's game versus the Jazz.",
     "relevant": null
   },
   "4278572": {
     "name": "Jamal Cain",
     "team": "ORL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Cain (shoulder) is out for Wednesday's game in Utah.",
     "relevant": null
   },
