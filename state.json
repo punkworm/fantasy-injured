@@ -87,7 +87,7 @@
     "name": "Caleb Wilson",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Wilson exited to the locker room in the third quarter of Wednesday's game against San Antonio due to an apparent hand injury, K.C. Johnson of Chicago Sports Network reports.",
+    "short": "Wilson won't return to Wednesday's game against the Spurs due to a right hand injury. He'll finish with 15 points (5-7 FG, 2-2 3Pt, 3-3 FT), five rebounds and one steal in 15 minutes.",
     "relevant": null
   },
   "4848625": {
@@ -173,6 +173,13 @@
     "status": "Out",
     "short": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
     "relevant": true
+  },
+  "3975": {
+    "name": "Stephen Curry",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "short": "Curry (hip/oblique) exited Wednesday's game against the Rockets, Anthony Slater of ESPN.com reports.",
+    "relevant": null
   },
   "3134903": {
     "name": "Gary Payton II",
@@ -573,19 +580,19 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
+  "4431684": {
+    "name": "Trayce Jackson-Davis",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "short": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
+    "relevant": false
+  },
   "6450": {
     "name": "Kawhi Leonard",
     "team": "TOR",
     "status": "Out",
     "short": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports.",
     "relevant": true
-  },
-  "4431684": {
-    "name": "Trayce Jackson-Davis",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
-    "relevant": false
   },
   "4433134": {
     "name": "Scottie Barnes",
