@@ -489,6 +489,13 @@
     "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
     "relevant": null
   },
+  "1966": {
+    "name": "LeBron James",
+    "team": "PHI",
+    "status": "Out",
+    "short": "James (back) is out for Thursday's game against Toronto.",
+    "relevant": true
+  },
   "4870562": {
     "name": "Dominick Barlow",
     "team": "PHI",
@@ -508,13 +515,6 @@
     "team": "PHI",
     "status": "Day-To-Day",
     "short": "Embiid (foot) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin of USA Today reports.",
-    "relevant": null
-  },
-  "1966": {
-    "name": "LeBron James",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "James (back) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin of USA Today reports.",
     "relevant": null
   },
   "4871141": {
@@ -604,7 +604,7 @@
   "4431684": {
     "name": "Trayce Jackson-Davis",
     "team": "TOR",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
     "relevant": false
   },
