@@ -86,9 +86,9 @@
   "4848625": {
     "name": "Dailyn Swain",
     "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Swain (back) has been downgraded to questionable for Wednesday's game against the Spurs.",
-    "relevant": null
+    "status": "Out",
+    "short": "Swain (back) is out for Wednesday's game against the Spurs.",
+    "relevant": false
   },
   "2595516": {
     "name": "Norman Powell",
@@ -110,13 +110,6 @@
     "status": "Day-To-Day",
     "short": "Wilson has been downgraded to questionable for Wednesday's game against the Spurs due to right hip soreness.",
     "relevant": null
-  },
-  "4066650": {
-    "name": "Zach Collins",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Collins (illness) is questionable for Wednesday's game against the Spurs.",
-    "relevant": false
   },
   "4066757": {
     "name": "Sam Merrill",
