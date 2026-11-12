@@ -342,19 +342,19 @@
     "short": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
     "relevant": false
   },
+  "3133628": {
+    "name": "Myles Turner",
+    "team": "MIL",
+    "status": "Day-To-Day",
+    "short": "Turner has been ruled out for Wednesday's game against the Lakers due to rest.",
+    "relevant": true
+  },
   "4591725": {
     "name": "Ryan Rollins",
     "team": "MIL",
     "status": "Day-To-Day",
     "short": "Rollins (head) exited to the locker room in the fourth quarter of Wednesday's 123-112 loss to the Lakers and did not return, finishing with eight points (3-10 FG, 2-6 3Pt), seven rebounds, four assists and one steal across 24 minutes.",
     "relevant": null
-  },
-  "3133628": {
-    "name": "Myles Turner",
-    "team": "MIL",
-    "status": "Out",
-    "short": "Turner has been ruled out for Wednesday's game against the Lakers due to rest.",
-    "relevant": true
   },
   "4594268": {
     "name": "Anthony Edwards",
@@ -398,19 +398,19 @@
     "short": "Missi (knee) is out for Friday's game against Minnesota.",
     "relevant": false
   },
+  "4900671": {
+    "name": "Ajay Mitchell",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Mitchell has been ruled out for Wednesday's game against the Trail Blazers due to a left ankle sprain.",
+    "relevant": true
+  },
   "4432823": {
     "name": "Jaylin Williams",
     "team": "OKC",
     "status": "Out",
     "short": "Williams (back) has been ruled out for Wednesday's game against Portland and remains out indefinitely.",
     "relevant": false
-  },
-  "4900671": {
-    "name": "Ajay Mitchell",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Mitchell has been ruled out for Wednesday's game against the Trail Blazers due to a left ankle sprain.",
-    "relevant": true
   },
   "5061603": {
     "name": "Thomas Sorber",
