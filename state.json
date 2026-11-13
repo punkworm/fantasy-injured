@@ -384,6 +384,20 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
+  "3907497": {
+    "name": "Dejounte Murray",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "short": "Murray registered six points (1-6 FG, 0-1 3Pt, 4-4 FT), three rebounds and three assists across 28 minutes during Sunday's 139-123 loss to the Clippers.",
+    "relevant": null
+  },
+  "4397688": {
+    "name": "Trey Murphy III",
+    "team": "NO",
+    "status": "Out",
+    "short": "Murphy (knee) is out for Friday's game against Memphis.",
+    "relevant": true
+  },
   "4576086": {
     "name": "Bryce McGowens",
     "team": "NO",
@@ -411,13 +425,6 @@
     "status": "Out",
     "short": "Missi (knee) is listed as doubtful for Friday's game against the Grizzlies.",
     "relevant": false
-  },
-  "4397688": {
-    "name": "Trey Murphy III",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Murphy (knee) is listed as doubtful for Friday's game against the Grizzlies.",
-    "relevant": true
   },
   "5061603": {
     "name": "Thomas Sorber",
