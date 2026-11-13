@@ -90,13 +90,6 @@
     "short": "Swain (back) is listed as questionable for Friday's game against Atlanta.",
     "relevant": false
   },
-  "2595516": {
-    "name": "Norman Powell",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Powell (shoulder) is questionable for Friday's game against the Hawks.",
-    "relevant": true
-  },
   "5095151": {
     "name": "Caleb Wilson",
     "team": "CHI",
@@ -352,8 +345,8 @@
   "6475": {
     "name": "Klay Thompson",
     "team": "MIA",
-    "status": "Day-To-Day",
-    "short": "Thompson (ankle) has been downgraded to questionable for Friday's game against Cleveland.",
+    "status": "Out",
+    "short": "Thompson (ankle) is out for Friday's game against the Cavaliers.",
     "relevant": null
   },
   "4601025": {
