@@ -380,9 +380,9 @@
   "3907497": {
     "name": "Dejounte Murray",
     "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Murray (ankle) requested a trade from the Pelicans on Friday, per Shams Charania of ESPN.",
-    "relevant": null
+    "status": "Out",
+    "short": "Murray (ankle) is out for Friday's game against Memphis.",
+    "relevant": true
   },
   "4576086": {
     "name": "Bryce McGowens",
