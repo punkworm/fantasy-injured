@@ -419,11 +419,18 @@
     "short": "Murphy (knee) is listed as doubtful for Friday's game against the Grizzlies.",
     "relevant": true
   },
+  "5061603": {
+    "name": "Thomas Sorber",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Sorber (knee) has been ruled out for Friday's game against the Clippers.",
+    "relevant": false
+  },
   "4900671": {
     "name": "Ajay Mitchell",
     "team": "OKC",
     "status": "Day-To-Day",
-    "short": "Mitchell has been ruled out for Wednesday's game against the Trail Blazers due to a left ankle sprain.",
+    "short": "Mitchell (ankle) is questionable for Friday's game against the Clippers.",
     "relevant": true
   },
   "4432823": {
@@ -431,13 +438,6 @@
     "team": "OKC",
     "status": "Out",
     "short": "Williams (back) has been ruled out for Wednesday's game against Portland and remains out indefinitely.",
-    "relevant": false
-  },
-  "5061603": {
-    "name": "Thomas Sorber",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Sorber (knee) is out for Wednesday's game against the Cavaliers.",
     "relevant": false
   },
   "4683692": {
