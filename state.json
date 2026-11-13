@@ -1,4 +1,11 @@
 {
+  "4712863": {
+    "name": "Mouhamed Gueye",
+    "team": "ATL",
+    "status": "Out",
+    "short": "Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports.",
+    "relevant": false
+  },
   "4585618": {
     "name": "Keshon Gilbert",
     "team": "ATL",
@@ -19,13 +26,6 @@
     "status": "Day-To-Day",
     "short": "Flemings (back) is questionable for Friday's game against the Bulls.",
     "relevant": null
-  },
-  "4712863": {
-    "name": "Mouhamed Gueye",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports.",
-    "relevant": false
   },
   "5105571": {
     "name": "Henri Veesaar",
@@ -515,6 +515,13 @@
     "team": "ORL",
     "status": "Out",
     "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
+    "relevant": null
+  },
+  "3059318": {
+    "name": "Joel Embiid",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Embiid (foot) will play Thursday against the Raptors, Austin Krell of OnPattison.com reports.",
     "relevant": null
   },
   "1966": {
