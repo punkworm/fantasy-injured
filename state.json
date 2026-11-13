@@ -353,21 +353,14 @@
     "name": "Klay Thompson",
     "team": "MIA",
     "status": "Day-To-Day",
-    "short": "Thompson (ankle) is listed as questionable for Friday's game against the Cavaliers.",
-    "relevant": null
-  },
-  "3032977": {
-    "name": "Giannis Antetokounmpo",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "short": "Antetokounmpo (wrist) is probable for Friday's game against Cleveland.",
+    "short": "Thompson (ankle) is listed as probable for Friday's game against the Cavaliers.",
     "relevant": null
   },
   "4601025": {
     "name": "Pelle Larsson",
     "team": "MIA",
     "status": "Day-To-Day",
-    "short": "Larsson (illness) is listed as questionable for Friday's game against Cleveland.",
+    "short": "Larsson (illness) is listed as doubtful for Friday's game against Cleveland.",
     "relevant": null
   },
   "4594268": {
@@ -384,11 +377,32 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
+  "4576086": {
+    "name": "Bryce McGowens",
+    "team": "NO",
+    "status": "Out",
+    "short": "McGowens (elbow) is listed as out for Friday's game against the Grizzlies.",
+    "relevant": false
+  },
+  "5061589": {
+    "name": "Yves Missi",
+    "team": "NO",
+    "status": "Out",
+    "short": "Missi (knee) is out for Friday's game against the Grizzlies.",
+    "relevant": false
+  },
+  "4683634": {
+    "name": "Bennedict Mathurin",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "short": "Mathurin (thumb) is listed as questionable for Friday's game against Memphis.",
+    "relevant": false
+  },
   "3907497": {
     "name": "Dejounte Murray",
     "team": "NO",
     "status": "Day-To-Day",
-    "short": "Murray registered six points (1-6 FG, 0-1 3Pt, 4-4 FT), three rebounds and three assists across 28 minutes during Sunday's 139-123 loss to the Clippers.",
+    "short": "Murray (ankle) is doubtful for Friday's game against Memphis.",
     "relevant": null
   },
   "4397688": {
@@ -398,32 +412,11 @@
     "short": "Murphy (knee) is out for Friday's game against Memphis.",
     "relevant": true
   },
-  "4576086": {
-    "name": "Bryce McGowens",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "short": "McGowens (elbow) is listed as doubtful for Friday's game against the Grizzlies.",
-    "relevant": null
-  },
   "4431675": {
     "name": "Trendon Watford",
     "team": "NO",
     "status": "Out",
     "short": "Watford (ankle) is listed as out for Friday's game against the Grizzlies.",
-    "relevant": false
-  },
-  "4683634": {
-    "name": "Bennedict Mathurin",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Mathurin (thumb) is listed as doubtful for Friday's game against Memphis.",
-    "relevant": false
-  },
-  "5061589": {
-    "name": "Yves Missi",
-    "team": "NO",
-    "status": "Out",
-    "short": "Missi (knee) is listed as doubtful for Friday's game against the Grizzlies.",
     "relevant": false
   },
   "5061603": {
