@@ -426,6 +426,13 @@
     "short": "Antetokounmpo (wrist) is listed as probable for Saturday's game against Detroit.",
     "relevant": null
   },
+  "4997526": {
+    "name": "Ousmane Dieng",
+    "team": "MIL",
+    "status": "Out",
+    "short": "Dieng finished with zero points (0-1 FG, 0-1 3Pt) over five minutes during Friday's 107-99 loss to Orlando.",
+    "relevant": false
+  },
   "4594268": {
     "name": "Anthony Edwards",
     "team": "MIN",
