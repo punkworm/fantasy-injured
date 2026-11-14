@@ -374,14 +374,21 @@
     "name": "Pelle Larsson",
     "team": "MIA",
     "status": "Day-To-Day",
-    "short": "Larsson (illness) is out for Friday's game against Cleveland.",
+    "short": "Larsson (illness) is listed as doubtful for Saturday's game against Detroit.",
     "relevant": false
   },
   "6475": {
     "name": "Klay Thompson",
     "team": "MIA",
     "status": "Day-To-Day",
-    "short": "Thompson (ankle) is out for Friday's game against the Cavaliers.",
+    "short": "Thompson (ankle) is listed as probable for Saturday's game against the Pistons.",
+    "relevant": null
+  },
+  "3032977": {
+    "name": "Giannis Antetokounmpo",
+    "team": "MIA",
+    "status": "Day-To-Day",
+    "short": "Antetokounmpo (wrist) is listed as probable for Saturday's game against Detroit.",
     "relevant": null
   },
   "4594268": {
@@ -397,6 +404,20 @@
     "status": "Out",
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
+  },
+  "5061589": {
+    "name": "Yves Missi",
+    "team": "NO",
+    "status": "Out",
+    "short": "Missi (knee) has been upgraded to probable for Saturday's game versus the Nuggets.",
+    "relevant": false
+  },
+  "4431675": {
+    "name": "Trendon Watford",
+    "team": "NO",
+    "status": "Out",
+    "short": "Watford (ankle) has been ruled out for Saturday's game against Denver.",
+    "relevant": false
   },
   "4576086": {
     "name": "Bryce McGowens",
@@ -418,20 +439,6 @@
     "status": "Out",
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
-  },
-  "5061589": {
-    "name": "Yves Missi",
-    "team": "NO",
-    "status": "Out",
-    "short": "Missi (knee) is out for Friday's game against the Grizzlies.",
-    "relevant": false
-  },
-  "4431675": {
-    "name": "Trendon Watford",
-    "team": "NO",
-    "status": "Out",
-    "short": "Watford (ankle) is listed as out for Friday's game against the Grizzlies.",
-    "relevant": false
   },
   "4900671": {
     "name": "Ajay Mitchell",
