@@ -66,15 +66,8 @@
     "name": "Jalen Smith",
     "team": "CHI",
     "status": "Out",
-    "short": "Smith (finger) has been ruled out for Saturday's game against Minnesota, K.C. Johnson of Chicago Sports Network reports.",
+    "short": "Smith (finger) is listed as questionable for Saturday's game at Minnesota.",
     "relevant": null
-  },
-  "4278067": {
-    "name": "Nic Claxton",
-    "team": "CHI",
-    "status": "Out",
-    "short": "Claxton (hamstring) is out for Saturday's game against the Timberwolves, K.C. Johnson of Chicago Sports Network reports.",
-    "relevant": true
   },
   "5105555": {
     "name": "Tobe Awaka",
@@ -82,6 +75,20 @@
     "status": "Out",
     "short": "Awaka has been ruled out for Saturday's game against the Timberwolves.",
     "relevant": false
+  },
+  "4278067": {
+    "name": "Nic Claxton",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Claxton (hamstring) is listed as questionable for Saturday's game against the Timberwolves.",
+    "relevant": true
+  },
+  "2595516": {
+    "name": "Norman Powell",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Powell (back) is listed as questionable for Saturday's game against Minnesota.",
+    "relevant": null
   },
   "5095151": {
     "name": "Caleb Wilson",
