@@ -3,7 +3,7 @@
     "name": "Kingston Flemings",
     "team": "ATL",
     "status": "Out",
-    "short": "Flemings (back tightness) will not return to Friday's game against the Bulls.",
+    "short": "Flemings (back) has been ruled out for Sunday's game against the Bucks.",
     "relevant": false
   },
   "4712863": {
@@ -32,6 +32,13 @@
     "team": "ATL",
     "status": "Out",
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
+    "relevant": null
+  },
+  "4278104": {
+    "name": "Michael Porter Jr.",
+    "team": "BKN",
+    "status": "Day-To-Day",
+    "short": "Porter delivered 22 points (7-14 FG, 4-10 3Pt, 4-4 FT), six rebounds, three assists and a steal across 28 minutes in Wednesday's 145-111 win over the Pelicans.",
     "relevant": null
   },
   "5101761": {
@@ -439,6 +446,13 @@
     "status": "Out",
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
+  },
+  "4683634": {
+    "name": "Bennedict Mathurin",
+    "team": "NO",
+    "status": "Out",
+    "short": "Mathurin is out for Saturday's game against the Nuggets due to left plantar fasciitis.",
+    "relevant": false
   },
   "4431675": {
     "name": "Trendon Watford",
