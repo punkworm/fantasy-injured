@@ -104,6 +104,27 @@
     "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "4576087": {
+    "name": "Peyton Watson",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Watson (hamstring) has been ruled out for Saturday's game against the Mavericks.",
+    "relevant": true
+  },
+  "3992": {
+    "name": "James Harden",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Harden (calf) has been ruled out for Saturday's game against Dallas.",
+    "relevant": null
+  },
+  "3908809": {
+    "name": "Donovan Mitchell",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Mitchell (knee) has been ruled out for Saturday's game against the Mavericks.",
+    "relevant": true
+  },
   "4066328": {
     "name": "Jarrett Allen",
     "team": "CLE",
@@ -111,33 +132,12 @@
     "short": "Allen (knee) has been ruled out for Saturday's game against the Mavericks.",
     "relevant": true
   },
-  "4576087": {
-    "name": "Peyton Watson",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Watson (hamstring) is listed as questionable for Saturday's game against the Mavericks.",
-    "relevant": null
-  },
   "4432158": {
     "name": "Evan Mobley",
     "team": "CLE",
     "status": "Out",
     "short": "Mobley (toe) has been ruled out for Saturday's meeting with Dallas.",
     "relevant": true
-  },
-  "3908809": {
-    "name": "Donovan Mitchell",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Mitchell (knee) is listed as questionable for Saturday's game against the Mavericks.",
-    "relevant": null
-  },
-  "3992": {
-    "name": "James Harden",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Harden (left lower leg/calf tightness) is listed as questionable for Saturday's game against the Mavericks.",
-    "relevant": null
   },
   "4066757": {
     "name": "Sam Merrill",
