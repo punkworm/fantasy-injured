@@ -394,9 +394,16 @@
   "4576086": {
     "name": "Bryce McGowens",
     "team": "NO",
-    "status": "Day-To-Day",
-    "short": "McGowens (elbow) is listed as out for Friday's game against the Grizzlies.",
+    "status": "Out",
+    "short": "McGowens (elbow) has been ruled out for Saturday's game against the Nuggets.",
     "relevant": false
+  },
+  "4397688": {
+    "name": "Trey Murphy III",
+    "team": "NO",
+    "status": "Out",
+    "short": "Murphy (knees) has been ruled out for Saturday's game against the Nuggets.",
+    "relevant": true
   },
   "3907497": {
     "name": "Dejounte Murray",
@@ -411,13 +418,6 @@
     "status": "Out",
     "short": "Missi (knee) is out for Friday's game against the Grizzlies.",
     "relevant": false
-  },
-  "4397688": {
-    "name": "Trey Murphy III",
-    "team": "NO",
-    "status": "Out",
-    "short": "Murphy (knee) is out for Friday's game against Memphis.",
-    "relevant": true
   },
   "4431675": {
     "name": "Trendon Watford",
