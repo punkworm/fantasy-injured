@@ -76,26 +76,26 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
-  "4397189": {
-    "name": "Jalen Smith",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Smith (hand) exited Friday's 125-117 win over the Hawks in overtime and did not return, finishing with 15 points (6-15 FG, 1-6 3Pt, 2-2 FT), 12 rebounds, three assists and three steals across 32 minutes.",
-    "relevant": null
-  },
   "4848625": {
     "name": "Dailyn Swain",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Swain (back) is out for Friday's game against the Hawks.",
     "relevant": false
   },
   "5105555": {
     "name": "Tobe Awaka",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Awaka (back) has been ruled out for Friday's game against the Hawks.",
     "relevant": false
+  },
+  "4397189": {
+    "name": "Jalen Smith",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Smith (hand) exited Friday's 125-117 win over the Hawks in overtime and did not return, finishing with 15 points (6-15 FG, 1-6 3Pt, 2-2 FT), 12 rebounds, three assists and three steals across 32 minutes.",
+    "relevant": null
   },
   "5095151": {
     "name": "Caleb Wilson",
@@ -331,14 +331,14 @@
   "4593016": {
     "name": "Quinten Post",
     "team": "MEM",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Post (concussion) has been ruled out for Friday's game against New Orleans.",
     "relevant": false
   },
   "4600663": {
     "name": "Zach Edey",
     "team": "MEM",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Edey won't play in Friday's game against the Pelicans due to left ankle injury management.",
     "relevant": true
   },
@@ -356,19 +356,19 @@
     "short": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
     "relevant": false
   },
-  "6475": {
-    "name": "Klay Thompson",
-    "team": "MIA",
-    "status": "Out",
-    "short": "Thompson (ankle) is out for Friday's game against the Cavaliers.",
-    "relevant": null
-  },
   "4601025": {
     "name": "Pelle Larsson",
     "team": "MIA",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Larsson (illness) is out for Friday's game against Cleveland.",
     "relevant": false
+  },
+  "6475": {
+    "name": "Klay Thompson",
+    "team": "MIA",
+    "status": "Day-To-Day",
+    "short": "Thompson (ankle) is out for Friday's game against the Cavaliers.",
+    "relevant": null
   },
   "4594268": {
     "name": "Anthony Edwards",
