@@ -104,6 +104,13 @@
     "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "4066328": {
+    "name": "Jarrett Allen",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Allen (knee) has been ruled out for Saturday's game against the Mavericks.",
+    "relevant": true
+  },
   "4576087": {
     "name": "Peyton Watson",
     "team": "CLE",
@@ -117,13 +124,6 @@
     "status": "Out",
     "short": "Mobley (toe) has been ruled out for Saturday's meeting with Dallas.",
     "relevant": true
-  },
-  "4066328": {
-    "name": "Jarrett Allen",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Allen (knee) is listed as questionable for Saturday's game against Dallas.",
-    "relevant": null
   },
   "3908809": {
     "name": "Donovan Mitchell",
@@ -425,6 +425,13 @@
     "status": "Day-To-Day",
     "short": "Antetokounmpo (wrist) is listed as probable for Saturday's game against Detroit.",
     "relevant": null
+  },
+  "4997526": {
+    "name": "Ousmane Dieng",
+    "team": "MIL",
+    "status": "Out",
+    "short": "Dieng (finger) has been ruled out for Sunday's game against the Hawks.",
+    "relevant": false
   },
   "4594268": {
     "name": "Anthony Edwards",
