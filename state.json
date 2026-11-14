@@ -258,6 +258,13 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "3102529": {
+    "name": "Clint Capela",
+    "team": "HOU",
+    "status": "Out",
+    "short": "Capela (ankle) has been ruled out for Sunday's game at Washington.",
+    "relevant": false
+  },
   "2991235": {
     "name": "Steven Adams",
     "team": "HOU",
@@ -278,13 +285,6 @@
     "status": "Suspension",
     "short": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
     "relevant": null
-  },
-  "3102529": {
-    "name": "Clint Capela",
-    "team": "HOU",
-    "status": "Out",
-    "short": "Head coach Ime Udoka stated Monday that Capela (ankle) could be cleared to return either Nov. 15 in Washington or Nov. 16 in Miami, Lachard Binkley of SI.com reports.",
-    "relevant": false
   },
   "2530530": {
     "name": "T.J. McConnell",
@@ -664,6 +664,13 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
+  "4432586": {
+    "name": "Nate Bittle",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports.",
+    "relevant": false
+  },
   "4433134": {
     "name": "Scottie Barnes",
     "team": "TOR",
@@ -684,13 +691,6 @@
     "status": "Out",
     "short": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports.",
     "relevant": true
-  },
-  "4432586": {
-    "name": "Nate Bittle",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Bittle (foot) is listed as out for Monday's game against Memphis.",
-    "relevant": false
   },
   "4397077": {
     "name": "Jaxson Hayes",
