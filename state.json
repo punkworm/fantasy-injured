@@ -363,25 +363,32 @@
     "short": "Sexton did not return to Wednesday's 123-112 win over the Bucks and required stitches to close a cut on his forehead, Thuc Nhi Nguyen of the Los Angeles Times reports.",
     "relevant": null
   },
-  "4065733": {
-    "name": "Ty Jerome",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Jerome produced 22 points (9-18 FG, 1-5 3Pt, 3-3 FT), two rebounds and five assists over 32 minutes in Wednesday's 123-118 loss to the Nuggets.",
-    "relevant": true
-  },
   "4593016": {
     "name": "Quinten Post",
     "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Post (concussion) has been ruled out for Friday's game against New Orleans.",
+    "status": "Out",
+    "short": "Post (concussion) has been ruled out for Saturday's game against the Nets.",
     "relevant": false
+  },
+  "2991070": {
+    "name": "Jerami Grant",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "short": "Grant (head) is questionable for Saturday's game against the Nets.",
+    "relevant": null
   },
   "4600663": {
     "name": "Zach Edey",
     "team": "MEM",
     "status": "Day-To-Day",
-    "short": "Edey won't play in Friday's game against the Pelicans due to left ankle injury management.",
+    "short": "Edey (ankle) is listed as questionable for Saturday's game against Brooklyn.",
+    "relevant": true
+  },
+  "4065733": {
+    "name": "Ty Jerome",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Jerome (hip) has been ruled out for Saturday's game against the Nets.",
     "relevant": true
   },
   "4431785": {
