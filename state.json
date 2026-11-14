@@ -111,12 +111,40 @@
     "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "4576087": {
+    "name": "Peyton Watson",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Watson supplied seven points (2-12 FG, 2-5 3Pt, 1-2 FT), five rebounds, four assists and four blocks over 30 minutes in Wednesday's 115-107 win over the Knicks.",
+    "relevant": null
+  },
   "4432158": {
     "name": "Evan Mobley",
     "team": "CLE",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Mobley (toe) is out for Friday's game against the Heat.",
     "relevant": true
+  },
+  "4066328": {
+    "name": "Jarrett Allen",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Allen (knee) is listed as questionable for Saturday's game against Dallas.",
+    "relevant": null
+  },
+  "3908809": {
+    "name": "Donovan Mitchell",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Mitchell (knee) is listed as questionable for Saturday's game against the Mavericks.",
+    "relevant": null
+  },
+  "3992": {
+    "name": "James Harden",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Harden (left lower leg/calf tightness) is listed as questionable for Saturday's game against the Mavericks.",
+    "relevant": null
   },
   "4066757": {
     "name": "Sam Merrill",
