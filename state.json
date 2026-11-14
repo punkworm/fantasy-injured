@@ -398,19 +398,19 @@
     "short": "Watford (ankle) is listed as out for Friday's game against the Grizzlies.",
     "relevant": false
   },
+  "4900671": {
+    "name": "Ajay Mitchell",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Mitchell (ankle) is questionable for Friday's game against the Clippers.",
+    "relevant": true
+  },
   "5061603": {
     "name": "Thomas Sorber",
     "team": "OKC",
     "status": "Out",
     "short": "Sorber (knee) has been ruled out for Friday's game against the Clippers.",
     "relevant": false
-  },
-  "4900671": {
-    "name": "Ajay Mitchell",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "short": "Mitchell (ankle) is questionable for Friday's game against the Clippers.",
-    "relevant": true
   },
   "4432823": {
     "name": "Jaylin Williams",
