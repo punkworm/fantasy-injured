@@ -258,6 +258,20 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "2991235": {
+    "name": "Steven Adams",
+    "team": "HOU",
+    "status": "Out",
+    "short": "Adams (calf) has been upgraded to probable for Sunday's game against the Wizards.",
+    "relevant": false
+  },
+  "2991230": {
+    "name": "Fred VanVleet",
+    "team": "HOU",
+    "status": "Out",
+    "short": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.",
+    "relevant": null
+  },
   "2990992": {
     "name": "Marcus Smart",
     "team": "HOU",
@@ -270,13 +284,6 @@
     "team": "HOU",
     "status": "Out",
     "short": "Head coach Ime Udoka stated Monday that Capela (ankle) could be cleared to return either Nov. 15 in Washington or Nov. 16 in Miami, Lachard Binkley of SI.com reports.",
-    "relevant": false
-  },
-  "2991235": {
-    "name": "Steven Adams",
-    "team": "HOU",
-    "status": "Out",
-    "short": "Head coach Ime Udoka said Monday that Adams could return as soon as Sunday's game at Washington, Lachard Binkley of SI.com reports.",
     "relevant": false
   },
   "2530530": {
@@ -670,13 +677,6 @@
     "status": "Day-To-Day",
     "short": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",
     "relevant": null
-  },
-  "4431684": {
-    "name": "Trayce Jackson-Davis",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Jackson-Davis is out for Thursday's game against the 76ers due to an illness.",
-    "relevant": false
   },
   "6450": {
     "name": "Kawhi Leonard",
