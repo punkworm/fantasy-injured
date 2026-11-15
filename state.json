@@ -360,7 +360,7 @@
     "name": "Pelle Larsson",
     "team": "MIA",
     "status": "Day-To-Day",
-    "short": "Larsson (illness) has been ruled out for Saturday's game against the Pistons.",
+    "short": "Larsson (illness) is questionable to play in Monday's game against the Rockets.",
     "relevant": false
   },
   "4997526": {
@@ -398,6 +398,13 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
+  "4431675": {
+    "name": "Trendon Watford",
+    "team": "NO",
+    "status": "Out",
+    "short": "Watford (ankle) has been ruled out for Monday's game against Golden State.",
+    "relevant": false
+  },
   "4576086": {
     "name": "Bryce McGowens",
     "team": "NO",
@@ -410,13 +417,6 @@
     "team": "NO",
     "status": "Out",
     "short": "Mathurin is out for Saturday's game against the Nuggets due to left plantar fasciitis.",
-    "relevant": false
-  },
-  "4431675": {
-    "name": "Trendon Watford",
-    "team": "NO",
-    "status": "Out",
-    "short": "Watford (ankle) has been ruled out for Saturday's game against Denver.",
     "relevant": false
   },
   "4397688": {
