@@ -335,33 +335,40 @@
     "short": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
     "relevant": true
   },
-  "4065733": {
-    "name": "Ty Jerome",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Jerome (hip) has been ruled out for Saturday's game against the Nets.",
-    "relevant": true
-  },
   "5105550": {
     "name": "GG Jackson",
     "team": "MEM",
     "status": "Out",
-    "short": "According to Grizzlies head coach Tuomas Iisalo, Jackson suffered a \"relatively serious\" foot injury in Saturday's 129-110 win over Brooklyn, Michael Wallace of the Grizzlies' official site reports.",
+    "short": "Jackson (foot) is out for Monday's game against Washington.",
     "relevant": false
   },
-  "4600663": {
-    "name": "Zach Edey",
+  "4432810": {
+    "name": "Isaiah Stewart",
     "team": "MEM",
     "status": "Day-To-Day",
-    "short": "Edey (ankle) is listed as out for Saturday's game against the Nets.",
+    "short": "Stewart is questionable for Monday's game against the Wizards due to an illness.",
+    "relevant": null
+  },
+  "4065733": {
+    "name": "Ty Jerome",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Jerome (hip) has been ruled out for Monday's game against the Wizards.",
     "relevant": true
   },
   "4593016": {
     "name": "Quinten Post",
     "team": "MEM",
     "status": "Out",
-    "short": "Post (concussion) has been ruled out for Saturday's game against the Nets.",
+    "short": "Post (concussion) is questionable for Monday's game against the Wizards.",
     "relevant": false
+  },
+  "4600663": {
+    "name": "Zach Edey",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "short": "Edey (ankle) is questionable for Monday's game against Washington.",
+    "relevant": true
   },
   "4431785": {
     "name": "Scotty Pippen Jr.",
