@@ -2,9 +2,9 @@
   "3146557": {
     "name": "Jock Landale",
     "team": "ATL",
-    "status": "Day-To-Day",
-    "short": "Landale (hip) is listed as questionable for Sunday's game against Milwakee.",
-    "relevant": null
+    "status": "Out",
+    "short": "Landale (hip) is out for Sunday's game against Bucks, Brad Rowland of the Locked On Podcast Network reports.",
+    "relevant": false
   },
   "5149077": {
     "name": "Kingston Flemings",
@@ -370,19 +370,19 @@
     "short": "Larsson (illness) is questionable to play in Monday's game against the Rockets.",
     "relevant": false
   },
+  "4591725": {
+    "name": "Ryan Rollins",
+    "team": "MIL",
+    "status": "Out",
+    "short": "Rollins (illness) is out for Sunday's game against the Hawks.",
+    "relevant": true
+  },
   "4997526": {
     "name": "Ousmane Dieng",
     "team": "MIL",
     "status": "Out",
     "short": "Dieng (finger) is listed as out for Sunday's game versus the Hawks.",
     "relevant": false
-  },
-  "4591725": {
-    "name": "Ryan Rollins",
-    "team": "MIL",
-    "status": "Day-To-Day",
-    "short": "Rollins (illness) is questionable to play in Sunday's game against the Hawks.",
-    "relevant": null
   },
   "4432247": {
     "name": "Jaylen Clark",
@@ -405,6 +405,13 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
+  "4576086": {
+    "name": "Bryce McGowens",
+    "team": "NO",
+    "status": "Out",
+    "short": "McGowens (elbow) has been ruled out for Monday's game against the Warriors.",
+    "relevant": false
+  },
   "4683634": {
     "name": "Bennedict Mathurin",
     "team": "NO",
@@ -424,13 +431,6 @@
     "team": "NO",
     "status": "Out",
     "short": "Watford (ankle) has been ruled out for Monday's game against Golden State.",
-    "relevant": false
-  },
-  "4576086": {
-    "name": "Bryce McGowens",
-    "team": "NO",
-    "status": "Out",
-    "short": "McGowens (elbow) has been ruled out for Saturday's game against the Nuggets.",
     "relevant": false
   },
   "3907497": {
