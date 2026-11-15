@@ -62,26 +62,19 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
+  "5105555": {
+    "name": "Tobe Awaka",
+    "team": "CHI",
+    "status": "Out",
+    "short": "Awaka has been ruled out for Saturday's game against the Timberwolves.",
+    "relevant": false
+  },
   "4397189": {
     "name": "Jalen Smith",
     "team": "CHI",
     "status": "Day-To-Day",
     "short": "Smith (finger) has been ruled out for Saturday's game against Minnesota, K.C. Johnson of Chicago Sports Network reports.",
     "relevant": null
-  },
-  "4278067": {
-    "name": "Nic Claxton",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Claxton (hamstring) is out for Saturday's game against the Timberwolves, K.C. Johnson of Chicago Sports Network reports.",
-    "relevant": true
-  },
-  "5105555": {
-    "name": "Tobe Awaka",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Awaka has been ruled out for Saturday's game against the Timberwolves.",
-    "relevant": false
   },
   "5095151": {
     "name": "Caleb Wilson",
@@ -139,11 +132,18 @@
     "short": "Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",
     "relevant": false
   },
+  "4432582": {
+    "name": "Max Christie",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Christie (ankle) has been ruled out for Sunday's game against the Celtics.",
+    "relevant": false
+  },
   "6442": {
     "name": "Kyrie Irving",
     "team": "DAL",
     "status": "Out",
-    "short": "Irving (knee) is questionable to play in Sunday's game against the Celtics.",
+    "short": "Irving (knee) has been ruled out for Sunday's game against the Celtics.",
     "relevant": true
   },
   "4593125": {
@@ -152,13 +152,6 @@
     "status": "Day-To-Day",
     "short": "Aldama (ankle) is listed as questionable for Sunday's game in Boston.",
     "relevant": null
-  },
-  "4432582": {
-    "name": "Max Christie",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Christie (ankle) is doubtful to play Sunday's game against the Celtics.",
-    "relevant": false
   },
   "4278049": {
     "name": "Daniel Gafford",
