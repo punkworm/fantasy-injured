@@ -681,9 +681,9 @@
   "5238230": {
     "name": "Tre Johnson",
     "team": "WSH",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Johnson is listed as questionable for Sunday's game against the Rockets due to lower-back soreness.",
-    "relevant": null
+    "relevant": false
   },
   "4997537": {
     "name": "Tristan Vukcevic",
