@@ -629,13 +629,6 @@
     "short": "Raynaud (knee) has been ruled out for Sunday's game against the Thunder.",
     "relevant": false
   },
-  "4594327": {
-    "name": "Keegan Murray",
-    "team": "SAC",
-    "status": "Day-To-Day",
-    "short": "Murray (illness) is questionable for Sunday's game against the Thunder.",
-    "relevant": null
-  },
   "4431679": {
     "name": "Precious Achiuwa",
     "team": "SAC",
@@ -734,26 +727,12 @@
     "short": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
     "relevant": true
   },
-  "5160992": {
-    "name": "Alex Sarr",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "short": "Sarr (illness) is listed as questionable for Sunday's game against Houston.",
-    "relevant": null
-  },
   "5238230": {
     "name": "Tre Johnson",
     "team": "WSH",
     "status": "Day-To-Day",
     "short": "Johnson is listed as questionable for Sunday's game against the Rockets due to lower-back soreness.",
     "relevant": null
-  },
-  "4845374": {
-    "name": "Bub Carrington",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "short": "Carrington (chest) is listed as questionable for Sunday's game against Houston.",
-    "relevant": false
   },
   "4997537": {
     "name": "Tristan Vukcevic",
