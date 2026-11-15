@@ -41,13 +41,6 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
-  "4278104": {
-    "name": "Michael Porter Jr.",
-    "team": "BKN",
-    "status": "Day-To-Day",
-    "short": "Porter (personal) is out for Saturday's game against the Grizzlies, Brian Lewis of the New York Post reports.",
-    "relevant": true
-  },
   "5061575": {
     "name": "Kon Knueppel",
     "team": "CHA",
@@ -429,14 +422,14 @@
   "4576086": {
     "name": "Bryce McGowens",
     "team": "NO",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "McGowens (elbow) has been ruled out for Saturday's game against the Nuggets.",
     "relevant": false
   },
   "4683634": {
     "name": "Bennedict Mathurin",
     "team": "NO",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Mathurin is out for Saturday's game against the Nuggets due to left plantar fasciitis.",
     "relevant": false
   },
