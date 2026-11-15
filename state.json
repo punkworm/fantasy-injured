@@ -37,7 +37,7 @@
   "4278104": {
     "name": "Michael Porter Jr.",
     "team": "BKN",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Porter (personal) is out for Saturday's game against the Grizzlies, Brian Lewis of the New York Post reports.",
     "relevant": true
   },
@@ -408,7 +408,7 @@
   "4601025": {
     "name": "Pelle Larsson",
     "team": "MIA",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Larsson (illness) has been ruled out for Saturday's game against the Pistons.",
     "relevant": false
   },
@@ -440,10 +440,17 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
+  "4576086": {
+    "name": "Bryce McGowens",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "short": "McGowens (elbow) has been ruled out for Saturday's game against the Nuggets.",
+    "relevant": false
+  },
   "4683634": {
     "name": "Bennedict Mathurin",
     "team": "NO",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Mathurin is out for Saturday's game against the Nuggets due to left plantar fasciitis.",
     "relevant": false
   },
@@ -452,13 +459,6 @@
     "team": "NO",
     "status": "Out",
     "short": "Watford (ankle) has been ruled out for Saturday's game against Denver.",
-    "relevant": false
-  },
-  "4576086": {
-    "name": "Bryce McGowens",
-    "team": "NO",
-    "status": "Out",
-    "short": "McGowens (elbow) has been ruled out for Saturday's game against the Nuggets.",
     "relevant": false
   },
   "4397688": {
