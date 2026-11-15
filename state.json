@@ -632,9 +632,9 @@
   "4066259": {
     "name": "De'Aaron Fox",
     "team": "SA",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Fox (hip) is listed as questionable for Sunday's game against Utah.",
-    "relevant": null
+    "relevant": true
   },
   "6440": {
     "name": "Tobias Harris",
