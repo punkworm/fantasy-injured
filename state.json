@@ -111,6 +111,13 @@
     "short": "Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",
     "relevant": false
   },
+  "4593125": {
+    "name": "Santi Aldama",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Aldama (ankle) is out for Sunday's game against the Celtics.",
+    "relevant": false
+  },
   "4432582": {
     "name": "Max Christie",
     "team": "DAL",
@@ -123,20 +130,6 @@
     "team": "DAL",
     "status": "Out",
     "short": "Irving (knee) has been ruled out for Sunday's game against the Celtics.",
-    "relevant": true
-  },
-  "4593125": {
-    "name": "Santi Aldama",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Aldama (ankle) is listed as questionable for Sunday's game in Boston.",
-    "relevant": null
-  },
-  "4278049": {
-    "name": "Daniel Gafford",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Gafford (shoulder) is probable to play in Sunday's game against the Celtics.",
     "relevant": true
   },
   "4683688": {
