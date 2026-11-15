@@ -335,33 +335,26 @@
     "short": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
     "relevant": true
   },
-  "4600663": {
-    "name": "Zach Edey",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Edey (ankle) is listed as out for Saturday's game against the Nets.",
-    "relevant": true
-  },
   "4065733": {
     "name": "Ty Jerome",
     "team": "MEM",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Jerome (hip) has been ruled out for Saturday's game against the Nets.",
     "relevant": true
   },
   "5105550": {
     "name": "GG Jackson",
     "team": "MEM",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "According to Grizzlies head coach Tuomas Iisalo, Jackson suffered a \"relatively serious\" foot injury in Saturday's 129-110 win over Brooklyn, Michael Wallace of the Grizzlies' official site reports.",
     "relevant": false
   },
-  "2991070": {
-    "name": "Jerami Grant",
+  "4600663": {
+    "name": "Zach Edey",
     "team": "MEM",
     "status": "Day-To-Day",
-    "short": "Grant (head) is out for Saturday's game against the Nets.",
-    "relevant": null
+    "short": "Edey (ankle) is listed as out for Saturday's game against the Nets.",
+    "relevant": true
   },
   "4593016": {
     "name": "Quinten Post",
