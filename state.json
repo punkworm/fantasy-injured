@@ -58,21 +58,21 @@
   "4397189": {
     "name": "Jalen Smith",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Smith (finger) has been ruled out for Saturday's game against Minnesota, K.C. Johnson of Chicago Sports Network reports.",
     "relevant": null
   },
   "4278067": {
     "name": "Nic Claxton",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Claxton (hamstring) is out for Saturday's game against the Timberwolves, K.C. Johnson of Chicago Sports Network reports.",
     "relevant": true
   },
   "5105555": {
     "name": "Tobe Awaka",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Awaka has been ruled out for Saturday's game against the Timberwolves.",
     "relevant": false
   },
@@ -81,6 +81,13 @@
     "team": "CHI",
     "status": "Out",
     "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
+    "relevant": true
+  },
+  "4066328": {
+    "name": "Jarrett Allen",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Allen (knee) has been ruled out for Saturday's game against the Mavericks.",
     "relevant": true
   },
   "4576087": {
@@ -110,13 +117,6 @@
     "status": "Day-To-Day",
     "short": "Harden (calf) has been ruled out for Saturday's game against Dallas.",
     "relevant": null
-  },
-  "4066328": {
-    "name": "Jarrett Allen",
-    "team": "CLE",
-    "status": "Out",
-    "short": "Allen (knee) has been ruled out for Saturday's game against the Mavericks.",
-    "relevant": true
   },
   "4066757": {
     "name": "Sam Merrill",
@@ -356,24 +356,31 @@
     "short": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
     "relevant": true
   },
-  "5105550": {
-    "name": "GG Jackson",
-    "team": "MEM",
-    "status": "Out",
-    "short": "According to Grizzlies head coach Tuomas Iisalo, Jackson suffered a \"relatively serious\" foot injury in Saturday's 129-110 win over Brooklyn, Michael Wallace of the Grizzlies' official site reports.",
-    "relevant": false
-  },
   "4600663": {
     "name": "Zach Edey",
     "team": "MEM",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Edey (ankle) is listed as out for Saturday's game against the Nets.",
     "relevant": true
+  },
+  "4065733": {
+    "name": "Ty Jerome",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "short": "Jerome (hip) has been ruled out for Saturday's game against the Nets.",
+    "relevant": true
+  },
+  "5105550": {
+    "name": "GG Jackson",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "short": "According to Grizzlies head coach Tuomas Iisalo, Jackson suffered a \"relatively serious\" foot injury in Saturday's 129-110 win over Brooklyn, Michael Wallace of the Grizzlies' official site reports.",
+    "relevant": false
   },
   "2991070": {
     "name": "Jerami Grant",
     "team": "MEM",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Grant (head) is out for Saturday's game against the Nets.",
     "relevant": null
   },
@@ -383,13 +390,6 @@
     "status": "Out",
     "short": "Post (concussion) has been ruled out for Saturday's game against the Nets.",
     "relevant": false
-  },
-  "4065733": {
-    "name": "Ty Jerome",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Jerome (hip) has been ruled out for Saturday's game against the Nets.",
-    "relevant": true
   },
   "4431785": {
     "name": "Scotty Pippen Jr.",
@@ -440,17 +440,10 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
-  "4576086": {
-    "name": "Bryce McGowens",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "short": "McGowens (elbow) has been ruled out for Saturday's game against the Nuggets.",
-    "relevant": false
-  },
   "4683634": {
     "name": "Bennedict Mathurin",
     "team": "NO",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Mathurin is out for Saturday's game against the Nuggets due to left plantar fasciitis.",
     "relevant": false
   },
@@ -459,6 +452,13 @@
     "team": "NO",
     "status": "Out",
     "short": "Watford (ankle) has been ruled out for Saturday's game against Denver.",
+    "relevant": false
+  },
+  "4576086": {
+    "name": "Bryce McGowens",
+    "team": "NO",
+    "status": "Out",
+    "short": "McGowens (elbow) has been ruled out for Saturday's game against the Nuggets.",
     "relevant": false
   },
   "4397688": {
