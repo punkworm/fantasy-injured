@@ -188,6 +188,13 @@
     "short": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
     "relevant": true
   },
+  "4997536": {
+    "name": "Gui Santos",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "short": "Santos is questionable for Monday's game against New Orleans due to right ankle inflammation.",
+    "relevant": null
+  },
   "3975": {
     "name": "Stephen Curry",
     "team": "GS",
@@ -398,6 +405,20 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
+  "4683634": {
+    "name": "Bennedict Mathurin",
+    "team": "NO",
+    "status": "Out",
+    "short": "Mathurin (foot) has been ruled out for Monday's game against the Warriors.",
+    "relevant": false
+  },
+  "4397688": {
+    "name": "Trey Murphy III",
+    "team": "NO",
+    "status": "Out",
+    "short": "Murphy (knees) has been ruled out for Monday's game against Golden State.",
+    "relevant": true
+  },
   "4431675": {
     "name": "Trendon Watford",
     "team": "NO",
@@ -411,20 +432,6 @@
     "status": "Out",
     "short": "McGowens (elbow) has been ruled out for Saturday's game against the Nuggets.",
     "relevant": false
-  },
-  "4683634": {
-    "name": "Bennedict Mathurin",
-    "team": "NO",
-    "status": "Out",
-    "short": "Mathurin is out for Saturday's game against the Nuggets due to left plantar fasciitis.",
-    "relevant": false
-  },
-  "4397688": {
-    "name": "Trey Murphy III",
-    "team": "NO",
-    "status": "Out",
-    "short": "Murphy (knees) has been ruled out for Saturday's game against the Nuggets.",
-    "relevant": true
   },
   "3907497": {
     "name": "Dejounte Murray",
