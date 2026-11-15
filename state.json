@@ -321,6 +321,13 @@
     "short": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic.",
     "relevant": null
   },
+  "5060631": {
+    "name": "Adou Thiero",
+    "team": "LAL",
+    "status": "Day-To-Day",
+    "short": "Thiero (ankle) is questionable for Sunday's game against the Suns.",
+    "relevant": null
+  },
   "4277811": {
     "name": "Collin Sexton",
     "team": "LAL",
@@ -335,26 +342,26 @@
     "short": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
     "relevant": true
   },
+  "4600663": {
+    "name": "Zach Edey",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Edey (ankle) is listed as questionable for Saturday's game against Brooklyn.",
+    "relevant": true
+  },
+  "2991070": {
+    "name": "Jerami Grant",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Grant (head) is out for Saturday's game against the Nets.",
+    "relevant": null
+  },
   "4593016": {
     "name": "Quinten Post",
     "team": "MEM",
     "status": "Out",
     "short": "Post (concussion) has been ruled out for Saturday's game against the Nets.",
     "relevant": false
-  },
-  "2991070": {
-    "name": "Jerami Grant",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Grant (head) is questionable for Saturday's game against the Nets.",
-    "relevant": null
-  },
-  "4600663": {
-    "name": "Zach Edey",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Edey (ankle) is listed as questionable for Saturday's game against Brooklyn.",
-    "relevant": true
   },
   "4065733": {
     "name": "Ty Jerome",
