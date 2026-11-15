@@ -41,13 +41,6 @@
     "short": "Porter (personal) is out for Saturday's game against the Grizzlies, Brian Lewis of the New York Post reports.",
     "relevant": true
   },
-  "4433287": {
-    "name": "Brandon Miller",
-    "team": "CHA",
-    "status": "Day-To-Day",
-    "short": "Miller (groin) is listed as out for Thursday's game against Phoenix.",
-    "relevant": true
-  },
   "5061575": {
     "name": "Kon Knueppel",
     "team": "CHA",
@@ -587,26 +580,26 @@
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
     "relevant": null
   },
+  "4898371": {
+    "name": "Maxime Raynaud",
+    "team": "SAC",
+    "status": "Out",
+    "short": "Raynaud (knee) has been ruled out for Sunday's game against the Thunder.",
+    "relevant": false
+  },
+  "4594327": {
+    "name": "Keegan Murray",
+    "team": "SAC",
+    "status": "Day-To-Day",
+    "short": "Murray (illness) is questionable for Sunday's game against the Thunder.",
+    "relevant": null
+  },
   "4431679": {
     "name": "Precious Achiuwa",
     "team": "SAC",
     "status": "Day-To-Day",
     "short": "Achiuwa (ankle) is questionable for Sunday's game against the Thunder.",
     "relevant": null
-  },
-  "4594327": {
-    "name": "Keegan Murray",
-    "team": "SAC",
-    "status": "Day-To-Day",
-    "short": "Murray (illness) didn't participate in Saturday's practice, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
-    "relevant": null
-  },
-  "4898371": {
-    "name": "Maxime Raynaud",
-    "team": "SAC",
-    "status": "Out",
-    "short": "Raynaud (knee) has been ruled out for Tuesday's game against Orlando.",
-    "relevant": false
   },
   "3907387": {
     "name": "Ben Simmons",
