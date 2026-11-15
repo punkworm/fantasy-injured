@@ -447,6 +447,13 @@
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
   },
+  "4432823": {
+    "name": "Jaylin Williams",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Williams (back) has been ruled out for Sunday's game against the Kings.",
+    "relevant": false
+  },
   "4900671": {
     "name": "Ajay Mitchell",
     "team": "OKC",
@@ -459,13 +466,6 @@
     "team": "OKC",
     "status": "Out",
     "short": "Sorber (knee) has been ruled out for Friday's game against the Clippers.",
-    "relevant": false
-  },
-  "4432823": {
-    "name": "Jaylin Williams",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Williams (back) has been ruled out for Wednesday's game against Portland and remains out indefinitely.",
     "relevant": false
   },
   "4683692": {
