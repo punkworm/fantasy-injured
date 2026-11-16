@@ -69,25 +69,18 @@
     "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "4683747": {
+    "name": "Jaylon Tyson",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Tyson (ankle) has been ruled out for Monday's game against Chicago.",
+    "relevant": false
+  },
   "4432158": {
     "name": "Evan Mobley",
     "team": "CLE",
     "status": "Out",
     "short": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days.",
-    "relevant": true
-  },
-  "4683747": {
-    "name": "Jaylon Tyson",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Tyson (ankle) has been downgraded to doubtful for Monday's game against the Bulls.",
-    "relevant": null
-  },
-  "4576087": {
-    "name": "Peyton Watson",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Watson (abdominal soreness) is questionable to play in Monday's game against the Bulls.",
     "relevant": true
   },
   "4066757": {
