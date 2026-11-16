@@ -62,13 +62,6 @@
     "short": "Awaka (back) has been ruled out for Monday's game against the Cavaliers.",
     "relevant": false
   },
-  "4397189": {
-    "name": "Jalen Smith",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Smith (finger) is listed as questionable for Monday's game against Cleveland.",
-    "relevant": null
-  },
   "5095151": {
     "name": "Caleb Wilson",
     "team": "CHI",
@@ -163,9 +156,9 @@
   "3157465": {
     "name": "Duncan Robinson",
     "team": "DET",
-    "status": "Day-To-Day",
-    "short": "Robinson (thigh) did not return to Saturday's 137-117 win over the Pistons. He finished with 10 points (3-8 FG, 2-6 3Pt, 2-2 FT), one rebound and one assist across 17 minutes.",
-    "relevant": null
+    "status": "Out",
+    "short": "Robinson (quadriceps) has been ruled out for Tuesday's game against the Spurs.",
+    "relevant": true
   },
   "4395702": {
     "name": "Isaiah Joe",
