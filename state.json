@@ -216,6 +216,13 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "2991235": {
+    "name": "Steven Adams",
+    "team": "HOU",
+    "status": "Out",
+    "short": "Adams will start in Sunday's game against Washington but will be limited to 15 minutes, Varun Shankar of the Houston Chronicle reports.",
+    "relevant": false
+  },
   "5105553": {
     "name": "Julian Phillips",
     "team": "HOU",
@@ -307,6 +314,13 @@
     "short": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
     "relevant": true
   },
+  "4432810": {
+    "name": "Isaiah Stewart",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Stewart is questionable for Monday's game against the Wizards due to an illness.",
+    "relevant": null
+  },
   "4431785": {
     "name": "Scotty Pippen Jr.",
     "team": "MEM",
@@ -320,13 +334,6 @@
     "status": "Out",
     "short": "Jackson will undergo surgery to repair the broken fifth metatarsal in his left foot and is set to miss significant time.",
     "relevant": false
-  },
-  "4432810": {
-    "name": "Isaiah Stewart",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Stewart is questionable for Monday's game against the Wizards due to an illness.",
-    "relevant": null
   },
   "4065733": {
     "name": "Ty Jerome",
