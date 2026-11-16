@@ -37,9 +37,9 @@
   "4397424": {
     "name": "Neemias Queta",
     "team": "BOS",
-    "status": "Day-To-Day",
-    "short": "Queta (rest) is questionable for Monday's game against the Magic.",
-    "relevant": null
+    "status": "Out",
+    "short": "Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports.",
+    "relevant": true
   },
   "5061575": {
     "name": "Kon Knueppel",
@@ -76,6 +76,13 @@
     "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "4432158": {
+    "name": "Evan Mobley",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days.",
+    "relevant": true
+  },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
@@ -88,13 +95,6 @@
     "team": "CLE",
     "status": "Day-To-Day",
     "short": "Watson (abdominal soreness) is questionable to play in Monday's game against the Bulls.",
-    "relevant": true
-  },
-  "4432158": {
-    "name": "Evan Mobley",
-    "team": "CLE",
-    "status": "Out",
-    "short": "Mobley (toe) has been ruled out for Monday's game against Chicago.",
     "relevant": true
   },
   "4066757": {
