@@ -223,11 +223,25 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "4684740": {
+    "name": "Amen Thompson",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "short": "Thompson (knee) is listed as questionable for Monday's game against the Heat.",
+    "relevant": null
+  },
+  "3102529": {
+    "name": "Clint Capela",
+    "team": "HOU",
+    "status": "Out",
+    "short": "Capela (ankle) is out for Monday's game against the Heat.",
+    "relevant": false
+  },
   "2991235": {
     "name": "Steven Adams",
     "team": "HOU",
     "status": "Out",
-    "short": "Adams will start in Sunday's game against Washington but will be limited to 15 minutes, Varun Shankar of the Houston Chronicle reports.",
+    "short": "Adams (calf) is out for Monday's game against the Heat.",
     "relevant": false
   },
   "5105553": {
@@ -236,20 +250,6 @@
     "status": "Day-To-Day",
     "short": "Phillips (illness) is available for Wednesday's game against Dallas.",
     "relevant": null
-  },
-  "2991230": {
-    "name": "Fred VanVleet",
-    "team": "HOU",
-    "status": "Day-To-Day",
-    "short": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.",
-    "relevant": null
-  },
-  "3102529": {
-    "name": "Clint Capela",
-    "team": "HOU",
-    "status": "Out",
-    "short": "Capela (ankle) has been ruled out for Sunday's game at Washington.",
-    "relevant": false
   },
   "2990992": {
     "name": "Marcus Smart",
@@ -325,7 +325,7 @@
     "name": "Isaiah Stewart",
     "team": "MEM",
     "status": "Out",
-    "short": "Stewart is questionable for Monday's game against the Wizards due to an illness.",
+    "short": "Stewart is out for Monday's game against the Wizards due to an illness.",
     "relevant": null
   },
   "4431785": {
@@ -699,18 +699,18 @@
     "short": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
     "relevant": true
   },
+  "4997537": {
+    "name": "Tristan Vukcevic",
+    "team": "WSH",
+    "status": "Out",
+    "short": "Vukcevic (hip) has been ruled out for Monday's game against Memphis.",
+    "relevant": false
+  },
   "5238230": {
     "name": "Tre Johnson",
     "team": "WSH",
     "status": "Day-To-Day",
     "short": "Johnson (back) won't play in Sunday's game against Houston, Josh Robbins of The Athletic reports.",
-    "relevant": false
-  },
-  "4997537": {
-    "name": "Tristan Vukcevic",
-    "team": "WSH",
-    "status": "Out",
-    "short": "Vukcevic (hip) has been ruled out for Monday's game against Detroit.",
     "relevant": false
   },
   "4432187": {
