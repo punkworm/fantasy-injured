@@ -573,6 +573,13 @@
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
     "relevant": null
   },
+  "4065732": {
+    "name": "De'Andre Hunter",
+    "team": "SAC",
+    "status": "Out",
+    "short": "Hunter is questionable for Sunday's game against the Thunder due to left hip soreness.",
+    "relevant": false
+  },
   "3064440": {
     "name": "Zach LaVine",
     "team": "SAC",
@@ -585,13 +592,6 @@
     "team": "SAC",
     "status": "Out",
     "short": "Achiuwa (ankle) has been ruled out for Sunday's game against the Thunder, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
-    "relevant": null
-  },
-  "4065732": {
-    "name": "De'Andre Hunter",
-    "team": "SAC",
-    "status": "Day-To-Day",
-    "short": "Hunter is questionable for Sunday's game against the Thunder due to left hip soreness.",
     "relevant": null
   },
   "4898371": {
