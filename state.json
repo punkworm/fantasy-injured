@@ -226,9 +226,9 @@
   "4684740": {
     "name": "Amen Thompson",
     "team": "HOU",
-    "status": "Day-To-Day",
-    "short": "Thompson (knee) is listed as questionable for Monday's game against the Heat.",
-    "relevant": null
+    "status": "Out",
+    "short": "Thompson (knee) is out for Monday's game against the Heat.",
+    "relevant": true
   },
   "3102529": {
     "name": "Clint Capela",
