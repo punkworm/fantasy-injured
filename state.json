@@ -34,6 +34,13 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
+  "4397424": {
+    "name": "Neemias Queta",
+    "team": "BOS",
+    "status": "Day-To-Day",
+    "short": "Queta (rest) is questionable for Monday's game against the Magic.",
+    "relevant": null
+  },
   "5061575": {
     "name": "Kon Knueppel",
     "team": "CHA",
@@ -514,7 +521,14 @@
     "name": "Joel Embiid",
     "team": "PHI",
     "status": "Day-To-Day",
-    "short": "Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers.",
+    "short": "Embiid (foot) is questionable for Monday's game against the Nets.",
+    "relevant": true
+  },
+  "1966": {
+    "name": "LeBron James",
+    "team": "PHI",
+    "status": "Out",
+    "short": "James (back) has been ruled out for Monday's game against the Nets.",
     "relevant": true
   },
   "4870562": {
