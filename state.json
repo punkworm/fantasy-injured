@@ -2,14 +2,14 @@
   "3146557": {
     "name": "Jock Landale",
     "team": "ATL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Landale (hip) is out for Sunday's game against Bucks, Brad Rowland of the Locked On Podcast Network reports.",
     "relevant": false
   },
   "5149077": {
     "name": "Kingston Flemings",
     "team": "ATL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Flemings (back) has been ruled out for Sunday's game against the Bucks.",
     "relevant": false
   },
@@ -104,24 +104,24 @@
     "short": "Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",
     "relevant": false
   },
-  "4593125": {
-    "name": "Santi Aldama",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Aldama (ankle) is out for Sunday's game against the Celtics.",
-    "relevant": false
-  },
   "4432582": {
     "name": "Max Christie",
     "team": "DAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Christie (ankle) has been ruled out for Sunday's game against the Celtics.",
+    "relevant": false
+  },
+  "4593125": {
+    "name": "Santi Aldama",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Aldama (ankle) is out for Sunday's game against the Celtics.",
     "relevant": false
   },
   "6442": {
     "name": "Kyrie Irving",
     "team": "DAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Irving (knee) has been ruled out for Sunday's game against the Celtics.",
     "relevant": true
   },
@@ -223,19 +223,19 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "2991230": {
+    "name": "Fred VanVleet",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "short": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.",
+    "relevant": null
+  },
   "3102529": {
     "name": "Clint Capela",
     "team": "HOU",
     "status": "Out",
     "short": "Capela (ankle) has been ruled out for Sunday's game at Washington.",
     "relevant": false
-  },
-  "2991230": {
-    "name": "Fred VanVleet",
-    "team": "HOU",
-    "status": "Out",
-    "short": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.",
-    "relevant": null
   },
   "2990992": {
     "name": "Marcus Smart",
@@ -303,7 +303,7 @@
   "4066457": {
     "name": "Austin Reaves",
     "team": "LAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
     "relevant": true
   },
@@ -363,19 +363,19 @@
     "short": "Larsson (illness) is questionable to play in Monday's game against the Rockets.",
     "relevant": false
   },
-  "4591725": {
-    "name": "Ryan Rollins",
-    "team": "MIL",
-    "status": "Day-To-Day",
-    "short": "Rollins (illness) is out for Sunday's game against the Hawks.",
-    "relevant": true
-  },
   "4997526": {
     "name": "Ousmane Dieng",
     "team": "MIL",
     "status": "Out",
     "short": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports.",
     "relevant": false
+  },
+  "4591725": {
+    "name": "Ryan Rollins",
+    "team": "MIL",
+    "status": "Out",
+    "short": "Rollins (illness) is out for Sunday's game against the Hawks.",
+    "relevant": true
   },
   "4432247": {
     "name": "Jaylen Clark",
@@ -566,24 +566,24 @@
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
     "relevant": null
   },
-  "4065732": {
-    "name": "De'Andre Hunter",
-    "team": "SAC",
-    "status": "Out",
-    "short": "Hunter (hip) is out for Sunday's game against the Thunder.",
-    "relevant": false
-  },
   "3064440": {
     "name": "Zach LaVine",
     "team": "SAC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "LaVine is out for Sunday's game against Oklahoma City due to illness, Brandon Rahbar of DailyThunder.com reports.",
     "relevant": true
+  },
+  "4065732": {
+    "name": "De'Andre Hunter",
+    "team": "SAC",
+    "status": "Day-To-Day",
+    "short": "Hunter (hip) is out for Sunday's game against the Thunder.",
+    "relevant": false
   },
   "4431679": {
     "name": "Precious Achiuwa",
     "team": "SAC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Achiuwa (ankle) has been ruled out for Sunday's game against the Thunder, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
     "relevant": null
   },
@@ -604,7 +604,7 @@
   "4066259": {
     "name": "De'Aaron Fox",
     "team": "SA",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Fox (hip) has been ruled out for Sunday's game against the Jazz.",
     "relevant": true
   },
@@ -646,7 +646,7 @@
   "4397077": {
     "name": "Jaxson Hayes",
     "team": "UTAH",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Hayes (knee) has been ruled out for Sunday's game against the Spurs.",
     "relevant": false
   },
