@@ -366,15 +366,15 @@
   "4997528": {
     "name": "Nikola Jovic",
     "team": "MIA",
-    "status": "Day-To-Day",
-    "short": "Jovic (illness) has been downgraded to questionable for Monday's game against Houston.",
-    "relevant": null
+    "status": "Out",
+    "short": "Jovic (illness) is out for Monday's game against Houston.",
+    "relevant": false
   },
   "4601025": {
     "name": "Pelle Larsson",
     "team": "MIA",
-    "status": "Day-To-Day",
-    "short": "Larsson (illness) has been downgraded to doubtful for Monday's game against Houston.",
+    "status": "Out",
+    "short": "Larsson won't play in Monday's game against the Rockets due to an illness, Ira Winderman of the South Florida Sun Sentinel reports.",
     "relevant": false
   },
   "4591725": {
@@ -662,13 +662,6 @@
     "team": "UTAH",
     "status": "Day-To-Day",
     "short": "Hayes (knee) has been ruled out for Sunday's game against the Spurs.",
-    "relevant": false
-  },
-  "4433268": {
-    "name": "Trey Alexander",
-    "team": "UTAH",
-    "status": "Out",
-    "short": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
     "relevant": false
   },
   "4066336": {
