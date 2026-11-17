@@ -83,19 +83,19 @@
     "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "4683747": {
+    "name": "Jaylon Tyson",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Tyson (ankle) has been ruled out for Monday's game against Chicago.",
+    "relevant": false
+  },
   "4576087": {
     "name": "Peyton Watson",
     "team": "CLE",
     "status": "Day-To-Day",
     "short": "Watson left Monday's 126-115 win over Chicago due to a head injury and did not return.",
     "relevant": true
-  },
-  "4683747": {
-    "name": "Jaylon Tyson",
-    "team": "CLE",
-    "status": "Out",
-    "short": "Tyson (ankle) has been ruled out for Monday's game against Chicago.",
-    "relevant": false
   },
   "4432158": {
     "name": "Evan Mobley",
