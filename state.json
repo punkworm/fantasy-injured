@@ -384,13 +384,6 @@
     "short": "Adebayo (hip) is probable for Wednesday's game against the Bucks, per Ira Winderman of the South Florida Sun Sentinel.",
     "relevant": null
   },
-  "4591725": {
-    "name": "Ryan Rollins",
-    "team": "MIL",
-    "status": "Day-To-Day",
-    "short": "Rollins (illness) is out for Sunday's game against the Hawks.",
-    "relevant": true
-  },
   "4997526": {
     "name": "Ousmane Dieng",
     "team": "MIL",
@@ -534,9 +527,9 @@
   "3917376": {
     "name": "Jaylen Brown",
     "team": "PHI",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Brown (hamstring/head) will undergo further evaluation Tuesday and could receive an MRI, Kris Rhim of ESPN reports.",
-    "relevant": null
+    "relevant": true
   },
   "1966": {
     "name": "LeBron James",
