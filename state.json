@@ -86,9 +86,9 @@
   "4576087": {
     "name": "Peyton Watson",
     "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Watson is questionable to return to Monday's game against Chicago after taking a hard fall, Chris Fedor of The Cleveland Plain Dealer reports.",
-    "relevant": null
+    "status": "Out",
+    "short": "Watson left Monday's 126-115 win over Chicago due to a head injury and did not return.",
+    "relevant": true
   },
   "4683747": {
     "name": "Jaylon Tyson",
