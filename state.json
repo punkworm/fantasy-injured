@@ -331,15 +331,15 @@
   "4432810": {
     "name": "Isaiah Stewart",
     "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Stewart is out for Monday's game against the Wizards due to an illness.",
-    "relevant": null
+    "status": "Out",
+    "short": "Stewart (illness) won't play Wednesday against the Cavs.",
+    "relevant": false
   },
   "4065733": {
     "name": "Ty Jerome",
     "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Jerome (hip) has been ruled out for Monday's game against the Wizards.",
+    "status": "Out",
+    "short": "Jerome (hip) has been ruled out for Wednesday's game in Cleveland.",
     "relevant": true
   },
   "4431785": {
