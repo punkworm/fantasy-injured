@@ -1,4 +1,11 @@
 {
+  "2490149": {
+    "name": "CJ McCollum",
+    "team": "ATL",
+    "status": "Out",
+    "short": "McCollum (calf) will miss at least four weeks, per Brad Rowland of the Locked On Podcast Network.",
+    "relevant": null
+  },
   "5149077": {
     "name": "Kingston Flemings",
     "team": "ATL",
@@ -55,19 +62,19 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
+  "4431687": {
+    "name": "Patrick Williams",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Williams (finger) is listed as probable for Wednesday's game against Brooklyn.",
+    "relevant": null
+  },
   "5105555": {
     "name": "Tobe Awaka",
     "team": "CHI",
     "status": "Out",
     "short": "Awaka (back) has been ruled out for Wednesday's game against the Nets.",
     "relevant": false
-  },
-  "4431687": {
-    "name": "Patrick Williams",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Williams (finger) has been ruled out for the remainder of Monday's game against Cleveland.",
-    "relevant": null
   },
   "5095151": {
     "name": "Caleb Wilson",
@@ -230,19 +237,19 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "3102529": {
+    "name": "Clint Capela",
+    "team": "HOU",
+    "status": "Out",
+    "short": "Capela (ankle) has been ruled out for Wednesday's game against Indiana.",
+    "relevant": false
+  },
   "4684740": {
     "name": "Amen Thompson",
     "team": "HOU",
     "status": "Day-To-Day",
     "short": "Thompson (knee) is questionable for Wednesday's game against the Pacers.",
     "relevant": true
-  },
-  "3102529": {
-    "name": "Clint Capela",
-    "team": "HOU",
-    "status": "Out",
-    "short": "Capela (ankle) is out for Monday's game against the Heat.",
-    "relevant": false
   },
   "5105553": {
     "name": "Julian Phillips",
