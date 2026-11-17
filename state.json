@@ -279,19 +279,19 @@
     "short": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
     "relevant": false
   },
+  "5108024": {
+    "name": "Yanic Konan Niederhauser",
+    "team": "LAC",
+    "status": "Out",
+    "short": "Niederhauser (foot) has been ruled out for Tuesday's game against the Jazz.",
+    "relevant": false
+  },
   "3913176": {
     "name": "Brandon Ingram",
     "team": "LAC",
     "status": "Out",
     "short": "Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic.",
     "relevant": true
-  },
-  "5108024": {
-    "name": "Yanic Konan Niederhauser",
-    "team": "LAC",
-    "status": "Out",
-    "short": "Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports.",
-    "relevant": false
   },
   "6580": {
     "name": "Bradley Beal",
@@ -531,13 +531,6 @@
     "short": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",
     "relevant": null
   },
-  "4888725": {
-    "name": "Ryan Dunn",
-    "team": "PHX",
-    "status": "Day-To-Day",
-    "short": "Dunn (thumb) is listed as questionable for Monday's game against Denver.",
-    "relevant": null
-  },
   "4701232": {
     "name": "Mark Williams",
     "team": "PHX",
@@ -646,8 +639,8 @@
   "4397077": {
     "name": "Jaxson Hayes",
     "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Hayes (knee) has been ruled out for Sunday's game against the Spurs.",
+    "status": "Out",
+    "short": "Hayes (knee) has been ruled out for Tuesday's game against the Clippers.",
     "relevant": false
   },
   "4066336": {
