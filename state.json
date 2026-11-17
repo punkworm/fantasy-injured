@@ -83,18 +83,32 @@
     "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "5106268": {
+    "name": "Nae'Qwan Tomlin",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Tomlin (back) will remain on the inactive list for Wednesday's game against the Grizzlies.",
+    "relevant": false
+  },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
     "status": "Day-To-Day",
-    "short": "Tyson (ankle) has been ruled out for Monday's game against Chicago.",
+    "short": "Tyson (ankle) is listed as doubtful for Wednesday's game against the Grizzlies.",
+    "relevant": false
+  },
+  "4066757": {
+    "name": "Sam Merrill",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Merrill (elbow) is questionable to face the Grizzlies on Wednesday.",
     "relevant": false
   },
   "4576087": {
     "name": "Peyton Watson",
     "team": "CLE",
     "status": "Day-To-Day",
-    "short": "Watson left Monday's 126-115 win over Chicago due to a head injury and did not return.",
+    "short": "Watson (back) is listed as questionable for Wednesday's game against Memphis.",
     "relevant": true
   },
   "4432158": {
@@ -103,20 +117,6 @@
     "status": "Out",
     "short": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days.",
     "relevant": true
-  },
-  "4066757": {
-    "name": "Sam Merrill",
-    "team": "CLE",
-    "status": "Out",
-    "short": "Merrill (elbow) has been ruled out for Monday's game against the Bulls.",
-    "relevant": false
-  },
-  "5106268": {
-    "name": "Nae'Qwan Tomlin",
-    "team": "CLE",
-    "status": "Out",
-    "short": "Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",
-    "relevant": false
   },
   "4432582": {
     "name": "Max Christie",
@@ -201,6 +201,13 @@
     "status": "Out",
     "short": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
     "relevant": true
+  },
+  "3213": {
+    "name": "Al Horford",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "short": "Horford is starting Monday's game against the Pelicans, Dalton Johnson of NBC Sports Bay Area reports.",
+    "relevant": null
   },
   "3975": {
     "name": "Stephen Curry",
