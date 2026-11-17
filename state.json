@@ -1,16 +1,16 @@
 {
+  "5149077": {
+    "name": "Kingston Flemings",
+    "team": "ATL",
+    "status": "Day-To-Day",
+    "short": "Flemings (back) practiced Tuesday, per Lauren L. Williams of The Atlanta Journal-Constitution.",
+    "relevant": false
+  },
   "3146557": {
     "name": "Jock Landale",
     "team": "ATL",
     "status": "Day-To-Day",
     "short": "Landale (hip) is out for Sunday's game against Bucks, Brad Rowland of the Locked On Podcast Network reports.",
-    "relevant": false
-  },
-  "5149077": {
-    "name": "Kingston Flemings",
-    "team": "ATL",
-    "status": "Day-To-Day",
-    "short": "Flemings (back) has been ruled out for Sunday's game against the Bucks.",
     "relevant": false
   },
   "4712863": {
@@ -272,18 +272,18 @@
     "short": "Phillips (illness) is available for Wednesday's game against Dallas.",
     "relevant": null
   },
+  "4396993": {
+    "name": "Tyrese Haliburton",
+    "team": "IND",
+    "status": "Out",
+    "short": "Head coach Rick Carlisle said Tuesday that Haliburton (hamstring) is \"getting there,\" but there's still no definitive timetable for his return to game action, Dustin Dopirak of The Indianapolis Star reports.",
+    "relevant": true
+  },
   "4395712": {
     "name": "Andrew Nembhard",
     "team": "IND",
     "status": "Day-To-Day",
     "short": "Nembhard (hip) has been ruled out for Sunday's game against the 76ers, Tony East of Forbes.com reports.",
-    "relevant": true
-  },
-  "4396993": {
-    "name": "Tyrese Haliburton",
-    "team": "IND",
-    "status": "Out",
-    "short": "Head coach Rick Carlisle said Wednesday that Haliburton (hamstring) will miss at least 10 more days, Alex Golden of SI.com reports.",
     "relevant": true
   },
   "5157066": {
