@@ -55,12 +55,12 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
-  "4397189": {
-    "name": "Jalen Smith",
+  "5105555": {
+    "name": "Tobe Awaka",
     "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Smith (undisclosed) exited in the fourth quarter of Monday's 126-115 loss to the Cavaliers and did not return.",
-    "relevant": null
+    "status": "Out",
+    "short": "Awaka (back) has been ruled out for Wednesday's game against the Nets.",
+    "relevant": false
   },
   "4431687": {
     "name": "Patrick Williams",
@@ -68,13 +68,6 @@
     "status": "Day-To-Day",
     "short": "Williams (finger) has been ruled out for the remainder of Monday's game against Cleveland.",
     "relevant": null
-  },
-  "5105555": {
-    "name": "Tobe Awaka",
-    "team": "CHI",
-    "status": "Out",
-    "short": "Awaka (back) has been ruled out for Monday's game against the Cavaliers.",
-    "relevant": false
   },
   "5095151": {
     "name": "Caleb Wilson",
@@ -241,22 +234,8 @@
     "name": "Amen Thompson",
     "team": "HOU",
     "status": "Day-To-Day",
-    "short": "Thompson (knee) is out for Monday's game against the Heat.",
+    "short": "Thompson (knee) is questionable for Wednesday's game against the Pacers.",
     "relevant": true
-  },
-  "2990992": {
-    "name": "Marcus Smart",
-    "team": "HOU",
-    "status": "Day-To-Day",
-    "short": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
-    "relevant": null
-  },
-  "2991235": {
-    "name": "Steven Adams",
-    "team": "HOU",
-    "status": "Day-To-Day",
-    "short": "Adams (calf) is out for Monday's game against the Heat.",
-    "relevant": false
   },
   "3102529": {
     "name": "Clint Capela",
