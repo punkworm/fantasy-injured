@@ -377,6 +377,13 @@
     "short": "Coach Erik Spoelstra stated after Monday's 128-110 win over Houston that the team held Adebayo (hip) out of the second half in an effort to be proactive, and the injury isn't expected to be a long-term issue, Anthony Chiang of the Miami Herald reports.",
     "relevant": null
   },
+  "4601025": {
+    "name": "Pelle Larsson",
+    "team": "MIA",
+    "status": "Out",
+    "short": "Larsson won't play in Monday's game against the Rockets due to an illness, Ira Winderman of the South Florida Sun Sentinel reports.",
+    "relevant": false
+  },
   "4591725": {
     "name": "Ryan Rollins",
     "team": "MIL",
@@ -496,6 +503,13 @@
     "short": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",
     "relevant": true
   },
+  "5107251": {
+    "name": "Izaiyah Nelson",
+    "team": "ORL",
+    "status": "Out",
+    "short": "Nelson (ankle) has been ruled out for Wednesday's game against the 76ers.",
+    "relevant": false
+  },
   "4065654": {
     "name": "Jonathan Isaac",
     "team": "ORL",
@@ -515,13 +529,6 @@
     "team": "ORL",
     "status": "Out",
     "short": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
-    "relevant": null
-  },
-  "5107251": {
-    "name": "Izaiyah Nelson",
-    "team": "ORL",
-    "status": "Out",
-    "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
     "relevant": null
   },
   "3917376": {
