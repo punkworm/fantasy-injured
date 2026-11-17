@@ -167,6 +167,13 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
+  "4395702": {
+    "name": "Isaiah Joe",
+    "team": "DET",
+    "status": "Out",
+    "short": "Joe (hip) is out for Tuesday's game against the Spurs.",
+    "relevant": false
+  },
   "3157465": {
     "name": "Duncan Robinson",
     "team": "DET",
@@ -186,13 +193,6 @@
     "team": "DET",
     "status": "Out",
     "short": "Holland is out for Tuesday's game against San Antonio due to a left knee contusion.",
-    "relevant": false
-  },
-  "4395702": {
-    "name": "Isaiah Joe",
-    "team": "DET",
-    "status": "Out",
-    "short": "Joe (hip) is doubtful to play in Tuesday's game against the Spurs.",
     "relevant": false
   },
   "4433621": {
