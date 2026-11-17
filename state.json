@@ -237,6 +237,13 @@
     "short": "Thompson (knee) is questionable for Wednesday's game against the Pacers.",
     "relevant": true
   },
+  "2991235": {
+    "name": "Steven Adams",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "short": "Adams (calf) is out for Monday's game against the Heat.",
+    "relevant": null
+  },
   "3102529": {
     "name": "Clint Capela",
     "team": "HOU",
@@ -429,30 +436,30 @@
   "4683634": {
     "name": "Bennedict Mathurin",
     "team": "NO",
-    "status": "Day-To-Day",
-    "short": "Mathurin (foot) has been ruled out for Monday's game against the Warriors.",
+    "status": "Out",
+    "short": "Mathurin (foot) has been ruled out for Wednesday's game against Detroit.",
     "relevant": false
   },
   "4576086": {
     "name": "Bryce McGowens",
     "team": "NO",
     "status": "Out",
-    "short": "McGowens (elbow) has been ruled out for Monday's game against the Warriors.",
+    "short": "McGowens (elbow) has been ruled out for Wednesday's game against Detroit.",
+    "relevant": false
+  },
+  "4431675": {
+    "name": "Trendon Watford",
+    "team": "NO",
+    "status": "Out",
+    "short": "Watford (ankle) has been ruled out for Wednesday's game against Detroit.",
     "relevant": false
   },
   "4397688": {
     "name": "Trey Murphy III",
     "team": "NO",
     "status": "Out",
-    "short": "Murphy (knees) has been ruled out for Monday's game against Golden State.",
+    "short": "Murphy (knee) has been ruled out for Wednesday's game against Detroit.",
     "relevant": true
-  },
-  "4431675": {
-    "name": "Trendon Watford",
-    "team": "NO",
-    "status": "Out",
-    "short": "Watford (ankle) has been ruled out for Monday's game against Golden State.",
-    "relevant": false
   },
   "3907497": {
     "name": "Dejounte Murray",
