@@ -524,26 +524,19 @@
     "short": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
     "relevant": null
   },
-  "3917376": {
-    "name": "Jaylen Brown",
-    "team": "PHI",
-    "status": "Out",
-    "short": "Brown (hamstring/head) will undergo further evaluation Tuesday and could receive an MRI, Kris Rhim of ESPN reports.",
-    "relevant": true
-  },
-  "1966": {
-    "name": "LeBron James",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "James (back) has been ruled out for Monday's game against the Nets.",
-    "relevant": true
-  },
   "4870562": {
     "name": "Dominick Barlow",
     "team": "PHI",
     "status": "Out",
-    "short": "Barlow (back) will be re-evaluated later in the week and is thought to be nearing his 2026-27 season debut, Tony Jones of The Athletic reports.",
+    "short": "Barlow (back) is out for Wednesday's game against Orlando.",
     "relevant": false
+  },
+  "3917376": {
+    "name": "Jaylen Brown",
+    "team": "PHI",
+    "status": "Out",
+    "short": "Brown is out for Wednesday's game against the Magic with a left hamstring strain.",
+    "relevant": true
   },
   "5105637": {
     "name": "Adem Bona",
