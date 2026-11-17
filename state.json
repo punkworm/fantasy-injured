@@ -37,7 +37,7 @@
   "4397424": {
     "name": "Neemias Queta",
     "team": "BOS",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports.",
     "relevant": true
   },
@@ -538,19 +538,19 @@
     "short": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
     "relevant": null
   },
+  "1966": {
+    "name": "LeBron James",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "James (back) has been ruled out for Monday's game against the Nets.",
+    "relevant": true
+  },
   "4870562": {
     "name": "Dominick Barlow",
     "team": "PHI",
     "status": "Out",
     "short": "Barlow (back) will be re-evaluated later in the week and is thought to be nearing his 2026-27 season debut, Tony Jones of The Athletic reports.",
     "relevant": false
-  },
-  "1966": {
-    "name": "LeBron James",
-    "team": "PHI",
-    "status": "Out",
-    "short": "James (back) has been ruled out for Monday's game against the Nets.",
-    "relevant": true
   },
   "5105637": {
     "name": "Adem Bona",
