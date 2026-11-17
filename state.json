@@ -342,6 +342,13 @@
     "short": "Walker (leg) has been ruled out for Tuesday's game against the Hornets.",
     "relevant": null
   },
+  "5105550": {
+    "name": "GG Jackson",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.",
+    "relevant": false
+  },
   "4432810": {
     "name": "Isaiah Stewart",
     "team": "MEM",
@@ -361,13 +368,6 @@
     "team": "MEM",
     "status": "Out",
     "short": "Pippen (back) is progressing in his recovery but is still considered week-to-week.",
-    "relevant": false
-  },
-  "5105550": {
-    "name": "GG Jackson",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Jackson will undergo surgery to repair the broken fifth metatarsal in his left foot and is set to miss significant time.",
     "relevant": false
   },
   "5105462": {
