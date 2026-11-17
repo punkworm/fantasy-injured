@@ -1,4 +1,11 @@
 {
+  "4873201": {
+    "name": "Asa Newell",
+    "team": "ATL",
+    "status": "Out",
+    "short": "Newell underwent surgery Tuesday for a plantar plate tear in his left great toe, and he will be re-evaluated in approximately four months, Brad Rowland of the Locked On Podcast Network reports.",
+    "relevant": false
+  },
   "2490149": {
     "name": "CJ McCollum",
     "team": "ATL",
@@ -25,13 +32,6 @@
     "team": "ATL",
     "status": "Out",
     "short": "Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports.",
-    "relevant": false
-  },
-  "4873201": {
-    "name": "Asa Newell",
-    "team": "ATL",
-    "status": "Out",
-    "short": "Newell (toe) has been ruled out for Friday's game against Chicago.",
     "relevant": false
   },
   "5105571": {
@@ -376,13 +376,6 @@
     "status": "Day-To-Day",
     "short": "Coach Erik Spoelstra stated after Monday's 128-110 win over Houston that the team held Adebayo (hip) out of the second half in an effort to be proactive, and the injury isn't expected to be a long-term issue, Anthony Chiang of the Miami Herald reports.",
     "relevant": null
-  },
-  "4601025": {
-    "name": "Pelle Larsson",
-    "team": "MIA",
-    "status": "Out",
-    "short": "Larsson won't play in Monday's game against the Rockets due to an illness, Ira Winderman of the South Florida Sun Sentinel reports.",
-    "relevant": false
   },
   "4591725": {
     "name": "Ryan Rollins",
