@@ -206,7 +206,7 @@
     "name": "Al Horford",
     "team": "GS",
     "status": "Day-To-Day",
-    "short": "Horford is starting Monday's game against the Pelicans, Dalton Johnson of NBC Sports Bay Area reports.",
+    "short": "Horford (back) is questionable for Wednesday's game against Dallas.",
     "relevant": null
   },
   "3975": {
@@ -265,18 +265,25 @@
     "short": "Phillips (illness) is available for Wednesday's game against Dallas.",
     "relevant": null
   },
-  "4396993": {
-    "name": "Tyrese Haliburton",
+  "2530530": {
+    "name": "T.J. McConnell",
     "team": "IND",
-    "status": "Out",
-    "short": "Head coach Rick Carlisle said Tuesday that Haliburton (hamstring) is \"getting there,\" but there's still no definitive timetable for his return to game action, Dustin Dopirak of The Indianapolis Star reports.",
-    "relevant": true
+    "status": "Day-To-Day",
+    "short": "McConnell (hamstring) is probable to play Wednesday against the Rockets.",
+    "relevant": null
   },
   "4395712": {
     "name": "Andrew Nembhard",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "Nembhard (hip) has been ruled out for Sunday's game against the 76ers, Tony East of Forbes.com reports.",
+    "short": "Nembhard (hip) is questionable for Wednesday's game against Houston.",
+    "relevant": true
+  },
+  "4396993": {
+    "name": "Tyrese Haliburton",
+    "team": "IND",
+    "status": "Out",
+    "short": "Head coach Rick Carlisle said Tuesday that Haliburton (hamstring) is \"getting there,\" but there's still no definitive timetable for his return to game action, Dustin Dopirak of The Indianapolis Star reports.",
     "relevant": true
   },
   "5157066": {
