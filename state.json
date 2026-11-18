@@ -622,6 +622,13 @@
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
     "relevant": null
   },
+  "4898371": {
+    "name": "Maxime Raynaud",
+    "team": "SAC",
+    "status": "Out",
+    "short": "Raynaud (knee) will remain on the inactive list for Wednesday's game against the Suns.",
+    "relevant": false
+  },
   "4065732": {
     "name": "De'Andre Hunter",
     "team": "SAC",
@@ -635,13 +642,6 @@
     "status": "Day-To-Day",
     "short": "Achiuwa (ankle) is questionable for Wednesday's game against the Suns, James Ham of ESPN 1320 Sacramento reports.",
     "relevant": null
-  },
-  "4898371": {
-    "name": "Maxime Raynaud",
-    "team": "SAC",
-    "status": "Out",
-    "short": "Raynaud (knee) has been ruled out for Sunday's game against the Thunder.",
-    "relevant": false
   },
   "3907387": {
     "name": "Ben Simmons",
