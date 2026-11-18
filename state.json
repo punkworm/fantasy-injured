@@ -387,7 +387,7 @@
   "4431772": {
     "name": "Myron Gardner",
     "team": "MIA",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Gardner (hamstring) is questionable for Wednesday's game against the Bucks, per Ira Winderman of the South Florida Sun Sentinel.",
     "relevant": false
   },
@@ -529,6 +529,13 @@
     "team": "ORL",
     "status": "Out",
     "short": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
+    "relevant": null
+  },
+  "3912848": {
+    "name": "Dean Wade",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Wade (hamstring) has been downgraded to questionable for Wednesday's game against the Magic.",
     "relevant": null
   },
   "4870562": {
