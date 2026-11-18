@@ -209,6 +209,13 @@
     "short": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
     "relevant": true
   },
+  "4397040": {
+    "name": "Brandon Williams",
+    "team": "GS",
+    "status": "Out",
+    "short": "Williams (hamstring) has progressed to on-court activities and will be re-evaluated Saturday.",
+    "relevant": false
+  },
   "6589": {
     "name": "Draymond Green",
     "team": "GS",
@@ -229,13 +236,6 @@
     "status": "Out",
     "short": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
     "relevant": true
-  },
-  "4397040": {
-    "name": "Brandon Williams",
-    "team": "GS",
-    "status": "Out",
-    "short": "Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com.",
-    "relevant": false
   },
   "3102531": {
     "name": "Kristaps Porzingis",
