@@ -510,6 +510,13 @@
     "short": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "4431678": {
+    "name": "Tyrese Maxey",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Maxey is questionable for Wednesday's game in Orlando due to right foot soreness, Gina Mizell of The Philadelphia Inquirer reports.",
+    "relevant": null
+  },
   "3917376": {
     "name": "Jaylen Brown",
     "team": "PHI",
@@ -618,8 +625,8 @@
   "5037871": {
     "name": "Dylan Harper",
     "team": "SA",
-    "status": "Day-To-Day",
-    "short": "Harper left Tuesday's game against the Spurs due to an undisclosed injury after an awkward fall, Chris Mannix reports.",
+    "status": "Out",
+    "short": "Harper (hip) won't play in Thursday's game against the Clippers, Jeff McDonald of the San Antonio Express-News reports.",
     "relevant": true
   },
   "6440": {
