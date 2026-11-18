@@ -538,6 +538,13 @@
     "short": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "3917376": {
+    "name": "Jaylen Brown",
+    "team": "PHI",
+    "status": "Out",
+    "short": "Brown is out for Wednesday's game against the Magic with a left hamstring strain.",
+    "relevant": true
+  },
   "3912848": {
     "name": "Dean Wade",
     "team": "PHI",
@@ -551,13 +558,6 @@
     "status": "Out",
     "short": "Barlow (back) is out for Wednesday's game against Orlando.",
     "relevant": false
-  },
-  "3917376": {
-    "name": "Jaylen Brown",
-    "team": "PHI",
-    "status": "Out",
-    "short": "Brown is out for Wednesday's game against the Magic with a left hamstring strain.",
-    "relevant": true
   },
   "5105637": {
     "name": "Adem Bona",
