@@ -202,26 +202,19 @@
     "short": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
     "relevant": true
   },
+  "3213": {
+    "name": "Al Horford",
+    "team": "GS",
+    "status": "Out",
+    "short": "Horford (back) is questionable for Wednesday's game against Dallas.",
+    "relevant": false
+  },
   "4397040": {
     "name": "Brandon Williams",
     "team": "GS",
     "status": "Out",
     "short": "Williams (hamstring) has progressed to on-court activities and will be re-evaluated Saturday.",
     "relevant": false
-  },
-  "6589": {
-    "name": "Draymond Green",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "short": "Green is questionable for Wednesday's game in Dallas due to inflammation in his right elbow.",
-    "relevant": null
-  },
-  "3213": {
-    "name": "Al Horford",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "short": "Horford (back) is questionable for Wednesday's game against Dallas.",
-    "relevant": null
   },
   "3975": {
     "name": "Stephen Curry",
