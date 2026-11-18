@@ -576,9 +576,9 @@
   "4683021": {
     "name": "Deni Avdija",
     "team": "POR",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Avdija (foot) is questionable for Tuesday's game against the Timberwolves.",
-    "relevant": null
+    "relevant": true
   },
   "4706557": {
     "name": "Chris Youngblood",
