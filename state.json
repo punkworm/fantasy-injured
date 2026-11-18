@@ -83,18 +83,25 @@
     "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
     "relevant": true
   },
+  "4576087": {
+    "name": "Peyton Watson",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Watson (back) is doubtful for Wednesday's game versus Memphis.",
+    "relevant": true
+  },
+  "4683747": {
+    "name": "Jaylon Tyson",
+    "team": "CLE",
+    "status": "Out",
+    "short": "Tyson (ankle) has been ruled out for Wednesday's game against Memphis.",
+    "relevant": false
+  },
   "5106268": {
     "name": "Nae'Qwan Tomlin",
     "team": "CLE",
     "status": "Out",
     "short": "Tomlin (back) will remain on the inactive list for Wednesday's game against the Grizzlies.",
-    "relevant": false
-  },
-  "4683747": {
-    "name": "Jaylon Tyson",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Tyson (ankle) is listed as doubtful for Wednesday's game against the Grizzlies.",
     "relevant": false
   },
   "4066757": {
@@ -103,13 +110,6 @@
     "status": "Out",
     "short": "Merrill (elbow) is questionable to face the Grizzlies on Wednesday.",
     "relevant": false
-  },
-  "4576087": {
-    "name": "Peyton Watson",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "short": "Watson (back) is listed as questionable for Wednesday's game against Memphis.",
-    "relevant": true
   },
   "4432158": {
     "name": "Evan Mobley",
