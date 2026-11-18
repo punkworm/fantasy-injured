@@ -44,7 +44,7 @@
   "3135045": {
     "name": "Grayson Allen",
     "team": "CHA",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Allen (concussion-like symptoms) has been ruled out for Tuesday's game against the Lakers.",
     "relevant": true
   },
@@ -174,6 +174,20 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
+  "2990962": {
+    "name": "Taurean Prince",
+    "team": "DET",
+    "status": "Day-To-Day",
+    "short": "Prince (knee) has been ruled out for Tuesday's game against the Spurs.",
+    "relevant": false
+  },
+  "4683771": {
+    "name": "Ronald Holland II",
+    "team": "DET",
+    "status": "Day-To-Day",
+    "short": "Holland is out for Tuesday's game against San Antonio due to a left knee contusion.",
+    "relevant": false
+  },
   "4395702": {
     "name": "Isaiah Joe",
     "team": "DET",
@@ -187,20 +201,6 @@
     "status": "Out",
     "short": "Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports.",
     "relevant": true
-  },
-  "2990962": {
-    "name": "Taurean Prince",
-    "team": "DET",
-    "status": "Out",
-    "short": "Prince (knee) has been ruled out for Tuesday's game against the Spurs.",
-    "relevant": false
-  },
-  "4683771": {
-    "name": "Ronald Holland II",
-    "team": "DET",
-    "status": "Out",
-    "short": "Holland is out for Tuesday's game against San Antonio due to a left knee contusion.",
-    "relevant": false
   },
   "4433621": {
     "name": "Jalen Duren",
@@ -422,14 +422,14 @@
   "4592979": {
     "name": "Zyon Pullin",
     "team": "MIN",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Pullin (quadriceps) has been ruled out for Tuesday's game against Portland.",
     "relevant": false
   },
   "4433247": {
     "name": "Jonathan Kuminga",
     "team": "MIN",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Kuminga (shoulder) is out for Tuesday's game against Portland.",
     "relevant": true
   },
