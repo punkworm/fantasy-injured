@@ -517,6 +517,13 @@
     "short": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "4431678": {
+    "name": "Tyrese Maxey",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Maxey closed Monday's 135-123 win over the Nets with 24 points (7-12 FG, 4-8 3Pt, 6-6 FT), nine assists, one rebound and one steal across 35 minutes.",
+    "relevant": null
+  },
   "3917376": {
     "name": "Jaylen Brown",
     "team": "PHI",
@@ -632,9 +639,9 @@
   "4395625": {
     "name": "RJ Barrett",
     "team": "TOR",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Barrett is questionable for Wednesday's game against the Wizards due to hamstring tightness, Esfandiar Baraheni of The Athletic reports.",
-    "relevant": null
+    "relevant": true
   },
   "4433134": {
     "name": "Scottie Barnes",
