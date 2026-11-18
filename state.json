@@ -293,13 +293,6 @@
     "short": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",
     "relevant": false
   },
-  "5108024": {
-    "name": "Yanic Konan Niederhauser",
-    "team": "LAC",
-    "status": "Out",
-    "short": "Niederhauser (foot) has been ruled out for Tuesday's game against the Jazz.",
-    "relevant": false
-  },
   "3913176": {
     "name": "Brandon Ingram",
     "team": "LAC",
@@ -517,13 +510,6 @@
     "short": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
     "relevant": null
   },
-  "4431678": {
-    "name": "Tyrese Maxey",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Maxey closed Monday's 135-123 win over the Nets with 24 points (7-12 FG, 4-8 3Pt, 6-6 FT), nine assists, one rebound and one steal across 35 minutes.",
-    "relevant": null
-  },
   "3917376": {
     "name": "Jaylen Brown",
     "team": "PHI",
@@ -566,12 +552,26 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "4066211": {
+    "name": "Robert Williams III",
+    "team": "POR",
+    "status": "Out",
+    "short": "Williams (rest) is listed as out for Thursday's game versus the Bucks.",
+    "relevant": null
+  },
   "4683021": {
     "name": "Deni Avdija",
     "team": "POR",
     "status": "Day-To-Day",
-    "short": "Avdija (foot) won't play Tuesday versus Minnesota.",
+    "short": "Avdija (foot) is listed as questionable ahead of Thursday's game against Milwaukee.",
     "relevant": true
+  },
+  "4431736": {
+    "name": "Toumani Camara",
+    "team": "POR",
+    "status": "Day-To-Day",
+    "short": "Camara is questionable to play Thursday against the Bucks due to general soreness.",
+    "relevant": null
   },
   "4706557": {
     "name": "Chris Youngblood",
@@ -640,7 +640,7 @@
     "name": "RJ Barrett",
     "team": "TOR",
     "status": "Out",
-    "short": "Barrett is questionable for Wednesday's game against the Wizards due to hamstring tightness, Esfandiar Baraheni of The Athletic reports.",
+    "short": "Barrett (hamstring) is out for Wednesday's game against the Wizards, Michael Grange of Sportsnet.ca reports.",
     "relevant": true
   },
   "4433134": {
