@@ -279,19 +279,19 @@
     "short": "Thompson (knee) is questionable for Wednesday's game against the Pacers.",
     "relevant": true
   },
-  "2530530": {
-    "name": "T.J. McConnell",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "McConnell (hamstring) is probable to play Wednesday against the Rockets.",
-    "relevant": null
-  },
   "4395712": {
     "name": "Andrew Nembhard",
     "team": "IND",
     "status": "Day-To-Day",
     "short": "Nembhard (hip) is questionable for Wednesday's game against Houston.",
     "relevant": true
+  },
+  "2530530": {
+    "name": "T.J. McConnell",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "McConnell (hamstring) is probable to play Wednesday against the Rockets.",
+    "relevant": null
   },
   "4396993": {
     "name": "Tyrese Haliburton",
