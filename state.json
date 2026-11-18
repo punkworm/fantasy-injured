@@ -174,25 +174,32 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
-  "4683771": {
-    "name": "Ronald Holland II",
-    "team": "DET",
-    "status": "Out",
-    "short": "Holland is out for Tuesday's game against San Antonio due to a left knee contusion.",
-    "relevant": false
-  },
-  "2990962": {
-    "name": "Taurean Prince",
+  "4432166": {
+    "name": "Cade Cunningham",
     "team": "DET",
     "status": "Day-To-Day",
-    "short": "Prince (knee) has been ruled out for Tuesday's game against the Spurs.",
-    "relevant": false
+    "short": "Cunningham is questionable for Wednesday's game against the Pelicans due to right knee soreness",
+    "relevant": null
   },
   "4395702": {
     "name": "Isaiah Joe",
     "team": "DET",
     "status": "Out",
-    "short": "Joe (hip) is out for Tuesday's game against the Spurs.",
+    "short": "Joe (hip) is listed as questionable for Wednesday's game against the Pelicans.",
+    "relevant": false
+  },
+  "2990962": {
+    "name": "Taurean Prince",
+    "team": "DET",
+    "status": "Out",
+    "short": "Prince (knee) is out for Wednesday's game against the Pelicans.",
+    "relevant": false
+  },
+  "4683771": {
+    "name": "Ronald Holland II",
+    "team": "DET",
+    "status": "Out",
+    "short": "Holland (knee) is out for Wednesday's game against the Pelicans.",
     "relevant": false
   },
   "3157465": {
