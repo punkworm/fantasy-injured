@@ -314,6 +314,20 @@
     "short": "Head coach JJ Redick said Reaves' (heel) pregame workout went \"well,\" but he remains without an official timetable to return, Daniel Starkand of LakersNation.com reports.",
     "relevant": true
   },
+  "4065733": {
+    "name": "Ty Jerome",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Jerome (hip) has been ruled out for Thursday's game against the Warriors.",
+    "relevant": true
+  },
+  "4600663": {
+    "name": "Zach Edey",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Edey finished with 11 points (5-7 FG, 1-1 FT), two rebounds, one assist and two steals in 21 minutes before fouling out of Wednesday's 124-121 victory over the Cavaliers.",
+    "relevant": true
+  },
   "4432810": {
     "name": "Isaiah Stewart",
     "team": "MEM",
@@ -327,13 +341,6 @@
     "status": "Out",
     "short": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.",
     "relevant": false
-  },
-  "4065733": {
-    "name": "Ty Jerome",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Jerome (hip) has been ruled out for Wednesday's game in Cleveland.",
-    "relevant": true
   },
   "4431785": {
     "name": "Scotty Pippen Jr.",
