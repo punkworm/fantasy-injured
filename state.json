@@ -44,9 +44,9 @@
   "4702670": {
     "name": "Grant Nelson",
     "team": "BKN",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com reports.",
-    "relevant": null
+    "relevant": false
   },
   "3135045": {
     "name": "Grayson Allen",
