@@ -206,7 +206,7 @@
     "name": "Al Horford",
     "team": "GS",
     "status": "Out",
-    "short": "Horford (back) is questionable for Wednesday's game against Dallas.",
+    "short": "Horford (back) is out for Wednesday's game against the Mavericks, but will play Thursday against the Grizzlies, Nick Friedell of The Athletic reports.",
     "relevant": false
   },
   "4397040": {
@@ -438,6 +438,13 @@
     "team": "OKC",
     "status": "Out",
     "short": "Sorber underwent an arthroscopic knee procedure Tuesday to address inflammation at the patellofemoral joint in his right knee, and he's expected to return to on-court activities in 6-8 weeks, Steve McGehee of News 9 Oklahoma City reports.",
+    "relevant": false
+  },
+  "4432823": {
+    "name": "Jaylin Williams",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Williams (back) is listed as questionable for Wednesday's game against the Hawks, Clemente Almanza of USA Today reports.",
     "relevant": false
   },
   "4683692": {
