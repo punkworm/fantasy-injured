@@ -538,6 +538,13 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "4706557": {
+    "name": "Chris Youngblood",
+    "team": "POR",
+    "status": "Out",
+    "short": "Youngblood (heel) has been ruled out for Thursday's game against the Bucks.",
+    "relevant": false
+  },
   "4066211": {
     "name": "Robert Williams III",
     "team": "POR",
@@ -558,13 +565,6 @@
     "status": "Day-To-Day",
     "short": "Camara is questionable to play Thursday against the Bucks due to general soreness.",
     "relevant": null
-  },
-  "4706557": {
-    "name": "Chris Youngblood",
-    "team": "POR",
-    "status": "Out",
-    "short": "Youngblood (heel) has been ruled out for Tuesday's game at Minnesota.",
-    "relevant": false
   },
   "4578893": {
     "name": "Vit Krejci",
