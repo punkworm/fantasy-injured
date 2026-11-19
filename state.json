@@ -2,15 +2,15 @@
   "3146557": {
     "name": "Jock Landale",
     "team": "ATL",
-    "status": "Day-To-Day",
-    "short": "Landale (hip) won't play Wednesday in Oklahoma City.",
+    "status": "Out",
+    "short": "Landale (hip) won't play in Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports.",
     "relevant": false
   },
   "5149077": {
     "name": "Kingston Flemings",
     "team": "ATL",
     "status": "Day-To-Day",
-    "short": "Flemings (back) is out for Wednesday's game against the Thunder.",
+    "short": "Flemings (back) is questionable for Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports.",
     "relevant": false
   },
   "4873201": {
@@ -265,18 +265,25 @@
     "short": "Capela (ankle) has been ruled out for Wednesday's game against Indiana.",
     "relevant": false
   },
+  "2530530": {
+    "name": "T.J. McConnell",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "McConnell (hamstring) is listed as probable for Friday's game in Cleveland.",
+    "relevant": null
+  },
   "4395712": {
     "name": "Andrew Nembhard",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "Nembhard (hip) won't play in Wednesday's game against the Rockets, Tony East of Forbes.com reports.",
+    "short": "Nembhard (hip) is questionable for Friday's game in Cleveland.",
     "relevant": true
   },
   "5105854": {
     "name": "Braden Smith",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "Smith suffered a right ankle sprain during Wednesday's game against the Wizards, Tony East of Forbes.com reports.",
+    "short": "Smith (ankle) is listed as questionable for Friday's game against Cleveland.",
     "relevant": null
   },
   "4396993": {
