@@ -2,14 +2,14 @@
   "3146557": {
     "name": "Jock Landale",
     "team": "ATL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Landale (hip) won't play Wednesday in Oklahoma City.",
     "relevant": false
   },
   "5149077": {
     "name": "Kingston Flemings",
     "team": "ATL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Flemings (back) is out for Wednesday's game against the Thunder.",
     "relevant": false
   },
@@ -76,19 +76,19 @@
     "short": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
     "relevant": true
   },
-  "4576087": {
-    "name": "Peyton Watson",
-    "team": "CLE",
-    "status": "Out",
-    "short": "Watson (back) is out for Wednesday's game versus Memphis.",
-    "relevant": true
-  },
   "4683747": {
     "name": "Jaylon Tyson",
     "team": "CLE",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Tyson (ankle) has been ruled out for Wednesday's game against Memphis.",
     "relevant": false
+  },
+  "4576087": {
+    "name": "Peyton Watson",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "short": "Watson (back) is out for Wednesday's game versus Memphis.",
+    "relevant": true
   },
   "5106268": {
     "name": "Nae'Qwan Tomlin",
@@ -107,7 +107,7 @@
   "5106040": {
     "name": "Tobi Lawal",
     "team": "DAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Lawal is out for Wednesday's game against the Warriors due to tightness in his right groin.",
     "relevant": false
   },
@@ -139,26 +139,26 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
-  "4432166": {
-    "name": "Cade Cunningham",
-    "team": "DET",
-    "status": "Out",
-    "short": "Cunningham (knee) won't play in Wednesday's game against New Orleans.",
-    "relevant": null
-  },
   "2990962": {
     "name": "Taurean Prince",
     "team": "DET",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Prince (knee) is out for Wednesday's game against the Pelicans.",
     "relevant": false
   },
   "4683771": {
     "name": "Ronald Holland II",
     "team": "DET",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Holland (knee) is out for Wednesday's game against the Pelicans.",
     "relevant": false
+  },
+  "4432166": {
+    "name": "Cade Cunningham",
+    "team": "DET",
+    "status": "Day-To-Day",
+    "short": "Cunningham (knee) won't play in Wednesday's game against New Orleans.",
+    "relevant": null
   },
   "3157465": {
     "name": "Duncan Robinson",
@@ -293,18 +293,18 @@
     "short": "Head coach JJ Redick said Reaves' (heel) pregame workout went \"well,\" but he remains without an official timetable to return, Daniel Starkand of LakersNation.com reports.",
     "relevant": true
   },
+  "4432810": {
+    "name": "Isaiah Stewart",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "short": "Stewart (illness) won't play Wednesday against the Cavs.",
+    "relevant": false
+  },
   "5105550": {
     "name": "GG Jackson",
     "team": "MEM",
     "status": "Out",
     "short": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.",
-    "relevant": false
-  },
-  "4432810": {
-    "name": "Isaiah Stewart",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Stewart (illness) won't play Wednesday against the Cavs.",
     "relevant": false
   },
   "4065733": {
@@ -338,7 +338,7 @@
   "4591725": {
     "name": "Ryan Rollins",
     "team": "MIL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Rollins (illness) has been ruled out for Wednesday's game at Miami.",
     "relevant": true
   },
@@ -422,7 +422,7 @@
   "2991350": {
     "name": "Alex Caruso",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Caruso won't return to Wednesday's game against the Hawks due to right hip soreness, Clemente Almanza of USA Today reports.",
     "relevant": null
   },
@@ -615,26 +615,26 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
-  "5093267": {
-    "name": "Collin Murray-Boyles",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Murray-Boyles will not return to Wednesday's game against the Wizards due to an illness, Blake Murphy of Sportsnet.ca reports.",
-    "relevant": null
-  },
   "4395625": {
     "name": "RJ Barrett",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Barrett (hamstring) is out for Wednesday's game against the Wizards, Michael Grange of Sportsnet.ca reports.",
     "relevant": true
   },
   "4433134": {
     "name": "Scottie Barnes",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Barnes (injury management) has been ruled out for Wednesday's game against Washington, Esfandiar Baraheni of The Athletic reports.",
     "relevant": true
+  },
+  "5093267": {
+    "name": "Collin Murray-Boyles",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "short": "Murray-Boyles will not return to Wednesday's game against the Wizards due to an illness, Blake Murphy of Sportsnet.ca reports.",
+    "relevant": null
   },
   "6450": {
     "name": "Kawhi Leonard",
