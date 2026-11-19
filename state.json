@@ -482,19 +482,19 @@
     "short": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
     "relevant": null
   },
-  "4431678": {
-    "name": "Tyrese Maxey",
-    "team": "PHI",
-    "status": "Out",
-    "short": "Maxey (foot) is out for Wednesday's game in Orlando, Ky Carlin of USA Today reports.",
-    "relevant": true
-  },
   "3912848": {
     "name": "Dean Wade",
     "team": "PHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Wade (hamstring) is out for Wednesday's game in Orlando.",
     "relevant": null
+  },
+  "4431678": {
+    "name": "Tyrese Maxey",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Maxey (foot) is out for Wednesday's game in Orlando, Ky Carlin of USA Today reports.",
+    "relevant": true
   },
   "3917376": {
     "name": "Jaylen Brown",
