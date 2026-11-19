@@ -174,10 +174,17 @@
     "short": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
     "relevant": true
   },
+  "6589": {
+    "name": "Draymond Green",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "short": "Green (elbow) is available for Wednesday's game against the Mavericks.",
+    "relevant": null
+  },
   "3213": {
     "name": "Al Horford",
     "team": "GS",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Horford (back) is out for Wednesday's game against the Mavericks, but will play Thursday against the Grizzlies, Nick Friedell of The Athletic reports.",
     "relevant": false
   },
