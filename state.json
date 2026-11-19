@@ -363,19 +363,19 @@
     "short": "Gardner (hamstring) is out for Wednesday's game against the Bucks.",
     "relevant": false
   },
+  "3134907": {
+    "name": "Kyle Kuzma",
+    "team": "MIL",
+    "status": "Out",
+    "short": "Kuzma (shoulder) has been ruled out for Thursday's game against Portland due to a right shoulder contusion.",
+    "relevant": false
+  },
   "3133628": {
     "name": "Myles Turner",
     "team": "MIL",
     "status": "Out",
     "short": "Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion,",
     "relevant": true
-  },
-  "3134907": {
-    "name": "Kyle Kuzma",
-    "team": "MIL",
-    "status": "Out",
-    "short": "Kuzma registered 26 points (9-16 FG, 2-5 3Pt, 6-10 FT), five rebounds, one assist, one block and two steals over 30 minutes during Wednesday's 137-130 loss to Miami.",
-    "relevant": false
   },
   "4997526": {
     "name": "Ousmane Dieng",
