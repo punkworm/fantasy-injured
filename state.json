@@ -367,15 +367,15 @@
     "name": "Myles Turner",
     "team": "MIL",
     "status": "Out",
-    "short": "Turner posted four points (2-5 FG, 0-2 3Pt), five rebounds, four assists and three blocks in 21 minutes during Wednesday's 137-130 loss to Miami.",
+    "short": "Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion,",
     "relevant": true
   },
-  "4591725": {
-    "name": "Ryan Rollins",
+  "3134907": {
+    "name": "Kyle Kuzma",
     "team": "MIL",
-    "status": "Day-To-Day",
-    "short": "Rollins (illness) has been ruled out for Wednesday's game at Miami.",
-    "relevant": true
+    "status": "Out",
+    "short": "Kuzma registered 26 points (9-16 FG, 2-5 3Pt, 6-10 FT), five rebounds, one assist, one block and two steals over 30 minutes during Wednesday's 137-130 loss to Miami.",
+    "relevant": false
   },
   "4997526": {
     "name": "Ousmane Dieng",
