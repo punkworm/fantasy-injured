@@ -412,32 +412,32 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
-  "4683634": {
-    "name": "Bennedict Mathurin",
-    "team": "NO",
-    "status": "Out",
-    "short": "Mathurin (foot) has been ruled out for Wednesday's game against Detroit.",
-    "relevant": false
-  },
   "4576086": {
     "name": "Bryce McGowens",
     "team": "NO",
     "status": "Out",
-    "short": "McGowens (elbow) has been ruled out for Wednesday's game against Detroit.",
+    "short": "McGowens (elbow) has been ruled out for Friday's game against the Thunder.",
     "relevant": false
   },
   "4431675": {
     "name": "Trendon Watford",
     "team": "NO",
     "status": "Out",
-    "short": "Watford (ankle) has been ruled out for Wednesday's game against Detroit.",
+    "short": "Watford (ankle) has been ruled out for Friday's game against Oklahoma City.",
+    "relevant": false
+  },
+  "4683634": {
+    "name": "Bennedict Mathurin",
+    "team": "NO",
+    "status": "Out",
+    "short": "Mathurin (foot) has been ruled out for Friday's game against the Thunder.",
     "relevant": false
   },
   "4397688": {
     "name": "Trey Murphy III",
     "team": "NO",
     "status": "Out",
-    "short": "Murphy (knee) has been ruled out for Wednesday's game against Detroit.",
+    "short": "Murphy (knee) is questionable for Friday's game against the Thunder.",
     "relevant": true
   },
   "3907497": {
