@@ -191,16 +191,16 @@
   "6589": {
     "name": "Draymond Green",
     "team": "GS",
-    "status": "Day-To-Day",
-    "short": "Green (elbow) is available for Wednesday's game against the Mavericks.",
+    "status": "Out",
+    "short": "Green (elbow) is out for Thursday's game against the Grizzlies.",
     "relevant": null
   },
-  "3213": {
-    "name": "Al Horford",
+  "4433149": {
+    "name": "LJ Cryer",
     "team": "GS",
     "status": "Day-To-Day",
-    "short": "Horford (back) is out for Wednesday's game against the Mavericks, but will play Thursday against the Grizzlies, Nick Friedell of The Athletic reports.",
-    "relevant": false
+    "short": "Cryer (back) is questionable for Thursday's game against Memphis.",
+    "relevant": null
   },
   "4397040": {
     "name": "Brandon Williams",
