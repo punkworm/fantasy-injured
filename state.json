@@ -258,19 +258,26 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
-  "4871144": {
-    "name": "Alperen Sengun",
+  "2991235": {
+    "name": "Steven Adams",
     "team": "HOU",
     "status": "Day-To-Day",
-    "short": "Sengun (eye) will not return to Wednesday's game against the Pacers, Will Guillory of The Athletic reports.",
+    "short": "Adams (calf) isn't listed on the injury report for Wednesday's game against Indiana.",
     "relevant": null
   },
   "3102529": {
     "name": "Clint Capela",
     "team": "HOU",
     "status": "Out",
-    "short": "Capela (ankle) has been ruled out for Wednesday's game against Indiana.",
+    "short": "Capela (ankle) is out for Friday's game against Denver.",
     "relevant": false
+  },
+  "4871144": {
+    "name": "Alperen Sengun",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "short": "Sengun (eye) is questionable for Friday's game against the Nuggets.",
+    "relevant": null
   },
   "2530530": {
     "name": "T.J. McConnell",
