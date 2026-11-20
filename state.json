@@ -398,13 +398,6 @@
     "short": "Gardner (hamstring) is out for Wednesday's game against the Bucks.",
     "relevant": false
   },
-  "3133628": {
-    "name": "Myles Turner",
-    "team": "MIL",
-    "status": "Day-To-Day",
-    "short": "Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion,",
-    "relevant": true
-  },
   "3134907": {
     "name": "Kyle Kuzma",
     "team": "MIL",
@@ -632,8 +625,8 @@
   "4431679": {
     "name": "Precious Achiuwa",
     "team": "SAC",
-    "status": "Day-To-Day",
-    "short": "Achiuwa is doubtful for Friday's game against the Lakers due to a left lower leg bruise.",
+    "status": "Out",
+    "short": "Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers.",
     "relevant": null
   },
   "4065732": {
