@@ -80,7 +80,7 @@
     "name": "Jalen Smith",
     "team": "CHI",
     "status": "Out",
-    "short": "Smith (illness) has been downgraded to questionable for Friday's game against the Wizards.",
+    "short": "Smith (illness) is out for Friday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
     "relevant": null
   },
   "5242496": {
@@ -482,19 +482,19 @@
     "short": "Anunoby (calf) is questionable for Saturday's game against Portland.",
     "relevant": null
   },
+  "2991350": {
+    "name": "Alex Caruso",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Caruso (hip) is listed as out for Friday's game against the Pelicans.",
+    "relevant": null
+  },
   "5159925": {
     "name": "Nikola Topic",
     "team": "OKC",
     "status": "Out",
     "short": "Topic (hip) is out for Friday's game against New Orleans.",
     "relevant": false
-  },
-  "2991350": {
-    "name": "Alex Caruso",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "short": "Caruso is questionable for Friday's game against the Pelicans due to right hip soreness, Justin Martinez of The Oklahoman reports.",
-    "relevant": null
   },
   "5061603": {
     "name": "Thomas Sorber",
