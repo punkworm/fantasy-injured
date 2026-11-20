@@ -342,13 +342,6 @@
     "short": "Head coach JJ Redick said Reaves' (heel) pregame workout went \"well,\" but he remains without an official timetable to return, Daniel Starkand of LakersNation.com reports.",
     "relevant": true
   },
-  "4432810": {
-    "name": "Isaiah Stewart",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Stewart is questionable for Thursday's game against the Warriors due to an illness.",
-    "relevant": false
-  },
   "4600663": {
     "name": "Zach Edey",
     "team": "MEM",
@@ -580,6 +573,13 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "4683021": {
+    "name": "Deni Avdija",
+    "team": "POR",
+    "status": "Out",
+    "short": "Avdija (foot) is listed as out for Thursday's game against the Bucks.",
+    "relevant": true
+  },
   "4706557": {
     "name": "Chris Youngblood",
     "team": "POR",
@@ -592,20 +592,6 @@
     "team": "POR",
     "status": "Out",
     "short": "Williams (rest) is listed as out for Thursday's game versus the Bucks.",
-    "relevant": null
-  },
-  "4683021": {
-    "name": "Deni Avdija",
-    "team": "POR",
-    "status": "Day-To-Day",
-    "short": "Avdija (foot) is listed as questionable ahead of Thursday's game against Milwaukee.",
-    "relevant": true
-  },
-  "4431736": {
-    "name": "Toumani Camara",
-    "team": "POR",
-    "status": "Day-To-Day",
-    "short": "Camara is questionable to play Thursday against the Bucks due to general soreness.",
     "relevant": null
   },
   "4578893": {
