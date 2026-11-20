@@ -468,6 +468,13 @@
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
   },
+  "5159925": {
+    "name": "Nikola Topic",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Topic (hip) is out for Friday's game against New Orleans.",
+    "relevant": false
+  },
   "2991350": {
     "name": "Alex Caruso",
     "team": "OKC",
