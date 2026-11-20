@@ -342,19 +342,19 @@
     "short": "Reaves (heel) is listed as out for Friday's game against the Kings.",
     "relevant": true
   },
+  "4600663": {
+    "name": "Zach Edey",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "short": "Edey (hip) has been ruled out for Thursday's game against the Warriors.",
+    "relevant": true
+  },
   "2991070": {
     "name": "Jerami Grant",
     "team": "MEM",
     "status": "Day-To-Day",
     "short": "Grant won't return to Thursday's game against the Warriors due to a left calf injury. He'll finish with three points (1-2 FG, 1-1 3Pt) across five minutes.",
     "relevant": null
-  },
-  "4600663": {
-    "name": "Zach Edey",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Edey (hip) has been ruled out for Thursday's game against the Warriors.",
-    "relevant": true
   },
   "4065733": {
     "name": "Ty Jerome",
@@ -580,10 +580,17 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "4066211": {
+    "name": "Robert Williams III",
+    "team": "POR",
+    "status": "Day-To-Day",
+    "short": "Williams (rest) is listed as out for Thursday's game versus the Bucks.",
+    "relevant": null
+  },
   "4683021": {
     "name": "Deni Avdija",
     "team": "POR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Avdija (foot) is listed as out for Thursday's game against the Bucks.",
     "relevant": true
   },
@@ -593,13 +600,6 @@
     "status": "Out",
     "short": "Youngblood (heel) has been ruled out for Thursday's game against the Bucks.",
     "relevant": false
-  },
-  "4066211": {
-    "name": "Robert Williams III",
-    "team": "POR",
-    "status": "Out",
-    "short": "Williams (rest) is listed as out for Thursday's game versus the Bucks.",
-    "relevant": null
   },
   "4578893": {
     "name": "Vit Krejci",
