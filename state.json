@@ -181,18 +181,18 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
+  "2990962": {
+    "name": "Taurean Prince",
+    "team": "DET",
+    "status": "Out",
+    "short": "Prince (knee) underwent surgery to address lingering issues and has no timeline for a return, Hunter Patterson of The Athletic reports.",
+    "relevant": false
+  },
   "4683771": {
     "name": "Ronald Holland II",
     "team": "DET",
     "status": "Day-To-Day",
     "short": "Holland (knee) has been upgraded to doubtful for Friday's game against Toronto, Hunter Patterson of The Athletic reports.",
-    "relevant": false
-  },
-  "2990962": {
-    "name": "Taurean Prince",
-    "team": "DET",
-    "status": "Out",
-    "short": "Prince underwent right knee surgery and is listed as out for Friday's game against the Raptors.",
     "relevant": false
   },
   "5258459": {
@@ -307,13 +307,6 @@
     "short": "McConnell (hamstring) is listed as probable for Friday's game in Cleveland.",
     "relevant": null
   },
-  "5105854": {
-    "name": "Braden Smith",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Smith (ankle) is listed as questionable for Friday's game against Cleveland.",
-    "relevant": null
-  },
   "5157066": {
     "name": "Johnny Furphy",
     "team": "IND",
@@ -356,11 +349,25 @@
     "short": "Reaves (heel) is listed as out for Friday's game against the Kings.",
     "relevant": true
   },
-  "4600663": {
-    "name": "Zach Edey",
+  "4781746": {
+    "name": "Javon Small",
     "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Edey (hip) has been ruled out for Thursday's game against the Warriors.",
+    "status": "Out",
+    "short": "Small won't play Saturday against the Timberwolves due to personal reasons.",
+    "relevant": false
+  },
+  "5041935": {
+    "name": "Cameron Boozer",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Boozer is out for Saturday's game against Minnesota due to a right ankle sprain.",
+    "relevant": true
+  },
+  "4065733": {
+    "name": "Ty Jerome",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Jerome (hip) is probable for Saturday's game in Minnesota.",
     "relevant": true
   },
   "2991070": {
@@ -369,13 +376,6 @@
     "status": "Day-To-Day",
     "short": "Grant won't return to Thursday's game against the Warriors due to a left calf injury. He'll finish with three points (1-2 FG, 1-1 3Pt) across five minutes.",
     "relevant": null
-  },
-  "4065733": {
-    "name": "Ty Jerome",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Jerome (hip) has been ruled out for Thursday's game against the Warriors.",
-    "relevant": true
   },
   "5105550": {
     "name": "GG Jackson",
