@@ -678,6 +678,13 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
+  "6450": {
+    "name": "Kawhi Leonard",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Leonard (knee) could return in the next few weeks, per Shams Charania of ESPN.",
+    "relevant": true
+  },
   "5093267": {
     "name": "Collin Murray-Boyles",
     "team": "TOR",
@@ -690,13 +697,6 @@
     "team": "TOR",
     "status": "Out",
     "short": "Barrett has been diagnosed with a right hamstring strain and will be re-evaluated in two weeks, Brett Siegel of ClutchPoints.com reports.",
-    "relevant": true
-  },
-  "6450": {
-    "name": "Kawhi Leonard",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Leonard (knee) has progressed in his strength and conditioning program but will miss at least one more week, Michael Scotto of HoopsHype.com reports.",
     "relevant": true
   },
   "4432586": {
