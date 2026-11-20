@@ -465,7 +465,7 @@
     "name": "Jordan Clarkson",
     "team": "NY",
     "status": "Out",
-    "short": "Clarkson supplied three points (1-3 FG, 0-1 3Pt, 1-1 FT) across eight minutes during Tuesday's 111-102 victory over Toronto.",
+    "short": "Clarkson (foot) won't play in Saturday's game against Portland.",
     "relevant": false
   },
   "3934719": {
@@ -594,19 +594,19 @@
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "4706557": {
+    "name": "Chris Youngblood",
+    "team": "POR",
+    "status": "Out",
+    "short": "Youngblood (heel) has been ruled out for Saturday's game against the Knicks.",
+    "relevant": false
+  },
   "4683021": {
     "name": "Deni Avdija",
     "team": "POR",
     "status": "Day-To-Day",
     "short": "Avdija (foot) is listed as questionable for Saturday's game against the Knicks.",
     "relevant": true
-  },
-  "4706557": {
-    "name": "Chris Youngblood",
-    "team": "POR",
-    "status": "Out",
-    "short": "Youngblood (heel) has been ruled out for Thursday's game against the Bucks.",
-    "relevant": false
   },
   "4578893": {
     "name": "Vit Krejci",
