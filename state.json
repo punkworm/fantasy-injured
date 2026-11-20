@@ -132,6 +132,13 @@
     "short": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days.",
     "relevant": true
   },
+  "4683688": {
+    "name": "Dereck Lively II",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Head coach Dusty May said Friday that Lively (foot) is moving well and progressing in his recovery, and the big man told May he's \"close\" to returning, Mike Curtis of The Dallas Morning News reports.",
+    "relevant": false
+  },
   "5106040": {
     "name": "Tobi Lawal",
     "team": "DAL",
@@ -144,13 +151,6 @@
     "team": "DAL",
     "status": "Out",
     "short": "De Larrea (knee) is listed as out for Wednesday's game against the Warriors.",
-    "relevant": false
-  },
-  "4683688": {
-    "name": "Dereck Lively II",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Lively (foot) is out for Wednesday's game against the Warriors.",
     "relevant": false
   },
   "5148538": {
