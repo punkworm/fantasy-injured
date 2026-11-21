@@ -139,6 +139,13 @@
     "short": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days.",
     "relevant": true
   },
+  "5106040": {
+    "name": "Tobi Lawal",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Lawal (groin) is out for Saturday's game against the Clippers.",
+    "relevant": false
+  },
   "4278078": {
     "name": "P.J. Washington",
     "team": "DAL",
@@ -158,13 +165,6 @@
     "team": "DAL",
     "status": "Out",
     "short": "Head coach Dusty May said Friday that Lively (foot) is moving well and progressing in his recovery, and the big man told May he's \"close\" to returning, Mike Curtis of The Dallas Morning News reports.",
-    "relevant": false
-  },
-  "5106040": {
-    "name": "Tobi Lawal",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Lawal is out for Wednesday's game against the Warriors due to tightness in his right groin.",
     "relevant": false
   },
   "5279129": {
