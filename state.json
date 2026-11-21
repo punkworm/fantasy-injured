@@ -381,8 +381,15 @@
     "name": "Myron Gardner",
     "team": "MIA",
     "status": "Day-To-Day",
-    "short": "Gardner (hamstring) is out for Wednesday's game against the Bucks.",
+    "short": "Gardner (hamstring) is probable for Sunday's game against the Thunder.",
     "relevant": false
+  },
+  "3032977": {
+    "name": "Giannis Antetokounmpo",
+    "team": "MIA",
+    "status": "Day-To-Day",
+    "short": "Antetokounmpo (groin) is listed as questionable for Sunday's game against Oklahoma City, Ira Winderman of the South Florida Sun Sentinel reports.",
+    "relevant": null
   },
   "4997526": {
     "name": "Ousmane Dieng",
