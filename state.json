@@ -419,19 +419,19 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
-  "4397688": {
-    "name": "Trey Murphy III",
-    "team": "NO",
-    "status": "Out",
-    "short": "Murphy (knee) has been ruled out for Saturday's game against the Spurs.",
-    "relevant": true
-  },
   "4431675": {
     "name": "Trendon Watford",
     "team": "NO",
     "status": "Out",
     "short": "Watford (ankle) is out for Saturday's game against the Spurs.",
     "relevant": false
+  },
+  "4397688": {
+    "name": "Trey Murphy III",
+    "team": "NO",
+    "status": "Out",
+    "short": "Murphy chipped in 17 points (5-10 FG, 3-8 3Pt, 4-5 FT), four rebounds, one assist, one block and two steals over 29 minutes during Friday's 126-120 loss to the Thunder.",
+    "relevant": true
   },
   "4576086": {
     "name": "Bryce McGowens",
