@@ -447,6 +447,13 @@
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
   },
+  "3934719": {
+    "name": "OG Anunoby",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "short": "Anunoby (calf) has been downgraded to doubtful for Saturday's game against the Trail Bllazers.",
+    "relevant": null
+  },
   "3136195": {
     "name": "Karl-Anthony Towns",
     "team": "NY",
@@ -460,13 +467,6 @@
     "status": "Out",
     "short": "Clarkson (foot) won't play in Saturday's game against Portland.",
     "relevant": false
-  },
-  "3934719": {
-    "name": "OG Anunoby",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "short": "Anunoby (calf) is questionable for Saturday's game against Portland.",
-    "relevant": null
   },
   "5159925": {
     "name": "Nikola Topic",
