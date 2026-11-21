@@ -41,18 +41,18 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
-  "4065648": {
-    "name": "Jayson Tatum",
-    "team": "BOS",
-    "status": "Day-To-Day",
-    "short": "Tatum (rest) is listed as questionable for Saturday's game against Sacramento.",
-    "relevant": null
-  },
   "3078576": {
     "name": "Derrick White",
     "team": "BOS",
     "status": "Day-To-Day",
     "short": "White (shoulder) is questionable to play in Saturday's game against Sacramento.",
+    "relevant": null
+  },
+  "4065648": {
+    "name": "Jayson Tatum",
+    "team": "BOS",
+    "status": "Day-To-Day",
+    "short": "Tatum had 24 points (10-22 FG, 3-8 3Pt, 1-2 FT), eight rebounds, three assists and one steal over 37 minutes during Wednesday's 105-101 loss to the Nuggets.",
     "relevant": null
   },
   "4702670": {
