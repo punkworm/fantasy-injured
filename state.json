@@ -178,7 +178,7 @@
     "name": "Ronald Holland II",
     "team": "DET",
     "status": "Out",
-    "short": "Holland (knee) has been upgraded to doubtful for Friday's game against Toronto, Hunter Patterson of The Athletic reports.",
+    "short": "Holland (knee) is listed as out for Friday's game against Toronto.",
     "relevant": false
   },
   "2990962": {
@@ -709,9 +709,9 @@
   "5105841": {
     "name": "Felix Okpara",
     "team": "WSH",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Okpara (illness) is available for Friday's game against Toronto.",
-    "relevant": null
+    "relevant": false
   },
   "4997537": {
     "name": "Tristan Vukcevic",
