@@ -58,14 +58,14 @@
   "5279130": {
     "name": "Nolan Traore",
     "team": "BKN",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Traore (hamstring) won't return to Friday's game against Orlando, Meghan Triplett of YES Network reports. He finished with four points (2-6 FG, 0-2 3Pt) and two assists over 18 minutes.",
     "relevant": false
   },
   "4702670": {
     "name": "Grant Nelson",
     "team": "BKN",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Nelson (ankle) has been ruled out for Friday's game against Orlando.",
     "relevant": false
   },
@@ -188,13 +188,6 @@
     "short": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",
     "relevant": null
   },
-  "5258459": {
-    "name": "Ebuka Okorie",
-    "team": "DET",
-    "status": "Day-To-Day",
-    "short": "Okorie (oblique) has been ruled out for Friday's game against Toronto.",
-    "relevant": false
-  },
   "4683771": {
     "name": "Ronald Holland II",
     "team": "DET",
@@ -207,6 +200,13 @@
     "team": "DET",
     "status": "Out",
     "short": "Prince (knee) underwent surgery to address lingering issues and has no timeline for a return, Hunter Patterson of The Athletic reports.",
+    "relevant": false
+  },
+  "5258459": {
+    "name": "Ebuka Okorie",
+    "team": "DET",
+    "status": "Out",
+    "short": "Okorie (oblique) has been ruled out for Friday's game against Toronto.",
     "relevant": false
   },
   "5037878": {
@@ -282,7 +282,7 @@
   "2530530": {
     "name": "T.J. McConnell",
     "team": "IND",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Rick Carlisle revealed during his postgame interview that McConnell exited Friday's 128-119 loss with a left hamstring issue, Tony East of Forbes.com reports.",
     "relevant": false
   },
@@ -461,19 +461,19 @@
     "short": "Anunoby (calf) is questionable for Saturday's game against Portland.",
     "relevant": null
   },
-  "2991350": {
-    "name": "Alex Caruso",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Caruso (hip) is listed as out for Friday's game against the Pelicans.",
-    "relevant": null
-  },
   "5159925": {
     "name": "Nikola Topic",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Topic (hip) is out for Friday's game against New Orleans.",
     "relevant": false
+  },
+  "2991350": {
+    "name": "Alex Caruso",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Caruso (hip) is listed as out for Friday's game against the Pelicans.",
+    "relevant": null
   },
   "5061603": {
     "name": "Thomas Sorber",
@@ -625,7 +625,7 @@
   "4431679": {
     "name": "Precious Achiuwa",
     "team": "SAC",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers.",
     "relevant": null
   },
@@ -664,19 +664,19 @@
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
     "relevant": null
   },
-  "5093267": {
-    "name": "Collin Murray-Boyles",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Murray-Boyles (concussion) has been ruled out for Friday's game against the Pistons.",
-    "relevant": false
-  },
   "6450": {
     "name": "Kawhi Leonard",
     "team": "TOR",
     "status": "Out",
     "short": "Leonard (knee) could return in the next few weeks, per Shams Charania of ESPN.",
     "relevant": true
+  },
+  "5093267": {
+    "name": "Collin Murray-Boyles",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Murray-Boyles (concussion) has been ruled out for Friday's game against the Pistons.",
+    "relevant": false
   },
   "4395625": {
     "name": "RJ Barrett",
@@ -716,7 +716,7 @@
   "5105841": {
     "name": "Felix Okpara",
     "team": "WSH",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Okpara (illness) is available for Friday's game against Toronto.",
     "relevant": false
   },
