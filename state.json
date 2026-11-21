@@ -496,11 +496,18 @@
     "short": "Clarkson (foot) won't play in Saturday's game against Portland.",
     "relevant": false
   },
+  "4278073": {
+    "name": "Shai Gilgeous-Alexander",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Gilgeous-Alexander (back/neck) is listed as questionable for Sunday's game versus Miami.",
+    "relevant": null
+  },
   "5159925": {
     "name": "Nikola Topic",
     "team": "OKC",
     "status": "Out",
-    "short": "Topic (hip) is out for Friday's game against New Orleans.",
+    "short": "Topic (hip) is listed as out for Sunday's game versus the Heat.",
     "relevant": false
   },
   "4432823": {
