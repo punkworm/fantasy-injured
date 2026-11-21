@@ -149,9 +149,9 @@
   "4278078": {
     "name": "P.J. Washington",
     "team": "DAL",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Washington (illness/shoulder) has been downgraded from questionable to doubtful ahead of Saturday's game against the Clippers.",
-    "relevant": null
+    "relevant": true
   },
   "5106040": {
     "name": "Tobi Lawal",
@@ -159,13 +159,6 @@
     "status": "Out",
     "short": "Lawal (groin) is out for Saturday's game against the Clippers.",
     "relevant": false
-  },
-  "4896372": {
-    "name": "Walter Clayton Jr.",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Clayton (knee) is questionable for Saturday's game against the Clippers.",
-    "relevant": null
   },
   "4683688": {
     "name": "Dereck Lively II",
