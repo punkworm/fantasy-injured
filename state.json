@@ -293,19 +293,19 @@
     "short": "Capela (ankle) is out for Friday's game against Denver.",
     "relevant": false
   },
+  "2530530": {
+    "name": "T.J. McConnell",
+    "team": "IND",
+    "status": "Out",
+    "short": "McConnell (hamstring) is listed as out for Sunday's game in New York.",
+    "relevant": false
+  },
   "3149673": {
     "name": "Pascal Siakam",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "Siakam chipped in 24 points (10-17 FG, 2-2 3Pt, 2-2 FT), four rebounds, three assists, one block and three steals across 33 minutes during Wednesday's 119-104 loss to the Rockets.",
+    "short": "Siakam (hip) is listed as questionable for Sunday's game against New York.",
     "relevant": null
-  },
-  "2530530": {
-    "name": "T.J. McConnell",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Rick Carlisle revealed during his postgame interview that McConnell exited Friday's 128-119 loss with a left hamstring issue, Tony East of Forbes.com reports.",
-    "relevant": false
   },
   "4396993": {
     "name": "Tyrese Haliburton",
