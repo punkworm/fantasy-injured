@@ -62,19 +62,26 @@
     "short": "Traore (hamstring) has been ruled out for Monday's game against the Timberwolves.",
     "relevant": false
   },
-  "4066218": {
-    "name": "Grant Williams",
-    "team": "CHA",
-    "status": "Day-To-Day",
-    "short": "Williams (hamstring) is listed as out for Friday's game versus the Hawks.",
-    "relevant": false
-  },
   "3135045": {
     "name": "Grayson Allen",
     "team": "CHA",
-    "status": "Day-To-Day",
-    "short": "Allen (concussion) has been ruled out for Friday's game against Atlanta.",
+    "status": "Out",
+    "short": "Allen (concussion) has been ruled out for Monday's game against the Grizzlies.",
     "relevant": true
+  },
+  "4433287": {
+    "name": "Brandon Miller",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "Miller is probable for Monday's game against the Grizzlies due to a right knee contusion.",
+    "relevant": null
+  },
+  "4066218": {
+    "name": "Grant Williams",
+    "team": "CHA",
+    "status": "Out",
+    "short": "Williams (hamstring) won't play Monday's game against the Grizzlies.",
+    "relevant": false
   },
   "5061575": {
     "name": "Kon Knueppel",
