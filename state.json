@@ -485,23 +485,23 @@
   "3136195": {
     "name": "Karl-Anthony Towns",
     "team": "NY",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Towns (illness) won't play in Saturday's game versus the Trail Blazers.",
-    "relevant": true
-  },
-  "3934719": {
-    "name": "OG Anunoby",
-    "team": "NY",
-    "status": "Out",
-    "short": "Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers.",
     "relevant": true
   },
   "2528426": {
     "name": "Jordan Clarkson",
     "team": "NY",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Clarkson (foot) won't play in Saturday's game against Portland.",
     "relevant": false
+  },
+  "3934719": {
+    "name": "OG Anunoby",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "short": "Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers.",
+    "relevant": true
   },
   "4278073": {
     "name": "Shai Gilgeous-Alexander",
