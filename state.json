@@ -100,9 +100,9 @@
   "4278067": {
     "name": "Nic Claxton",
     "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Claxton (illness) is questionable to play in Sunday's game against the Nuggets.",
-    "relevant": null
+    "status": "Out",
+    "short": "Claxton (illness) won't play in Sunday's game against the Nuggets.",
+    "relevant": true
   },
   "4397189": {
     "name": "Jalen Smith",
@@ -332,7 +332,7 @@
     "name": "Austin Reaves",
     "team": "LAL",
     "status": "Out",
-    "short": "Head coach JJ Redick said he expects Reaves (heel) to return for Monday's matchup with Utah or Friday's game in San Antonio, Mark Medina of TheSportingTribune.com reports.",
+    "short": "Reaves (heel) was a full participant in Sunday's practice, Thuc Nhi Nguyen of the Los Angeles Times reports.",
     "relevant": true
   },
   "4781746": {
