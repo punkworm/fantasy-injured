@@ -475,18 +475,18 @@
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
   },
+  "3934719": {
+    "name": "OG Anunoby",
+    "team": "NY",
+    "status": "Out",
+    "short": "Anunoby (calf) won't play Sunday against the Pacers.",
+    "relevant": true
+  },
   "3136195": {
     "name": "Karl-Anthony Towns",
     "team": "NY",
     "status": "Day-To-Day",
     "short": "Towns (illness) is questionable to play in Sunday's game against the Pacers.",
-    "relevant": true
-  },
-  "3934719": {
-    "name": "OG Anunoby",
-    "team": "NY",
-    "status": "Out",
-    "short": "Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers.",
     "relevant": true
   },
   "2528426": {
@@ -733,6 +733,13 @@
     "status": "Out",
     "short": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
     "relevant": true
+  },
+  "4845374": {
+    "name": "Bub Carrington",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "short": "Carrington (illness) has been downgraded to questionable for Sunday's game against the Magic.",
+    "relevant": null
   },
   "4278129": {
     "name": "Deandre Ayton",
