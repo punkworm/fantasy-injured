@@ -163,14 +163,14 @@
   "4278078": {
     "name": "P.J. Washington",
     "team": "DAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Washington (illness/shoulder) is listed as out for Saturday's game against the Clippers.",
     "relevant": true
   },
   "5106040": {
     "name": "Tobi Lawal",
     "team": "DAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Lawal (groin) is out for Saturday's game against the Clippers.",
     "relevant": false
   },
@@ -356,26 +356,26 @@
     "short": "Head coach JJ Redick said he expects Reaves (heel) to return for Monday's matchup with Utah or Friday's game in San Antonio, Mark Medina of TheSportingTribune.com reports.",
     "relevant": true
   },
-  "2991070": {
-    "name": "Jerami Grant",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Grant (calf) is out for Saturday's game against the Timberwolves.",
-    "relevant": null
-  },
   "4781746": {
     "name": "Javon Small",
     "team": "MEM",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Small won't play Saturday against the Timberwolves due to personal reasons.",
     "relevant": false
   },
   "5041935": {
     "name": "Cameron Boozer",
     "team": "MEM",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Boozer is out for Saturday's game against Minnesota due to a right ankle sprain.",
     "relevant": true
+  },
+  "2991070": {
+    "name": "Jerami Grant",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "short": "Grant (calf) is out for Saturday's game against the Timberwolves.",
+    "relevant": null
   },
   "5105550": {
     "name": "GG Jackson",
