@@ -34,26 +34,19 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
-  "3078576": {
-    "name": "Derrick White",
-    "team": "BOS",
-    "status": "Day-To-Day",
-    "short": "White (shoulder) has been ruled out for Saturday's game against Sacramento.",
-    "relevant": true
-  },
   "4351852": {
     "name": "Mitchell Robinson",
     "team": "BOS",
-    "status": "Day-To-Day",
-    "short": "Robinson (illness) has been ruled out for Saturday's game against the Kings, Keith Smith of Spotrac.com reports.",
+    "status": "Out",
+    "short": "Robinson (illness) has been ruled out for Sunday's game against Golden State, Justin Turpin of WEEI.com reports.",
     "relevant": false
   },
-  "4065648": {
-    "name": "Jayson Tatum",
+  "4251": {
+    "name": "Paul George",
     "team": "BOS",
-    "status": "Day-To-Day",
-    "short": "Tatum (rest) has been ruled out for Saturday's game against the Kings.",
-    "relevant": null
+    "status": "Out",
+    "short": "George (rest) has been ruled out for Sunday's game against Golden State, Justin Turpin of WEEI.com reports.",
+    "relevant": true
   },
   "4702670": {
     "name": "Grant Nelson",
@@ -419,6 +412,13 @@
     "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
+  "4576086": {
+    "name": "Bryce McGowens",
+    "team": "NO",
+    "status": "Out",
+    "short": "McGowens (elbow) is listed as probable for Monday's game against Phoenix.",
+    "relevant": false
+  },
   "4395628": {
     "name": "Zion Williamson",
     "team": "NO",
@@ -438,13 +438,6 @@
     "team": "NO",
     "status": "Out",
     "short": "Watford (ankle) is out for Saturday's game against the Spurs.",
-    "relevant": false
-  },
-  "4576086": {
-    "name": "Bryce McGowens",
-    "team": "NO",
-    "status": "Out",
-    "short": "McGowens (elbow) has been ruled out for Friday's game against the Thunder.",
     "relevant": false
   },
   "4683634": {
