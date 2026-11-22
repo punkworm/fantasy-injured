@@ -104,6 +104,13 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
+  "4278067": {
+    "name": "Nic Claxton",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Claxton ended with 11 points (4-8 FG, 3-3 FT), seven rebounds, one assist and two blocks across 29 minutes during Friday's 98-94 loss to Washington.",
+    "relevant": null
+  },
   "2595516": {
     "name": "Norman Powell",
     "team": "CHI",
@@ -124,13 +131,6 @@
     "status": "Day-To-Day",
     "short": "Smith (illness) is out for Friday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
     "relevant": null
-  },
-  "5105555": {
-    "name": "Tobe Awaka",
-    "team": "CHI",
-    "status": "Out",
-    "short": "Awaka (back) has been ruled out for Wednesday's game against the Nets.",
-    "relevant": false
   },
   "5095151": {
     "name": "Caleb Wilson",
@@ -689,7 +689,7 @@
     "name": "Collin Murray-Boyles",
     "team": "TOR",
     "status": "Day-To-Day",
-    "short": "Murray-Boyles (concussion) has been ruled out for Friday's game against the Pistons.",
+    "short": "Murray-Boyles (concussion) participated in Sunday's practice, Michael Grange of Sportsnet.ca reports.",
     "relevant": false
   },
   "6450": {
