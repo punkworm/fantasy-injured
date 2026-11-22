@@ -62,19 +62,19 @@
     "short": "Traore (hamstring) has been ruled out for Monday's game against the Timberwolves.",
     "relevant": false
   },
+  "3135045": {
+    "name": "Grayson Allen",
+    "team": "CHA",
+    "status": "Out",
+    "short": "Allen (concussion) has been ruled out for Monday's game against the Grizzlies.",
+    "relevant": true
+  },
   "4433287": {
     "name": "Brandon Miller",
     "team": "CHA",
     "status": "Day-To-Day",
     "short": "Miller is probable for Monday's game against the Grizzlies due to a right knee contusion.",
     "relevant": null
-  },
-  "3135045": {
-    "name": "Grayson Allen",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Allen (concussion) has been ruled out for Friday's game against Atlanta.",
-    "relevant": true
   },
   "4066218": {
     "name": "Grant Williams",
@@ -314,19 +314,19 @@
     "short": "Reaves (heel) was a full participant in Sunday's practice, Thuc Nhi Nguyen of the Los Angeles Times reports.",
     "relevant": true
   },
+  "5041935": {
+    "name": "Cameron Boozer",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Boozer is out for Saturday's game against Minnesota due to a right ankle sprain.",
+    "relevant": true
+  },
   "4781746": {
     "name": "Javon Small",
     "team": "MEM",
     "status": "Day-To-Day",
     "short": "Small won't play Saturday against the Timberwolves due to personal reasons.",
     "relevant": false
-  },
-  "5041935": {
-    "name": "Cameron Boozer",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Boozer is out for Saturday's game against Minnesota due to a right ankle sprain.",
-    "relevant": true
   },
   "2991070": {
     "name": "Jerami Grant",
@@ -538,19 +538,19 @@
     "short": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",
     "relevant": null
   },
+  "3917376": {
+    "name": "Jaylen Brown",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "short": "Brown (hamstring) is listed as probable for Monday's game versus Portland.",
+    "relevant": true
+  },
   "3912848": {
     "name": "Dean Wade",
     "team": "PHI",
     "status": "Day-To-Day",
     "short": "Wade (hamstring) is listed as probable for Monday's game against Portland.",
     "relevant": false
-  },
-  "3917376": {
-    "name": "Jaylen Brown",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "short": "Brown (hamstring) went through individual work during Friday's practice, Tony Jones of The Athletic reports.",
-    "relevant": true
   },
   "5105637": {
     "name": "Adem Bona",
