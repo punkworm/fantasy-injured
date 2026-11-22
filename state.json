@@ -108,14 +108,7 @@
     "name": "Nic Claxton",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Claxton (illness) is questionable to play in Sunday's game against the Nuggets.",
-    "relevant": null
-  },
-  "4397189": {
-    "name": "Jalen Smith",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Smith (illness) has been upgraded to probable for Sunday's game against the Nuggets.",
+    "short": "Claxton ended with 11 points (4-8 FG, 3-3 FT), seven rebounds, one assist and two blocks across 29 minutes during Friday's 98-94 loss to Washington.",
     "relevant": null
   },
   "2595516": {
@@ -130,6 +123,13 @@
     "team": "CHI",
     "status": "Day-To-Day",
     "short": "Williams is probable for Sunday's game against the Nuggets due to a left thumb sprain.",
+    "relevant": null
+  },
+  "4397189": {
+    "name": "Jalen Smith",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Smith (illness) is out for Friday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
     "relevant": null
   },
   "5095151": {
@@ -733,13 +733,6 @@
     "status": "Out",
     "short": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",
     "relevant": true
-  },
-  "4278129": {
-    "name": "Deandre Ayton",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "short": "Ayton had two points (1-1 FG), four rebounds and one block in nine minutes during Thursday's 144-140 double-overtime loss to the Pistons.",
-    "relevant": null
   },
   "4997537": {
     "name": "Tristan Vukcevic",
