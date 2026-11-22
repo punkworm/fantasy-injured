@@ -104,26 +104,12 @@
     "short": "Claxton (illness) won't play in Sunday's game against the Nuggets.",
     "relevant": true
   },
-  "4397189": {
-    "name": "Jalen Smith",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Smith (illness) has been upgraded to probable for Sunday's game against the Nuggets.",
-    "relevant": null
-  },
   "2595516": {
     "name": "Norman Powell",
     "team": "CHI",
     "status": "Out",
     "short": "Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated later this week.",
     "relevant": true
-  },
-  "4431687": {
-    "name": "Patrick Williams",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Williams is probable for Sunday's game against the Nuggets due to a left thumb sprain.",
-    "relevant": null
   },
   "5095151": {
     "name": "Caleb Wilson",
@@ -328,19 +314,19 @@
     "short": "Reaves (heel) was a full participant in Sunday's practice, Thuc Nhi Nguyen of the Los Angeles Times reports.",
     "relevant": true
   },
+  "5041935": {
+    "name": "Cameron Boozer",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Boozer is out for Saturday's game against Minnesota due to a right ankle sprain.",
+    "relevant": true
+  },
   "4781746": {
     "name": "Javon Small",
     "team": "MEM",
     "status": "Day-To-Day",
     "short": "Small won't play Saturday against the Timberwolves due to personal reasons.",
     "relevant": false
-  },
-  "5041935": {
-    "name": "Cameron Boozer",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Boozer is out for Saturday's game against Minnesota due to a right ankle sprain.",
-    "relevant": true
   },
   "2991070": {
     "name": "Jerami Grant",
