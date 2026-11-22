@@ -157,14 +157,21 @@
     "name": "P.J. Washington",
     "team": "DAL",
     "status": "Day-To-Day",
-    "short": "Washington (illness/shoulder) is listed as out for Saturday's game against the Clippers.",
+    "short": "Washington (illness) is doubtful to play Sunday's game against the Jazz.",
     "relevant": true
+  },
+  "4896372": {
+    "name": "Walter Clayton Jr.",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Clayton (knee) is listed as questionable for Sunday's game against the Jazz.",
+    "relevant": null
   },
   "5106040": {
     "name": "Tobi Lawal",
     "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Lawal (groin) is out for Saturday's game against the Clippers.",
+    "status": "Out",
+    "short": "Lawal (groin) has been ruled out for Sunday's game against the Jazz.",
     "relevant": false
   },
   "4683688": {
