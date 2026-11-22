@@ -142,16 +142,9 @@
   "4278078": {
     "name": "P.J. Washington",
     "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Washington (illness) is doubtful to play Sunday's game against the Jazz.",
+    "status": "Out",
+    "short": "Washington (illness) has been ruled out for Sunday's game against the Jazz.",
     "relevant": true
-  },
-  "4896372": {
-    "name": "Walter Clayton Jr.",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Clayton (knee) is listed as questionable for Sunday's game against the Jazz.",
-    "relevant": null
   },
   "5106040": {
     "name": "Tobi Lawal",
@@ -314,26 +307,19 @@
     "short": "Reaves (heel) was a full participant in Sunday's practice, Thuc Nhi Nguyen of the Los Angeles Times reports.",
     "relevant": true
   },
-  "5041935": {
-    "name": "Cameron Boozer",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Boozer is out for Saturday's game against Minnesota due to a right ankle sprain.",
-    "relevant": true
-  },
-  "4781746": {
-    "name": "Javon Small",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "short": "Small won't play Saturday against the Timberwolves due to personal reasons.",
-    "relevant": false
-  },
   "2991070": {
     "name": "Jerami Grant",
     "team": "MEM",
     "status": "Day-To-Day",
-    "short": "Grant (calf) is out for Saturday's game against the Timberwolves.",
+    "short": "Grant (calf) has been ruled out for Monday's game against the Hornets.",
     "relevant": null
+  },
+  "5041935": {
+    "name": "Cameron Boozer",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Boozer (ankle) won't play Monday's game against the Hornets.",
+    "relevant": true
   },
   "5105550": {
     "name": "GG Jackson",
