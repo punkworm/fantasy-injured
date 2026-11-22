@@ -258,13 +258,6 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
-  "3102529": {
-    "name": "Clint Capela",
-    "team": "HOU",
-    "status": "Out",
-    "short": "Capela (ankle) is out for Friday's game against Denver.",
-    "relevant": false
-  },
   "2530530": {
     "name": "T.J. McConnell",
     "team": "IND",
@@ -668,7 +661,14 @@
     "name": "Collin Murray-Boyles",
     "team": "TOR",
     "status": "Day-To-Day",
-    "short": "Murray-Boyles (concussion) participated in Sunday's practice, Michael Grange of Sportsnet.ca reports.",
+    "short": "Murray-Boyles (concussion) is listed as probable for Monday's game against Milwaukee, Blake Murphy of Sportsnet.ca reports.",
+    "relevant": false
+  },
+  "4432586": {
+    "name": "Nate Bittle",
+    "team": "TOR",
+    "status": "Out",
+    "short": "Bittle (foot) has been ruled out for Monday's game against the Bucks, Blake Murphy of Sportsnet.ca reports.",
     "relevant": false
   },
   "6450": {
@@ -684,13 +684,6 @@
     "status": "Out",
     "short": "Barrett has been diagnosed with a right hamstring strain and will be re-evaluated in two weeks, Brett Siegel of ClutchPoints.com reports.",
     "relevant": true
-  },
-  "4432586": {
-    "name": "Nate Bittle",
-    "team": "TOR",
-    "status": "Out",
-    "short": "Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports.",
-    "relevant": false
   },
   "3102530": {
     "name": "Jusuf Nurkic",
