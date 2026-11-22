@@ -374,7 +374,7 @@
     "name": "Ousmane Dieng",
     "team": "MIL",
     "status": "Out",
-    "short": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports.",
+    "short": "Dieng (finger) is questionable for Monday's game against the Raptors.",
     "relevant": false
   },
   "4432247": {
@@ -464,9 +464,9 @@
   "4278073": {
     "name": "Shai Gilgeous-Alexander",
     "team": "OKC",
-    "status": "Day-To-Day",
-    "short": "Gilgeous-Alexander (back/neck) is listed as questionable for Sunday's game versus Miami.",
-    "relevant": null
+    "status": "Out",
+    "short": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat.",
+    "relevant": true
   },
   "5159925": {
     "name": "Nikola Topic",
