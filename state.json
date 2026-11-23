@@ -100,7 +100,7 @@
   "4278067": {
     "name": "Nic Claxton",
     "team": "CHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Claxton (illness) won't play in Sunday's game against the Nuggets.",
     "relevant": true
   },
@@ -142,7 +142,7 @@
   "4278078": {
     "name": "P.J. Washington",
     "team": "DAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Washington (illness) has been ruled out for Sunday's game against the Jazz.",
     "relevant": true
   },
@@ -247,7 +247,7 @@
   "2530530": {
     "name": "T.J. McConnell",
     "team": "IND",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "McConnell (hamstring) is listed as out for Sunday's game in New York.",
     "relevant": false
   },
@@ -408,14 +408,14 @@
   "4431823": {
     "name": "Miles McBride",
     "team": "NY",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "McBride (abdomen) has been ruled out for Sunday's game against the Pacers.",
     "relevant": false
   },
   "3934719": {
     "name": "OG Anunoby",
     "team": "NY",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Anunoby (calf) won't play Sunday against the Pacers.",
     "relevant": true
   },
@@ -429,35 +429,35 @@
   "5174983": {
     "name": "Aday Mara",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Mara (shin) is listed as out for Sunday's game versus Miami.",
     "relevant": null
-  },
-  "4278073": {
-    "name": "Shai Gilgeous-Alexander",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat.",
-    "relevant": true
-  },
-  "5159925": {
-    "name": "Nikola Topic",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Topic (hip) is listed as out for Sunday's game versus the Heat.",
-    "relevant": false
   },
   "4432823": {
     "name": "Jaylin Williams",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Williams (back) is listed as out for Sunday's game against Miami.",
     "relevant": false
+  },
+  "5159925": {
+    "name": "Nikola Topic",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Topic (hip) is listed as out for Sunday's game versus the Heat.",
+    "relevant": false
+  },
+  "4278073": {
+    "name": "Shai Gilgeous-Alexander",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat.",
+    "relevant": true
   },
   "2991350": {
     "name": "Alex Caruso",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Caruso (hip) won't play Sunday against the Heat.",
     "relevant": null
   },
