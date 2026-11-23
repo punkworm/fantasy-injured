@@ -76,20 +76,6 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
-  "4397189": {
-    "name": "Jalen Smith",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Smith (illness) is probable for Monday's game against Cleveland.",
-    "relevant": null
-  },
-  "4278067": {
-    "name": "Nic Claxton",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "short": "Claxton (illness) is questionable for Monday's game against Cleveland.",
-    "relevant": true
-  },
   "2595516": {
     "name": "Norman Powell",
     "team": "CHI",
@@ -129,7 +115,7 @@
     "name": "P.J. Washington",
     "team": "DAL",
     "status": "Day-To-Day",
-    "short": "Washington (illness) has been ruled out for Sunday's game against the Jazz.",
+    "short": "Washington (illness) is questionable for Tuesday's game against the Nuggets.",
     "relevant": true
   },
   "5106040": {
@@ -293,19 +279,19 @@
     "short": "Reaves (heel) has been ruled out for Monday's game against the Jazz, Jovan Buha of The Athletic reports.",
     "relevant": true
   },
+  "5041935": {
+    "name": "Cameron Boozer",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Boozer (ankle) will be re-evaluated in four weeks, Brett Siegel of ClutchPoints.com reports.",
+    "relevant": true
+  },
   "2991070": {
     "name": "Jerami Grant",
     "team": "MEM",
     "status": "Out",
     "short": "Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks.",
     "relevant": null
-  },
-  "5041935": {
-    "name": "Cameron Boozer",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Boozer (ankle) won't play Monday's game against the Hornets.",
-    "relevant": true
   },
   "5105550": {
     "name": "GG Jackson",
