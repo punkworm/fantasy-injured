@@ -111,19 +111,19 @@
     "short": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days.",
     "relevant": true
   },
+  "5106040": {
+    "name": "Tobi Lawal",
+    "team": "DAL",
+    "status": "Out",
+    "short": "Lawal (groin) is out for Tuesday's game against Denver.",
+    "relevant": false
+  },
   "4278078": {
     "name": "P.J. Washington",
     "team": "DAL",
     "status": "Day-To-Day",
     "short": "Washington (illness) is questionable for Tuesday's game against the Nuggets.",
     "relevant": true
-  },
-  "5106040": {
-    "name": "Tobi Lawal",
-    "team": "DAL",
-    "status": "Out",
-    "short": "Lawal (groin) has been ruled out for Sunday's game against the Jazz.",
-    "relevant": false
   },
   "4683688": {
     "name": "Dereck Lively II",
