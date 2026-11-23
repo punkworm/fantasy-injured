@@ -94,14 +94,14 @@
     "name": "Jalen Smith",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Smith amassed 26 points (10-14 FG, 6-7 3Pt), four rebounds, one assist, two blocks and two steals across 34 minutes before fouling out of Sunday's 151-145 overtime loss to the Nuggets.",
+    "short": "Smith (illness) is probable for Monday's game against Cleveland.",
     "relevant": null
   },
   "4278067": {
     "name": "Nic Claxton",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Claxton (illness) won't play in Sunday's game against the Nuggets.",
+    "short": "Claxton (illness) is questionable for Monday's game against Cleveland.",
     "relevant": true
   },
   "2595516": {
@@ -426,33 +426,40 @@
     "short": "Clarkson (foot) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
-  "2991350": {
-    "name": "Alex Caruso",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Caruso (hip) won't play Sunday against the Heat.",
-    "relevant": null
-  },
-  "5174983": {
-    "name": "Aday Mara",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Mara (shin) is listed as out for Sunday's game versus Miami.",
-    "relevant": null
-  },
   "4432823": {
     "name": "Jaylin Williams",
     "team": "OKC",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Williams (back) is listed as out for Sunday's game against Miami.",
     "relevant": false
   },
   "5159925": {
     "name": "Nikola Topic",
     "team": "OKC",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Topic (hip) is listed as out for Sunday's game versus the Heat.",
     "relevant": false
+  },
+  "5174983": {
+    "name": "Aday Mara",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Mara (shin) has been ruled out for Monday's game against the Pacers.",
+    "relevant": null
+  },
+  "4593803": {
+    "name": "Jalen Williams",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Williams (ankle) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
+    "relevant": true
+  },
+  "2991350": {
+    "name": "Alex Caruso",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Caruso (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
+    "relevant": null
   },
   "5061603": {
     "name": "Thomas Sorber",
@@ -473,13 +480,6 @@
     "team": "OKC",
     "status": "Out",
     "short": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",
-    "relevant": true
-  },
-  "4593803": {
-    "name": "Jalen Williams",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",
     "relevant": true
   },
   "4065654": {
