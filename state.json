@@ -34,13 +34,6 @@
     "short": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
     "relevant": null
   },
-  "4251": {
-    "name": "Paul George",
-    "team": "BOS",
-    "status": "Day-To-Day",
-    "short": "George (rest) has been ruled out for Sunday's game against Golden State, Justin Turpin of WEEI.com reports.",
-    "relevant": true
-  },
   "4351852": {
     "name": "Mitchell Robinson",
     "team": "BOS",
@@ -667,8 +660,8 @@
   "4397077": {
     "name": "Jaxson Hayes",
     "team": "UTAH",
-    "status": "Day-To-Day",
-    "short": "Hayes (knee) has been ruled out for the remainder of Sunday's game against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports.",
+    "status": "Out",
+    "short": "Hayes (knee) has been ruled out for Monday's game against the Lakers.",
     "relevant": false
   },
   "3102530": {
