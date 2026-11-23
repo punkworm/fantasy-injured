@@ -90,6 +90,13 @@
     "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
+  "4397189": {
+    "name": "Jalen Smith",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Smith amassed 26 points (10-14 FG, 6-7 3Pt), four rebounds, one assist, two blocks and two steals across 34 minutes before fouling out of Sunday's 151-145 overtime loss to the Nuggets.",
+    "relevant": null
+  },
   "4278067": {
     "name": "Nic Claxton",
     "team": "CHI",
@@ -426,10 +433,17 @@
     "short": "Clarkson (foot) has been ruled out for Sunday's game against Indiana.",
     "relevant": false
   },
+  "2991350": {
+    "name": "Alex Caruso",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Caruso (hip) won't play Sunday against the Heat.",
+    "relevant": null
+  },
   "5174983": {
     "name": "Aday Mara",
     "team": "OKC",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Mara (shin) is listed as out for Sunday's game versus Miami.",
     "relevant": null
   },
@@ -446,20 +460,6 @@
     "status": "Day-To-Day",
     "short": "Topic (hip) is listed as out for Sunday's game versus the Heat.",
     "relevant": false
-  },
-  "4278073": {
-    "name": "Shai Gilgeous-Alexander",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "short": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat.",
-    "relevant": true
-  },
-  "2991350": {
-    "name": "Alex Caruso",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "short": "Caruso (hip) won't play Sunday against the Heat.",
-    "relevant": null
   },
   "5061603": {
     "name": "Thomas Sorber",
