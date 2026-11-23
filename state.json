@@ -429,35 +429,35 @@
   "5174983": {
     "name": "Aday Mara",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Mara (shin) is listed as out for Sunday's game versus Miami.",
     "relevant": null
-  },
-  "4278073": {
-    "name": "Shai Gilgeous-Alexander",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat.",
-    "relevant": true
-  },
-  "5159925": {
-    "name": "Nikola Topic",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Topic (hip) is listed as out for Sunday's game versus the Heat.",
-    "relevant": false
   },
   "4432823": {
     "name": "Jaylin Williams",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Williams (back) is listed as out for Sunday's game against Miami.",
     "relevant": false
+  },
+  "5159925": {
+    "name": "Nikola Topic",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Topic (hip) is listed as out for Sunday's game versus the Heat.",
+    "relevant": false
+  },
+  "4278073": {
+    "name": "Shai Gilgeous-Alexander",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat.",
+    "relevant": true
   },
   "2991350": {
     "name": "Alex Caruso",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Caruso (hip) won't play Sunday against the Heat.",
     "relevant": null
   },
