@@ -153,6 +153,13 @@
     "short": "Biberovic (heel) is out for Wednesday's game against the Warriors.",
     "relevant": false
   },
+  "4432166": {
+    "name": "Cade Cunningham",
+    "team": "DET",
+    "status": "Out",
+    "short": "Cunningham (knee) is listed as out for Tuesday's game against Orlando.",
+    "relevant": null
+  },
   "5258459": {
     "name": "Ebuka Okorie",
     "team": "DET",
@@ -180,13 +187,6 @@
     "status": "Out",
     "short": "Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as he ramps up for a return, Eric Vincent of ClutchPoints.com reports.",
     "relevant": true
-  },
-  "4432166": {
-    "name": "Cade Cunningham",
-    "team": "DET",
-    "status": "Day-To-Day",
-    "short": "Cunningham (knee) is probable for Tuesday's game against the Orlando.",
-    "relevant": null
   },
   "5175737": {
     "name": "Yaxel Lendeborg",
@@ -405,26 +405,26 @@
     "short": "Towns (knee) is questionable for Wednesday's game against Cleveland.",
     "relevant": null
   },
-  "5174983": {
-    "name": "Aday Mara",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Mara (shin) has been ruled out for Monday's game against the Pacers.",
-    "relevant": null
-  },
-  "4432823": {
-    "name": "Jaylin Williams",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "short": "Williams (back) has been ruled out for Monday's game against the Pacers",
-    "relevant": false
-  },
   "5159925": {
     "name": "Nikola Topic",
     "team": "OKC",
     "status": "Out",
-    "short": "Topic (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
+    "short": "Topic (hip) is listed as out for Wednesday's game versus Minnesota.",
     "relevant": false
+  },
+  "4432823": {
+    "name": "Jaylin Williams",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Williams (back) is listed as out for Wednesday's game against Minnesota.",
+    "relevant": false
+  },
+  "5174983": {
+    "name": "Aday Mara",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Mara (leg) is out for Wednesday's game versus the Timberwolves.",
+    "relevant": null
   },
   "4593803": {
     "name": "Jalen Williams",
@@ -432,13 +432,6 @@
     "status": "Out",
     "short": "Williams (ankle) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
     "relevant": true
-  },
-  "2991350": {
-    "name": "Alex Caruso",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Caruso (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
-    "relevant": null
   },
   "5061603": {
     "name": "Thomas Sorber",
