@@ -314,6 +314,13 @@
     "short": "Antetokounmpo (groin) won't play in Sunday's game against Oklahoma City, Clemente Almanza of USA Today reports.",
     "relevant": true
   },
+  "3934673": {
+    "name": "Donte DiVincenzo",
+    "team": "MIN",
+    "status": "Out",
+    "short": "DiVincenzo (Achilles) has been cleared for team basketball activities and is targeting a return to game action in January, Jon Krawczynski of The Athletic reports.",
+    "relevant": false
+  },
   "4432247": {
     "name": "Jaylen Clark",
     "team": "MIN",
@@ -327,13 +334,6 @@
     "status": "Out",
     "short": "Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",
     "relevant": true
-  },
-  "3934673": {
-    "name": "Donte DiVincenzo",
-    "team": "MIN",
-    "status": "Out",
-    "short": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
-    "relevant": null
   },
   "4431675": {
     "name": "Trendon Watford",
