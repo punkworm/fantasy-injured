@@ -48,25 +48,32 @@
     "short": "Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
-  "4066218": {
-    "name": "Grant Williams",
-    "team": "CHA",
-    "status": "Day-To-Day",
-    "short": "Williams (hamstring) won't play Monday's game against the Grizzlies.",
-    "relevant": false
-  },
   "4576060": {
     "name": "Ryan Kalkbrenner",
     "team": "CHA",
     "status": "Day-To-Day",
-    "short": "Kalkbrenner has been ruled out for the rest of Monday's game against Memphis due to left hip soreness. He'll end with two rebounds in nine minutes.",
+    "short": "Kalkbrenner (hip) is doubtful to play Wednesday against the Bulls.",
+    "relevant": null
+  },
+  "3032979": {
+    "name": "Dennis Schroder",
+    "team": "CHA",
+    "status": "Out",
+    "short": "Schroder (hamstring) is out for Wednesday's game the Bulls.",
+    "relevant": false
+  },
+  "4602025": {
+    "name": "Sion James",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "James is probable for Wednesday's game against the Bulls due to general soreness.",
     "relevant": null
   },
   "3135045": {
     "name": "Grayson Allen",
     "team": "CHA",
     "status": "Out",
-    "short": "Allen (concussion) has been ruled out for Monday's game against the Grizzlies.",
+    "short": "Allen (concussion) is listed as questionable for Wednesday's game versus Chicago.",
     "relevant": true
   },
   "5061575": {
@@ -75,13 +82,6 @@
     "status": "Out",
     "short": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.",
     "relevant": true
-  },
-  "3032979": {
-    "name": "Dennis Schroder",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
-    "relevant": false
   },
   "4397189": {
     "name": "Jalen Smith",
