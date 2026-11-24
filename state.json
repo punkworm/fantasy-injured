@@ -387,16 +387,9 @@
   "4432823": {
     "name": "Jaylin Williams",
     "team": "OKC",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Williams (back) has been ruled out for Monday's game against the Pacers",
     "relevant": false
-  },
-  "5174983": {
-    "name": "Aday Mara",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "short": "Mara (shin) has been ruled out for Monday's game against the Pacers.",
-    "relevant": null
   },
   "5159925": {
     "name": "Nikola Topic",
@@ -404,6 +397,13 @@
     "status": "Out",
     "short": "Topic (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
     "relevant": false
+  },
+  "5174983": {
+    "name": "Aday Mara",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Mara (shin) has been ruled out for Monday's game against the Pacers.",
+    "relevant": null
   },
   "4593803": {
     "name": "Jalen Williams",
@@ -471,7 +471,7 @@
   "3059318": {
     "name": "Joel Embiid",
     "team": "PHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Embiid (illness) is out for Monday's game against Portland, Austin Krell of OnPattison.com reports.",
     "relevant": true
   },
