@@ -153,6 +153,27 @@
     "short": "Biberovic (heel) is out for Wednesday's game against the Warriors.",
     "relevant": false
   },
+  "2990962": {
+    "name": "Taurean Prince",
+    "team": "DET",
+    "status": "Out",
+    "short": "Prince underwent arthroscopic right knee surgery Nov. 18 and will be re-evaluated in four weeks, Eric Vincent of ClutchPoints.com reports.",
+    "relevant": false
+  },
+  "3157465": {
+    "name": "Duncan Robinson",
+    "team": "DET",
+    "status": "Out",
+    "short": "Robinson (quadriceps) is considered day-to-day as he progresses in his rehab, Eric Vincent of ClutchPoints.com reports.",
+    "relevant": true
+  },
+  "4433621": {
+    "name": "Jalen Duren",
+    "team": "DET",
+    "status": "Out",
+    "short": "Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as he ramps up for a return, Eric Vincent of ClutchPoints.com reports.",
+    "relevant": true
+  },
   "5258459": {
     "name": "Ebuka Okorie",
     "team": "DET",
@@ -160,33 +181,12 @@
     "short": "Okorie (oblique) won't play Tuesday in Orlando.",
     "relevant": false
   },
-  "4433621": {
-    "name": "Jalen Duren",
-    "team": "DET",
-    "status": "Out",
-    "short": "Duren (hamstring) has been ruled out for Tuesday's game against the Magic.",
-    "relevant": true
-  },
   "4432166": {
     "name": "Cade Cunningham",
     "team": "DET",
     "status": "Day-To-Day",
     "short": "Cunningham (knee) is probable for Tuesday's game against the Orlando.",
     "relevant": null
-  },
-  "2990962": {
-    "name": "Taurean Prince",
-    "team": "DET",
-    "status": "Out",
-    "short": "Prince (knee) underwent surgery to address lingering issues and has no timeline for a return, Hunter Patterson of The Athletic reports.",
-    "relevant": false
-  },
-  "3157465": {
-    "name": "Duncan Robinson",
-    "team": "DET",
-    "status": "Out",
-    "short": "Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports.",
-    "relevant": true
   },
   "4397040": {
     "name": "Brandon Williams",
