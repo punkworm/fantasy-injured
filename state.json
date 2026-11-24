@@ -363,18 +363,32 @@
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
   },
+  "4431823": {
+    "name": "Miles McBride",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "short": "McBride (adductor) is listed as questionable for Wednesday's game versus Cleveland.",
+    "relevant": false
+  },
+  "2528426": {
+    "name": "Jordan Clarkson",
+    "team": "NY",
+    "status": "Out",
+    "short": "Clarkson (foot) is out for Wednesday's game against Cleveland.",
+    "relevant": false
+  },
   "3062679": {
     "name": "Josh Hart",
     "team": "NY",
     "status": "Day-To-Day",
-    "short": "Hart recorded 10 points (5-11 FG, 0-4 3Pt), 11 rebounds, 10 assists and one steal in 39 minutes during Sunday's 113-106 win over the Pacers.",
+    "short": "Hart (shoulder) is listed as questionable for Wednesday's game against Cleveland.",
     "relevant": null
   },
   "3934719": {
     "name": "OG Anunoby",
     "team": "NY",
     "status": "Out",
-    "short": "Anunoby (calf) did not participate in Tuesday's practice, Jared Schwartz of the New York Post reports.",
+    "short": "Anunoby (calf) is out for Wednesday's game against Cleveland.",
     "relevant": true
   },
   "3136195": {
@@ -383,20 +397,6 @@
     "status": "Day-To-Day",
     "short": "Towns (knee) is questionable for Wednesday's game against Cleveland.",
     "relevant": null
-  },
-  "2528426": {
-    "name": "Jordan Clarkson",
-    "team": "NY",
-    "status": "Out",
-    "short": "Clarkson (foot) didn't participate in Tuesday's practice, Jared Schwartz of the New York Post reports.",
-    "relevant": false
-  },
-  "4431823": {
-    "name": "Miles McBride",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "short": "McBride (groin) practiced Tuesday, per Jared Schwartz of the New York Post.",
-    "relevant": false
   },
   "4432823": {
     "name": "Jaylin Williams",
