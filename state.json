@@ -216,25 +216,25 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
-  "2580365": {
-    "name": "Larry Nance Jr.",
+  "4396909": {
+    "name": "Aaron Nesmith",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "Nance exited Monday's game against the Thunder due to a sore right ankle and he will not return, Tony East of Forbes.com reports.",
+    "short": "Nesmith is out for Monday's game against the Thunder due to right foot soreness.",
     "relevant": null
   },
   "2530530": {
     "name": "T.J. McConnell",
     "team": "IND",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "McConnell is out for Monday's game against the Thunder due to left hamstring soreness.",
     "relevant": false
   },
-  "4396909": {
-    "name": "Aaron Nesmith",
+  "2580365": {
+    "name": "Larry Nance Jr.",
     "team": "IND",
-    "status": "Out",
-    "short": "Nesmith is out for Monday's game against the Thunder due to right foot soreness.",
+    "status": "Day-To-Day",
+    "short": "Nance exited Monday's game against the Thunder due to a sore right ankle and he will not return, Tony East of Forbes.com reports.",
     "relevant": null
   },
   "4396993": {
@@ -387,9 +387,16 @@
   "4432823": {
     "name": "Jaylin Williams",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Williams (back) has been ruled out for Monday's game against the Pacers",
     "relevant": false
+  },
+  "5174983": {
+    "name": "Aday Mara",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Mara (shin) has been ruled out for Monday's game against the Pacers.",
+    "relevant": null
   },
   "5159925": {
     "name": "Nikola Topic",
@@ -397,13 +404,6 @@
     "status": "Out",
     "short": "Topic (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
     "relevant": false
-  },
-  "5174983": {
-    "name": "Aday Mara",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Mara (shin) has been ruled out for Monday's game against the Pacers.",
-    "relevant": null
   },
   "4593803": {
     "name": "Jalen Williams",
