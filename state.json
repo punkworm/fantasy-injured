@@ -48,6 +48,13 @@
     "short": "Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports.",
     "relevant": false
   },
+  "4066218": {
+    "name": "Grant Williams",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "short": "Williams (hamstring) won't play Monday's game against the Grizzlies.",
+    "relevant": false
+  },
   "4576060": {
     "name": "Ryan Kalkbrenner",
     "team": "CHA",
@@ -61,13 +68,6 @@
     "status": "Out",
     "short": "Allen (concussion) has been ruled out for Monday's game against the Grizzlies.",
     "relevant": true
-  },
-  "4066218": {
-    "name": "Grant Williams",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Williams (hamstring) won't play Monday's game against the Grizzlies.",
-    "relevant": false
   },
   "5061575": {
     "name": "Kon Knueppel",
@@ -387,9 +387,16 @@
   "4432823": {
     "name": "Jaylin Williams",
     "team": "OKC",
-    "status": "Out",
+    "status": "Day-To-Day",
     "short": "Williams (back) has been ruled out for Monday's game against the Pacers",
     "relevant": false
+  },
+  "5174983": {
+    "name": "Aday Mara",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "short": "Mara (shin) has been ruled out for Monday's game against the Pacers.",
+    "relevant": null
   },
   "5159925": {
     "name": "Nikola Topic",
@@ -397,13 +404,6 @@
     "status": "Out",
     "short": "Topic (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",
     "relevant": false
-  },
-  "5174983": {
-    "name": "Aday Mara",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Mara (shin) has been ruled out for Monday's game against the Pacers.",
-    "relevant": null
   },
   "4593803": {
     "name": "Jalen Williams",
