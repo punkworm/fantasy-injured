@@ -279,6 +279,13 @@
     "short": "Coach JJ Redick stated Monday that the team is optimistic Reaves (heel) will return for Friday's game against San Antonio, Daniel Starkand of LakersNation.com reports.",
     "relevant": true
   },
+  "4431785": {
+    "name": "Scotty Pippen Jr.",
+    "team": "MEM",
+    "status": "Out",
+    "short": "Pippen (back) is out for Wednesday's game against the Clippers.",
+    "relevant": false
+  },
   "5041935": {
     "name": "Cameron Boozer",
     "team": "MEM",
@@ -298,13 +305,6 @@
     "team": "MEM",
     "status": "Out",
     "short": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.",
-    "relevant": false
-  },
-  "4431785": {
-    "name": "Scotty Pippen Jr.",
-    "team": "MEM",
-    "status": "Out",
-    "short": "Pippen (back) is progressing in his recovery but is still considered week-to-week.",
     "relevant": false
   },
   "5105462": {
