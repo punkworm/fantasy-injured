@@ -517,26 +517,19 @@
     "short": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
     "relevant": null
   },
-  "5104157": {
-    "name": "Victor Wembanyama",
-    "team": "SA",
-    "status": "Out",
-    "short": "Wembanyama (back) is questionable for Monday's game against the Kings, Jared Weiss of The Athletic reports.",
-    "relevant": true
-  },
   "4066259": {
     "name": "De'Aaron Fox",
     "team": "SA",
     "status": "Out",
-    "short": "Fox is questionable for Monday's game against the Kings due to a right shin contusion, Jared Weiss of The Athletic reports.",
+    "short": "Fox (shin) has been ruled out for Monday's game against the Kings, Jeff McDonald of the San Antonio Express-News reports.",
     "relevant": true
   },
-  "3134916": {
-    "name": "Jordan McLaughlin",
+  "5104157": {
+    "name": "Victor Wembanyama",
     "team": "SA",
-    "status": "Day-To-Day",
-    "short": "McLaughlin (shoulder) is listed as questionable for Monday's game against the Kings.",
-    "relevant": null
+    "status": "Out",
+    "short": "Wembanyama (back) won't play Monday against the Kings, Jeff McDonald of the San Antonio Express-News reports.",
+    "relevant": true
   },
   "5037871": {
     "name": "Dylan Harper",
