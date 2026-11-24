@@ -520,16 +520,16 @@
   "5104157": {
     "name": "Victor Wembanyama",
     "team": "SA",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Wembanyama (back) is questionable for Monday's game against the Kings, Jared Weiss of The Athletic reports.",
-    "relevant": null
+    "relevant": true
   },
   "4066259": {
     "name": "De'Aaron Fox",
     "team": "SA",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Fox is questionable for Monday's game against the Kings due to a right shin contusion, Jared Weiss of The Athletic reports.",
-    "relevant": null
+    "relevant": true
   },
   "3134916": {
     "name": "Jordan McLaughlin",
