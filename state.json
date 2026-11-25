@@ -370,11 +370,18 @@
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
   },
+  "3062679": {
+    "name": "Josh Hart",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "short": "Hart (shoulder) has been upgraded to probable for Wednesday's game against the Cavaliers.",
+    "relevant": null
+  },
   "4431823": {
     "name": "Miles McBride",
     "team": "NY",
     "status": "Out",
-    "short": "McBride (adductor) is listed as questionable for Wednesday's game versus Cleveland.",
+    "short": "McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.",
     "relevant": false
   },
   "3136195": {
@@ -397,13 +404,6 @@
     "status": "Out",
     "short": "Clarkson (foot) is out for Wednesday's game against Cleveland.",
     "relevant": false
-  },
-  "3062679": {
-    "name": "Josh Hart",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "short": "Hart (shoulder) is listed as questionable for Wednesday's game against Cleveland.",
-    "relevant": null
   },
   "3934719": {
     "name": "OG Anunoby",
