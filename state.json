@@ -524,19 +524,19 @@
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
     "relevant": null
   },
+  "3064440": {
+    "name": "Zach LaVine",
+    "team": "SAC",
+    "status": "Out",
+    "short": "LaVine (knee) is listed as out for Wednesday's game versus the Warriors.",
+    "relevant": true
+  },
   "4898371": {
     "name": "Maxime Raynaud",
     "team": "SAC",
     "status": "Out",
     "short": "Raynaud (knee) was recalled from the G League's Stockton Kings on Wednesday, Marc J. Spears of ESPN.com reports.",
     "relevant": false
-  },
-  "3064440": {
-    "name": "Zach LaVine",
-    "team": "SAC",
-    "status": "Day-To-Day",
-    "short": "LaVine (knee) has been downgraded to questionable for Wednesday's game against Golden State.",
-    "relevant": null
   },
   "3907387": {
     "name": "Ben Simmons",
