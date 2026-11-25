@@ -51,9 +51,16 @@
   "4576060": {
     "name": "Ryan Kalkbrenner",
     "team": "CHA",
-    "status": "Day-To-Day",
-    "short": "Kalkbrenner (hip) is doubtful to play Wednesday against the Bulls.",
-    "relevant": null
+    "status": "Out",
+    "short": "Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago.",
+    "relevant": false
+  },
+  "3135045": {
+    "name": "Grayson Allen",
+    "team": "CHA",
+    "status": "Out",
+    "short": "Allen (concussion) has been ruled out for Wednesday's game against Chicago.",
+    "relevant": true
   },
   "3032979": {
     "name": "Dennis Schroder",
@@ -68,13 +75,6 @@
     "status": "Day-To-Day",
     "short": "James is probable for Wednesday's game against the Bulls due to general soreness.",
     "relevant": null
-  },
-  "3135045": {
-    "name": "Grayson Allen",
-    "team": "CHA",
-    "status": "Out",
-    "short": "Allen (concussion) is listed as questionable for Wednesday's game versus Chicago.",
-    "relevant": true
   },
   "5061575": {
     "name": "Kon Knueppel",
