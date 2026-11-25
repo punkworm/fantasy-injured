@@ -363,6 +363,13 @@
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
   },
+  "3934672": {
+    "name": "Jalen Brunson",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "short": "Brunson (illness) is probable for Wednesday's game against Cleveland.",
+    "relevant": null
+  },
   "3062679": {
     "name": "Josh Hart",
     "team": "NY",
@@ -382,13 +389,6 @@
     "team": "NY",
     "status": "Day-To-Day",
     "short": "Towns (knee) is probable for Wednesday's game against Cleveland.",
-    "relevant": null
-  },
-  "3934672": {
-    "name": "Jalen Brunson",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "short": "Brunson (illness) has been downgraded to questionable for Wednesday's game against the Cavaliers.",
     "relevant": null
   },
   "2528426": {
@@ -531,19 +531,19 @@
     "short": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",
     "relevant": null
   },
+  "4898371": {
+    "name": "Maxime Raynaud",
+    "team": "SAC",
+    "status": "Out",
+    "short": "Raynaud (knee) was recalled from the G League's Stockton Kings on Wednesday, Marc J. Spears of ESPN.com reports.",
+    "relevant": false
+  },
   "3064440": {
     "name": "Zach LaVine",
     "team": "SAC",
     "status": "Day-To-Day",
     "short": "LaVine (knee) has been downgraded to questionable for Wednesday's game against Golden State.",
     "relevant": null
-  },
-  "4898371": {
-    "name": "Maxime Raynaud",
-    "team": "SAC",
-    "status": "Out",
-    "short": "Raynaud (knee) was assigned to the G League's Stockton Kings on Wednesday, James Ham of ESPN 1320 Sacramento reports.",
-    "relevant": false
   },
   "3907387": {
     "name": "Ben Simmons",
