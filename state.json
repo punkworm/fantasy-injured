@@ -573,18 +573,18 @@
     "short": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
     "relevant": null
   },
+  "5037871": {
+    "name": "Dylan Harper",
+    "team": "SA",
+    "status": "Out",
+    "short": "Harper (hip) is questionable for Friday's game against the Lakers.",
+    "relevant": true
+  },
   "4066259": {
     "name": "De'Aaron Fox",
     "team": "SA",
     "status": "Day-To-Day",
     "short": "Fox (shin) is questionable for Friday's game against the Lakers.",
-    "relevant": true
-  },
-  "5037871": {
-    "name": "Dylan Harper",
-    "team": "SA",
-    "status": "Out",
-    "short": "Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports.",
     "relevant": true
   },
   "6440": {
