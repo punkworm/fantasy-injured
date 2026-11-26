@@ -181,13 +181,6 @@
     "short": "Curry (abdomen) will be re-evaluated Friday after Thanksgiving, Anthony Slater of ESPN.com reports.",
     "relevant": true
   },
-  "4397040": {
-    "name": "Brandon Williams",
-    "team": "GS",
-    "status": "Out",
-    "short": "Head coach Steve Kerr said Tuesday that Williams (hamstring) is questionable to play Wednesday against the Kings, per Dalton Johnson of NBC Sports Bay Area.",
-    "relevant": false
-  },
   "3102531": {
     "name": "Kristaps Porzingis",
     "team": "GS",
@@ -353,7 +346,7 @@
     "name": "Andre Drummond",
     "team": "NY",
     "status": "Day-To-Day",
-    "short": "Drummond is not listed in the starting lineup for Sunday's game against the Pacers.",
+    "short": "Drummond is questionable to return to Wednesday's game against Cleveland due to a head injury, Stefan Bondy of The New York Post reports.",
     "relevant": null
   },
   "3934719": {
@@ -535,14 +528,7 @@
     "name": "De'Aaron Fox",
     "team": "SA",
     "status": "Out",
-    "short": "Fox (shin) is questionable to play Wednesday's game against the Trail Blazers.",
-    "relevant": true
-  },
-  "5104157": {
-    "name": "Victor Wembanyama",
-    "team": "SA",
-    "status": "Day-To-Day",
-    "short": "Wembanyama (back) is questionable for Wednesday's game in Portland.",
+    "short": "Fox (shin) has been ruled out for Wednesday's game against Portland, Jeff McDonald of the San Antonio Express-News reports.",
     "relevant": true
   },
   "5037871": {
