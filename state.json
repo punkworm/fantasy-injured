@@ -307,6 +307,13 @@
     "short": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
     "relevant": false
   },
+  "3032977": {
+    "name": "Giannis Antetokounmpo",
+    "team": "MIA",
+    "status": "Day-To-Day",
+    "short": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis.",
+    "relevant": null
+  },
   "3059319": {
     "name": "Andrew Wiggins",
     "team": "MIA",
@@ -342,6 +349,13 @@
     "short": "Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",
     "relevant": true
   },
+  "4683634": {
+    "name": "Bennedict Mathurin",
+    "team": "NO",
+    "status": "Out",
+    "short": "Mathurin (foot) is doubtful for Friday's game against the Clippers.",
+    "relevant": false
+  },
   "4683742": {
     "name": "Julian Reese",
     "team": "NO",
@@ -354,13 +368,6 @@
     "team": "NO",
     "status": "Out",
     "short": "Watford (ankle) is out for Saturday's game against the Spurs.",
-    "relevant": false
-  },
-  "4683634": {
-    "name": "Bennedict Mathurin",
-    "team": "NO",
-    "status": "Out",
-    "short": "Mathurin (foot) has been ruled out for Friday's game against the Thunder.",
     "relevant": false
   },
   "3907497": {
@@ -591,7 +598,7 @@
     "name": "Alijah Martin",
     "team": "TOR",
     "status": "Day-To-Day",
-    "short": "Martin is questionable for Friday's game against the Nets due to left knee soreness.",
+    "short": "Martin contributed two rebounds in eight minutes during Tuesday's 111-102 loss to the Knicks.",
     "relevant": null
   },
   "6450": {
