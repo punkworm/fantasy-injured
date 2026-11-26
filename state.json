@@ -349,6 +349,13 @@
     "short": "Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",
     "relevant": true
   },
+  "4431675": {
+    "name": "Trendon Watford",
+    "team": "NO",
+    "status": "Out",
+    "short": "Watford (ankle) is probable for Friday's game against the Clippers.",
+    "relevant": false
+  },
   "4683634": {
     "name": "Bennedict Mathurin",
     "team": "NO",
@@ -362,13 +369,6 @@
     "status": "Day-To-Day",
     "short": "The Pelicans transferred Reese from the G League's Laketown Squadron, and he will be available for New Orleans' game against the Warriors on Monday.",
     "relevant": null
-  },
-  "4431675": {
-    "name": "Trendon Watford",
-    "team": "NO",
-    "status": "Out",
-    "short": "Watford (ankle) is out for Saturday's game against the Spurs.",
-    "relevant": false
   },
   "3907497": {
     "name": "Dejounte Murray",
@@ -598,7 +598,7 @@
     "name": "Alijah Martin",
     "team": "TOR",
     "status": "Day-To-Day",
-    "short": "Martin contributed two rebounds in eight minutes during Tuesday's 111-102 loss to the Knicks.",
+    "short": "Martin is questionable for Friday's game against the Nets due to left knee soreness.",
     "relevant": null
   },
   "6450": {
