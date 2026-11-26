@@ -146,6 +146,13 @@
     "short": "Biberovic (heel) is out for Wednesday's game against the Warriors.",
     "relevant": false
   },
+  "4433621": {
+    "name": "Jalen Duren",
+    "team": "DET",
+    "status": "Out",
+    "short": "Detroit recalled Duren (hamstring) from the G League's Motor City Cruise on Wednesday.",
+    "relevant": true
+  },
   "4432166": {
     "name": "Cade Cunningham",
     "team": "DET",
@@ -172,13 +179,6 @@
     "team": "DET",
     "status": "Out",
     "short": "Robinson (quadriceps) is considered day-to-day as he progresses in his rehab, Eric Vincent of ClutchPoints.com reports.",
-    "relevant": true
-  },
-  "4433621": {
-    "name": "Jalen Duren",
-    "team": "DET",
-    "status": "Out",
-    "short": "Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as he ramps up for a return, Eric Vincent of ClutchPoints.com reports.",
     "relevant": true
   },
   "3975": {
