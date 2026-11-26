@@ -146,19 +146,19 @@
     "short": "Biberovic (heel) is out for Wednesday's game against the Warriors.",
     "relevant": false
   },
+  "4432166": {
+    "name": "Cade Cunningham",
+    "team": "DET",
+    "status": "Out",
+    "short": "Cunningham (knee) is listed as out for Tuesday's game against Orlando.",
+    "relevant": null
+  },
   "4433621": {
     "name": "Jalen Duren",
     "team": "DET",
     "status": "Out",
     "short": "Detroit recalled Duren (hamstring) from the G League's Motor City Cruise on Wednesday.",
     "relevant": true
-  },
-  "4432166": {
-    "name": "Cade Cunningham",
-    "team": "DET",
-    "status": "Day-To-Day",
-    "short": "Cunningham (knee) is listed as out for Tuesday's game against Orlando.",
-    "relevant": null
   },
   "5258459": {
     "name": "Ebuka Okorie",
@@ -377,6 +377,20 @@
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
   },
+  "4431823": {
+    "name": "Miles McBride",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "short": "McBride (groin) is questionable for Friday's game against the Heat.",
+    "relevant": false
+  },
+  "2528426": {
+    "name": "Jordan Clarkson",
+    "team": "NY",
+    "status": "Out",
+    "short": "Clarkson (foot) is questionable for Friday's game against the Heat.",
+    "relevant": false
+  },
   "3934719": {
     "name": "OG Anunoby",
     "team": "NY",
@@ -390,20 +404,6 @@
     "status": "Day-To-Day",
     "short": "Drummond (head) is questionable for Friday's game against the Heat.",
     "relevant": null
-  },
-  "4431823": {
-    "name": "Miles McBride",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "short": "McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.",
-    "relevant": false
-  },
-  "2528426": {
-    "name": "Jordan Clarkson",
-    "team": "NY",
-    "status": "Out",
-    "short": "Clarkson (foot) is out for Wednesday's game against Cleveland.",
-    "relevant": false
   },
   "5159925": {
     "name": "Nikola Topic",
