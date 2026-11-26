@@ -377,19 +377,19 @@
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
   },
+  "6585": {
+    "name": "Andre Drummond",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "short": "Drummond (head) is questionable for Friday's game against the Heat.",
+    "relevant": null
+  },
   "4431823": {
     "name": "Miles McBride",
     "team": "NY",
     "status": "Day-To-Day",
     "short": "McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.",
     "relevant": false
-  },
-  "6585": {
-    "name": "Andre Drummond",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "short": "Drummond (head) did not return to Wednesday's 121-102 win over the Cavaliers.",
-    "relevant": null
   },
   "3934719": {
     "name": "OG Anunoby",
