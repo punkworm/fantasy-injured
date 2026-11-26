@@ -181,6 +181,13 @@
     "short": "Curry (abdomen) will be re-evaluated Friday after Thanksgiving, Anthony Slater of ESPN.com reports.",
     "relevant": true
   },
+  "4397040": {
+    "name": "Brandon Williams",
+    "team": "GS",
+    "status": "Out",
+    "short": "Head coach Steve Kerr said Tuesday that Williams (hamstring) is questionable to play Wednesday against the Kings, per Dalton Johnson of NBC Sports Bay Area.",
+    "relevant": false
+  },
   "3102531": {
     "name": "Kristaps Porzingis",
     "team": "GS",
@@ -520,7 +527,7 @@
   "4066259": {
     "name": "De'Aaron Fox",
     "team": "SA",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Fox (shin) is questionable to play Wednesday's game against the Trail Blazers.",
     "relevant": true
   },
