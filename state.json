@@ -146,11 +146,18 @@
     "short": "Biberovic (heel) is out for Wednesday's game against the Warriors.",
     "relevant": false
   },
+  "3157465": {
+    "name": "Duncan Robinson",
+    "team": "DET",
+    "status": "Out",
+    "short": "Robinson (quadriceps) is out for Friday's game against the Bucks.",
+    "relevant": true
+  },
   "4432166": {
     "name": "Cade Cunningham",
     "team": "DET",
     "status": "Out",
-    "short": "Cunningham (knee) is listed as out for Tuesday's game against Orlando.",
+    "short": "Cunningham (knee) is out for Friday's game against the Bucks.",
     "relevant": null
   },
   "4433621": {
@@ -173,13 +180,6 @@
     "status": "Out",
     "short": "Prince underwent arthroscopic right knee surgery Nov. 18 and will be re-evaluated in four weeks, Eric Vincent of ClutchPoints.com reports.",
     "relevant": false
-  },
-  "3157465": {
-    "name": "Duncan Robinson",
-    "team": "DET",
-    "status": "Out",
-    "short": "Robinson (quadriceps) is considered day-to-day as he progresses in his rehab, Eric Vincent of ClutchPoints.com reports.",
-    "relevant": true
   },
   "3975": {
     "name": "Stephen Curry",
@@ -209,11 +209,18 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "4396909": {
+    "name": "Aaron Nesmith",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Nesmith (foot) is questionable for Friday's game against the 76ers.",
+    "relevant": null
+  },
   "2530530": {
     "name": "T.J. McConnell",
     "team": "IND",
     "status": "Day-To-Day",
-    "short": "McConnell (hamstring) was recalled from the G League's Noblesville Boom on Tuesday, Shams Charania of ESPN reports.",
+    "short": "McConnell (hamstring) is questionable for Friday's game against the 76ers.",
     "relevant": false
   },
   "4396993": {
@@ -222,13 +229,6 @@
     "status": "Out",
     "short": "Haliburton (hamstring) was recalled from the G League's Noblesville Boom on Tuesday, Tony East of Forbes.com reports.",
     "relevant": true
-  },
-  "4396909": {
-    "name": "Aaron Nesmith",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Nesmith is out for Monday's game against the Thunder due to right foot soreness.",
-    "relevant": null
   },
   "2580365": {
     "name": "Larry Nance Jr.",
