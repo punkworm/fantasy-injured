@@ -3,7 +3,7 @@
     "name": "Jock Landale",
     "team": "ATL",
     "status": "Out",
-    "short": "Landale (hip) won't play Sunday against the Pistons.",
+    "short": "Landale (hip) is out for Friday's game against the Celtics.",
     "relevant": false
   },
   "4873201": {
@@ -209,6 +209,13 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "2580365": {
+    "name": "Larry Nance Jr.",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "short": "Nance (ankle) is questionable for Friday's game against the 76ers.",
+    "relevant": null
+  },
   "4396909": {
     "name": "Aaron Nesmith",
     "team": "IND",
@@ -229,13 +236,6 @@
     "status": "Out",
     "short": "Haliburton (hamstring) was recalled from the G League's Noblesville Boom on Tuesday, Tony East of Forbes.com reports.",
     "relevant": true
-  },
-  "2580365": {
-    "name": "Larry Nance Jr.",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Nance exited Monday's game against the Thunder due to a sore right ankle and he will not return, Tony East of Forbes.com reports.",
-    "relevant": null
   },
   "4433076": {
     "name": "Ben Sheppard",
