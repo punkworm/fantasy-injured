@@ -377,6 +377,13 @@
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
   },
+  "3934719": {
+    "name": "OG Anunoby",
+    "team": "NY",
+    "status": "Out",
+    "short": "Anunoby (calf) is doubtful for Friday's game against the Heat.",
+    "relevant": true
+  },
   "6585": {
     "name": "Andre Drummond",
     "team": "NY",
@@ -390,13 +397,6 @@
     "status": "Day-To-Day",
     "short": "McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.",
     "relevant": false
-  },
-  "3934719": {
-    "name": "OG Anunoby",
-    "team": "NY",
-    "status": "Out",
-    "short": "Anunoby (calf) participated in on-court work for the first time since sustaining the injury, Ian Begley of SportsNet New York reports.",
-    "relevant": true
   },
   "2528426": {
     "name": "Jordan Clarkson",
