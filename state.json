@@ -234,7 +234,7 @@
     "name": "T.J. McConnell",
     "team": "IND",
     "status": "Out",
-    "short": "McConnell (hamstring) is questionable for Friday's game against the 76ers.",
+    "short": "McConnell (hamstring) has been ruled out for Friday's game against the 76ers, Alex Golden of SI.com reports.",
     "relevant": false
   },
   "2580365": {
@@ -419,13 +419,6 @@
     "short": "Drummond (concussion) has been ruled out for Friday's game against the Heat.",
     "relevant": false
   },
-  "5174983": {
-    "name": "Aday Mara",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Mara (leg) is out for Saturday's game versus the Bucks, per Clemente Almanza of USA Today.",
-    "relevant": null
-  },
   "5159925": {
     "name": "Nikola Topic",
     "team": "OKC",
@@ -439,6 +432,13 @@
     "status": "Out",
     "short": "Williams (back) is listed as out for Wednesday's game against Minnesota.",
     "relevant": false
+  },
+  "5174983": {
+    "name": "Aday Mara",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Mara (leg) is out for Wednesday's game versus the Timberwolves.",
+    "relevant": null
   },
   "4593803": {
     "name": "Jalen Williams",
@@ -627,13 +627,6 @@
     "team": "SA",
     "status": "Out",
     "short": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
-    "relevant": null
-  },
-  "4702656": {
-    "name": "Alijah Martin",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "short": "Martin is questionable for Friday's game against the Nets due to left knee soreness.",
     "relevant": null
   },
   "6450": {
