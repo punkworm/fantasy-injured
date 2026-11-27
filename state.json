@@ -331,9 +331,9 @@
   "4432816": {
     "name": "LaMelo Ball",
     "team": "MIN",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Ball (ankle) wasn't present at shootaround Friday, Jon Krawczynski of The Athletic reports.",
-    "relevant": null
+    "relevant": true
   },
   "3934673": {
     "name": "Donte DiVincenzo",
