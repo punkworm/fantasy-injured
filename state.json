@@ -384,6 +384,13 @@
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
   },
+  "6585": {
+    "name": "Andre Drummond",
+    "team": "NY",
+    "status": "Out",
+    "short": "Drummond (concussion) has been ruled out for Friday's game against the Heat.",
+    "relevant": false
+  },
   "4431823": {
     "name": "Miles McBride",
     "team": "NY",
@@ -404,13 +411,6 @@
     "status": "Out",
     "short": "Anunoby (calf) is doubtful for Friday's game against the Heat.",
     "relevant": true
-  },
-  "6585": {
-    "name": "Andre Drummond",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "short": "Drummond (head) is questionable for Friday's game against the Heat.",
-    "relevant": null
   },
   "5159925": {
     "name": "Nikola Topic",
