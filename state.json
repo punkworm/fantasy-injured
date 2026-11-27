@@ -83,6 +83,13 @@
     "short": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.",
     "relevant": true
   },
+  "5242496": {
+    "name": "Noa Essengue",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "short": "Essengue (thumb) is probable to play Saturday against the Pacers.",
+    "relevant": null
+  },
   "4397189": {
     "name": "Jalen Smith",
     "team": "CHI",
@@ -117,6 +124,13 @@
     "status": "Out",
     "short": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days.",
     "relevant": true
+  },
+  "6442": {
+    "name": "Kyrie Irving",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "short": "Irving (knee) is listed as questionable for Friday's game against the Suns due to left knee injury management.",
+    "relevant": null
   },
   "5106040": {
     "name": "Tobi Lawal",
