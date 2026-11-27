@@ -321,11 +321,18 @@
     "short": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis.",
     "relevant": null
   },
+  "5214640": {
+    "name": "Kasparas Jakucionis",
+    "team": "MIL",
+    "status": "Out",
+    "short": "Jakucionis logged 18 points (6-11 FG, 3-6 3Pt, 3-5 FT), three rebounds, two assists and one steal over 22 minutes during Thursday's 124-114 loss to the Trail Blazers.",
+    "relevant": false
+  },
   "4432816": {
     "name": "LaMelo Ball",
     "team": "MIN",
     "status": "Day-To-Day",
-    "short": "Ball (ankle) is questionable for Friday's game against the Grizzlies.",
+    "short": "Ball (ankle) wasn't present at shootaround Friday, Jon Krawczynski of The Athletic reports.",
     "relevant": null
   },
   "3934673": {
