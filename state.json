@@ -251,13 +251,6 @@
     "short": "Haliburton (hamstring) has been ruled out per Scott Agness of FieldhouseFiles.com for Friday's game against the 76ers. The guard participated in practice activities earlier this week as he continues working toward his return.",
     "relevant": true
   },
-  "3133603": {
-    "name": "Kelly Oubre Jr.",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "Oubre is questionable for Friday's game against the 76ers due to a right hand laceration.",
-    "relevant": null
-  },
   "4433076": {
     "name": "Ben Sheppard",
     "team": "IND",
@@ -426,6 +419,13 @@
     "short": "Drummond (concussion) has been ruled out for Friday's game against the Heat.",
     "relevant": false
   },
+  "5174983": {
+    "name": "Aday Mara",
+    "team": "OKC",
+    "status": "Out",
+    "short": "Mara (leg) is out for Saturday's game versus the Bucks, per Clemente Almanza of USA Today.",
+    "relevant": null
+  },
   "5159925": {
     "name": "Nikola Topic",
     "team": "OKC",
@@ -439,13 +439,6 @@
     "status": "Out",
     "short": "Williams (back) is listed as out for Wednesday's game against Minnesota.",
     "relevant": false
-  },
-  "5174983": {
-    "name": "Aday Mara",
-    "team": "OKC",
-    "status": "Out",
-    "short": "Mara (leg) is out for Wednesday's game versus the Timberwolves.",
-    "relevant": null
   },
   "4593803": {
     "name": "Jalen Williams",
