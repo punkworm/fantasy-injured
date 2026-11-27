@@ -230,6 +230,13 @@
     "short": "Adams (knee) is questionable for Saturday's game against the 76ers.",
     "relevant": null
   },
+  "2530530": {
+    "name": "T.J. McConnell",
+    "team": "IND",
+    "status": "Out",
+    "short": "McConnell (hamstring) is questionable for Friday's game against the 76ers.",
+    "relevant": false
+  },
   "2580365": {
     "name": "Larry Nance Jr.",
     "team": "IND",
@@ -250,13 +257,6 @@
     "status": "Day-To-Day",
     "short": "Oubre is questionable for Friday's game against the 76ers due to a right hand laceration.",
     "relevant": null
-  },
-  "2530530": {
-    "name": "T.J. McConnell",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "short": "McConnell (hamstring) is questionable for Friday's game against the 76ers.",
-    "relevant": false
   },
   "4433076": {
     "name": "Ben Sheppard",
