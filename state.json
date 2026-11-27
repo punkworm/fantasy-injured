@@ -321,13 +321,6 @@
     "short": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis.",
     "relevant": null
   },
-  "3059319": {
-    "name": "Andrew Wiggins",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "short": "Wiggins is probable for Friday's game against the Knicks due to a right ankle sprain.",
-    "relevant": null
-  },
   "4432816": {
     "name": "LaMelo Ball",
     "team": "MIN",
@@ -383,6 +376,13 @@
     "status": "Out",
     "short": "Murray (ankle) is out for Friday's game against Memphis.",
     "relevant": true
+  },
+  "3136195": {
+    "name": "Karl-Anthony Towns",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "short": "Towns is questionable for Friday's game against the Heat due to a right abdominal contusion.",
+    "relevant": null
   },
   "6585": {
     "name": "Andre Drummond",
