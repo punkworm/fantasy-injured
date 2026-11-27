@@ -87,7 +87,7 @@
     "name": "Jalen Smith",
     "team": "CHI",
     "status": "Day-To-Day",
-    "short": "Smith (illness) is listed as out for Wednesday's game against Charlotte.",
+    "short": "Smith (illness) is listed as probable for Saturday's game against Indiana.",
     "relevant": null
   },
   "2595516": {
@@ -529,6 +529,13 @@
     "team": "PHX",
     "status": "Out",
     "short": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",
+    "relevant": null
+  },
+  "6606": {
+    "name": "Damian Lillard",
+    "team": "POR",
+    "status": "Out",
+    "short": "Lillard (calf) has been ruled out for Friday's game against the Warriors. The veteran guard is dealing with right calf tightness and soreness.",
     "relevant": null
   },
   "4706557": {
