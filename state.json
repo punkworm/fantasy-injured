@@ -209,6 +209,13 @@
     "short": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",
     "relevant": null
   },
+  "4396993": {
+    "name": "Tyrese Haliburton",
+    "team": "IND",
+    "status": "Out",
+    "short": "Haliburton (hamstring) has been ruled out per Scott Agness of FieldhouseFiles.com for Friday's game against the 76ers. The guard participated in practice activities earlier this week as he continues working toward his return.",
+    "relevant": true
+  },
   "3133603": {
     "name": "Kelly Oubre Jr.",
     "team": "IND",
@@ -229,13 +236,6 @@
     "status": "Day-To-Day",
     "short": "McConnell (hamstring) is questionable for Friday's game against the 76ers.",
     "relevant": false
-  },
-  "4396993": {
-    "name": "Tyrese Haliburton",
-    "team": "IND",
-    "status": "Out",
-    "short": "Haliburton (hamstring) was recalled from the G League's Noblesville Boom on Tuesday, Tony East of Forbes.com reports.",
-    "relevant": true
   },
   "4433076": {
     "name": "Ben Sheppard",
@@ -628,6 +628,13 @@
     "status": "Out",
     "short": "Barrett has been diagnosed with a right hamstring strain and will be re-evaluated in two weeks, Brett Siegel of ClutchPoints.com reports.",
     "relevant": true
+  },
+  "4277919": {
+    "name": "Mo Bamba",
+    "team": "UTAH",
+    "status": "Day-To-Day",
+    "short": "Bamba will start Monday's game against the Lakers, Daniel Starkand of LakersNation.com reports.",
+    "relevant": null
   },
   "4397077": {
     "name": "Jaxson Hayes",
