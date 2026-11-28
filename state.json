@@ -128,9 +128,9 @@
   "6442": {
     "name": "Kyrie Irving",
     "team": "DAL",
-    "status": "Day-To-Day",
-    "short": "Irving (knee) is listed as questionable for Friday's game against the Suns due to left knee injury management.",
-    "relevant": null
+    "status": "Out",
+    "short": "Irving (knee) has been ruled out for Friday's game against the Suns, Noah Weber of TheSmokingCuban.com reports.",
+    "relevant": true
   },
   "5106040": {
     "name": "Tobi Lawal",
