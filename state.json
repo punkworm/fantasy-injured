@@ -268,9 +268,9 @@
   "4432810": {
     "name": "Isaiah Stewart",
     "team": "MEM",
-    "status": "Day-To-Day",
+    "status": "Out",
     "short": "Stewart is questionable for Friday's game against the Timberwolves due to right hip soreness.",
-    "relevant": null
+    "relevant": false
   },
   "4600663": {
     "name": "Zach Edey",
