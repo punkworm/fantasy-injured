@@ -573,20 +573,6 @@
     "short": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",
     "relevant": null
   },
-  "5037871": {
-    "name": "Dylan Harper",
-    "team": "SA",
-    "status": "Out",
-    "short": "Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com.",
-    "relevant": true
-  },
-  "4066259": {
-    "name": "De'Aaron Fox",
-    "team": "SA",
-    "status": "Day-To-Day",
-    "short": "Fox (shin) is questionable for Friday's game against the Lakers.",
-    "relevant": true
-  },
   "6440": {
     "name": "Tobias Harris",
     "team": "SA",
@@ -626,7 +612,7 @@
     "name": "Mo Bamba",
     "team": "UTAH",
     "status": "Out",
-    "short": "Bamba (illness) is listed as questionable for Friday's game against the Nuggets, according to the Jazz's injury report.",
+    "short": "Bamba (illness) has been ruled out for Friday's game against the Nuggets.",
     "relevant": false
   },
   "4066336": {
