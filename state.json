@@ -83,6 +83,13 @@
     "short": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.",
     "relevant": true
   },
+  "2595516": {
+    "name": "Norman Powell",
+    "team": "CHI",
+    "status": "Out",
+    "short": "Powell (hamstring) is out for Saturday's game against the Pacers.",
+    "relevant": true
+  },
   "5242496": {
     "name": "Noa Essengue",
     "team": "CHI",
@@ -96,13 +103,6 @@
     "status": "Day-To-Day",
     "short": "Smith (illness) is listed as probable for Saturday's game against Indiana.",
     "relevant": null
-  },
-  "2595516": {
-    "name": "Norman Powell",
-    "team": "CHI",
-    "status": "Out",
-    "short": "Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated later this week.",
-    "relevant": true
   },
   "5095151": {
     "name": "Caleb Wilson",
